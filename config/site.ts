@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Cybersecurity Podcasts",
+  name: "CyberSecPods",
   description:
     "Curated collection of cybersecurity podcasts covering identity, security, and technology.",
   mainNav: [
@@ -14,8 +14,8 @@ export const siteConfig = {
       href: "https://merill.net",
     },
     {
-      title: "Entra.News",
-      href: "https://entra.news",
+      title: "Entra.Chat",
+      href: "https://entra.chat",
     },
   ],
   links: {
