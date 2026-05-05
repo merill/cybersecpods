@@ -12,13 +12,13 @@ interface LatestEpisodesRailProps {
 
 export function LatestEpisodesRail({
   episodes,
-  limit = 20,
+  limit = 60,
 }: LatestEpisodesRailProps) {
   const items = episodes.slice(0, limit)
   if (!items.length) return null
   return (
-    <aside className="lg:sticky lg:top-20">
-      <div className="rounded-xl border bg-card/50 backdrop-blur">
+    <aside className="lg:h-full">
+      <div className="flex h-full flex-col rounded-xl border bg-card/50 backdrop-blur">
         <div className="flex items-center justify-between border-b px-4 py-3">
           <h2 className="font-semibold">Latest Episodes</h2>
           <Link
@@ -28,7 +28,7 @@ export function LatestEpisodesRail({
             View all →
           </Link>
         </div>
-        <ol className="divide-y max-h-[80vh] overflow-y-auto">
+        <ol className="flex-1 divide-y overflow-y-auto">
           {items.map((e) => (
             <li key={`${e.podcastId}-${e.id}`}>
               <Link

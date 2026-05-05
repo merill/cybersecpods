@@ -39,7 +39,7 @@ export default function HomePage() {
   const recentlyUpdated = getRecentlyUpdatedPodcasts(20)
   const trending = shuffleSeeded(active).slice(0, 20)
   const popularTags = getPopularTags(2).slice(0, 6)
-  const latestEpisodes = getLatestEpisodes(25)
+  const latestEpisodes = getLatestEpisodes(60)
 
   return (
     <>

@@ -82,7 +82,6 @@ That's it — the title, description, image, RSS URL, hosts, and Apple ratings a
 | `twitterUrl`      |    No    | X/Twitter URL for the show (host links go in `authors`).                                              |
 | `linkedinUrl`     |    No    | LinkedIn URL.                                                                                         |
 | `authors`         |    No    | Array of `{ name, twitterUrl?, linkedinUrl?, websiteUrl? }`.                                          |
-| `featured`        |    No    | Boost this podcast into the home-page featured pool.                                                  |
 | `submittedBy`     |    No    | Your GitHub handle (for credit).                                                                      |
 
 ### Validation rules
