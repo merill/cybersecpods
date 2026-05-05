@@ -30,6 +30,15 @@ export interface Ratings {
   }
 }
 
+// A single review fetched from Apple's customer-reviews RSS feed.
+export interface PodcastReview {
+  rating: number // 1-5
+  title: string
+  content: string
+  author: string
+  updatedAt: string // ISO
+}
+
 // Hydrated podcast (input + RSS-derived + computed)
 export interface Podcast {
   // identity
@@ -70,6 +79,10 @@ export interface Podcast {
 
   // ratings (Apple only)
   ratings: Ratings
+
+  // up to 5 most-recent reviews from Apple Podcasts (optional; absent if
+  // Apple has no reviews for this show)
+  recentReviews?: PodcastReview[]
 
   // submission
   submittedBy?: string

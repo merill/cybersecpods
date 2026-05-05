@@ -132,7 +132,11 @@ export function getFeaturedPodcasts(count = 3): Podcast[] {
 
 export function getTopRatedPodcasts(count = 12): Podcast[] {
   return getActivePodcasts()
-    .filter((p) => p.ratings.apple?.averageRating != null)
+    .filter(
+      (p) =>
+        (p.ratings.apple?.averageRating ?? 0) > 0 &&
+        (p.ratings.apple?.ratingCount ?? 0) > 0
+    )
     .sort((a, b) => {
       const ar = a.ratings.apple?.averageRating ?? 0
       const br = b.ratings.apple?.averageRating ?? 0

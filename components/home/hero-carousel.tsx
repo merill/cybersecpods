@@ -126,7 +126,11 @@ function HeroSlide({ podcast }: { podcast: Podcast }) {
             className="grid w-full gap-6 md:grid-cols-[300px_1fr] md:items-center md:gap-10"
           >
             {podcast.image ? (
-              <div className="relative hidden aspect-square w-full max-w-[300px] overflow-hidden rounded-xl shadow-2xl md:block">
+              <Link
+                href={`/podcasts/${podcast.id}/`}
+                className="relative hidden aspect-square w-full max-w-[300px] overflow-hidden rounded-xl shadow-2xl transition-transform hover:scale-[1.02] md:block"
+                aria-label={podcast.title}
+              >
                 <Image
                   src={podcast.image}
                   alt={podcast.title}
@@ -134,14 +138,19 @@ function HeroSlide({ podcast }: { podcast: Podcast }) {
                   sizes="300px"
                   className="object-cover"
                 />
-              </div>
+              </Link>
             ) : null}
             <div className="max-w-2xl space-y-4">
               <Badge className="bg-primary/90 backdrop-blur" variant="default">
                 Featured
               </Badge>
               <h1 className="text-3xl font-extrabold tracking-tight text-balance md:text-5xl lg:text-6xl">
-                {podcast.title}
+                <Link
+                  href={`/podcasts/${podcast.id}/`}
+                  className="hover:underline underline-offset-4"
+                >
+                  {podcast.title}
+                </Link>
               </h1>
               <div className="flex flex-wrap items-center gap-3 text-sm text-muted-foreground">
                 <span>{podcast.author}</span>

@@ -141,3 +141,157 @@ export function applePodcastUrlFor(applePodcastId: string): string {
   const id = applePodcastId.replace(/^id/, "")
   return `https://podcasts.apple.com/podcast/id${id}`
 }
+
+/**
+ * Deep link to the "All Reviews" tab on an Apple Podcasts page.
+ */
+export function appleReviewsPageUrl(applePodcastId: string): string {
+  const id = applePodcastId.replace(/^id/, "")
+  return `https://podcasts.apple.com/us/podcast/id${id}?see-all=reviews`
+}
+
+export interface AppleAggregateRating {
+  averageRating: number | null
+  ratingCount: number | null
+  scrapedAt: string
+}
+
+/**
+ * Scrape the public Apple Podcasts page for the aggregate rating + review count.
+ *
+ * The iTunes Lookup API does NOT return ratings for podcasts (the fields are
+ * absent from the response), but the public web page contains a JSON-LD
+ * `aggregateRating` block that does. This function fetches the page and
+ * extracts that block. Cached for 24h.
+ *
+ * Returns null on any failure (network error, parse failure, missing block).
+ */
+export async function appleScrapeAggregateRating(
+  applePodcastId: string,
+  country = "us"
+): Promise<AppleAggregateRating | null> {
+  const id = applePodcastId.replace(/^id/, "")
+  const cacheKey = `${country}:${id}`
+  return withCache<AppleAggregateRating | null>(
+    "apple-rating",
+    cacheKey,
+    async () => {
+      const url = `https://podcasts.apple.com/${country}/podcast/id${id}`
+      try {
+        const res = await fetch(url, {
+          headers: {
+            "User-Agent":
+              "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
+          },
+          redirect: "follow",
+        })
+        if (!res.ok) return null
+        const html = await res.text()
+        // The aggregateRating block lives inside a JSON-LD <script> tag. Pull it
+        // out with a tolerant regex; the JSON keys appear in a stable order.
+        const m = html.match(
+          /"aggregateRating":\s*\{\s*"@type":\s*"AggregateRating"\s*,\s*"ratingValue":\s*([0-9.]+)\s*,\s*"reviewCount":\s*([0-9]+)/
+        )
+        if (!m) return null
+        const averageRating = Number(m[1])
+        const ratingCount = Number(m[2])
+        if (!Number.isFinite(averageRating) || !Number.isFinite(ratingCount)) {
+          return null
+        }
+        return {
+          averageRating,
+          ratingCount,
+          scrapedAt: new Date().toISOString(),
+        }
+      } catch {
+        return null
+      }
+    },
+    { ttlMs: 24 * 60 * 60 * 1000 } // 24h cache
+  )
+}
+
+export interface AppleReview {
+  rating: number
+  title: string
+  content: string
+  author: string
+  updatedAt: string
+}
+
+/**
+ * Fetch the most-recent customer reviews for a podcast from the public iTunes
+ * Customer Reviews RSS endpoint (JSON variant).
+ *
+ * Endpoint:
+ *   https://itunes.apple.com/<country>/rss/customerreviews/id=<id>/sortby=mostrecent/json
+ *
+ * Returns up to `limit` reviews (default 5). Returns [] on any failure.
+ * Cached for 24h.
+ */
+export async function appleFetchRecentReviews(
+  applePodcastId: string,
+  limit = 5,
+  country = "us"
+): Promise<AppleReview[]> {
+  const id = applePodcastId.replace(/^id/, "")
+  const cacheKey = `${country}:${id}:${limit}`
+  return withCache<AppleReview[]>(
+    "apple-reviews",
+    cacheKey,
+    async () => {
+      const url = `https://itunes.apple.com/${country}/rss/customerreviews/id=${id}/sortby=mostrecent/json`
+      try {
+        const data = await fetchJson<{
+          feed?: { entry?: unknown }
+        }>(url, 2)
+        const entryRaw = data.feed?.entry
+        if (!entryRaw) return []
+        // The endpoint returns either an object (single review) or an array
+        // (multiple). Normalise.
+        const entries = Array.isArray(entryRaw) ? entryRaw : [entryRaw]
+        // The first entry is sometimes the podcast's own metadata when there
+        // are no reviews yet; filter to entries that look like reviews
+        // (have im:rating and content).
+        const reviews: AppleReview[] = []
+        for (const e of entries) {
+          if (!e || typeof e !== "object") continue
+          const rec = e as Record<string, unknown>
+          const ratingLabel = labelOf(rec["im:rating"])
+          const titleLabel = labelOf(rec.title)
+          const contentLabel = labelOf(rec.content)
+          const updatedLabel = labelOf(rec.updated)
+          const author = rec.author as Record<string, unknown> | undefined
+          const authorLabel = author ? labelOf(author.name) : ""
+          const rating = Number(ratingLabel)
+          if (!Number.isFinite(rating) || rating < 1 || rating > 5) continue
+          if (!contentLabel) continue
+          reviews.push({
+            rating,
+            title: titleLabel || "(no title)",
+            content: contentLabel,
+            author: authorLabel || "Anonymous",
+            updatedAt: updatedLabel || new Date().toISOString(),
+          })
+          if (reviews.length >= limit) break
+        }
+        return reviews
+      } catch {
+        return []
+      }
+    },
+    { ttlMs: 24 * 60 * 60 * 1000 } // 24h cache
+  )
+}
+
+/**
+ * Apple's customer-reviews RSS wraps every value in `{ label: "..." }`.
+ * This helper safely extracts the string.
+ */
+function labelOf(node: unknown): string {
+  if (!node || typeof node !== "object") return ""
+  const rec = node as Record<string, unknown>
+  if (typeof rec.label === "string") return rec.label
+  return ""
+}

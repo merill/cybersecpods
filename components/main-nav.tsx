@@ -2,12 +2,12 @@
 
 import * as React from "react"
 import Link from "next/link"
+import Image from "next/image"
 import { usePathname } from "next/navigation"
 
 import { NavItem } from "@/types/nav"
 import { siteConfig } from "@/config/site"
 import { cn } from "@/lib/utils"
-import { Icons } from "@/components/icons"
 
 interface MainNavProps {
   items?: NavItem[]
@@ -18,7 +18,14 @@ export function MainNav({ items }: MainNavProps) {
   return (
     <div className="flex items-center gap-6 md:gap-10">
       <Link href="/" className="flex items-center gap-2">
-        <Icons.logo className="h-6 w-6 text-primary" />
+        <Image
+          src="/brand/cybersecpods-logo-64.png"
+          alt=""
+          width={28}
+          height={28}
+          className="h-7 w-7"
+          priority
+        />
         <span className="hidden font-bold tracking-tight sm:inline-block">
           {siteConfig.name}
         </span>

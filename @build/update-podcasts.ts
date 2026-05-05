@@ -1,7 +1,13 @@
 import fs from "node:fs"
 import path from "node:path"
 import { podcastInputSchema } from "./lib/zod-schemas.js"
-import { appleLookup, applePodcastUrlFor } from "./lib/apple.js"
+import {
+  appleLookup,
+  applePodcastUrlFor,
+  appleScrapeAggregateRating,
+  appleFetchRecentReviews,
+  type AppleReview,
+} from "./lib/apple.js"
 import { fetchAndParseRss, slugify } from "./lib/rss.js"
 import { normalizeSpotifyUrl } from "./lib/spotify.js"
 import type { Podcast, Episode, PodcastInput } from "../types/podcast"
@@ -11,6 +17,7 @@ const PODCASTS_DIR = path.join(ROOT, "@data", "podcasts")
 const OUTPUT_PODCASTS = path.join(ROOT, "@data", "podcasts.json")
 const OUTPUT_EPISODES_DIR = path.join(ROOT, "@data", "episodes")
 const RATINGS_FILE = path.join(ROOT, "@data", "ratings.json")
+const REVIEWS_FILE = path.join(ROOT, "@data", "reviews.json")
 
 const INACTIVE_THRESHOLD_DAYS = 60
 
@@ -20,10 +27,23 @@ interface ExistingRatings {
   }
 }
 
+interface ExistingReviews {
+  [podcastId: string]: AppleReview[]
+}
+
 function loadExistingRatings(): ExistingRatings {
   if (!fs.existsSync(RATINGS_FILE)) return {}
   try {
     return JSON.parse(fs.readFileSync(RATINGS_FILE, "utf8")) as ExistingRatings
+  } catch {
+    return {}
+  }
+}
+
+function loadExistingReviews(): ExistingReviews {
+  if (!fs.existsSync(REVIEWS_FILE)) return {}
+  try {
+    return JSON.parse(fs.readFileSync(REVIEWS_FILE, "utf8")) as ExistingReviews
   } catch {
     return {}
   }
@@ -43,7 +63,8 @@ function safeDate(s: string): Date | null {
 
 async function processOne(
   file: string,
-  ratings: ExistingRatings
+  ratings: ExistingRatings,
+  reviews: ExistingReviews
 ): Promise<{ podcast: Podcast | null; episodes: Episode[] }> {
   const id = path.basename(file, ".json")
   const raw = fs.readFileSync(file, "utf8")
@@ -111,7 +132,39 @@ async function processOne(
     link: e.link,
   }))
 
-  const existingRating = ratings[id]?.apple
+  // --- Apple ratings + recent reviews ----------------------------------
+  // The iTunes Lookup endpoint does NOT return averageUserRating /
+  // userRatingCount for podcasts (the fields are absent), so we rely on
+  // a scrape of the public Apple Podcasts page (cached daily by
+  // update-ratings.ts) and a separate customer-reviews RSS feed.
+  // For brand-new podcasts that aren't yet in ratings.json / reviews.json,
+  // we inline-scrape once so the first build still has data.
+  let appleRating = ratings[id]?.apple ?? null
+  let recentReviews: AppleReview[] = reviews[id] ?? []
+
+  if (!appleRating) {
+    try {
+      const agg = await appleScrapeAggregateRating(input.applePodcastId)
+      if (agg) {
+        appleRating = {
+          averageRating: agg.averageRating,
+          ratingCount: agg.ratingCount,
+          fetchedAt: agg.scrapedAt,
+        }
+      }
+    } catch {
+      /* swallow - leave appleRating null */
+    }
+  }
+
+  if (recentReviews.length === 0) {
+    try {
+      recentReviews = await appleFetchRecentReviews(input.applePodcastId, 5)
+    } catch {
+      /* swallow - leave reviews empty */
+    }
+  }
+
   const podcast: Podcast = {
     id,
     applePodcastId: input.applePodcastId,
@@ -140,12 +193,13 @@ async function processOne(
     isActive: isActiveBy(lastEpisodeDate),
     featured: input.featured ?? false,
     ratings: {
-      apple: existingRating ?? {
-        averageRating: lookup.averageUserRating,
-        ratingCount: lookup.userRatingCount,
+      apple: appleRating ?? {
+        averageRating: null,
+        ratingCount: null,
         fetchedAt: new Date().toISOString(),
       },
     },
+    recentReviews: recentReviews.length > 0 ? recentReviews : undefined,
     submittedBy: input.submittedBy,
   }
 
@@ -169,6 +223,7 @@ async function main(): Promise<void> {
   console.log(`Found ${files.length} input file(s).`)
 
   const ratings = loadExistingRatings()
+  const reviews = loadExistingReviews()
   const podcasts: Podcast[] = []
   let episodeTotal = 0
 
@@ -177,7 +232,7 @@ async function main(): Promise<void> {
   for (let i = 0; i < files.length; i += concurrency) {
     const batch = files.slice(i, i + concurrency)
     const results = await Promise.all(
-      batch.map((f) => processOne(f, ratings))
+      batch.map((f) => processOne(f, ratings, reviews))
     )
     for (const r of results) {
       if (r.podcast) {

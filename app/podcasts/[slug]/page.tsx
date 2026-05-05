@@ -9,6 +9,7 @@ import {
 import { episodeJsonLd, podcastJsonLd, podcastMetadata } from "@/lib/seo"
 import { PodcastHero } from "@/components/podcast/podcast-hero"
 import { EpisodeList } from "@/components/podcast/episode-list"
+import { RecentReviews } from "@/components/podcast/recent-reviews"
 
 interface PageProps {
   params: { slug: string }
@@ -45,6 +46,9 @@ export default function PodcastPage({ params }: PageProps) {
     ...ldRecent.map((e) => episodeJsonLd(podcast, e)),
   ]
 
+  const hasReviews =
+    podcast.recentReviews && podcast.recentReviews.length > 0
+
   return (
     <article>
       <script
@@ -53,7 +57,30 @@ export default function PodcastPage({ params }: PageProps) {
       />
       <PodcastHero podcast={podcast} />
       <div className="container py-8 md:py-12">
-        <EpisodeList podcast={podcast} episodes={sorted} />
+        {/* Mobile-only collapsed reviews sit above episodes so they're
+            discoverable without pushing the list far down. */}
+        {hasReviews ? (
+          <div className="mb-6 lg:hidden">
+            <RecentReviews podcast={podcast} variant="mobile" />
+          </div>
+        ) : null}
+
+        <div
+          className={
+            hasReviews
+              ? "grid gap-8 lg:grid-cols-[1fr_320px]"
+              : undefined
+          }
+        >
+          <EpisodeList podcast={podcast} episodes={sorted} />
+          {hasReviews ? (
+            <div className="hidden lg:block">
+              <div className="sticky top-20">
+                <RecentReviews podcast={podcast} variant="sidebar" />
+              </div>
+            </div>
+          ) : null}
+        </div>
       </div>
     </article>
   )

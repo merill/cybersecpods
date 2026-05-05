@@ -12,6 +12,8 @@ interface RatingBadgeProps {
 export function RatingBadge({ ratings, size = "md", className }: RatingBadgeProps) {
   const apple = ratings.apple
   if (!apple || apple.averageRating == null) return null
+  // Apple returns 0/0 for shows with no ratings yet — hide the badge in that case.
+  if (!apple.ratingCount || apple.averageRating <= 0) return null
   return (
     <div
       className={cn(
