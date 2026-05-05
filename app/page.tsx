@@ -12,7 +12,7 @@ import {
   getPodcastsByCategory,
 } from "@/lib/podcasts"
 import { categoryLabel, CATEGORY_DESCRIPTIONS, isCategorySlug, type CategorySlug } from "@/lib/categories"
-import { websiteJsonLd } from "@/lib/seo"
+import { DEFAULT_OG_IMAGES, websiteJsonLd } from "@/lib/seo"
 import { HeroCarousel } from "@/components/home/hero-carousel"
 import { CategoryRow } from "@/components/home/category-row"
 import { LatestEpisodesRail } from "@/components/home/latest-episodes-rail"
@@ -27,6 +27,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     siteName: siteConfig.name,
+    images: [...DEFAULT_OG_IMAGES],
   },
 }
 

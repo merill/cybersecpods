@@ -2,6 +2,23 @@ import type { Metadata } from "next"
 import type { Podcast, Episode } from "@/types/podcast"
 import { siteConfig } from "@/config/site"
 
+// Site-wide default OG share-card. Re-exported here so any route that needs to
+// redefine `openGraph` can spread these images back in — Next.js metadata
+// shallow-merges `openGraph`, so omitting `images` in a route override drops
+// the layout's image entirely.
+export const DEFAULT_OG_IMAGE_URL = "/og/default.png" as const
+
+export const DEFAULT_OG_IMAGES = [
+  {
+    url: DEFAULT_OG_IMAGE_URL,
+    width: 1200,
+    height: 630,
+    alt: siteConfig.name,
+  },
+] as const
+
+export const DEFAULT_TWITTER_IMAGES = [DEFAULT_OG_IMAGE_URL] as const
+
 export function podcastMetadata(podcast: Podcast): Metadata {
   const description =
     podcast.subtitle ||

@@ -4,7 +4,7 @@ import Image from "next/image"
 
 import { siteConfig } from "@/config/site"
 import { getLatestEpisodes } from "@/lib/podcasts"
-import { stripHtml } from "@/lib/seo"
+import { DEFAULT_OG_IMAGES, stripHtml } from "@/lib/seo"
 import { formatDate, formatDuration } from "@/lib/utils"
 import { Icons } from "@/components/icons"
 
@@ -19,6 +19,7 @@ export const metadata: Metadata = {
       "Latest cybersecurity podcast episodes across the directory.",
     url: siteConfig.url + "/episodes/",
     type: "website",
+    images: [...DEFAULT_OG_IMAGES],
   },
 }
 

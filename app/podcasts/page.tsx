@@ -3,6 +3,7 @@ import { Suspense } from "react"
 
 import { siteConfig } from "@/config/site"
 import { getAllPodcasts, getPopularTags } from "@/lib/podcasts"
+import { DEFAULT_OG_IMAGES } from "@/lib/seo"
 import { PodcastsBrowser } from "@/components/podcast/podcasts-browser"
 
 export const metadata: Metadata = {
@@ -16,6 +17,7 @@ export const metadata: Metadata = {
       "Search and filter every cybersecurity podcast in the directory.",
     url: siteConfig.url + "/podcasts/",
     type: "website",
+    images: [...DEFAULT_OG_IMAGES],
   },
 }
 

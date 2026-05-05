@@ -11,6 +11,7 @@ import {
   isCategorySlug,
 } from "@/lib/categories"
 import { getPodcastsByCategory } from "@/lib/podcasts"
+import { DEFAULT_OG_IMAGES } from "@/lib/seo"
 import { PodcastCard } from "@/components/podcast/podcast-card"
 
 interface PageProps {
@@ -40,6 +41,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
       description: desc,
       type: "website",
       url: `${siteConfig.url}/categories/${params.slug}/`,
+      images: [...DEFAULT_OG_IMAGES],
     },
   }
 }
