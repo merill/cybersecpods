@@ -119,7 +119,13 @@ export interface AppleLookupResult {
 
 /**
  * Look up an Apple Podcast ID using the public iTunes Lookup API.
- * Apple's API supports CORS, so this works directly from the browser.
+ *
+ * IMPORTANT: Apple's lookup endpoint only sets `access-control-allow-origin`
+ * when a `callback` query parameter is present (the endpoint was designed
+ * for JSONP-style use). Without it, browsers block the cross-origin response
+ * and the user sees "Failed to fetch". Passing `callback=` (empty value) is
+ * a known trick: Apple sets the CORS headers AND returns plain JSON instead
+ * of a JSONP wrapper.
  */
 export async function lookupApple(
   applePodcastId: string,
@@ -129,14 +135,21 @@ export async function lookupApple(
   if (!/^\d{6,12}$/.test(id)) {
     throw new Error("Apple ID must be 6-12 digits (no 'id' prefix).")
   }
-  const url = `https://itunes.apple.com/lookup?id=${id}&entity=podcast`
+  const url = `https://itunes.apple.com/lookup?id=${id}&entity=podcast&callback=`
   const res = await fetch(url, { signal })
   if (!res.ok) {
     throw new Error(`Apple lookup failed (HTTP ${res.status}).`)
   }
-  const json = (await res.json()) as {
-    resultCount: number
-    results: AppleLookupResult[]
+  // Apple returns `text/javascript` as the content-type even with an empty
+  // callback, so res.json() would refuse to parse it. Use text() and
+  // JSON.parse manually. The body has leading whitespace/newlines that
+  // JSON.parse handles fine.
+  const text = await res.text()
+  let json: { resultCount: number; results: AppleLookupResult[] }
+  try {
+    json = JSON.parse(text.trim())
+  } catch {
+    throw new Error("Apple lookup returned a malformed response.")
   }
   if (!json.resultCount || !json.results?.length) return null
   return json.results[0]
