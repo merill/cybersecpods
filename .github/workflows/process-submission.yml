@@ -2,7 +2,12 @@ name: Process Podcast Submission
 
 on:
   issues:
-    types: [opened, edited, labeled]
+    # `labeled` is intentionally omitted: when the in-browser form opens an
+    # issue with `?labels=cybersecpods-submission`, GitHub fires both `opened`
+    # AND `labeled` events back-to-back, causing the workflow to run twice.
+    # `opened` already sees the labels in its payload, and `edited` covers
+    # users fixing validation errors and re-submitting.
+    types: [opened, edited]
 
 permissions:
   contents: write
