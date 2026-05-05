@@ -6,6 +6,9 @@ A curated, open-source directory of cybersecurity podcasts — built so defender
 
 ---
 
+<img width="2946" height="1770" alt="Merill 2026-05-05 at 23 11 17@2x" src="https://github.com/user-attachments/assets/198ae759-03e2-4a36-985a-225bf4c1b3fe" />
+
+
 ## How submissions work
 
 Each podcast lives in a tiny JSON file under [`@data/podcasts/`](./@data/podcasts/). The build job pulls each show's RSS feed, hydrates the rest of the metadata, and the site rebuilds.
