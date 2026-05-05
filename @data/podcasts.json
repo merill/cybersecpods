@@ -1546,7 +1546,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-05T08:19:39.451Z"
+        "fetchedAt": "2026-05-05T11:42:34.878Z"
       }
     }
   },
@@ -1846,59 +1846,6 @@
         "content": "Podcast is nice and short, sometimes the scarcasm doesn't translate well but it's interesting to listen to these guys perspective.",
         "author": "Spiel4",
         "updatedAt": "2016-06-13T19:09:44-07:00"
-      }
-    ]
-  },
-  {
-    "id": "entra-chat",
-    "applePodcastId": "1801200012",
-    "title": "Entra.Chat",
-    "description": "Entra Chat is a weekly podcast hosted by Merill Fernando and delivers practical insights for Microsoft administrators and security professionals through conversations with identity experts who've been in the trenches. \n\nEpisodes feature seasoned Entra practitioners sharing real-world deployment experiences and Microsoft Entra team members who build the features you use daily. \n\nGet the inside track on best practices, implementation strategies, and upcoming capabilities directly from those who design and deploy Microsoft identity solutions. \n\nJoin us for actionable takeaways you can apply immediately in your Microsoft 365, Azure, and Entra environments.\n\n--- \n\nEntra.Chat, its content and opinions are my (Merill Fernando) own and do not reflect the views of my employer (Microsoft). All postings are provided “AS IS” with no warranties and is not supported by the author. All trademarks and copyrights belong to their owners and are used for identification only. <br/><br/><a href=\"https://entra.news?utm_medium=podcast\">entra.news</a>",
-    "summary": "",
-    "subtitle": "Entra.News is the go-to newsletter for the latest updates & expert insights on Microsoft Entra. Curated from top sources like Microsoft & MVPs, it's trusted by IT Pros & enterprise security teams worldwide to stay ahead in identity & access management.",
-    "image": "https://substackcdn.com/feed/podcast/1804560/7da03a8120f5cd31607db94d7ad8a083.jpg",
-    "author": "Merill Fernando",
-    "language": "en",
-    "categories": [
-      "Technology",
-      "News",
-      "Tech News"
-    ],
-    "explicit": false,
-    "websiteUrl": "https://entra.news/podcast",
-    "rssUrl": "https://api.substack.com/feed/podcast/1804560.rss",
-    "copyright": "Merill & Joshua Fernando",
-    "spotifyUrl": null,
-    "youtubeUrl": "https://www.youtube.com/watch?v=cJRYm5KReBM&list=PL06Jj3_onEzEBGRfA7Zddg1IrjgpU1eGp",
-    "twitterUrl": null,
-    "linkedinUrl": null,
-    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1801200012",
-    "tags": [
-      "identity",
-      "cloud-security"
-    ],
-    "cadence": "biweekly",
-    "format": "interview",
-    "authors": [],
-    "lastEpisodeDate": "2026-05-02T15:58:15.000Z",
-    "episodeCount": 59,
-    "hasVideo": false,
-    "isActive": true,
-    "featured": false,
-    "ratings": {
-      "apple": {
-        "averageRating": 5,
-        "ratingCount": 6,
-        "fetchedAt": "2026-05-05T08:22:43.702Z"
-      }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent IAM Discussions",
-        "content": "Four episodes in, Enta.Chat is an excellent opportunity for IAM (Identity Access Management)practitioners to listen to Merill and his Guest discuss interesting, useful, informative, and practical Entra ID insights! Looking forward to many more episodes! Kudos to Merill for yet another IAM community beneficial  endeavor! MM",
-        "author": "MikeM0808",
-        "updatedAt": "2025-04-05T09:59:21-07:00"
       }
     ]
   },
@@ -2422,7 +2369,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-05-05T08:19:43.218Z"
+        "fetchedAt": "2026-05-05T11:42:38.906Z"
       }
     }
   },
@@ -3138,7 +3085,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-05-05T08:19:48.383Z"
+        "fetchedAt": "2026-05-05T11:42:40.966Z"
       }
     }
   },
@@ -3180,7 +3127,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-05T08:19:49.881Z"
+        "fetchedAt": "2026-05-05T11:42:41.454Z"
       }
     }
   },
@@ -3222,7 +3169,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-05T08:19:50.827Z"
+        "fetchedAt": "2026-05-05T11:42:41.781Z"
       }
     }
   },
@@ -3427,7 +3374,7 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 16,
-        "fetchedAt": "2026-05-05T08:19:50.508Z"
+        "fetchedAt": "2026-05-05T11:42:41.508Z"
       }
     },
     "recentReviews": [
@@ -3978,7 +3925,44 @@
         "ratingCount": 47,
         "fetchedAt": "2026-05-05T08:22:58.815Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful and educational",
+        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
+        "author": "Maocol99",
+        "updatedAt": "2025-08-14T17:21:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful, timely, and concise!",
+        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
+        "author": "LarsMarie",
+        "updatedAt": "2025-05-05T15:23:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "More OT cybersecurity and Holly rocks.",
+        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
+        "author": "tryangalway",
+        "updatedAt": "2025-03-10T22:06:15-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great Podcast for Cybersecurity Insights!",
+        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
+        "author": "yshishka",
+        "updatedAt": "2024-08-26T10:36:16-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Accessible & Actionable Resource",
+        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
+        "author": "run_amanda",
+        "updatedAt": "2024-08-19T08:29:33-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",
