@@ -1,5 +1,22 @@
 [
   {
+    "id": "keeping-up-with-the-owasp-genai-project-scott-clinton-asw-381",
+    "podcastId": "application-security-weekly",
+    "title": "Keeping Up With the OWASP GenAI Project - Scott Clinton - ASW #381",
+    "description": "<p>Speed is the most common theme among developers and appsec teams working with LLMs and agents, from trying to keep up with patterns for deploying agents to dealing with more code faster to how the latest models impact code quality and security. The OWASP GenAI Project is helping organizations keep up with the speed of those changes and engaging the appsec community for sharing effective ways to keep systems secure. Scott Clinton shares the latest progress on the the project, its roadmap for the year, and how appsec practitioners can shape its future.</p> <p>Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://genai.owasp.org/2026/04/28/finbot-ctf-is-live-a-hands-on-companion-to-the-owasp-genai-security-project/\"> https://genai.owasp.org/2026/04/28/finbot-ctf-is-live-a-hands-on-companion-to-the-owasp-genai-security-project/</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://genai.owasp.org/2025/01/22/announcing-the-owasp-gen-ai-red-teaming-guide/\"> https://genai.owasp.org/2025/01/22/announcing-the-owasp-gen-ai-red-teaming-guide/</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.scworld.com/podcast-episode/3695-inside-the-owasp-genai-security-project-steve-wilson-asw-352\"> https://www.scworld.com/podcast-episode/3695-inside-the-owasp-genai-security-project-steve-wilson-asw-352</a></li> </ul> <p>This segment is sponsored by The OWASP GenAI Security Project. Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/owasp\">https://securityweekly.com/owasp</a> to learn more about them!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-381\">https://securityweekly.com/asw-381</a></p>",
+    "publishedAt": "2026-05-05T09:00:00.000Z",
+    "duration": 4151,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_381_1--a5fffb61-dcfe-4c10-b50f-15e2ab346852--audio-converted--88dc51ac-96bb-4607-8565-65aee9da649b.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/e/6/4/0/e6408c8233166f9216c3140a3186d450/ASW_381_Thumbnail_ASW_1920x1920_1b89ecfe-4e58-4ee2-8536-c98e90e9e3cd.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/keeping-up-with-the-owasp-genai-project-scott-clinton-asw-381"
+  },
+  {
     "id": "top-10-web-hacking-techniques-of-2025-and-a-hint-for-2026-james-kettle-asw-380",
     "podcastId": "application-security-weekly",
     "title": "Top 10 Web Hacking Techniques of 2025 and a Hint for 2026 - James Kettle - ASW #380",
