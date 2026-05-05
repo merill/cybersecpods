@@ -138,10 +138,136 @@ async function fetchText(url: string, timeoutMs = 30000): Promise<string> {
       signal: ctrl.signal,
       redirect: "follow",
     })
-    if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`)
+    if (!res.ok) {
+      // Cloudflare bot-management on Substack and similar hosts blocks bare
+      // fetch from CI runners with 403. Fall back to a real Chromium via
+      // playwright-core (lazy import). Only attempted for known-blocked hosts
+      // so the cost (browser launch) is paid where it matters.
+      if (res.status === 403 && shouldUseBrowserFor(url)) {
+        try {
+          return await fetchTextViaBrowser(url, timeoutMs)
+        } catch (e) {
+          throw new Error(
+            `HTTP 403 for ${url}; browser fallback also failed: ${(e as Error).message}`
+          )
+        }
+      }
+      throw new Error(`HTTP ${res.status} for ${url}`)
+    }
     return await res.text()
   } finally {
     clearTimeout(t)
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Browser-based fetch fallback (Cloudflare bot-management bypass)
+// ---------------------------------------------------------------------------
+
+/**
+ * Hosts whose Cloudflare bot-management TLS fingerprint check rejects bare
+ * `fetch` from GitHub Actions IP ranges. For these we fall back to a real
+ * Chromium instance which generates a valid JA3 fingerprint.
+ *
+ * Add hosts here as they're discovered; keep the list narrow because the
+ * browser path is ~30x slower than direct fetch.
+ */
+const BROWSER_FALLBACK_HOSTS = new Set([
+  "api.substack.com",
+])
+const BROWSER_FALLBACK_HOST_SUFFIXES = [
+  ".substack.com",
+]
+
+function shouldUseBrowserFor(url: string): boolean {
+  if (process.env.NO_BROWSER_FETCH === "1") return false
+  try {
+    const u = new URL(url)
+    if (BROWSER_FALLBACK_HOSTS.has(u.hostname)) return true
+    return BROWSER_FALLBACK_HOST_SUFFIXES.some((s) => u.hostname.endsWith(s))
+  } catch {
+    return false
+  }
+}
+
+// Lazy-imported, lazily-launched browser shared across all calls in a single
+// process. Closed on process exit via the noop guard below — Node will tear
+// the subprocess down regardless.
+let browserPromise: Promise<unknown> | null = null
+
+interface PlaywrightLike {
+  chromium: {
+    launch: (opts?: { headless?: boolean }) => Promise<{
+      newContext: (opts?: {
+        userAgent?: string
+        viewport?: { width: number; height: number } | null
+      }) => Promise<{
+        newPage: () => Promise<{
+          goto: (
+            url: string,
+            opts?: { waitUntil?: "domcontentloaded" | "load"; timeout?: number }
+          ) => Promise<{
+            status: () => number
+            body: () => Promise<Buffer>
+          } | null>
+          close: () => Promise<void>
+        }>
+        close: () => Promise<void>
+      }>
+      close: () => Promise<void>
+    }>
+  }
+}
+
+async function getBrowser(): Promise<unknown> {
+  if (browserPromise) return browserPromise
+  browserPromise = (async () => {
+    let mod: PlaywrightLike
+    try {
+      // dynamic import so missing optional dep yields a clearer error message
+      mod = (await import("playwright-core")) as unknown as PlaywrightLike
+    } catch (e) {
+      throw new Error(
+        `playwright-core is not installed (run: npm install). Original: ${(e as Error).message}`
+      )
+    }
+    return mod.chromium.launch({ headless: true })
+  })()
+  return browserPromise
+}
+
+async function fetchTextViaBrowser(
+  url: string,
+  timeoutMs = 30000
+): Promise<string> {
+  const browser = (await getBrowser()) as Awaited<
+    ReturnType<PlaywrightLike["chromium"]["launch"]>
+  >
+  const ctx = await browser.newContext({
+    userAgent:
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+  })
+  const page = await ctx.newPage()
+  try {
+    // Use the response object directly so we get raw bytes, bypassing
+    // Chromium's XML viewer that would otherwise wrap the body in HTML.
+    const resp = await page.goto(url, {
+      waitUntil: "domcontentloaded",
+      timeout: timeoutMs,
+    })
+    if (!resp) {
+      throw new Error(`browser navigation returned no response for ${url}`)
+    }
+    const status = resp.status()
+    if (status >= 400) {
+      throw new Error(
+        `browser fetch HTTP ${status} for ${url} (Cloudflare may still be blocking)`
+      )
+    }
+    const buf = await resp.body()
+    return buf.toString("utf8")
+  } finally {
+    await ctx.close().catch(() => {})
   }
 }
 

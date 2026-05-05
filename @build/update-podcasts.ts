@@ -49,6 +49,28 @@ function loadExistingReviews(): ExistingReviews {
   }
 }
 
+function loadExistingPodcasts(): Map<string, Podcast> {
+  const map = new Map<string, Podcast>()
+  if (!fs.existsSync(OUTPUT_PODCASTS)) return map
+  try {
+    const list = JSON.parse(fs.readFileSync(OUTPUT_PODCASTS, "utf8")) as Podcast[]
+    for (const p of list) map.set(p.id, p)
+  } catch {
+    // ignore — fresh build
+  }
+  return map
+}
+
+function loadExistingEpisodes(podcastId: string): Episode[] {
+  const file = path.join(OUTPUT_EPISODES_DIR, `${podcastId}.json`)
+  if (!fs.existsSync(file)) return []
+  try {
+    return JSON.parse(fs.readFileSync(file, "utf8")) as Episode[]
+  } catch {
+    return []
+  }
+}
+
 function isActiveBy(date: Date | null): boolean {
   if (!date) return false
   const ageMs = Date.now() - date.getTime()
@@ -61,10 +83,38 @@ function safeDate(s: string): Date | null {
   return isNaN(d.getTime()) ? null : d
 }
 
+/**
+ * Returns the previous hydrated record for a podcast id, allowing the cron to
+ * preserve last-known-good data when an upstream RSS fetch fails (e.g.
+ * transient 5xx, Cloudflare bot-management 403s on Substack from CI runners).
+ *
+ * If the show has never been hydrated, returns the same null shape as a
+ * normal failure so it stays out of the catalog.
+ */
+function staleFallback(
+  id: string,
+  existing: Map<string, Podcast>,
+  reason: string
+): { podcast: Podcast | null; episodes: Episode[] } {
+  const prev = existing.get(id)
+  if (!prev) return { podcast: null, episodes: [] }
+  console.error(
+    `  ↪ ${id}: keeping last-known-good record (${reason}, lastEpisodeDate=${prev.lastEpisodeDate ?? "?"})`
+  )
+  // Re-evaluate active flag against the staled lastEpisodeDate so a long
+  // outage still flips the show to inactive after 60 days.
+  const last = prev.lastEpisodeDate ? safeDate(prev.lastEpisodeDate) : null
+  return {
+    podcast: { ...prev, isActive: isActiveBy(last) },
+    episodes: loadExistingEpisodes(id),
+  }
+}
+
 async function processOne(
   file: string,
   ratings: ExistingRatings,
-  reviews: ExistingReviews
+  reviews: ExistingReviews,
+  existingPodcasts: Map<string, Podcast>
 ): Promise<{ podcast: Podcast | null; episodes: Episode[] }> {
   const id = path.basename(file, ".json")
   const raw = fs.readFileSync(file, "utf8")
@@ -81,17 +131,18 @@ async function processOne(
     lookup = await appleLookup(input.applePodcastId)
   } catch (e) {
     console.error(`✗ ${id}: Apple lookup failed — ${(e as Error).message}`)
-    return { podcast: null, episodes: [] }
+    const stale = staleFallback(id, existingPodcasts, "Apple lookup failed")
+    return stale
   }
   if (!lookup) {
     console.error(`✗ ${id}: Apple lookup returned no results`)
-    return { podcast: null, episodes: [] }
+    return staleFallback(id, existingPodcasts, "Apple lookup empty")
   }
 
   const rssUrl = input.rssUrl ?? lookup.feedUrl
   if (!rssUrl) {
     console.error(`✗ ${id}: no RSS feed available`)
-    return { podcast: null, episodes: [] }
+    return staleFallback(id, existingPodcasts, "no rssUrl")
   }
 
   let feed
@@ -99,7 +150,7 @@ async function processOne(
     feed = await fetchAndParseRss(rssUrl)
   } catch (e) {
     console.error(`✗ ${id}: RSS fetch/parse failed — ${(e as Error).message}`)
-    return { podcast: null, episodes: [] }
+    return staleFallback(id, existingPodcasts, "RSS fetch failed")
   }
 
   // Sort newest first
@@ -230,6 +281,7 @@ async function main(): Promise<void> {
 
   const ratings = loadExistingRatings()
   const reviews = loadExistingReviews()
+  const existingPodcasts = loadExistingPodcasts()
   const podcasts: Podcast[] = []
   let episodeTotal = 0
 
@@ -238,7 +290,7 @@ async function main(): Promise<void> {
   for (let i = 0; i < files.length; i += concurrency) {
     const batch = files.slice(i, i + concurrency)
     const results = await Promise.all(
-      batch.map((f) => processOne(f, ratings, reviews))
+      batch.map((f) => processOne(f, ratings, reviews, existingPodcasts))
     )
     for (const r of results) {
       if (r.podcast) {

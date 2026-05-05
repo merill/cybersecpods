@@ -29,6 +29,11 @@ jobs:
 
       - run: npm ci
 
+      - name: Install Chromium for browser fetch fallback
+        # Used by the rebake step below so Substack-style hosts behind
+        # Cloudflare bot-management can still be fetched from CI runners.
+        run: npx playwright install --with-deps chromium
+
       - name: Refresh Apple ratings
         run: npm run update:ratings
 

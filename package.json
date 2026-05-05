@@ -75,5 +75,8 @@
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "zod": "^4.4.3"
+  },
+  "optionalDependencies": {
+    "playwright-core": "^1.49.0"
   }
 }

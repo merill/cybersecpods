@@ -36,6 +36,12 @@ jobs:
 
       - run: npm ci
 
+      - name: Install Chromium for browser fetch fallback
+        # Required only when a submission overrides rssUrl with a Cloudflare-
+        # protected host (Substack). Skipped automatically if playwright-core
+        # isn't present.
+        run: npx playwright install --with-deps chromium
+
       - name: Parse issue body
         id: parse
         env:

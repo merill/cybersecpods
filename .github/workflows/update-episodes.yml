@@ -29,6 +29,12 @@ jobs:
 
       - run: npm ci
 
+      - name: Install Chromium for browser fetch fallback
+        # Used by @build/lib/rss.ts to bypass Cloudflare bot-management on
+        # Substack-style hosts. Skipped automatically if playwright-core
+        # isn't present.
+        run: npx playwright install --with-deps chromium
+
       - name: Refresh podcast metadata + episodes
         run: npm run update:podcasts
 

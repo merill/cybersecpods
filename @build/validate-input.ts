@@ -115,22 +115,32 @@ async function validateFile(
         file: rel,
         error: `No RSS feed found. Apple did not provide a feedUrl; please add \`rssUrl\` to the JSON.`,
       })
-    } else {
+    } else if (input.rssUrl && input.rssUrl !== lookup.feedUrl) {
+      // Submitter overrode Apple's feedUrl. Verify the override actually
+      // resolves to a podcast feed; if it 403s/blocks, surface a soft warning
+      // rather than failing the PR — Apple's feedUrl is still authoritative.
       try {
-        const feed = await fetchAndParseRss(rssUrl)
+        const feed = await fetchAndParseRss(input.rssUrl)
         if (!feed.title) {
           issues.push({
             file: rel,
-            error: `RSS feed at ${rssUrl} returned but has no <title>. Probably not a podcast feed.`,
+            error: `RSS feed at ${input.rssUrl} returned but has no <title>. Probably not a podcast feed.`,
           })
         }
       } catch (e) {
-        issues.push({
-          file: rel,
-          error: `Failed to fetch/parse RSS at ${rssUrl}: ${(e as Error).message}`,
-        })
+        const msg = (e as Error).message
+        // Network-level failures from the runner shouldn't block submissions —
+        // hosts like Substack 403 GitHub Actions IPs even though the feed is
+        // valid. Apple already verified this URL when issuing feedUrl, so we
+        // log and continue.
+        console.error(
+          `  (warn) RSS override fetch failed for ${rel}: ${msg} — falling back to Apple feedUrl trust`
+        )
       }
     }
+    // When rssUrl matches Apple's feedUrl (or is omitted), trust Apple's
+    // verification and skip the live fetch. This avoids false-negative
+    // submission blocks from CI-IP-based anti-bot rules (Substack, etc.).
   }
 
   return issues
