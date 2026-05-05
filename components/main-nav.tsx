@@ -26,8 +26,11 @@ export function MainNav({ items }: MainNavProps) {
           className="h-7 w-7"
           priority
         />
-        <span className="hidden font-bold tracking-tight sm:inline-block">
-          {siteConfig.name}
+        <span className="hidden flex-col leading-tight sm:inline-flex">
+          <span className="font-bold tracking-tight">{siteConfig.name}</span>
+          <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+            {siteConfig.tagline}
+          </span>
         </span>
       </Link>
       {items?.length ? (

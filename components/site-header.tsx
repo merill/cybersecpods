@@ -23,6 +23,16 @@ export function SiteHeader() {
             <span className="sm:hidden">Add</span>
           </Link>
           <Link
+            href={siteConfig.links.author}
+            target="_blank"
+            rel="noreferrer"
+            title="merill.net"
+            className={buttonVariants({ size: "icon", variant: "ghost" })}
+          >
+            <Icons.globe className="h-5 w-5" />
+            <span className="sr-only">merill.net</span>
+          </Link>
+          <Link
             href={siteConfig.links.github}
             target="_blank"
             rel="noreferrer"

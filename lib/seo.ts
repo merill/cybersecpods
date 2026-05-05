@@ -8,6 +8,8 @@ export function podcastMetadata(podcast: Podcast): Metadata {
     podcast.summary ||
     stripHtml(podcast.description).slice(0, 200)
   const url = `${siteConfig.url}/podcasts/${podcast.id}/`
+  // Build-time generated 1200x630 share-card. See @build/generate-og-images.ts.
+  const ogImage = `${siteConfig.url}/og/podcasts/${podcast.id}.png`
   return {
     title: podcast.title,
     description,
@@ -18,13 +20,13 @@ export function podcastMetadata(podcast: Podcast): Metadata {
       title: podcast.title,
       description,
       siteName: siteConfig.name,
-      images: podcast.image ? [{ url: podcast.image }] : undefined,
+      images: [{ url: ogImage, width: 1200, height: 630, alt: podcast.title }],
     },
     twitter: {
       card: "summary_large_image",
       title: podcast.title,
       description,
-      images: podcast.image ? [podcast.image] : undefined,
+      images: [ogImage],
     },
   }
 }
@@ -35,7 +37,10 @@ export function episodeMetadata(
 ): Metadata {
   const description = stripHtml(episode.description).slice(0, 200)
   const url = `${siteConfig.url}/podcasts/${podcast.id}/${episode.id}/`
-  const image = episode.imageUrl || podcast.image
+  // Episode pages re-use the parent podcast's OG image. The episode title is
+  // already conveyed via og:title; generating a unique image per episode
+  // would balloon the static export by ~1MB × 1000s of episodes.
+  const ogImage = `${siteConfig.url}/og/podcasts/${podcast.id}.png`
   return {
     title: `${episode.title} – ${podcast.title}`,
     description,
@@ -46,13 +51,13 @@ export function episodeMetadata(
       title: episode.title,
       description,
       siteName: siteConfig.name,
-      images: image ? [{ url: image }] : undefined,
+      images: [{ url: ogImage, width: 1200, height: 630, alt: podcast.title }],
     },
     twitter: {
       card: "summary_large_image",
       title: episode.title,
       description,
-      images: image ? [image] : undefined,
+      images: [ogImage],
     },
   }
 }

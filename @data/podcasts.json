@@ -366,6 +366,7 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1512476835",
     "tags": [
+      "microsoft",
       "azure",
       "cloud"
     ],
@@ -756,8 +757,8 @@
       "investigative"
     ],
     "authors": [],
-    "lastEpisodeDate": "2026-05-01T07:00:00.000Z",
-    "episodeCount": 336,
+    "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
+    "episodeCount": 337,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1035,8 +1036,8 @@
       "daily"
     ],
     "authors": [],
-    "lastEpisodeDate": "2026-05-04T07:00:00.000Z",
-    "episodeCount": 1727,
+    "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
+    "episodeCount": 1728,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1411,8 +1412,8 @@
       "storytelling"
     ],
     "authors": [],
-    "lastEpisodeDate": "2026-04-21T07:00:00.000Z",
-    "episodeCount": 173,
+    "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
+    "episodeCount": 174,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1460,6 +1461,49 @@
         "updatedAt": "2026-03-26T18:21:56-07:00"
       }
     ]
+  },
+  {
+    "id": "decoding-security",
+    "applePodcastId": "1627427926",
+    "title": "Decoding Security",
+    "description": "<p>Decoding Security is a podcast from Microsoft Australia about how to protect your business from the ever changing threat of cyber crime. On the show, you&rsquo;ll hear from leaders in cybersecurity, as well as Microsoft experts, as we break down strategies to help keep your business secure.&nbsp; From identifying threats, to managing incidents &mdash; we&rsquo;ll crack the code to help you stay resilient, agile and competitive.</p>",
+    "summary": "Decoding Security is a podcast from Microsoft Australia about how to protect your business from the ever changing threat of cyber crime. On the show, you’ll hear from leaders in cybersecurity, as well as Microsoft experts, as we break down strategies to help keep your business secure.  From identifying threats, to managing incidents — we’ll crack the code to help you stay resilient, agile and competitive.",
+    "subtitle": "Decoding Security is a podcast from Microsoft Australia about how to protect your business from the ever changing threat of cyber crime.",
+    "image": "https://www.omnycontent.com/d/programs/53b6fe2a-4ef6-4356-ae92-a61500df6da0/13dcbd31-68c4-4ac2-839e-aea8006ae02b/image.jpg?t=1654151656&size=Large",
+    "author": "Microsoft Australia",
+    "language": "en-AU",
+    "categories": [
+      "Business",
+      "Management",
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://microsoft.com/security",
+    "rssUrl": "https://www.omnycontent.com/d/playlist/53b6fe2a-4ef6-4356-ae92-a61500df6da0/13dcbd31-68c4-4ac2-839e-aea8006ae02b/ffb69fc4-ac9f-49d3-b331-aea8006c4a58/podcast.rss",
+    "copyright": "2026 Microsoft Australia",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1627427926",
+    "tags": [
+      "microsoft",
+      "regional",
+      "asia-pacific"
+    ],
+    "authors": [],
+    "lastEpisodeDate": "2022-10-10T13:01:00.000Z",
+    "episodeCount": 11,
+    "hasVideo": false,
+    "isActive": false,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 0,
+        "ratingCount": 0,
+        "fetchedAt": "2026-05-05T08:19:39.451Z"
+      }
+    }
   },
   {
     "id": "defense-in-depth",
@@ -1774,6 +1818,7 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1801200012",
     "tags": [
+      "microsoft",
       "microsoft-entra",
       "identity"
     ],
@@ -1985,8 +2030,8 @@
       "weekly"
     ],
     "authors": [],
-    "lastEpisodeDate": "2026-04-30T05:00:00.000Z",
-    "episodeCount": 767,
+    "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
+    "episodeCount": 769,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2113,85 +2158,6 @@
     ]
   },
   {
-    "id": "lock-and-code",
-    "applePodcastId": "1500049667",
-    "title": "Lock and Code",
-    "description": "Lock and Code tells the human stories within cybersecurity, privacy, and technology. Rogue robot vacuums, hacked farm tractors, and catastrophic software vulnerabilities—it’s all here.",
-    "summary": "Lock and Code tells the human stories within cybersecurity, privacy, and technology. Rogue robot vacuums, hacked farm tractors, and catastrophic software vulnerabilities—it’s all here.",
-    "subtitle": "",
-    "image": "https://artwork.captivate.fm/3f215aa3-b1b3-45b6-8738-ac92b2482318/Lock-and-Code-Logo-2025-Refresh.png",
-    "author": "Malwarebytes",
-    "language": "en",
-    "categories": [
-      "Technology",
-      "News",
-      "Tech News"
-    ],
-    "explicit": false,
-    "websiteUrl": "https://www.malwarebytes.com/blog/category/podcast",
-    "rssUrl": "https://feeds.captivate.fm/lock-and-code/",
-    "copyright": "Copyright 2026 Malwarebytes",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
-    "twitterUrl": null,
-    "linkedinUrl": null,
-    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1500049667",
-    "tags": [
-      "consumer",
-      "privacy"
-    ],
-    "authors": [],
-    "lastEpisodeDate": "2026-05-03T15:45:00.000Z",
-    "episodeCount": 159,
-    "hasVideo": false,
-    "isActive": true,
-    "featured": false,
-    "ratings": {
-      "apple": {
-        "averageRating": 4.8,
-        "ratingCount": 48,
-        "fetchedAt": "2026-05-05T06:15:49.930Z"
-      }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Hadn’t heard of pig butchering - but related",
-        "content": "Your shows are always so interesting. This one particularly hit. It wasn’t pig butchering specifically, but my husband got taken down by a group selling a trading platform for cryptos. Their method of getting your money was different. You login to their pretend crypto platform with impressive looking live charts. While your representative is on the line, you login to your bank to transfer money. They then have your bank login information. They login as you and drain your accounts. They nurture you for a while. Once you catch on and they have your money, they keep calling, trying to entice you back. It sounds like they have a full call center going in the background. On the face of it, they are London based. Where they actually are, who knows. Be careful who you trust! Breathe",
-        "author": "Liveinyourbody",
-        "updatedAt": "2026-01-02T10:39:56-07:00"
-      },
-      {
-        "rating": 4,
-        "title": "Great topics, great content",
-        "content": "Put a bark collar on Zack Hinkle.  Shock him for every extraneous “like”.",
-        "author": "“Like, cool, dude”",
-        "updatedAt": "2025-07-13T18:37:56-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "Interview with gen Z teen was frustrating",
-        "content": "I was really intrigued by the questions that David introduced in the recent re-aired episode intro on the interview with Nitya. For context, I’m in my mid-twenties (cusp of gen Z and millennial) so I find the generational difference in online awareness really interesting. Thus, I found the interview with Nitya to be frustrating and boring. Her answers felt quite judgmental of others’ experiences with social media. No context was given on who she is - i understand her parents may want privacy but her answers were presented like a breakthrough understanding about gen Z as a whole, as opposed to acknowledging that she’s just an individual. Ex: “since Nitya is a minor, we won’t be sharing about her personal info, but she first used a computer in year X, and is not a frequent social media user, which our listeners may be surprised by…”. I’m a loyal Malwarebytes customer and really wanted to like this episode. But I guess I’ll have to try again or give up.",
-        "author": "nicholasname",
-        "updatedAt": "2023-10-02T22:45:29-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Podcast host? More like Dreamycast host.",
-        "content": "I have personally seen David Ruiz without a shirt on and you don’t need to be an astronaut to know it is out of this world. Just like this podcast series, it is firm, informative, and only gets better in low lighting.",
-        "author": "Ghost of Samuel Eells",
-        "updatedAt": "2022-07-05T09:49:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Excellent history and overview of Macs and Malware",
-        "content": "I was using UNIX in 1978 and continued for over 40 years.  People who ran the computer network in Electrical Engineering at Purdue were very interested in malware, worms as I recall, as they first appeared on the scene and popped up on occasion. I was at a electronics show in Huston, TX in the early 80s and went with the head of our computer network to Xerox and saw/used the first mouse, so I was impressed when I saw the Macs and had to have one. I too thought the Mac was virus proof, assuming the propriety nature of the of the software and difficulty sharing software kept it safe, but when OS X came and the internet blossomed I knew that the UNIX based OS was vulnerable. I loved being able to get to the command line and continue using it even today, though not nearly as often.  I still imagine that the popularity of Windows and its vulnerabilities makes it a bigger target, but in reality with the complexity of todays software I see how important it is to use Malwarebytes to protect the Apple devices our family has.",
-        "author": "ahughes42",
-        "updatedAt": "2021-12-24T10:34:04-07:00"
-      }
-    ]
-  },
-  {
     "id": "malicious-life",
     "applePodcastId": "1252417787",
     "title": "Malicious Life",
@@ -2267,6 +2233,49 @@
         "updatedAt": "2024-12-18T16:50:47-07:00"
       }
     ]
+  },
+  {
+    "id": "microsoft-healthcare-security-brief",
+    "applePodcastId": "1893451408",
+    "title": "Microsoft Healthcare Security Brief",
+    "description": "Stay ahead with industry insights&nbsp;and trends with&nbsp;Microsoft’s&nbsp;<strong>Healthcare Security Brief</strong>&nbsp;podcast series&nbsp;that brings&nbsp;perspectives from Microsoft security partner&nbsp;experts&nbsp;in&nbsp;candid, practical conversations on security, privacy, and compliance in today’s&nbsp;AI‑enabled&nbsp;environment.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "summary": "Stay ahead with industry insights&nbsp;and trends with&nbsp;Microsoft’s&nbsp;<strong>Healthcare Security Brief</strong>&nbsp;podcast series&nbsp;that brings&nbsp;perspectives from Microsoft security partner&nbsp;experts&nbsp;in&nbsp;candid, practical conversations on security, privacy, and compliance in today’s&nbsp;AI‑enabled&nbsp;environment.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "subtitle": "",
+    "image": "https://assets.pippa.io/shows/69d7de6897d78f9e2bf56982/1776442673534-d2e23db7-ba91-449f-83a4-f8c7481726e6.jpeg",
+    "author": "Microsoft",
+    "language": "en",
+    "categories": [
+      "Business",
+      "Health & Fitness",
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://feeds.acast.com/public/shows/microsoft-healthcare-security-brief",
+    "rssUrl": "https://feeds.acast.com/public/shows/69d7de6897d78f9e2bf56982",
+    "copyright": "Microsoft",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1893451408",
+    "tags": [
+      "microsoft",
+      "healthcare",
+      "threat-intel"
+    ],
+    "authors": [],
+    "lastEpisodeDate": "2026-04-14T21:06:00.000Z",
+    "episodeCount": 2,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 1,
+        "fetchedAt": "2026-05-05T08:19:43.218Z"
+      }
+    }
   },
   {
     "id": "microsoft-threat-intelligence",
@@ -2923,6 +2932,131 @@
     ]
   },
   {
+    "id": "secure-the-job",
+    "applePodcastId": "1676703961",
+    "title": "Secure the Job: Breaking into Security",
+    "description": "Welcome to Secure the Job: Breaking into Security - a limited series podcast where we’ll dive into all you need to know to <em>break </em>into the cybersecurity industry. Over the next few episodes, you will hear advice, counseling, and guidance from industry leaders, recruiters, and influencers to help guide you through your security journey.&nbsp;&nbsp;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "summary": "Welcome to Secure the Job: Breaking into Security - a limited series podcast where we’ll dive into all you need to know to <em>break </em>into the cybersecurity industry. Over the next few episodes, you will hear advice, counseling, and guidance from industry leaders, recruiters, and influencers to help guide you through your security journey.&nbsp;&nbsp;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "subtitle": "",
+    "image": "https://assets.pippa.io/shows/cover/1665854415148-b6ebd47384db6869168cd2aa0c5aed58.jpeg",
+    "author": "Microsoft",
+    "language": "en",
+    "categories": [
+      "Business",
+      "Careers",
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://shows.acast.com/secure-the-job-breaking-into-security",
+    "rssUrl": "https://feeds.acast.com/public/shows/634aeca98f920300113e5fc5",
+    "copyright": "©2024 Microsoft",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1676703961",
+    "tags": [
+      "microsoft",
+      "career",
+      "education"
+    ],
+    "authors": [],
+    "lastEpisodeDate": "2023-04-26T07:05:00.000Z",
+    "episodeCount": 6,
+    "hasVideo": false,
+    "isActive": false,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 1,
+        "fetchedAt": "2026-05-05T08:19:48.383Z"
+      }
+    }
+  },
+  {
+    "id": "security-insider-conversations",
+    "applePodcastId": "1872511454",
+    "title": "Security Insider Conversations",
+    "description": "Welcome to Security Insider Conversations, your home to insights, guidance, and expertise from within the Microsoft Security ecosystem. It's not a podcast, it's a conversation.&nbsp;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "summary": "Welcome to Security Insider Conversations, your home to insights, guidance, and expertise from within the Microsoft Security ecosystem. It's not a podcast, it's a conversation.&nbsp;<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "subtitle": "",
+    "image": "https://assets.pippa.io/shows/cover/1769549287777-a8647bac-f00e-4467-ae91-7688c288287c.jpeg",
+    "author": "Microsoft Security Insider",
+    "language": "en",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://feeds.acast.com/public/shows/security-insider-conversations",
+    "rssUrl": "https://feeds.acast.com/public/shows/69792e2da40f59499ec752a3",
+    "copyright": "Microsoft",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1872511454",
+    "tags": [
+      "microsoft",
+      "leadership",
+      "interviews"
+    ],
+    "authors": [],
+    "lastEpisodeDate": "2026-03-03T10:00:00.000Z",
+    "episodeCount": 4,
+    "hasVideo": false,
+    "isActive": false,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 0,
+        "ratingCount": 0,
+        "fetchedAt": "2026-05-05T08:19:49.881Z"
+      }
+    }
+  },
+  {
+    "id": "security-life-hacks",
+    "applePodcastId": "1610546860",
+    "title": "#SecurityLifeHacks Podcast",
+    "description": "#SecurityLifeHacks is een podcast reeks van Microsoft Nederland rondom de security oplossingen van Microsoft.Elke maand zijn er aantal nieuwe podcast die dieper ingaan op de laatste ontwikkelingen rondom cyber veiligheid.Dus abboneer je op dit kanaal en blijf op de hoogte van alles wat speelt in de cyber security wereld.",
+    "summary": "",
+    "subtitle": "",
+    "image": "https://storage.buzzsprout.com/s660gwbfa4etp2lwh1o2kr0eafqb?.jpg",
+    "author": "Microsoft Nederland",
+    "language": "nl",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "http://aka.ms/securitylifehacks",
+    "rssUrl": "https://rss.buzzsprout.com/1919386.rss",
+    "copyright": "© 2026 Microsoft Nederland",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1610546860",
+    "tags": [
+      "microsoft",
+      "regional",
+      "europe"
+    ],
+    "authors": [],
+    "lastEpisodeDate": "2026-04-15T12:00:00.000Z",
+    "episodeCount": 83,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 0,
+        "ratingCount": 0,
+        "fetchedAt": "2026-05-05T08:19:50.827Z"
+      }
+    }
+  },
+  {
     "id": "security-now",
     "applePodcastId": "79016499",
     "title": "Security Now (Audio)",
@@ -3077,6 +3211,84 @@
         "content": "Each episode is a great blend of depth for the security savvy, and breakdowns of technical concepts that make them accessible to anyone who is just curious about security.",
         "author": ".-ryan-.",
         "updatedAt": "2020-11-11T15:38:56-07:00"
+      }
+    ]
+  },
+  {
+    "id": "security-unlocked-ciso-series",
+    "applePodcastId": "1567154000",
+    "title": "Security Unlocked: CISO Series with Bret Arsenault",
+    "description": "Microsoft’s Chief Information Security Officer (CISO), Bret Arsenault, chats with his CISO peers and industry leaders about the biggest challenges in cybersecurity today, plus practical guidance for security practitioners. Be sure to listen in and follow us!Security Unlocked: CISO Series with Bret Arsenault is produced by Microsoft and distributed as part of The CyberWire Network.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "summary": "Microsoft’s Chief Information Security Officer (CISO), Bret Arsenault, chats with his CISO peers and industry leaders about the biggest challenges in cybersecurity today, plus practical guidance for security practitioners. Be sure to listen in and follow us!Security Unlocked: CISO Series with Bret Arsenault is produced by Microsoft and distributed as part of The CyberWire Network.<hr><p style='color:grey; font-size:0.75em;'> Hosted on Acast. See <a style='color:grey;' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for more information.</p>",
+    "subtitle": "",
+    "image": "https://assets.pippa.io/shows/64ac551db5a79600117dae82/show-cover.jpg",
+    "author": "Microsoft",
+    "language": "en",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://SecurityUnlockedCISOSeries.com",
+    "rssUrl": "https://feeds.acast.com/public/shows/64ac551db5a79600117dae82",
+    "copyright": "©2024 Microsoft",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1567154000",
+    "tags": [
+      "microsoft",
+      "ciso",
+      "leadership"
+    ],
+    "authors": [],
+    "lastEpisodeDate": "2021-07-30T07:05:00.000Z",
+    "episodeCount": 6,
+    "hasVideo": false,
+    "isActive": false,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.3,
+        "ratingCount": 16,
+        "fetchedAt": "2026-05-05T08:19:50.508Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 2,
+        "title": "Just ok",
+        "content": "The one with Roland was really good the others have been hit and miss.",
+        "author": "cisoNYC",
+        "updatedAt": "2022-01-04T02:29:33-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "A must listen for all security leaders",
+        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
+        "author": "nicfill",
+        "updatedAt": "2021-05-18T10:06:29-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great new cybersecurity podcast!",
+        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
+        "author": "Frogstar5",
+        "updatedAt": "2021-05-13T14:40:00-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Excellent show",
+        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
+        "author": "Meatball_army_2021",
+        "updatedAt": "2021-05-13T14:24:25-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Depth of Knowledge shines through",
+        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
+        "author": "GottaRun21",
+        "updatedAt": "2021-05-13T14:16:19-07:00"
       }
     ]
   },

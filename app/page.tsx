@@ -19,7 +19,7 @@ import { CategoryRow } from "@/components/home/category-row"
 import { LatestEpisodesRail } from "@/components/home/latest-episodes-rail"
 
 export const metadata: Metadata = {
-  title: `${siteConfig.name} – Discover the best cybersecurity podcasts`,
+  title: `${siteConfig.name} – ${siteConfig.tagline}`,
   description: siteConfig.description,
   alternates: { canonical: siteConfig.url + "/" },
   openGraph: {
@@ -78,7 +78,7 @@ export default function HomePage() {
             {popularTags.map(({ tag }) => {
               const items = getPodcastsByTag(tag).filter((p) => p.isActive)
               if (items.length < 2) return null
-              return (
+              const row = (
                 <CategoryRow
                   key={tag}
                   title={displayTag(tag)}
@@ -86,7 +86,44 @@ export default function HomePage() {
                   href={`/tags/${tag}/`}
                 />
               )
+              // Insert the Microsoft row immediately after Weekly (per user request).
+              if (tag === "weekly") {
+                const msft = getPodcastsByTag("microsoft").filter(
+                  (p) => p.isActive
+                )
+                if (msft.length >= 2) {
+                  return (
+                    <div key="weekly-and-microsoft" className="contents">
+                      {row}
+                      <CategoryRow
+                        title="Microsoft"
+                        description="Official cybersecurity podcasts from Microsoft"
+                        podcasts={msft}
+                        href="/tags/microsoft/"
+                      />
+                    </div>
+                  )
+                }
+              }
+              return row
             })}
+            {/* Fallback: if no popular-tag row matches "weekly", still render
+                Microsoft once (at the end) so it always appears. */}
+            {!popularTags.some(({ tag }) => tag === "weekly") &&
+              (() => {
+                const msft = getPodcastsByTag("microsoft").filter(
+                  (p) => p.isActive
+                )
+                if (msft.length < 2) return null
+                return (
+                  <CategoryRow
+                    title="Microsoft"
+                    description="Official cybersecurity podcasts from Microsoft"
+                    podcasts={msft}
+                    href="/tags/microsoft/"
+                  />
+                )
+              })()}
           </div>
           <LatestEpisodesRail episodes={latestEpisodes} />
         </div>

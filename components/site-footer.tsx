@@ -7,7 +7,7 @@ export function SiteFooter() {
     <footer className="border-t border-border/40">
       <div className="container flex flex-col items-center justify-between gap-4 py-8 md:h-20 md:flex-row md:py-0">
         <p className="text-center text-sm leading-loose text-muted-foreground md:text-left">
-          A curated directory of cybersecurity podcasts. Built by{" "}
+          {siteConfig.tagline}. Built by{" "}
           <Link
             href={siteConfig.links.twitter}
             target="_blank"

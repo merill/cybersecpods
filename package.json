@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run update:podcasts && next build",
-    "build:site": "next build",
+    "build": "npm run update:podcasts && npm run og && next build",
+    "build:site": "npm run og && next build",
+    "build:next": "next build",
     "start": "next start",
     "lint": "next lint",
     "lint:fix": "next lint --fix",
@@ -16,7 +17,8 @@
     "update:podcasts": "tsx @build/update-podcasts.ts",
     "update:ratings": "tsx @build/update-ratings.ts",
     "validate:input": "tsx @build/validate-input.ts",
-    "import:bulk": "tsx @build/import-bulk.ts"
+    "import:bulk": "tsx @build/import-bulk.ts",
+    "og": "tsx @build/generate-og-images.ts"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.3.3",

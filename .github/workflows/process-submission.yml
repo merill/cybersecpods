@@ -11,9 +11,18 @@ permissions:
 
 jobs:
   process:
+    # Run if either:
+    #   - the issue carries one of our submission labels, OR
+    #   - the issue title starts with "Add:" / "Edit:" (defence-in-depth in case
+    #     a label race or missing repo label means the label slipped through —
+    #     historically issue #1 was created without labels because the
+    #     `cybersecpods-edit` label didn't yet exist as a repo label, so the
+    #     `?labels=` URL param was silently dropped by GitHub).
     if: >-
       contains(github.event.issue.labels.*.name, 'cybersecpods-submission') ||
-      contains(github.event.issue.labels.*.name, 'cybersecpods-edit')
+      contains(github.event.issue.labels.*.name, 'cybersecpods-edit') ||
+      startsWith(github.event.issue.title, 'Add:') ||
+      startsWith(github.event.issue.title, 'Edit:')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,14 +40,21 @@ jobs:
         id: parse
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_LABELS: ${{ toJson(github.event.issue.labels) }}
         run: |
           node <<'EOF'
           const fs = require('fs');
           const body = process.env.ISSUE_BODY || '';
+          const title = process.env.ISSUE_TITLE || '';
           const labels = JSON.parse(process.env.ISSUE_LABELS || '[]').map(l => l.name);
-          const isEdit = labels.includes('cybersecpods-edit');
+          // Determine mode from labels first, then fall back to title prefix.
+          // (Labels can be missing if the `?labels=` URL param was dropped due
+          // to the label not existing in the repo yet — see workflow comment.)
+          const isEdit =
+            labels.includes('cybersecpods-edit') ||
+            (!labels.includes('cybersecpods-submission') && /^Edit:/i.test(title));
           const mode = isEdit ? 'edit' : 'add';
 
           // Issue forms render fields as `### Label\n\nvalue\n` (textareas may use ```lang fences).
@@ -149,25 +165,27 @@ jobs:
         run: |
           node -e '
             const fs = require("fs");
-            if (!fs.existsSync("validation-output.json")) {
-              fs.writeFileSync("summary.md", "Validation produced no output.");
-              process.exit(0);
-            }
-            const data = JSON.parse(fs.readFileSync("validation-output.json","utf8"));
-            const issues = data.issues ?? [];
-            if (!issues.length) {
-              fs.writeFileSync("summary.md", "✅ JSON validates against the submission schema.");
-              return;
-            }
-            const grouped = {};
-            for (const i of issues) (grouped[i.file] ??= []).push(i.error);
-            let body = "Validation found these issues:\n\n";
-            for (const [file, errs] of Object.entries(grouped)) {
-              body += `**\`${file}\`**\n`;
-              for (const e of errs) body += `- ${e}\n`;
-              body += "\n";
-            }
-            fs.writeFileSync("summary.md", body);
+            (() => {
+              if (!fs.existsSync("validation-output.json")) {
+                fs.writeFileSync("summary.md", "Validation produced no output.");
+                return;
+              }
+              const data = JSON.parse(fs.readFileSync("validation-output.json","utf8"));
+              const issues = data.issues ?? [];
+              if (!issues.length) {
+                fs.writeFileSync("summary.md", "✅ JSON validates against the submission schema.");
+                return;
+              }
+              const grouped = {};
+              for (const i of issues) (grouped[i.file] ??= []).push(i.error);
+              let body = "Validation found these issues:\n\n";
+              for (const [file, errs] of Object.entries(grouped)) {
+                body += `**\`${file}\`**\n`;
+                for (const e of errs) body += `- ${e}\n`;
+                body += "\n";
+              }
+              fs.writeFileSync("summary.md", body);
+            })();
           '
 
       - name: Comment on issue if validation failed
