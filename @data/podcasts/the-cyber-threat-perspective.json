@@ -1,0 +1,32 @@
+{
+  "applePodcastId": "1623448219",
+  "spotifyUrl": "https://open.spotify.com/show/5tV8cZ4LFRN5sJi2F0Mu0k",
+  "websiteUrl": "https://offsec.blog",
+  "rssUrl": "https://rss.buzzsprout.com/1731753.rss",
+  "youtubeUrl": "https://youtube.com/@cyberthreatpov",
+  "twitterUrl": "https://x.com/securit360",
+  "linkedinUrl": "https://linkedin.com/company/securit360",
+  "tags": [
+    "blue-team",
+    "red-team",
+    "penetration-testing",
+    "purple-team"
+  ],
+  "cadence": "weekly",
+  "format": "panel",
+  "authors": [
+    {
+      "name": "Spencer Alessi",
+      "twitterUrl": "https://x.com/techspence",
+      "linkedinUrl": "https://www.linkedin.com/in/spenceralessi/",
+      "websiteUrl": "https://spenceralessi.com"
+    },
+    {
+      "name": "Brad Causey",
+      "twitterUrl": "https://x.com/kamakauzy",
+      "linkedinUrl": "https://www.linkedin.com/in/bradcausey/",
+      "websiteUrl": "https://offsec.blog"
+    }
+  ],
+  "submittedBy": "techspence"
+}
