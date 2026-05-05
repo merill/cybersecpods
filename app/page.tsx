@@ -2,15 +2,14 @@ import type { Metadata } from "next"
 
 import { siteConfig } from "@/config/site"
 import {
-  getActivePodcasts,
   getFeaturedPodcasts,
   getLatestEpisodes,
   getMostReviewedPodcasts,
   getPopularTags,
   getRecentlyUpdatedPodcasts,
   getTopRatedPodcasts,
+  getTrendingPodcasts,
   getPodcastsByCategory,
-  shuffleSeeded,
 } from "@/lib/podcasts"
 import { categoryLabel, CATEGORY_DESCRIPTIONS, isCategorySlug, type CategorySlug } from "@/lib/categories"
 import { websiteJsonLd } from "@/lib/seo"
@@ -33,11 +32,10 @@ export const metadata: Metadata = {
 
 export default function HomePage() {
   const featured = getFeaturedPodcasts(3)
-  const active = getActivePodcasts()
   const topRated = getTopRatedPodcasts(20)
   const mostReviewed = getMostReviewedPodcasts(20)
   const recentlyUpdated = getRecentlyUpdatedPodcasts(20)
-  const trending = shuffleSeeded(active).slice(0, 20)
+  const trending = getTrendingPodcasts(20)
   // Up to 6 popular categories with at least 2 active podcasts.
   const popularCategories = getPopularTags(2)
     .map((t) => ({ tag: t.tag, count: t.count }))
@@ -45,7 +43,7 @@ export default function HomePage() {
       isCategorySlug(t.tag)
     )
     .slice(0, 6)
-  const latestEpisodes = getLatestEpisodes(60)
+  const latestEpisodes = getLatestEpisodes(46)
 
   return (
     <>

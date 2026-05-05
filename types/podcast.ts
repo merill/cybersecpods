@@ -80,6 +80,11 @@ export interface Podcast {
 
   // computed
   lastEpisodeDate: string | null
+  // ISO date of the oldest episode currently visible in the RSS feed.
+  // Used as a proxy for show "age" when ranking trending podcasts. Note: some
+  // RSS feeds truncate older episodes, so for long-running shows this may be
+  // newer than the show's actual launch date.
+  firstEpisodeDate: string | null
   episodeCount: number
   hasVideo: boolean
   isActive: boolean

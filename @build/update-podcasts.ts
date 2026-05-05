@@ -112,6 +112,9 @@ async function processOne(
   const lastEpisodeDate = sorted.length
     ? safeDate(sorted[0].publishedAt)
     : null
+  const firstEpisodeDate = sorted.length
+    ? safeDate(sorted[sorted.length - 1].publishedAt)
+    : null
   const hasVideo = sorted.some((e) => !!e.videoUrl)
 
   const episodes: Episode[] = sorted.map((e) => ({
@@ -190,6 +193,7 @@ async function processOne(
     format: input.format ?? null,
     authors: input.authors ?? [],
     lastEpisodeDate: lastEpisodeDate?.toISOString() ?? null,
+    firstEpisodeDate: firstEpisodeDate?.toISOString() ?? null,
     episodeCount: episodes.length,
     hasVideo,
     isActive: isActiveBy(lastEpisodeDate),

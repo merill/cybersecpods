@@ -18,6 +18,10 @@ export function buildPodcastIndex(podcasts: Podcast[]): Fuse<Podcast> {
   })
 }
 
+// Fuse scores: 0 = perfect match, 1 = no match. Anything above this cutoff is
+// treated as noise (e.g. fuzzy bitap matches on unrelated short tokens).
+const RELEVANCE_CUTOFF = 0.5
+
 export function searchPodcasts(
   index: Fuse<Podcast>,
   query: string,
@@ -25,5 +29,8 @@ export function searchPodcasts(
 ): Podcast[] {
   const q = query.trim()
   if (!q) return []
-  return index.search(q, { limit }).map((r) => r.item)
+  return index
+    .search(q, { limit })
+    .filter((r) => (r.score ?? 1) <= RELEVANCE_CUTOFF)
+    .map((r) => r.item)
 }

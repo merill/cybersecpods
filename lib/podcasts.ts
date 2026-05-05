@@ -2,6 +2,18 @@ import fs from "node:fs"
 import path from "node:path"
 import type { Podcast, Episode } from "@/types/podcast"
 import { CATEGORY_GROUPS, type CategorySlug } from "@/lib/categories"
+import {
+  bayesianRating,
+  buildTrendingContext,
+  computeRatingPrior,
+  trendingScore,
+} from "@/lib/ranking"
+
+export {
+  bayesianRating,
+  bayesianRatingComparator,
+  computeRatingPrior,
+} from "@/lib/ranking"
 
 const DATA_DIR = path.join(process.cwd(), "@data")
 const PODCASTS_FILE = path.join(DATA_DIR, "podcasts.json")
@@ -139,22 +151,76 @@ export function getFeaturedPodcasts(count = 3): Podcast[] {
   return [...manual, ...remaining].slice(0, count)
 }
 
+// ---------------------------------------------------------------------------
+// Ranking helpers (Bayesian prior + Top Rated)
+// ---------------------------------------------------------------------------
+
 export function getTopRatedPodcasts(count = 12): Podcast[] {
-  return getActivePodcasts()
+  const active = getActivePodcasts()
+  const { m, C } = computeRatingPrior(active)
+  return active
     .filter(
       (p) =>
         (p.ratings.apple?.averageRating ?? 0) > 0 &&
         (p.ratings.apple?.ratingCount ?? 0) > 0
     )
+    .map((p) => ({ p, score: bayesianRating(p, m, C) }))
     .sort((a, b) => {
-      const ar = a.ratings.apple?.averageRating ?? 0
-      const br = b.ratings.apple?.averageRating ?? 0
-      if (br !== ar) return br - ar
-      const ac = a.ratings.apple?.ratingCount ?? 0
-      const bc = b.ratings.apple?.ratingCount ?? 0
+      if (b.score !== a.score) return b.score - a.score
+      // Tie-break on raw vote count so larger audiences win equal smoothed scores.
+      const ac = a.p.ratings.apple?.ratingCount ?? 0
+      const bc = b.p.ratings.apple?.ratingCount ?? 0
       return bc - ac
     })
     .slice(0, count)
+    .map(({ p }) => p)
+}
+
+// ---------------------------------------------------------------------------
+// Trending: smaller, younger, high-quality shows
+// ---------------------------------------------------------------------------
+
+/**
+ * Returns active podcasts ranked by composite trending score. Excludes shows
+ * already shown in Top Rated and Most Reviewed so this row stays distinct.
+ *
+ * Eligibility: ratingCount >= 3, OR episodeCount >= 5 with a fresh
+ * lastEpisodeDate (within 60 days). This lets brand-new shows surface even
+ * before they've accumulated reviews.
+ *
+ * Scoring is multiplicative around the Bayesian rating: smallness, youth,
+ * liveness, and engagement only modulate, never zero out. A small hourly-
+ * seeded jitter keeps the row alive across rebuilds.
+ */
+export function getTrendingPodcasts(count = 20): Podcast[] {
+  const active = getActivePodcasts()
+  const topRatedIds = new Set(getTopRatedPodcasts(20).map((p) => p.id))
+  const mostReviewedIds = new Set(
+    getMostReviewedPodcasts(20).map((p) => p.id)
+  )
+  const FRESH_MS = 60 * 86_400_000
+  const eligible = active.filter((p) => {
+    if (topRatedIds.has(p.id)) return false
+    if (mostReviewedIds.has(p.id)) return false
+    const v = p.ratings.apple?.ratingCount ?? 0
+    if (v >= 3) return true
+    if (p.episodeCount >= 5 && p.lastEpisodeDate) {
+      const age = Date.now() - Date.parse(p.lastEpisodeDate)
+      if (Number.isFinite(age) && age <= FRESH_MS) return true
+    }
+    return false
+  })
+  if (eligible.length === 0) return []
+  const ctx = buildTrendingContext(eligible)
+  // Hourly jitter ±2% so order refreshes in lockstep with cron-driven rebuilds.
+  const rand = mulberry32(getSeed())
+  const scored = eligible.map((p) => {
+    const base = trendingScore(p, ctx)
+    const jitter = 1 + (rand() - 0.5) * 0.04
+    return { p, score: base * jitter }
+  })
+  scored.sort((a, b) => b.score - a.score)
+  return scored.slice(0, count).map(({ p }) => p)
 }
 
 export function getMostReviewedPodcasts(count = 12): Podcast[] {

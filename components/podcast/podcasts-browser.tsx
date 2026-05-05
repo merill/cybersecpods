@@ -6,6 +6,7 @@ import { useRouter, useSearchParams } from "next/navigation"
 import type { Podcast } from "@/types/podcast"
 import { displayTag } from "@/lib/utils"
 import { buildPodcastIndex, searchPodcasts } from "@/lib/search"
+import { bayesianRatingComparator } from "@/lib/ranking"
 import { Button } from "@/components/ui/button"
 import { Checkbox } from "@/components/ui/checkbox"
 import { Input } from "@/components/ui/input"
@@ -32,8 +33,8 @@ export function PodcastsBrowser({ podcasts, allTags }: PodcastsBrowserProps) {
   const params = useSearchParams()
 
   const [query, setQuery] = useState(params.get("q") ?? "")
-  const [selectedTags, setSelectedTags] = useState<string[]>(
-    params.getAll("tag")
+  const [selectedTag, setSelectedTag] = useState<string | null>(
+    params.get("tag")
   )
   const [showInactive, setShowInactive] = useState(
     params.get("inactive") === "1"
@@ -47,41 +48,37 @@ export function PodcastsBrowser({ podcasts, allTags }: PodcastsBrowserProps) {
   useEffect(() => {
     const sp = new URLSearchParams()
     if (query) sp.set("q", query)
-    selectedTags.forEach((t) => sp.append("tag", t))
+    if (selectedTag) sp.set("tag", selectedTag)
     if (showInactive) sp.set("inactive", "1")
     if (sort !== "popular") sp.set("sort", sort)
     const qs = sp.toString()
     router.replace(qs ? `?${qs}` : "?", { scroll: false })
-  }, [query, selectedTags, showInactive, sort, router])
+  }, [query, selectedTag, showInactive, sort, router])
 
   const fuse = useMemo(() => buildPodcastIndex(podcasts), [podcasts])
 
   const filtered = useMemo(() => {
     let list = podcasts
     if (!showInactive) list = list.filter((p) => p.isActive)
-    if (selectedTags.length) {
+    if (selectedTag) {
       list = list.filter((p) =>
-        selectedTags.every((t) => (p.tags as readonly string[]).includes(t))
+        (p.tags as readonly string[]).includes(selectedTag)
       )
     }
-    if (query.trim()) {
-      const ids = new Set(
-        searchPodcasts(fuse, query.trim(), 500).map((p) => p.id)
+    const hasQuery = query.trim().length > 0
+    if (hasQuery) {
+      // Rank by Fuse relevance, then intersect with current filters.
+      const allowedIds = new Set(list.map((p) => p.id))
+      const ranked = searchPodcasts(fuse, query.trim(), 500).filter((p) =>
+        allowedIds.has(p.id)
       )
-      list = list.filter((p) => ids.has(p.id))
+      // When the user is searching, relevance wins over the sort dropdown.
+      return ranked
     }
     const sorted = [...list]
     switch (sort) {
       case "rating":
-        sorted.sort((a, b) => {
-          const ra = a.ratings?.apple?.averageRating ?? 0
-          const rb = b.ratings?.apple?.averageRating ?? 0
-          if (rb !== ra) return rb - ra
-          return (
-            (b.ratings?.apple?.ratingCount ?? 0) -
-            (a.ratings?.apple?.ratingCount ?? 0)
-          )
-        })
+        sorted.sort(bayesianRatingComparator(list))
         break
       case "reviews":
         sorted.sort(
@@ -114,25 +111,23 @@ export function PodcastsBrowser({ podcasts, allTags }: PodcastsBrowserProps) {
         })
     }
     return sorted
-  }, [podcasts, query, selectedTags, showInactive, sort, fuse])
+  }, [podcasts, query, selectedTag, showInactive, sort, fuse])
 
   const visibleTags = showAllTags ? allTags : allTags.slice(0, 24)
 
   const toggleTag = (tag: string) => {
-    setSelectedTags((prev) =>
-      prev.includes(tag) ? prev.filter((t) => t !== tag) : [...prev, tag]
-    )
+    setSelectedTag((prev) => (prev === tag ? null : tag))
   }
 
   const clearAll = () => {
     setQuery("")
-    setSelectedTags([])
+    setSelectedTag(null)
     setShowInactive(false)
     setSort("popular")
   }
 
   const hasFilters =
-    query || selectedTags.length || showInactive || sort !== "popular"
+    query || selectedTag || showInactive || sort !== "popular"
 
   return (
     <div className="space-y-6">
@@ -178,12 +173,13 @@ export function PodcastsBrowser({ podcasts, allTags }: PodcastsBrowserProps) {
       <div className="space-y-2">
         <div className="flex flex-wrap gap-2">
           {visibleTags.map(({ tag, count }) => {
-            const active = selectedTags.includes(tag)
+            const active = selectedTag === tag
             return (
               <button
                 key={tag}
                 type="button"
                 onClick={() => toggleTag(tag)}
+                aria-pressed={active}
                 className={
                   "inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-xs font-medium transition-colors " +
                   (active

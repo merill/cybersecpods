@@ -1,5 +1,22 @@
 [
   {
+    "id": "modern-soc-struggles-ai-data-fragmentation-and-human-limitations-with-monzy-merz",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "Modern SOC Struggles: AI, Data Fragmentation, and Human Limitations with Monzy Merza",
+    "description": "<p data-pm-slice=\"1 1 []\">Welcome to \"To the Point Cybersecurity Podcast.\" This week, hosts Rachael Lyon and Jonathan Knepher dive deep into the evolving challenges of security operations with special guest Monzy Merza, CEO and co-founder of Crogl. With a career spanning government research, security innovation at Splunk, and go-to-market leadership at Databricks, Monzy Merza brings a unique perspective on why the security operations problem remains unsolved and why industry solutions often fall short for SOC teams.</p> <p>In this episode, you'll hear about the realities faced by security analysts: data sprawled across countless tools, rising alert volumes, and unrealistic expectations for operator expertise. Monzy Merza shares his eye-opening experience stepping away from executive roles to work directly on SOC teams, the complexity of today's threat landscape, and how AI is changing—sometimes complicating—the security equation. He also discusses pitfalls of centralizing data, the importance of auditable and transparent AI, and how Crogl strives to capture institutional knowledge and empower security teams. For links and resources discussed in this episode, please visit our show notes at https://www.forcepoint.com/govpodcast/e379</p>",
+    "publishedAt": "2026-05-05T12:30:00.000Z",
+    "duration": 1628,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E379_-_Monzy_Merza_Part_1_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/0/0/2/d/002d296fc9f3fba716c3140a3186d450/E379_-_Monzy_Merza_Part_1_mixdown.jpg",
+    "episodeNumber": 379,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/govpodcast/e379"
+  },
+  {
     "id": "navigating-ai-risks-and-resilience-in-cybersecurity-with-rick-hemsley",
     "podcastId": "to-the-point-cybersecurity",
     "title": "Navigating AI Risks and Resilience in Cybersecurity with Rick Hemsley",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/govpodcast/e59"
-  },
-  {
-    "id": "navigating-todays-insider-threat-through-human-centric-behavior-analytics-with-t",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "Navigating Today's Insider Threat Through Human-Centric Behavior Analytics, With Toby Ryan",
-    "description": "<p>For organizations, managing threats is a journey, as they steadily build up their capabilities to effectively mitigate risk. Toby Ryan, VP of Analytics Engineering at Forcepoint, discusses how to develop a smarter, more comprehensive approach that combines business and compliance processes so that the level of protection keeps pace with an ever-expanding and evolving digital threat space. For links and resources discussed in this episode, please visit our show notes at <a href= \"https://www.forcepoint.com/govpodcast/e58\">https://www.forcepoint.com/govpodcast/e58</a></p>",
-    "publishedAt": "2019-12-31T13:00:00.000Z",
-    "duration": 1651,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E058_Toby_Ryan_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/0/f/7/7/0f77bfada4725a32/E058_Toby_Ryan_mixdown.jpg",
-    "episodeNumber": 58,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e58"
   }
 ]

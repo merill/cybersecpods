@@ -12,7 +12,7 @@ interface LatestEpisodesRailProps {
 
 export function LatestEpisodesRail({
   episodes,
-  limit = 60,
+  limit = 46,
 }: LatestEpisodesRailProps) {
   const items = episodes.slice(0, limit)
   if (!items.length) return null
