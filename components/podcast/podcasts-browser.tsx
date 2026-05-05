@@ -61,7 +61,7 @@ export function PodcastsBrowser({ podcasts, allTags }: PodcastsBrowserProps) {
     if (!showInactive) list = list.filter((p) => p.isActive)
     if (selectedTags.length) {
       list = list.filter((p) =>
-        selectedTags.every((t) => p.tags.includes(t))
+        selectedTags.every((t) => (p.tags as readonly string[]).includes(t))
       )
     }
     if (query.trim()) {

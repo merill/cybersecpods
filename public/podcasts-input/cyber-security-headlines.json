@@ -1,7 +1,8 @@
 {
   "applePodcastId": "1527478719",
   "tags": [
-    "news",
-    "daily"
-  ]
+    "news"
+  ],
+  "cadence": "daily",
+  "format": "news-brief"
 }

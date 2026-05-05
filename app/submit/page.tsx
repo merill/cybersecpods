@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import { Suspense } from "react"
 
 import { siteConfig } from "@/config/site"
-import { getAllPodcasts, getAllTags } from "@/lib/podcasts"
+import { getAllPodcasts } from "@/lib/podcasts"
 import { SubmitForm } from "@/components/submit/submit-form"
 
 export const metadata: Metadata = {
@@ -28,7 +28,6 @@ function parseRepoFromUrl(url: string): { owner: string; name: string } {
 export default function SubmitPage() {
   const podcasts = getAllPodcasts()
   const existingSlugs = podcasts.map((p) => p.id)
-  const knownTags = getAllTags()
   const repo = parseRepoFromUrl(siteConfig.links.github)
 
   return (
@@ -40,11 +39,7 @@ export default function SubmitPage() {
           </div>
         }
       >
-        <SubmitForm
-          existingSlugs={existingSlugs}
-          knownTags={knownTags}
-          repo={repo}
-        />
+        <SubmitForm existingSlugs={existingSlugs} repo={repo} />
       </Suspense>
     </div>
   )

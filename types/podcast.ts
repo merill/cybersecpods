@@ -1,3 +1,5 @@
+import type { Cadence, CategorySlug, Format } from "@/lib/categories"
+
 // Author for a podcast (multi-author support)
 export interface Author {
   name: string
@@ -15,7 +17,10 @@ export interface PodcastInput {
   youtubeUrl?: string
   twitterUrl?: string
   linkedinUrl?: string
-  tags?: string[]
+  // 1-5 canonical category slugs (see lib/categories.ts)
+  tags?: CategorySlug[]
+  cadence?: Cadence
+  format?: Format
   authors?: Author[]
   featured?: boolean
   submittedBy?: string
@@ -53,6 +58,7 @@ export interface Podcast {
   image: string
   author: string
   language: string
+  // RSS / iTunes feed categories (free-form; distinct from `tags` taxonomy)
   categories: string[]
   explicit: boolean
   websiteUrl: string
@@ -66,8 +72,10 @@ export interface Podcast {
   linkedinUrl: string | null
   applePodcastUrl: string
 
-  // taxonomy
-  tags: string[]
+  // taxonomy (canonical)
+  tags: CategorySlug[]
+  cadence: Cadence | null
+  format: Format | null
   authors: Author[]
 
   // computed

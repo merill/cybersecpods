@@ -110,7 +110,7 @@ export function PodcastHero({ podcast }: PodcastHeroProps) {
                 {podcast.tags.map((t) => (
                   <Link
                     key={t}
-                    href={`/tags/${t}/`}
+                    href={`/categories/${t}/`}
                     className="rounded-full border bg-background/60 px-2.5 py-0.5 text-xs font-medium text-muted-foreground hover:text-foreground"
                   >
                     {displayTag(t)}

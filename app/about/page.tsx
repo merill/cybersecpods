@@ -2,7 +2,8 @@ import type { Metadata } from "next"
 import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
-import { getAllPodcasts, getAllTags, getLatestEpisodes } from "@/lib/podcasts"
+import { CATEGORY_GROUPS } from "@/lib/categories"
+import { getAllPodcasts, getLatestEpisodes } from "@/lib/podcasts"
 import { buttonVariants } from "@/components/ui/button"
 import { Icons } from "@/components/icons"
 
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
 export default function AboutPage() {
   const podcasts = getAllPodcasts()
   const active = podcasts.filter((p) => p.isActive)
-  const tags = getAllTags()
+  const totalCategories = CATEGORY_GROUPS.flatMap((g) => g.categories).length
   const episodes = getLatestEpisodes(1, { includeInactive: true })
   const totalEpisodes = podcasts.reduce((sum, p) => sum + p.episodeCount, 0)
   const lastUpdated = episodes[0]?.publishedAt
@@ -60,7 +61,7 @@ export default function AboutPage() {
               label: "Episodes indexed",
               value: totalEpisodes.toLocaleString(),
             },
-            { label: "Topic tags", value: tags.length.toLocaleString() },
+            { label: "Topic categories", value: totalCategories.toLocaleString() },
           ].map((s) => (
             <div
               key={s.label}
@@ -187,6 +188,45 @@ export default function AboutPage() {
           </div>
         </section>
 
+        {/* Inspiration */}
+        <section className="mt-16">
+          <h2 className="text-2xl font-bold tracking-tight md:text-3xl">
+            Where the idea came from
+          </h2>
+          <div className="mt-6 rounded-2xl border bg-card/50 p-6 md:p-8">
+            <p className="text-base leading-relaxed text-muted-foreground md:text-[17px]">
+              The nudge to actually build this came from{" "}
+              <a
+                href="https://x.com/ZackKorman"
+                target="_blank"
+                rel="noreferrer"
+                className="font-semibold text-foreground underline-offset-4 hover:underline"
+              >
+                Zack Korman
+              </a>
+              . Zack went looking for cybersecurity podcasts, started listening
+              to them, and then started posting absolutely hilarious reviews on
+              X. You can read{" "}
+              <a
+                href="https://x.com/search?q=zackkorman%20podcast%20review&src=typed_query"
+                target="_blank"
+                rel="noreferrer"
+                className="font-semibold text-foreground underline-offset-4 hover:underline"
+              >
+                his reviews here
+              </a>
+              .
+            </p>
+            <p className="mt-4 text-base leading-relaxed text-muted-foreground md:text-[17px]">
+              Watching that thread grow made me realise how much the community
+              wants this kind of curation, and how hard it is to find. So I
+              started building the directory I wished existed. New plan: get
+              Zack to review every single show on CyberSecPods. He doesn&apos;t
+              know about this plan yet.
+            </p>
+          </div>
+        </section>
+
         {/* About the maker */}
         <section className="mt-16">
           <h2 className="text-2xl font-bold tracking-tight md:text-3xl">
@@ -241,6 +281,15 @@ export default function AboutPage() {
               >
                 <Icons.x className="h-3.5 w-3.5" />
                 @merill
+              </a>
+              <a
+                href="https://linkedin.com/in/merill"
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-1.5 rounded-full border bg-background px-3 py-1.5 text-xs font-medium transition-colors hover:bg-accent"
+              >
+                <Icons.linkedin className="h-3.5 w-3.5" />
+                merill on LinkedIn
               </a>
               <a
                 href={siteConfig.links.github}

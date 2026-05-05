@@ -60,7 +60,7 @@ export function TagSearch({ tags }: TagSearchProps) {
           {filtered.map(({ tag, count }) => (
             <li key={tag}>
               <Link
-                href={`/tags/${tag}/`}
+                href={`/categories/${tag}/`}
                 className="inline-flex items-center gap-1.5 rounded-full border bg-card px-3 py-1.5 text-sm font-medium transition-colors hover:bg-accent"
               >
                 {displayTag(tag)}

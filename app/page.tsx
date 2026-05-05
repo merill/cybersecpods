@@ -9,10 +9,10 @@ import {
   getPopularTags,
   getRecentlyUpdatedPodcasts,
   getTopRatedPodcasts,
-  getPodcastsByTag,
+  getPodcastsByCategory,
   shuffleSeeded,
 } from "@/lib/podcasts"
-import { displayTag } from "@/lib/utils"
+import { categoryLabel, CATEGORY_DESCRIPTIONS, isCategorySlug, type CategorySlug } from "@/lib/categories"
 import { websiteJsonLd } from "@/lib/seo"
 import { HeroCarousel } from "@/components/home/hero-carousel"
 import { CategoryRow } from "@/components/home/category-row"
@@ -38,7 +38,13 @@ export default function HomePage() {
   const mostReviewed = getMostReviewedPodcasts(20)
   const recentlyUpdated = getRecentlyUpdatedPodcasts(20)
   const trending = shuffleSeeded(active).slice(0, 20)
-  const popularTags = getPopularTags(2).slice(0, 6)
+  // Up to 6 popular categories with at least 2 active podcasts.
+  const popularCategories = getPopularTags(2)
+    .map((t) => ({ tag: t.tag, count: t.count }))
+    .filter((t): t is { tag: CategorySlug; count: number } =>
+      isCategorySlug(t.tag)
+    )
+    .slice(0, 6)
   const latestEpisodes = getLatestEpisodes(60)
 
   return (
@@ -75,55 +81,19 @@ export default function HomePage() {
               podcasts={recentlyUpdated}
               href="/podcasts/?sort=updated"
             />
-            {popularTags.map(({ tag }) => {
-              const items = getPodcastsByTag(tag).filter((p) => p.isActive)
+            {popularCategories.map(({ tag }) => {
+              const items = getPodcastsByCategory(tag).filter((p) => p.isActive)
               if (items.length < 2) return null
-              const row = (
+              return (
                 <CategoryRow
                   key={tag}
-                  title={displayTag(tag)}
+                  title={categoryLabel(tag)}
+                  description={CATEGORY_DESCRIPTIONS[tag]}
                   podcasts={items}
-                  href={`/tags/${tag}/`}
+                  href={`/categories/${tag}/`}
                 />
               )
-              // Insert the Microsoft row immediately after Weekly (per user request).
-              if (tag === "weekly") {
-                const msft = getPodcastsByTag("microsoft").filter(
-                  (p) => p.isActive
-                )
-                if (msft.length >= 2) {
-                  return (
-                    <div key="weekly-and-microsoft" className="contents">
-                      {row}
-                      <CategoryRow
-                        title="Microsoft"
-                        description="Official cybersecurity podcasts from Microsoft"
-                        podcasts={msft}
-                        href="/tags/microsoft/"
-                      />
-                    </div>
-                  )
-                }
-              }
-              return row
             })}
-            {/* Fallback: if no popular-tag row matches "weekly", still render
-                Microsoft once (at the end) so it always appears. */}
-            {!popularTags.some(({ tag }) => tag === "weekly") &&
-              (() => {
-                const msft = getPodcastsByTag("microsoft").filter(
-                  (p) => p.isActive
-                )
-                if (msft.length < 2) return null
-                return (
-                  <CategoryRow
-                    title="Microsoft"
-                    description="Official cybersecurity podcasts from Microsoft"
-                    podcasts={msft}
-                    href="/tags/microsoft/"
-                  />
-                )
-              })()}
           </div>
           <LatestEpisodesRail episodes={latestEpisodes} />
         </div>

@@ -1,6 +1,7 @@
 import fs from "node:fs"
 import path from "node:path"
 import type { Podcast, Episode } from "@/types/podcast"
+import { CATEGORY_GROUPS, type CategorySlug } from "@/lib/categories"
 
 const DATA_DIR = path.join(process.cwd(), "@data")
 const PODCASTS_FILE = path.join(DATA_DIR, "podcasts.json")
@@ -50,11 +51,19 @@ export function getAllTags(): string[] {
   return Array.from(set).sort()
 }
 
+/** Alias of getAllTags using canonical naming. */
+export function getAllCategories(): CategorySlug[] {
+  return getAllTags() as CategorySlug[]
+}
+
 export function getPodcastsByTag(tag: string): Podcast[] {
   return getAllPodcasts().filter((p) =>
     p.tags.some((t) => t.toLowerCase() === tag.toLowerCase())
   )
 }
+
+/** Alias of getPodcastsByTag using canonical naming. */
+export const getPodcastsByCategory = getPodcastsByTag
 
 /**
  * Returns the latest episodes across all podcasts, newest first.
@@ -184,6 +193,30 @@ export function getPopularTags(min = 2): TagCount[] {
     .filter(([, n]) => n >= min)
     .map(([tag, count]) => ({ tag, count }))
     .sort((a, b) => b.count - a.count || a.tag.localeCompare(b.tag))
+}
+
+/**
+ * Returns counts for every canonical category, including zero-count ones.
+ * Used by the /categories/ landing page.
+ */
+export interface CategoryCount {
+  slug: CategorySlug
+  count: number
+}
+
+export function getCategoryCounts(
+  opts: { activeOnly?: boolean } = {}
+): CategoryCount[] {
+  const { activeOnly = true } = opts
+  const counts = new Map<string, number>()
+  const podcasts = activeOnly ? getActivePodcasts() : getAllPodcasts()
+  for (const p of podcasts) {
+    for (const t of p.tags) counts.set(t, (counts.get(t) ?? 0) + 1)
+  }
+  return CATEGORY_GROUPS.flatMap((g) => g.categories).map((slug) => ({
+    slug: slug as CategorySlug,
+    count: counts.get(slug) ?? 0,
+  }))
 }
 
 export function formatTag(tag: string): string {

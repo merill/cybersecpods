@@ -1,17 +1,14 @@
 import { z } from "zod"
+import {
+  CADENCE_VALUES,
+  CATEGORY_SLUGS,
+  FORMAT_VALUES,
+} from "../../lib/categories"
 
 const httpsUrl = z
   .string()
   .url()
   .refine((u) => u.startsWith("https://"), { message: "must be https://" })
-
-const kebab = z
-  .string()
-  .regex(
-    /^[a-z0-9]+(-[a-z0-9]+)*$/,
-    "tags must be kebab-case (lowercase letters/numbers separated by single hyphens)"
-  )
-  .max(48, "tag is too long")
 
 const hostMatch = (hosts: string[]) =>
   z.string().refine(
@@ -32,6 +29,21 @@ const twitterUrl = httpsUrl.and(hostMatch(["x.com", "twitter.com"]))
 const linkedinUrl = httpsUrl.and(hostMatch(["linkedin.com"]))
 const youtubeUrl = httpsUrl.and(hostMatch(["youtube.com", "youtu.be"]))
 const spotifyUrl = httpsUrl.and(hostMatch(["spotify.com"]))
+
+// Build the Zod enum from the canonical 26 category slugs.
+// `z.enum` requires a non-empty tuple of literals at the type level, so
+// we cast through the constructed array.
+const categoryEnum = z.enum(
+  CATEGORY_SLUGS as unknown as [string, ...string[]]
+)
+
+const cadenceEnum = z.enum(
+  CADENCE_VALUES as unknown as [string, ...string[]]
+)
+
+const formatEnum = z.enum(
+  FORMAT_VALUES as unknown as [string, ...string[]]
+)
 
 export const authorSchema = z
   .object({
@@ -57,13 +69,15 @@ export const podcastInputSchema = z
     twitterUrl: twitterUrl.optional(),
     linkedinUrl: linkedinUrl.optional(),
     tags: z
-      .array(kebab)
-      .max(12, "no more than 12 tags")
+      .array(categoryEnum)
+      .min(1, "at least 1 category is required")
+      .max(5, "no more than 5 categories")
       .refine(
         (arr) => new Set(arr).size === arr.length,
-        "tags must be unique"
-      )
-      .optional(),
+        "categories must be unique"
+      ),
+    cadence: cadenceEnum.optional(),
+    format: formatEnum.optional(),
     authors: z
       .array(authorSchema)
       .max(10, "no more than 10 authors")

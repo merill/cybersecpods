@@ -1,6 +1,8 @@
 import { clsx, type ClassValue } from "clsx"
 import { twMerge } from "tailwind-merge"
 
+import { categoryLabel, isCategorySlug } from "./categories"
+
 export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs))
 }
@@ -51,9 +53,15 @@ export function formatRatingCount(n: number | null | undefined): string {
 }
 
 /**
- * Format a kebab-case tag for display. Special-cases known acronyms.
+ * Format a kebab-case tag for display.
+ *
+ * Prefers the canonical category label from `lib/categories.ts` when the
+ * slug is one of the 26 known categories. Falls back to a generic
+ * acronym-aware title-case for anything else (legacy callers).
  */
 export function displayTag(tag: string): string {
+  if (isCategorySlug(tag)) return categoryLabel(tag)
+
   const acronyms = new Set([
     "ai",
     "ot",

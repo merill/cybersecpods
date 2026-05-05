@@ -5,6 +5,16 @@ import { useRouter, useSearchParams } from "next/navigation"
 import Image from "next/image"
 
 import type { PodcastInput } from "@/types/podcast"
+import {
+  CADENCE_LABELS,
+  CADENCE_VALUES,
+  CATEGORY_GROUPS,
+  FORMAT_LABELS,
+  FORMAT_VALUES,
+  categoryLabel,
+  type Cadence,
+  type Format,
+} from "@/lib/categories"
 import { podcastInputSchema } from "@/lib/podcast-schema"
 import {
   type AppleLookupResult,
@@ -19,6 +29,7 @@ import {
 } from "@/lib/submit"
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 import { Button } from "@/components/ui/button"
+import { Checkbox } from "@/components/ui/checkbox"
 import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Icons } from "@/components/icons"
@@ -26,8 +37,6 @@ import { Icons } from "@/components/icons"
 interface SubmitFormProps {
   /** Existing slugs (for duplicate / edit detection). */
   existingSlugs: string[]
-  /** Existing tags (for autocomplete suggestions). */
-  knownTags: string[]
   /** Repo info for issue URL. */
   repo: { owner: string; name: string }
 }
@@ -44,7 +53,6 @@ type StepId = (typeof STEPS)[number]["id"]
 
 export function SubmitForm({
   existingSlugs,
-  knownTags,
   repo,
 }: SubmitFormProps) {
   const router = useRouter()
@@ -287,16 +295,16 @@ export function SubmitForm({
           editSlug={editSlug}
           slugError={slugError}
           appleResult={appleResult}
-          knownTags={knownTags}
           onChange={update}
-          onAddTag={(tag) =>
+          onToggleTag={(tag) =>
             setState((s) => ({
               ...s,
-              tags: s.tags.includes(tag) ? s.tags : [...s.tags, tag],
+              tags: s.tags.includes(tag)
+                ? s.tags.filter((t) => t !== tag)
+                : s.tags.length >= 5
+                ? s.tags
+                : [...s.tags, tag],
             }))
-          }
-          onRemoveTag={(tag) =>
-            setState((s) => ({ ...s, tags: s.tags.filter((t) => t !== tag) }))
           }
           onAddAuthor={() =>
             setState((s) => ({ ...s, authors: [...s.authors, emptyAuthor()] }))
@@ -451,10 +459,8 @@ function StepDetails({
   editSlug,
   slugError,
   appleResult,
-  knownTags,
   onChange,
-  onAddTag,
-  onRemoveTag,
+  onToggleTag,
   onAddAuthor,
   onRemoveAuthor,
   onChangeAuthor,
@@ -467,13 +473,11 @@ function StepDetails({
   editSlug: string | null
   slugError: string | null
   appleResult: AppleLookupResult | null
-  knownTags: string[]
   onChange: <K extends keyof PodcastFormState>(
     key: K,
     value: PodcastFormState[K]
   ) => void
-  onAddTag: (tag: string) => void
-  onRemoveTag: (tag: string) => void
+  onToggleTag: (tag: string) => void
   onAddAuthor: () => void
   onRemoveAuthor: (idx: number) => void
   onChangeAuthor: (
@@ -485,34 +489,26 @@ function StepDetails({
   onBack: () => void
   onNext: () => void
 }) {
-  const [tagInput, setTagInput] = useState("")
-
-  const filteredSuggestions = useMemo(() => {
-    const q = tagInput.trim().toLowerCase()
-    if (!q) return [] as string[]
-    return knownTags
-      .filter((t) => t.includes(q) && !state.tags.includes(t))
-      .slice(0, 6)
-  }, [knownTags, tagInput, state.tags])
-
-  const addTagFromInput = () => {
-    const cleaned = clientSlugify(tagInput)
-    if (!cleaned) return
-    onAddTag(cleaned)
-    setTagInput("")
-  }
-
   const issueFor = (path: string) =>
-    validationIssues.find((i) => i.path === path || i.path.startsWith(path + "."))
+    validationIssues.find(
+      (i) => i.path === path || i.path.startsWith(path + ".")
+    )
+  const tagsAtMax = state.tags.length >= 5
 
   return (
     <div className="space-y-6">
       {/* Slug */}
-      <Section title="Slug" desc="Becomes the URL: cybersecpods.com/podcasts/<slug>/">
+      <Section
+        title="Slug"
+        desc="Becomes the URL: cybersecpods.com/podcasts/<slug>/"
+      >
         <Input
           value={state.slug}
           onChange={(e) =>
-            onChange("slug", e.target.value.toLowerCase().replace(/[^a-z0-9-]/g, ""))
+            onChange(
+              "slug",
+              e.target.value.toLowerCase().replace(/[^a-z0-9-]/g, "")
+            )
           }
           placeholder="darknet-diaries"
           disabled={mode === "edit"}
@@ -528,7 +524,11 @@ function StepDetails({
       {/* Apple */}
       <Section
         title="Apple Podcasts ID"
-        desc={appleResult ? `${appleResult.collectionName} · ${appleResult.artistName}` : ""}
+        desc={
+          appleResult
+            ? `${appleResult.collectionName} · ${appleResult.artistName}`
+            : ""
+        }
       >
         <Input
           value={state.applePodcastId}
@@ -539,57 +539,92 @@ function StepDetails({
         />
       </Section>
 
-      {/* Tags */}
+      {/* Categories (1-5) */}
       <Section
-        title="Tags"
-        desc="Free-form, kebab-case (e.g. threat-intelligence). Up to 12."
+        title="Categories"
+        desc={`Pick 1\u20135 that best describe the show. ${state.tags.length}/5 selected.`}
       >
-        <div className="flex flex-wrap gap-1.5">
-          {state.tags.map((t) => (
-            <button
-              key={t}
-              type="button"
-              onClick={() => onRemoveTag(t)}
-              className="inline-flex items-center gap-1 rounded-full bg-primary px-2.5 py-0.5 text-xs font-medium text-primary-foreground hover:opacity-90"
-            >
-              {t}
-              <span aria-hidden>×</span>
-            </button>
+        <div className="space-y-5">
+          {CATEGORY_GROUPS.map((group) => (
+            <fieldset key={group.slug} className="space-y-2">
+              <legend className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+                {group.label}
+              </legend>
+              <div className="grid gap-2 sm:grid-cols-2">
+                {group.categories.map((slug) => {
+                  const checked = state.tags.includes(slug)
+                  const disabled = !checked && tagsAtMax
+                  return (
+                    <label
+                      key={slug}
+                      className={
+                        "flex cursor-pointer items-start gap-2 rounded-md border bg-background p-2 text-sm transition-colors " +
+                        (checked
+                          ? "border-primary bg-primary/5"
+                          : disabled
+                          ? "opacity-50"
+                          : "hover:bg-accent")
+                      }
+                    >
+                      <Checkbox
+                        checked={checked}
+                        disabled={disabled}
+                        onCheckedChange={() => onToggleTag(slug)}
+                      />
+                      <span>{categoryLabel(slug)}</span>
+                    </label>
+                  )
+                })}
+              </div>
+            </fieldset>
           ))}
-        </div>
-        <div className="relative">
-          <Input
-            value={tagInput}
-            onChange={(e) => setTagInput(e.target.value)}
-            placeholder="Add a tag and press Enter"
-            onKeyDown={(e) => {
-              if (e.key === "Enter" || e.key === ",") {
-                e.preventDefault()
-                addTagFromInput()
-              }
-            }}
-          />
-          {filteredSuggestions.length ? (
-            <div className="absolute z-10 mt-1 w-full overflow-hidden rounded-md border bg-popover shadow-md">
-              {filteredSuggestions.map((s) => (
-                <button
-                  key={s}
-                  type="button"
-                  onClick={() => {
-                    onAddTag(s)
-                    setTagInput("")
-                  }}
-                  className="block w-full px-3 py-1.5 text-left text-sm hover:bg-accent"
-                >
-                  {s}
-                </button>
-              ))}
-            </div>
-          ) : null}
         </div>
         {issueFor("tags") ? (
           <FieldError>{issueFor("tags")!.message}</FieldError>
         ) : null}
+      </Section>
+
+      {/* Cadence + Format */}
+      <Section
+        title="Cadence & format (optional)"
+        desc="How often the show publishes, and what format it takes."
+      >
+        <div className="grid gap-3 sm:grid-cols-2">
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Cadence</Label>
+            <select
+              value={state.cadence}
+              onChange={(e) =>
+                onChange("cadence", e.target.value as Cadence | "")
+              }
+              className="h-9 w-full rounded-md border border-input bg-background px-2 text-sm"
+            >
+              <option value="">— Not specified —</option>
+              {CADENCE_VALUES.map((c) => (
+                <option key={c} value={c}>
+                  {CADENCE_LABELS[c]}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div className="space-y-1">
+            <Label className="text-xs text-muted-foreground">Format</Label>
+            <select
+              value={state.format}
+              onChange={(e) =>
+                onChange("format", e.target.value as Format | "")
+              }
+              className="h-9 w-full rounded-md border border-input bg-background px-2 text-sm"
+            >
+              <option value="">— Not specified —</option>
+              {FORMAT_VALUES.map((f) => (
+                <option key={f} value={f}>
+                  {FORMAT_LABELS[f]}
+                </option>
+              ))}
+            </select>
+          </div>
+        </div>
       </Section>
 
       {/* Socials */}

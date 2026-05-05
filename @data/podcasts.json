@@ -24,9 +24,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id797742806",
     "tags": [
-      "short-form",
-      "pentest"
+      "penetration-testing",
+      "blue-team"
     ],
+    "cadence": "weekly",
+    "format": "solo",
     "authors": [],
     "lastEpisodeDate": "2026-05-01T16:44:00.000Z",
     "episodeCount": 720,
@@ -37,7 +39,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 70,
-        "fetchedAt": "2026-05-05T06:15:11.013Z"
+        "fetchedAt": "2026-05-05T08:22:28.998Z"
       }
     },
     "recentReviews": [
@@ -104,9 +106,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1555610335",
     "tags": [
-      "awareness",
-      "human-factors"
+      "awareness-training",
+      "leadership"
     ],
+    "cadence": "irregular",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2025-09-29T23:06:00.000Z",
     "episodeCount": 87,
@@ -117,7 +121,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 56,
-        "fetchedAt": "2026-05-05T06:15:12.283Z"
+        "fetchedAt": "2026-05-05T08:22:29.619Z"
       }
     },
     "recentReviews": [
@@ -182,8 +186,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1402701626",
     "tags": [
-      "appsec"
+      "appsec",
+      "devsecops"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-21T18:00:00.000Z",
     "episodeCount": 319,
@@ -194,7 +201,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 18,
-        "fetchedAt": "2026-05-05T06:15:13.676Z"
+        "fetchedAt": "2026-05-05T08:22:30.237Z"
       }
     }
   },
@@ -223,8 +230,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1484676119",
     "tags": [
       "leadership",
-      "interview"
+      "interviews"
     ],
+    "cadence": "biweekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-28T07:05:00.000Z",
     "episodeCount": 134,
@@ -235,7 +244,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 38,
-        "fetchedAt": "2026-05-05T06:15:14.998Z"
+        "fetchedAt": "2026-05-05T08:22:30.981Z"
       }
     },
     "recentReviews": [
@@ -302,11 +311,13 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1338907745",
     "tags": [
       "appsec",
-      "weekly"
+      "devsecops"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-04-28T09:00:00.000Z",
-    "episodeCount": 394,
+    "lastEpisodeDate": "2026-05-05T09:00:00.000Z",
+    "episodeCount": 395,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -314,7 +325,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 12,
-        "fetchedAt": "2026-05-05T06:15:16.242Z"
+        "fetchedAt": "2026-05-05T08:22:31.629Z"
       }
     },
     "recentReviews": [
@@ -366,10 +377,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1512476835",
     "tags": [
-      "microsoft",
-      "azure",
-      "cloud"
+      "cloud-security",
+      "identity"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-30T15:41:54.000Z",
     "episodeCount": 126,
@@ -380,7 +392,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 25,
-        "fetchedAt": "2026-05-05T06:15:18.224Z"
+        "fetchedAt": "2026-05-05T08:22:32.182Z"
       }
     }
   },
@@ -408,8 +420,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1236329410",
     "tags": [
       "threat-intel",
-      "cisco"
+      "incident-response"
     ],
+    "cadence": "irregular",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-30T10:00:00.000Z",
     "episodeCount": 156,
@@ -420,7 +434,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 142,
-        "fetchedAt": "2026-05-05T06:15:19.445Z"
+        "fetchedAt": "2026-05-05T08:22:32.762Z"
       }
     },
     "recentReviews": [
@@ -484,9 +498,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1688087915",
     "tags": [
-      "microsoft",
-      "research"
+      "research",
+      "vulnerability-management"
     ],
+    "cadence": "monthly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2025-07-09T07:05:00.000Z",
     "episodeCount": 59,
@@ -497,7 +513,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 12,
-        "fetchedAt": "2026-05-05T06:15:20.665Z"
+        "fetchedAt": "2026-05-05T08:22:33.297Z"
       }
     },
     "recentReviews": [
@@ -564,8 +580,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1139240260",
     "tags": [
       "leadership",
-      "weekly"
+      "governance-risk-compliance"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-29T09:00:00.000Z",
     "episodeCount": 463,
@@ -576,7 +594,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 3,
-        "fetchedAt": "2026-05-05T06:15:21.769Z"
+        "fetchedAt": "2026-05-05T08:22:33.967Z"
       }
     }
   },
@@ -606,11 +624,13 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1391337832",
     "tags": [
       "leadership",
-      "ciso"
+      "governance-risk-compliance"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-04-28T10:00:00.000Z",
-    "episodeCount": 403,
+    "lastEpisodeDate": "2026-05-05T10:00:00.000Z",
+    "episodeCount": 404,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -618,7 +638,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 192,
-        "fetchedAt": "2026-05-05T06:15:23.252Z"
+        "fetchedAt": "2026-05-05T08:22:34.467Z"
       }
     },
     "recentReviews": [
@@ -683,8 +703,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1538132658",
     "tags": [
       "leadership",
-      "ciso"
+      "career"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T20:13:21.000Z",
     "episodeCount": 282,
@@ -695,7 +717,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 49,
-        "fetchedAt": "2026-05-05T06:15:24.407Z"
+        "fetchedAt": "2026-05-05T08:22:35.138Z"
       }
     },
     "recentReviews": [
@@ -754,8 +776,11 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1225077306",
     "tags": [
       "news",
-      "investigative"
+      "storytelling",
+      "threat-intel"
     ],
+    "cadence": "weekly",
+    "format": "narrative",
     "authors": [],
     "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
     "episodeCount": 337,
@@ -766,7 +791,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 412,
-        "fetchedAt": "2026-05-05T06:15:25.597Z"
+        "fetchedAt": "2026-05-05T08:22:35.662Z"
       }
     },
     "recentReviews": [
@@ -830,9 +855,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1489678590",
     "tags": [
-      "cloud",
-      "interview"
+      "cloud-security",
+      "interviews"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-29T18:15:00.000Z",
     "episodeCount": 347,
@@ -843,7 +870,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 57,
-        "fetchedAt": "2026-05-05T06:15:27.015Z"
+        "fetchedAt": "2026-05-05T08:22:36.285Z"
       }
     },
     "recentReviews": [
@@ -909,9 +936,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1633932941",
     "tags": [
-      "true-crime",
-      "interview"
+      "storytelling",
+      "incident-response"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-02T16:00:00.000Z",
     "episodeCount": 324,
@@ -922,7 +951,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 28,
-        "fetchedAt": "2026-05-05T06:15:28.839Z"
+        "fetchedAt": "2026-05-05T08:22:36.877Z"
       }
     },
     "recentReviews": [
@@ -990,9 +1019,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1591867425",
     "tags": [
-      "culture",
-      "leadership"
+      "leadership",
+      "career",
+      "awareness-training"
     ],
+    "cadence": "irregular",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2024-04-02T03:00:00.000Z",
     "episodeCount": 46,
@@ -1003,7 +1035,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-05T06:15:30.164Z"
+        "fetchedAt": "2026-05-05T08:22:37.366Z"
       }
     }
   },
@@ -1032,9 +1064,10 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1527478719",
     "tags": [
-      "news",
-      "daily"
+      "news"
     ],
+    "cadence": "daily",
+    "format": "news-brief",
     "authors": [],
     "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
     "episodeCount": 1728,
@@ -1045,7 +1078,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 133,
-        "fetchedAt": "2026-05-05T06:15:31.223Z"
+        "fetchedAt": "2026-05-05T08:22:37.888Z"
       }
     },
     "recentReviews": [
@@ -1114,8 +1147,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1419689068",
     "tags": [
       "career",
-      "interview"
+      "awareness-training"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2025-08-18T18:00:00.000Z",
     "episodeCount": 392,
@@ -1126,7 +1161,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 102,
-        "fetchedAt": "2026-05-05T06:15:32.520Z"
+        "fetchedAt": "2026-05-05T08:22:38.412Z"
       }
     },
     "recentReviews": [
@@ -1191,8 +1226,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1428735886",
     "tags": [
       "news",
-      "interview"
+      "interviews"
     ],
+    "cadence": "daily",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T13:10:32.000Z",
     "episodeCount": 500,
@@ -1203,7 +1240,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 21,
-        "fetchedAt": "2026-05-05T06:15:33.576Z"
+        "fetchedAt": "2026-05-05T08:22:38.891Z"
       }
     },
     "recentReviews": [
@@ -1258,8 +1295,11 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1649981740",
     "tags": [
       "soc",
-      "blue-team"
+      "blue-team",
+      "threat-intel"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T10:00:19.000Z",
     "episodeCount": 319,
@@ -1270,7 +1310,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 25,
-        "fetchedAt": "2026-05-05T06:15:34.719Z"
+        "fetchedAt": "2026-05-05T08:22:39.537Z"
       }
     },
     "recentReviews": [
@@ -1331,8 +1371,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1071831261",
     "tags": [
       "news",
-      "daily"
+      "threat-intel"
     ],
+    "cadence": "daily",
+    "format": "news-brief",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T20:30:00.000Z",
     "episodeCount": 3617,
@@ -1343,7 +1385,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 1011,
-        "fetchedAt": "2026-05-05T06:15:35.964Z"
+        "fetchedAt": "2026-05-05T08:22:40.067Z"
       }
     },
     "recentReviews": [
@@ -1407,10 +1449,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1296350485",
     "tags": [
-      "true-crime",
-      "hacking",
-      "storytelling"
+      "storytelling",
+      "incident-response",
+      "threat-intel"
     ],
+    "cadence": "biweekly",
+    "format": "narrative",
     "authors": [],
     "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
     "episodeCount": 174,
@@ -1421,7 +1465,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 7992,
-        "fetchedAt": "2026-05-05T06:15:37.437Z"
+        "fetchedAt": "2026-05-05T08:22:40.673Z"
       }
     },
     "recentReviews": [
@@ -1487,10 +1531,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1627427926",
     "tags": [
-      "microsoft",
-      "regional",
-      "asia-pacific"
+      "leadership",
+      "governance-risk-compliance"
     ],
+    "cadence": "monthly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2022-10-10T13:01:00.000Z",
     "episodeCount": 11,
@@ -1531,8 +1576,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1450197741",
     "tags": [
       "leadership",
-      "ciso"
+      "governance-risk-compliance"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-30T10:00:00.000Z",
     "episodeCount": 356,
@@ -1543,7 +1590,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 76,
-        "fetchedAt": "2026-05-05T06:15:38.634Z"
+        "fetchedAt": "2026-05-05T08:22:41.376Z"
       }
     },
     "recentReviews": [
@@ -1611,8 +1658,11 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id585914973",
     "tags": [
       "blue-team",
-      "weekly"
+      "incident-response",
+      "news"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-22T13:57:04.000Z",
     "episodeCount": 200,
@@ -1623,7 +1673,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 368,
-        "fetchedAt": "2026-05-05T06:15:39.728Z"
+        "fetchedAt": "2026-05-05T08:22:41.893Z"
       }
     },
     "recentReviews": [
@@ -1689,11 +1739,14 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id466659176",
     "tags": [
-      "interview"
+      "leadership",
+      "interviews"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-04-28T10:00:00.000Z",
-    "episodeCount": 740,
+    "lastEpisodeDate": "2026-05-05T10:00:00.000Z",
+    "episodeCount": 741,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1701,7 +1754,7 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 95,
-        "fetchedAt": "2026-05-05T06:15:41.084Z"
+        "fetchedAt": "2026-05-05T08:22:42.525Z"
       }
     },
     "recentReviews": [
@@ -1767,9 +1820,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1112175960",
     "tags": [
-      "enterprise",
-      "weekly"
+      "leadership",
+      "network-security",
+      "news"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T09:00:00.000Z",
     "episodeCount": 475,
@@ -1780,7 +1836,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 14,
-        "fetchedAt": "2026-05-05T06:15:42.363Z"
+        "fetchedAt": "2026-05-05T08:22:43.113Z"
       }
     },
     "recentReviews": [
@@ -1818,10 +1874,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1801200012",
     "tags": [
-      "microsoft",
-      "microsoft-entra",
-      "identity"
+      "identity",
+      "cloud-security"
     ],
+    "cadence": "biweekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-02T15:58:15.000Z",
     "episodeCount": 59,
@@ -1832,7 +1889,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 6,
-        "fetchedAt": "2026-05-05T06:15:43.436Z"
+        "fetchedAt": "2026-05-05T08:22:43.702Z"
       }
     },
     "recentReviews": [
@@ -1871,6 +1928,8 @@
       "storytelling",
       "news"
     ],
+    "cadence": "biweekly",
+    "format": "narrative",
     "authors": [],
     "lastEpisodeDate": "2026-05-02T03:59:00.000Z",
     "episodeCount": 151,
@@ -1881,7 +1940,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 180,
-        "fetchedAt": "2026-05-05T06:15:44.462Z"
+        "fetchedAt": "2026-05-05T08:22:44.206Z"
       }
     },
     "recentReviews": [
@@ -1947,9 +2006,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1471881997",
     "tags": [
-      "interview",
-      "career"
+      "career",
+      "interviews",
+      "leadership"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-01T19:32:40.000Z",
     "episodeCount": 423,
@@ -1960,7 +2022,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 60,
-        "fetchedAt": "2026-05-05T06:15:45.791Z"
+        "fetchedAt": "2026-05-05T08:22:44.896Z"
       }
     },
     "recentReviews": [
@@ -2026,9 +2088,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1391915810",
     "tags": [
-      "social-engineering",
-      "weekly"
+      "awareness-training",
+      "threat-intel"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
     "episodeCount": 769,
@@ -2039,7 +2103,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 316,
-        "fetchedAt": "2026-05-05T06:15:47.012Z"
+        "fetchedAt": "2026-05-05T08:22:45.691Z"
       }
     },
     "recentReviews": [
@@ -2103,9 +2167,10 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1471899975",
     "tags": [
-      "identity",
-      "iam"
+      "identity"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T09:00:00.000Z",
     "episodeCount": 419,
@@ -2116,7 +2181,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 40,
-        "fetchedAt": "2026-05-05T06:15:48.408Z"
+        "fetchedAt": "2026-05-05T08:22:46.312Z"
       }
     },
     "recentReviews": [
@@ -2158,6 +2223,87 @@
     ]
   },
   {
+    "id": "lock-and-code",
+    "applePodcastId": "1500049667",
+    "title": "Lock and Code",
+    "description": "Lock and Code tells the human stories within cybersecurity, privacy, and technology. Rogue robot vacuums, hacked farm tractors, and catastrophic software vulnerabilities—it’s all here.",
+    "summary": "Lock and Code tells the human stories within cybersecurity, privacy, and technology. Rogue robot vacuums, hacked farm tractors, and catastrophic software vulnerabilities—it’s all here.",
+    "subtitle": "",
+    "image": "https://artwork.captivate.fm/3f215aa3-b1b3-45b6-8738-ac92b2482318/Lock-and-Code-Logo-2025-Refresh.png",
+    "author": "Malwarebytes",
+    "language": "en",
+    "categories": [
+      "Technology",
+      "News",
+      "Tech News"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://www.malwarebytes.com/blog/category/podcast",
+    "rssUrl": "https://feeds.captivate.fm/lock-and-code/",
+    "copyright": "Copyright 2026 Malwarebytes",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1500049667",
+    "tags": [
+      "privacy",
+      "awareness-training"
+    ],
+    "cadence": "biweekly",
+    "format": "interview",
+    "authors": [],
+    "lastEpisodeDate": "2026-05-03T15:45:00.000Z",
+    "episodeCount": 159,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.8,
+        "ratingCount": 48,
+        "fetchedAt": "2026-05-05T08:22:46.880Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hadn’t heard of pig butchering - but related",
+        "content": "Your shows are always so interesting. This one particularly hit. It wasn’t pig butchering specifically, but my husband got taken down by a group selling a trading platform for cryptos. Their method of getting your money was different. You login to their pretend crypto platform with impressive looking live charts. While your representative is on the line, you login to your bank to transfer money. They then have your bank login information. They login as you and drain your accounts. They nurture you for a while. Once you catch on and they have your money, they keep calling, trying to entice you back. It sounds like they have a full call center going in the background. On the face of it, they are London based. Where they actually are, who knows. Be careful who you trust! Breathe",
+        "author": "Liveinyourbody",
+        "updatedAt": "2026-01-02T10:39:56-07:00"
+      },
+      {
+        "rating": 4,
+        "title": "Great topics, great content",
+        "content": "Put a bark collar on Zack Hinkle.  Shock him for every extraneous “like”.",
+        "author": "“Like, cool, dude”",
+        "updatedAt": "2025-07-13T18:37:56-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Interview with gen Z teen was frustrating",
+        "content": "I was really intrigued by the questions that David introduced in the recent re-aired episode intro on the interview with Nitya. For context, I’m in my mid-twenties (cusp of gen Z and millennial) so I find the generational difference in online awareness really interesting. Thus, I found the interview with Nitya to be frustrating and boring. Her answers felt quite judgmental of others’ experiences with social media. No context was given on who she is - i understand her parents may want privacy but her answers were presented like a breakthrough understanding about gen Z as a whole, as opposed to acknowledging that she’s just an individual. Ex: “since Nitya is a minor, we won’t be sharing about her personal info, but she first used a computer in year X, and is not a frequent social media user, which our listeners may be surprised by…”. I’m a loyal Malwarebytes customer and really wanted to like this episode. But I guess I’ll have to try again or give up.",
+        "author": "nicholasname",
+        "updatedAt": "2023-10-02T22:45:29-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Podcast host? More like Dreamycast host.",
+        "content": "I have personally seen David Ruiz without a shirt on and you don’t need to be an astronaut to know it is out of this world. Just like this podcast series, it is firm, informative, and only gets better in low lighting.",
+        "author": "Ghost of Samuel Eells",
+        "updatedAt": "2022-07-05T09:49:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Excellent history and overview of Macs and Malware",
+        "content": "I was using UNIX in 1978 and continued for over 40 years.  People who ran the computer network in Electrical Engineering at Purdue were very interested in malware, worms as I recall, as they first appeared on the scene and popped up on occasion. I was at a electronics show in Huston, TX in the early 80s and went with the head of our computer network to Xerox and saw/used the first mouse, so I was impressed when I saw the Macs and had to have one. I too thought the Mac was virus proof, assuming the propriety nature of the of the software and difficulty sharing software kept it safe, but when OS X came and the internet blossomed I knew that the UNIX based OS was vulnerable. I loved being able to get to the command line and continue using it even today, though not nearly as often.  I still imagine that the popularity of Windows and its vulnerabilities makes it a bigger target, but in reality with the complexity of todays software I see how important it is to use Malwarebytes to protect the Apple devices our family has.",
+        "author": "ahughes42",
+        "updatedAt": "2021-12-24T10:34:04-07:00"
+      }
+    ]
+  },
+  {
     "id": "malicious-life",
     "applePodcastId": "1252417787",
     "title": "Malicious Life",
@@ -2180,9 +2326,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1252417787",
     "tags": [
-      "history",
-      "storytelling"
+      "storytelling",
+      "research"
     ],
+    "cadence": "biweekly",
+    "format": "narrative",
     "authors": [],
     "lastEpisodeDate": "2024-12-10T11:03:00.000Z",
     "episodeCount": 265,
@@ -2193,7 +2341,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 930,
-        "fetchedAt": "2026-05-05T06:15:51.049Z"
+        "fetchedAt": "2026-05-05T08:22:47.469Z"
       }
     },
     "recentReviews": [
@@ -2259,10 +2407,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1893451408",
     "tags": [
-      "microsoft",
-      "healthcare",
-      "threat-intel"
+      "threat-intel",
+      "governance-risk-compliance"
     ],
+    "cadence": "monthly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-14T21:06:00.000Z",
     "episodeCount": 2,
@@ -2302,8 +2451,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1710656242",
     "tags": [
       "threat-intel",
-      "microsoft"
+      "incident-response"
     ],
+    "cadence": "biweekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-22T07:05:00.000Z",
     "episodeCount": 68,
@@ -2314,7 +2465,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 23,
-        "fetchedAt": "2026-05-05T06:15:52.226Z"
+        "fetchedAt": "2026-05-05T08:22:48.083Z"
       }
     },
     "recentReviews": [
@@ -2365,8 +2516,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id171426676",
     "tags": [
       "news",
-      "weekly"
+      "awareness-training"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2023-08-24T01:06:08.000Z",
     "episodeCount": 515,
@@ -2377,7 +2530,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 57,
-        "fetchedAt": "2026-05-05T06:15:53.977Z"
+        "fetchedAt": "2026-05-05T08:22:48.799Z"
       }
     },
     "recentReviews": [
@@ -2441,9 +2594,10 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1540650068",
     "tags": [
-      "ot-security",
-      "interview"
+      "ot-ics-security"
     ],
+    "cadence": "biweekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-03T04:00:00.000Z",
     "episodeCount": 129,
@@ -2454,7 +2608,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 17,
-        "fetchedAt": "2026-05-05T06:15:55.111Z"
+        "fetchedAt": "2026-05-05T08:22:49.355Z"
       }
     },
     "recentReviews": [
@@ -2518,9 +2672,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1151833659",
     "tags": [
-      "open-source",
-      "appsec"
+      "appsec",
+      "devsecops"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T00:00:00.000Z",
     "episodeCount": 527,
@@ -2531,7 +2687,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 39,
-        "fetchedAt": "2026-05-05T06:15:56.786Z"
+        "fetchedAt": "2026-05-05T08:22:50.186Z"
       }
     },
     "recentReviews": [
@@ -2598,8 +2754,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1149992167",
     "tags": [
       "news",
-      "weekly"
+      "vulnerability-management"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-30T21:00:00.000Z",
     "episodeCount": 629,
@@ -2610,7 +2768,7 @@
       "apple": {
         "averageRating": 4.2,
         "ratingCount": 20,
-        "fetchedAt": "2026-05-05T06:15:58.447Z"
+        "fetchedAt": "2026-05-05T08:22:50.806Z"
       }
     },
     "recentReviews": [
@@ -2660,8 +2818,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1269095333",
     "tags": [
-      "purple-team"
+      "purple-team",
+      "red-team",
+      "blue-team"
     ],
+    "cadence": "irregular",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2021-01-05T08:35:00.000Z",
     "episodeCount": 73,
@@ -2672,7 +2834,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 21,
-        "fetchedAt": "2026-05-05T06:16:00.053Z"
+        "fetchedAt": "2026-05-05T08:22:51.342Z"
       }
     },
     "recentReviews": [
@@ -2740,8 +2902,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1542819224",
     "tags": [
       "leadership",
-      "interview"
+      "governance-risk-compliance"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-29T07:00:00.000Z",
     "episodeCount": 199,
@@ -2752,7 +2916,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 19,
-        "fetchedAt": "2026-05-05T06:16:01.230Z"
+        "fetchedAt": "2026-05-05T08:22:51.969Z"
       }
     },
     "recentReviews": [
@@ -2819,8 +2983,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1621305970",
     "tags": [
       "news",
-      "weekly"
+      "threat-intel"
     ],
+    "cadence": "weekly",
+    "format": "news-brief",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T19:45:48.000Z",
     "episodeCount": 100,
@@ -2831,7 +2997,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 47,
-        "fetchedAt": "2026-05-05T06:16:02.296Z"
+        "fetchedAt": "2026-05-05T08:22:52.557Z"
       }
     },
     "recentReviews": [
@@ -2877,9 +3043,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id216478078",
     "tags": [
       "news",
-      "weekly",
-      "industry"
+      "threat-intel"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-05-01T00:58:34.000Z",
     "episodeCount": 100,
@@ -2890,7 +3057,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 389,
-        "fetchedAt": "2026-05-05T06:16:03.467Z"
+        "fetchedAt": "2026-05-05T08:22:53.152Z"
       }
     },
     "recentReviews": [
@@ -2956,10 +3123,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1676703961",
     "tags": [
-      "microsoft",
       "career",
-      "education"
+      "awareness-training"
     ],
+    "cadence": "biweekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2023-04-26T07:05:00.000Z",
     "episodeCount": 6,
@@ -2997,10 +3165,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1872511454",
     "tags": [
-      "microsoft",
       "leadership",
       "interviews"
     ],
+    "cadence": "monthly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-03-03T10:00:00.000Z",
     "episodeCount": 4,
@@ -3038,10 +3207,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1610546860",
     "tags": [
-      "microsoft",
-      "regional",
-      "europe"
+      "awareness-training",
+      "career"
     ],
+    "cadence": "irregular",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-15T12:00:00.000Z",
     "episodeCount": 83,
@@ -3079,10 +3249,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id79016499",
     "tags": [
-      "technical",
-      "weekly",
-      "industry"
+      "news",
+      "vulnerability-management",
+      "privacy"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-29T02:56:38.000Z",
     "episodeCount": 10,
@@ -3093,7 +3265,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 2008,
-        "fetchedAt": "2026-05-05T06:16:04.693Z"
+        "fetchedAt": "2026-05-05T08:22:53.803Z"
       }
     },
     "recentReviews": [
@@ -3160,9 +3332,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1533925942",
     "tags": [
-      "microsoft",
-      "research"
+      "research",
+      "ai-security",
+      "threat-intel"
     ],
+    "cadence": "irregular",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2025-07-09T07:05:00.000Z",
     "episodeCount": 67,
@@ -3173,7 +3348,7 @@
       "apple": {
         "averageRating": 4,
         "ratingCount": 56,
-        "fetchedAt": "2026-05-05T06:16:05.892Z"
+        "fetchedAt": "2026-05-05T08:22:54.317Z"
       }
     },
     "recentReviews": [
@@ -3237,10 +3412,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1567154000",
     "tags": [
-      "microsoft",
-      "ciso",
-      "leadership"
+      "leadership",
+      "governance-risk-compliance"
     ],
+    "cadence": "monthly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2021-07-30T07:05:00.000Z",
     "episodeCount": 6,
@@ -3321,6 +3497,8 @@
     "tags": [
       "threat-intel"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-29T15:00:00.000Z",
     "episodeCount": 471,
@@ -3331,7 +3509,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 42,
-        "fetchedAt": "2026-05-05T06:16:07.376Z"
+        "fetchedAt": "2026-05-05T08:22:55.089Z"
       }
     },
     "recentReviews": [
@@ -3397,9 +3575,12 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id329032812",
     "tags": [
-      "weekly",
-      "privacy"
+      "privacy",
+      "awareness-training",
+      "news"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T04:00:54.000Z",
     "episodeCount": 558,
@@ -3410,7 +3591,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 28,
-        "fetchedAt": "2026-05-05T06:16:08.624Z"
+        "fetchedAt": "2026-05-05T08:22:55.645Z"
       }
     },
     "recentReviews": [
@@ -3477,9 +3658,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1195001633",
     "tags": [
       "news",
-      "weekly",
-      "humor"
+      "privacy"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-04-29T23:00:59.000Z",
     "episodeCount": 467,
@@ -3490,7 +3672,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 315,
-        "fetchedAt": "2026-05-05T06:16:10.274Z"
+        "fetchedAt": "2026-05-05T08:22:56.280Z"
       }
     },
     "recentReviews": [
@@ -3554,10 +3736,10 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1497572268",
     "tags": [
-      "threat-intel",
-      "cisco",
-      "short-form"
+      "threat-intel"
     ],
+    "cadence": "weekly",
+    "format": "news-brief",
     "authors": [],
     "lastEpisodeDate": "2026-04-21T10:00:00.000Z",
     "episodeCount": 230,
@@ -3568,7 +3750,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 13,
-        "fetchedAt": "2026-05-05T06:16:11.827Z"
+        "fetchedAt": "2026-05-05T08:22:56.959Z"
       }
     },
     "recentReviews": [
@@ -3627,8 +3809,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1399962220",
     "tags": [
       "news",
-      "weekly"
+      "vulnerability-management"
     ],
+    "cadence": "weekly",
+    "format": "panel",
     "authors": [],
     "lastEpisodeDate": "2026-05-04T15:04:43.000Z",
     "episodeCount": 374,
@@ -3639,7 +3823,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 40,
-        "fetchedAt": "2026-05-05T06:16:13.027Z"
+        "fetchedAt": "2026-05-05T08:22:57.466Z"
       }
     },
     "recentReviews": [
@@ -3698,8 +3882,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id334648685",
     "tags": [
-      "social-engineering"
+      "awareness-training",
+      "research"
     ],
+    "cadence": "monthly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-03-16T06:00:00.000Z",
     "episodeCount": 200,
@@ -3710,7 +3897,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 149,
-        "fetchedAt": "2026-05-05T06:16:14.150Z"
+        "fetchedAt": "2026-05-05T08:22:58.051Z"
       }
     },
     "recentReviews": [
@@ -3775,8 +3962,10 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1725324656",
     "tags": [
       "threat-intel",
-      "palo-alto"
+      "incident-response"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-30T06:00:00.000Z",
     "episodeCount": 124,
@@ -3787,7 +3976,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 47,
-        "fetchedAt": "2026-05-05T06:16:15.536Z"
+        "fetchedAt": "2026-05-05T08:22:58.815Z"
       }
     }
   },
@@ -3816,8 +4005,11 @@
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1438873656",
     "tags": [
-      "interview"
+      "leadership",
+      "governance-risk-compliance"
     ],
+    "cadence": "weekly",
+    "format": "interview",
     "authors": [],
     "lastEpisodeDate": "2026-04-28T12:30:00.000Z",
     "episodeCount": 300,
@@ -3828,7 +4020,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 39,
-        "fetchedAt": "2026-05-05T06:16:16.761Z"
+        "fetchedAt": "2026-05-05T08:22:59.380Z"
       }
     },
     "recentReviews": [
@@ -3893,9 +4085,11 @@
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1099711235",
     "tags": [
       "news",
-      "ai",
-      "weekly"
+      "ai-security",
+      "emerging-tech"
     ],
+    "cadence": "weekly",
+    "format": "solo",
     "authors": [],
     "lastEpisodeDate": "2026-05-03T23:37:38.000Z",
     "episodeCount": 541,
@@ -3906,7 +4100,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 136,
-        "fetchedAt": "2026-05-05T06:16:17.970Z"
+        "fetchedAt": "2026-05-05T08:22:59.889Z"
       }
     },
     "recentReviews": [

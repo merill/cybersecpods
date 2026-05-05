@@ -2,8 +2,10 @@
   "applePodcastId": "1296350485",
   "youtubeUrl": "https://www.youtube.com/jackrhysider",
   "tags": [
-    "true-crime",
-    "hacking",
-    "storytelling"
-  ]
+    "storytelling",
+    "incident-response",
+    "threat-intel"
+  ],
+  "cadence": "biweekly",
+  "format": "narrative"
 }

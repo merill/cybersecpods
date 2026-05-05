@@ -2,7 +2,7 @@
 
 A curated, open-source directory of cybersecurity podcasts — built so defenders, researchers, CISOs, and operators can quickly discover the shows worth listening to. Live at **[cybersecpods.com](https://cybersecpods.com)**.
 
-> 50+ shows, 20,000+ episodes indexed, hourly RSS refresh, daily Apple ratings refresh, full search, tag filtering, audio + video player, JSON-LD SEO. Static site, hosted on Cloudflare Pages.
+> 50+ shows, 20,000+ episodes indexed, hourly RSS refresh, daily Apple ratings refresh, full search, category filtering, audio + video player, JSON-LD SEO. Static site, hosted on Cloudflare Pages.
 
 ---
 
@@ -17,7 +17,7 @@ Each podcast lives in a tiny JSON file under [`@data/podcasts/`](./@data/podcast
 The easiest way is at **[cybersecpods.com/submit/](https://cybersecpods.com/submit/)**.
 
 1. Paste the Apple Podcasts ID — the form looks the show up live and confirms it found the right one.
-2. Fill in the optional details (tags, hosts, social links). Tags autocomplete from existing categories.
+2. Fill in the details (categories, optional cadence/format, hosts, social links). Categories are picked from a checkbox grid grouped by topic.
 3. Click **Open GitHub issue**. You're sent to a pre-filled GitHub Issue with a one-click submit button.
 4. A bot validates the JSON, opens a PR for review, and links it back on the issue. Maintainers merge.
 
@@ -38,7 +38,7 @@ If you'd rather skip the form:
 ```json
 {
   "applePodcastId": "1296350360",
-  "tags": ["threat-intelligence", "incident-response"]
+  "tags": ["threat-intel", "incident-response"]
 }
 ```
 
@@ -55,7 +55,9 @@ That's it — the title, description, image, RSS URL, hosts, and Apple ratings a
   "youtubeUrl": "https://www.youtube.com/@JackRhysider",
   "twitterUrl": "https://twitter.com/JackRhysider",
   "linkedinUrl": "https://www.linkedin.com/company/darknet-diaries/",
-  "tags": ["true-crime", "hacking", "osint"],
+  "tags": ["storytelling", "incident-response", "threat-intel"],
+  "cadence": "biweekly",
+  "format": "narrative",
   "authors": [
     {
       "name": "Jack Rhysider",
@@ -64,36 +66,38 @@ That's it — the title, description, image, RSS URL, hosts, and Apple ratings a
       "websiteUrl": "https://jackrhysider.com"
     }
   ],
-  "featured": true,
   "submittedBy": "your-github-handle"
 }
 ```
 
 ### Field reference
 
-| Field             | Required | Description                                                                                           |
-| ----------------- | :------: | ----------------------------------------------------------------------------------------------------- |
-| `applePodcastId`  |   Yes    | Apple Podcasts numeric ID (digits only, **no `id` prefix**). E.g. `1296350360`.                       |
-| `tags`            |    No    | Free-form list of **kebab-case** tags. E.g. `["threat-intelligence","ciso"]`.                         |
-| `spotifyUrl`      |    No    | Full `https://open.spotify.com/show/...` URL. Used for deep-link only — Spotify ratings are not used. |
-| `websiteUrl`      |    No    | Podcast homepage. Falls back to RSS `<link>`.                                                         |
-| `rssUrl`          |    No    | Override the RSS feed (Apple's `feedUrl` is used by default).                                         |
-| `youtubeUrl`      |    No    | YouTube channel/show URL.                                                                             |
-| `twitterUrl`      |    No    | X/Twitter URL for the show (host links go in `authors`).                                              |
-| `linkedinUrl`     |    No    | LinkedIn URL.                                                                                         |
-| `authors`         |    No    | Array of `{ name, twitterUrl?, linkedinUrl?, websiteUrl? }`.                                          |
-| `submittedBy`     |    No    | Your GitHub handle (for credit).                                                                      |
+| Field             | Required | Description                                                                                                                                                                                  |
+| ----------------- | :------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `applePodcastId`  |   Yes    | Apple Podcasts numeric ID (digits only, **no `id` prefix**). E.g. `1296350360`.                                                                                                              |
+| `tags`            |   Yes    | 1–5 canonical category slugs from the [26-category taxonomy](./lib/categories.ts). E.g. `["threat-intel","incident-response"]`. Anything outside the enum is rejected at build time.        |
+| `cadence`         |    No    | Publishing frequency. One of `daily`, `weekly`, `biweekly`, `monthly`, `irregular`.                                                                                                          |
+| `format`          |    No    | Show format. One of `interview`, `narrative`, `panel`, `solo`, `news-brief`.                                                                                                                 |
+| `spotifyUrl`      |    No    | Full `https://open.spotify.com/show/...` URL. Used for deep-link only — Spotify ratings are not used.                                                                                        |
+| `websiteUrl`      |    No    | Podcast homepage. Falls back to RSS `<link>`.                                                                                                                                                |
+| `rssUrl`          |    No    | Override the RSS feed (Apple's `feedUrl` is used by default).                                                                                                                                |
+| `youtubeUrl`      |    No    | YouTube channel/show URL.                                                                                                                                                                    |
+| `twitterUrl`      |    No    | X/Twitter URL for the show (host links go in `authors`).                                                                                                                                     |
+| `linkedinUrl`     |    No    | LinkedIn URL.                                                                                                                                                                                |
+| `authors`         |    No    | Array of `{ name, twitterUrl?, linkedinUrl?, websiteUrl? }`.                                                                                                                                 |
+| `submittedBy`     |    No    | Your GitHub handle (for credit).                                                                                                                                                             |
 
 ### Validation rules
 
 - **Filename** must be kebab-case (`darknet-diaries.json`, not `DarknetDiaries.json` or `darknet_diaries.json`).
 - **`applePodcastId`** must be 6–12 digits only, and must resolve via the Apple iTunes Lookup API.
-- **`tags`** must each match `^[a-z0-9]+(-[a-z0-9]+)*$`.
+- **`tags`** must contain 1–5 unique values, each one of the 26 canonical category slugs in [`lib/categories.ts`](./lib/categories.ts).
+- **`cadence`** and **`format`** must each be one of the enum values listed above (or omitted).
 - **Social URLs** are host-restricted (Twitter/X, LinkedIn, YouTube, Spotify, Apple).
 - **Duplicate `applePodcastId`** across files is rejected.
 - The RSS feed must successfully parse and have a non-empty `<title>`.
 
-A podcast is automatically marked **inactive** if no episode has been published in the last 60 days. Inactive shows are hidden by default but stay listed under their tags.
+A podcast is automatically marked **inactive** if no episode has been published in the last 60 days. Inactive shows are hidden by default but stay listed under their categories.
 
 ---
 

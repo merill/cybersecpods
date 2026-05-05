@@ -38,13 +38,16 @@ export function MainNav({ items }: MainNavProps) {
           {items.map((item, index) => {
             if (!item.href) return null
             const active =
-              item.href === "/"
+              !item.external &&
+              (item.href === "/"
                 ? pathname === "/"
-                : pathname.startsWith(item.href)
+                : pathname.startsWith(item.href))
             return (
               <Link
                 key={index}
                 href={item.href}
+                target={item.external ? "_blank" : undefined}
+                rel={item.external ? "noreferrer" : undefined}
                 className={cn(
                   "text-sm font-medium transition-colors hover:text-foreground",
                   active ? "text-foreground" : "text-muted-foreground",

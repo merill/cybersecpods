@@ -31,8 +31,8 @@ export default function PodcastsPage() {
         </h1>
         <p className="mt-2 text-muted-foreground">
           {podcasts.filter((p) => p.isActive).length} active shows ·{" "}
-          {podcasts.length} total. Filter by tag, search by name or host, or
-          sort by ratings.
+          {podcasts.length} total. Filter by category, search by name or host,
+          or sort by ratings.
         </p>
       </header>
       <Suspense fallback={<div className="h-96" />}>

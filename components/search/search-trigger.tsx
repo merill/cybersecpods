@@ -59,11 +59,11 @@ export function SearchTrigger({ podcasts }: SearchTriggerProps) {
         onClick={() => setOpen(true)}
         className={cn(
           buttonVariants({ variant: "outline" }),
-          "h-9 w-full max-w-xs justify-between gap-3 px-3 text-sm font-normal text-muted-foreground"
+          "h-9 w-full max-w-[220px] justify-between gap-2 px-2.5 text-xs font-normal text-muted-foreground"
         )}
       >
         <span className="flex items-center gap-2">
-          <Search className="h-4 w-4" />
+          <Search className="h-3.5 w-3.5" />
           <span className="hidden sm:inline">Search podcasts...</span>
           <span className="sm:hidden">Search</span>
         </span>

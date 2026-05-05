@@ -186,6 +186,8 @@ async function processOne(
     linkedinUrl: input.linkedinUrl ?? null,
     applePodcastUrl: applePodcastUrlFor(input.applePodcastId),
     tags: input.tags ?? [],
+    cadence: input.cadence ?? null,
+    format: input.format ?? null,
     authors: input.authors ?? [],
     lastEpisodeDate: lastEpisodeDate?.toISOString() ?? null,
     episodeCount: episodes.length,

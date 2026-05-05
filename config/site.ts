@@ -11,8 +11,9 @@ export const siteConfig = {
     { title: "Home", href: "/" },
     { title: "Podcasts", href: "/podcasts/" },
     { title: "Episodes", href: "/episodes/" },
-    { title: "Tags", href: "/tags/" },
+    { title: "Categories", href: "/categories/" },
     { title: "About", href: "/about/" },
+    { title: "merill.net", href: "https://merill.net", external: true },
   ],
   links: {
     twitter: "https://twitter.com/merill",

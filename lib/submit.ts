@@ -1,5 +1,6 @@
 import slugifyLib from "slugify"
 
+import type { Cadence, CategorySlug, Format } from "@/lib/categories"
 import type { Author, PodcastInput } from "@/types/podcast"
 
 export function clientSlugify(s: string): string {
@@ -22,10 +23,15 @@ export function buildPodcastInputJson(state: PodcastFormState): PodcastInput {
   if (state.twitterUrl.trim()) out.twitterUrl = state.twitterUrl.trim()
   if (state.linkedinUrl.trim()) out.linkedinUrl = state.linkedinUrl.trim()
 
+  // Tags are constrained to canonical category slugs by the form UI.
+  // The build-time validator will reject anything outside the enum.
   const tags = state.tags
     .map((t) => t.trim().toLowerCase())
-    .filter(Boolean)
+    .filter(Boolean) as CategorySlug[]
   if (tags.length) out.tags = tags
+
+  if (state.cadence) out.cadence = state.cadence
+  if (state.format) out.format = state.format
 
   const authors: Author[] = []
   for (const a of state.authors) {
@@ -53,6 +59,8 @@ export interface PodcastFormState {
   twitterUrl: string
   linkedinUrl: string
   tags: string[]
+  cadence: Cadence | ""
+  format: Format | ""
   authors: AuthorFormState[]
   submittedBy: string
 }
@@ -79,6 +87,8 @@ export function emptyFormState(): PodcastFormState {
     twitterUrl: "",
     linkedinUrl: "",
     tags: [],
+    cadence: "",
+    format: "",
     authors: [],
     submittedBy: "",
   }
@@ -98,6 +108,8 @@ export function fromPodcastInput(
     twitterUrl: input.twitterUrl ?? "",
     linkedinUrl: input.linkedinUrl ?? "",
     tags: input.tags ?? [],
+    cadence: input.cadence ?? "",
+    format: input.format ?? "",
     authors: (input.authors ?? []).map((a) => ({
       name: a.name ?? "",
       twitterUrl: a.twitterUrl ?? "",

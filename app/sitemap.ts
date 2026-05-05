@@ -1,9 +1,9 @@
 import type { MetadataRoute } from "next"
 
 import { siteConfig } from "@/config/site"
+import { CATEGORY_GROUPS } from "@/lib/categories"
 import {
   getAllPodcasts,
-  getAllTags,
   getEpisodesForPodcast,
 } from "@/lib/podcasts"
 
@@ -12,7 +12,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date()
 
   const podcasts = getAllPodcasts()
-  const tags = getAllTags()
+  const categorySlugs = CATEGORY_GROUPS.flatMap((g) => g.categories)
 
   const podcastEntries: MetadataRoute.Sitemap = podcasts.map((p) => ({
     url: `${base}/podcasts/${p.id}/`,
@@ -21,8 +21,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: p.isActive ? 0.8 : 0.4,
   }))
 
-  const tagEntries: MetadataRoute.Sitemap = tags.map((t) => ({
-    url: `${base}/tags/${t}/`,
+  const categoryEntries: MetadataRoute.Sitemap = categorySlugs.map((slug) => ({
+    url: `${base}/categories/${slug}/`,
     lastModified: now,
     changeFrequency: "weekly",
     priority: 0.5,
@@ -67,7 +67,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${base}/tags/`,
+      url: `${base}/categories/`,
       lastModified: now,
       changeFrequency: "weekly",
       priority: 0.6,
@@ -79,7 +79,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.3,
     },
     ...podcastEntries,
-    ...tagEntries,
+    ...categoryEntries,
     ...episodeEntries,
   ]
 }
