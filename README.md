@@ -8,6 +8,30 @@ A curated, open-source directory of cybersecurity podcasts — built so defender
 
 <img width="2946" height="1770" alt="Merill 2026-05-05 at 23 11 17@2x" src="https://github.com/user-attachments/assets/198ae759-03e2-4a36-985a-225bf4c1b3fe" />
 
+## Why this exists
+
+I love cybersecurity podcasts. They're how I keep up with a field that moves faster than any blog or newsletter can. So I wanted a good way to *find* them.
+
+There isn't one. The Apple Podcasts and Spotify apps are fine for shows you already know, but the browse experience is awkward, the categories are too broad, and finding new shows feels like luck. The "best cybersecurity podcasts" listicles you find on Google are mostly years out of date, still recommending shows that quietly stopped publishing in 2021.
+
+I wanted one place that answered: *which cybersecurity podcasts are still going*, what are they about, and when did they last publish. So I built it.
+
+## What makes this different
+
+- **Always fresh.** Every podcast's RSS feed is re-fetched hourly. Apple ratings refresh daily. If a show goes quiet for 60 days it's flagged inactive, but stays searchable.
+- **Built for browsing.** Filter by topic, search across every episode title, and click straight through to Apple, Spotify, YouTube, or the show's own RSS feed. ⌘K opens search from anywhere.
+- **Open and community-shaped.** The directory is a folder of small JSON files in this public repo. Anyone can add a show or suggest edits. The in-browser form does most of the work, and a bot validates the submission and opens the PR for you.
+- **No tracking, no accounts.** The site is fully static. No cookies, no analytics on you, no login. Audio and video stream directly from each podcast's host. We never proxy or store media.
+
+## Where the idea came from
+
+The nudge to actually build this came from [Zack Korman](https://x.com/ZackKorman). Zack went looking for cybersecurity podcasts, started listening to them, and then started posting absolutely hilarious [reviews on X](https://x.com/search?q=zackkorman%20podcast%20review&src=typed_query). Watching that thread grow made me realise how much the community wants this kind of curation, and how hard it is to find. So I started building the directory I wished existed.
+
+## Who built it
+
+I'm [Merill Fernando](https://twitter.com/merill). I work in identity and cloud security, and I host my own podcast, [Entra.Chat](https://entra.chat), about Microsoft Entra and modern identity. Running my own podcast made me want a better way for cybersecurity shows to be discovered — not just mine, but everyone's. CyberSecPods is that place.
+
+---
 
 ## How submissions work
 
