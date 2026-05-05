@@ -305,8 +305,8 @@
       "weekly"
     ],
     "authors": [],
-    "lastEpisodeDate": "2026-04-28T09:00:00.000Z",
-    "episodeCount": 394,
+    "lastEpisodeDate": "2026-05-05T09:00:00.000Z",
+    "episodeCount": 395,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1537,6 +1537,86 @@
         "content": "If you aren’t listening to these podcasts what are you even doing with your life.  Security professionals add value to your core knowledge with these daily injections of absolutely vital industry knowledge and trends.",
         "author": "roselinevelee",
         "updatedAt": "2021-01-03T08:22:44-07:00"
+      }
+    ]
+  },
+  {
+    "id": "defensive-security",
+    "applePodcastId": "585914973",
+    "title": "Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec",
+    "description": "Defensive Security is a weekly information security podcast which reviews recent high profile cyber security breaches, data  breaches, malware infections and intrusions to identify lessons that we can learn and apply to the organizations we protect.",
+    "summary": "",
+    "subtitle": "",
+    "image": "https://defensivesecurity.org/wp-content/uploads/2014/06/DSP-itunes-logo.png",
+    "author": "Jerry Bell and Andrew Kalat",
+    "language": "en-US",
+    "categories": [
+      "Technology",
+      "News",
+      "Tech News",
+      "Business News"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://defensivesecurity.org",
+    "rssUrl": "https://defensivesecurity.org/feed/podcast/",
+    "copyright": "",
+    "spotifyUrl": null,
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id585914973",
+    "tags": [
+      "blue-team",
+      "weekly"
+    ],
+    "authors": [],
+    "lastEpisodeDate": "2026-04-22T13:57:04.000Z",
+    "episodeCount": 200,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.7,
+        "ratingCount": 368,
+        "fetchedAt": "2026-05-05T08:22:41.893Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 2,
+        "title": "Can’t get past the opening music",
+        "content": "I listen to cybersecurity focused podcasts early in the morning. Decided to give this one a try today. I wish the episode descriptions were in each title but that’s a minor gripe. Then I hit play and was assaulted with their music choice. I listened for about 20 seconds (during which I lowered the volume a lot a lot) and decided to try another episode in the hopes that was a fluke. Nope. Sorry, can’t speak to content. The angry yelling loud music is too much to take.",
+        "author": "sareyet",
+        "updatedAt": "2025-05-22T06:46:03-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Know what they talk about",
+        "content": "In cybersecurity there are plenty of talkers compared to the very few walkers.  These guys have walked the walk.  Very knowledgeable with plenty of good discussion on being pragmatic when addressing threats. \n\nAlso, just enough snark to keep it fun.  Glad you guys are back, as nothing else compared!",
+        "author": "Iphelse",
+        "updatedAt": "2024-10-01T06:25:35-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Welcome back!",
+        "content": "We’ve missed you.",
+        "author": "mcox00941",
+        "updatedAt": "2024-07-09T06:05:59-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Topical, primarily informative, just enough entertainment",
+        "content": "Security professionals discussing select important and informed topics.\n\nThe hosts recently cut back on episode frequency, which is a shame but understandable. I appreciate all of the content and the silly jokes+sarcasm.",
+        "author": "SideEye Horse",
+        "updatedAt": "2023-02-27T21:14:37-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Best podcast on defensive security! 🙌",
+        "content": "No matter the topic, you’re guaranteed to gain something from every episode - can’t recommend Defensive Security Podcast enough.",
+        "author": "LisaIsHereForIt",
+        "updatedAt": "2022-05-18T14:08:05-07:00"
       }
     ]
   },
