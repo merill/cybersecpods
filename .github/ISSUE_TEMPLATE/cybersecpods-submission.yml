@@ -1,0 +1,51 @@
+name: Add a podcast (CyberSecPods)
+description: Submit a new cybersecurity podcast to the CyberSecPods directory.
+title: "Add: <slug>"
+labels: ["cybersecpods-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Add a podcast
+
+        Most people get here from the in-browser form at [cybersecpods.com/submit](https://cybersecpods.com/submit/).
+        That form fills both fields below for you. If you're filling this out by hand, see the
+        [submission schema in README.md](https://github.com/merill/cybersecpods#submitting-a-podcast).
+
+        After you submit, a bot will validate the JSON, open a PR for review, and link it back here.
+
+  - type: input
+    id: slug
+    attributes:
+      label: Slug
+      description: Lowercase, kebab-case identifier. Used as the URL path on the site (e.g. `darknet-diaries`).
+      placeholder: darknet-diaries
+    validations:
+      required: true
+
+  - type: textarea
+    id: json
+    attributes:
+      label: Podcast JSON
+      description: |
+        The full submission JSON. Must validate against the schema in `@build/lib/zod-schemas.ts`.
+        At minimum, `applePodcastId` is required.
+      render: json
+      placeholder: |
+        {
+          "applePodcastId": "1296350585",
+          "tags": ["interviews", "investigative"],
+          "submittedBy": "yourname"
+        }
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I confirm this podcast is primarily about cybersecurity / infosec.
+          required: true
+        - label: I understand my submission goes through public review on GitHub.
+          required: true

@@ -1,0 +1,53 @@
+name: Edit a podcast (CyberSecPods)
+description: Suggest edits to an existing podcast in the CyberSecPods directory.
+title: "Edit: <slug>"
+labels: ["cybersecpods-edit"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Edit a podcast
+
+        Most people get here from the in-browser form at
+        [cybersecpods.com/submit?slug=<slug>](https://cybersecpods.com/submit/).
+        That form pre-fills both fields below from the current entry. If you're filling this out
+        by hand, copy the existing JSON from `@data/podcasts/<slug>.json`, edit it, and paste below.
+
+        After you submit, a bot will validate the JSON, open a PR replacing the existing file, and link it back here.
+
+  - type: input
+    id: slug
+    attributes:
+      label: Slug
+      description: The existing slug of the podcast to edit (lowercase, kebab-case). Cannot be renamed here — to rename, submit a new podcast.
+      placeholder: darknet-diaries
+    validations:
+      required: true
+
+  - type: textarea
+    id: json
+    attributes:
+      label: Updated podcast JSON
+      description: |
+        The full updated submission JSON for this podcast. Must validate against the schema in
+        `@build/lib/zod-schemas.ts`. `applePodcastId` is required.
+      render: json
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: What changed? (optional)
+      description: A short note about what you're updating helps reviewers.
+      placeholder: Updated tags; added LinkedIn URL for host.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand my edit goes through public review on GitHub.
+          required: true

@@ -42,4 +42,9 @@ secrets-m365.json
 /site/.next
 /.next
 /out/
-@data/podcasts.json
+
+# Generated podcast data is committed (CF Pages auto-deploys from these)
+# @data/podcasts.json   ← committed
+# @data/episodes/       ← committed
+# @data/ratings.json    ← committed
+@data/.cache/

@@ -79,3 +79,37 @@
     font-feature-settings: "rlig" 1, "calt" 1;
   }
 }
+
+@layer utilities {
+  .scrollbar-hidden {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .mask-fade-r {
+    mask-image: linear-gradient(to right, black 90%, transparent);
+    -webkit-mask-image: linear-gradient(to right, black 90%, transparent);
+  }
+}
+
+.podcast-html-content {
+  @apply text-sm text-muted-foreground leading-relaxed;
+}
+.podcast-html-content p {
+  @apply mb-3;
+}
+.podcast-html-content a {
+  @apply text-primary underline-offset-4 hover:underline;
+}
+.podcast-html-content ul,
+.podcast-html-content ol {
+  @apply mb-3 pl-5 list-disc;
+}
+.podcast-html-content br + br {
+  display: none;
+}

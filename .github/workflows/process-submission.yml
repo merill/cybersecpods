@@ -1,0 +1,244 @@
+name: Process Podcast Submission
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+
+jobs:
+  process:
+    if: >-
+      contains(github.event.issue.labels.*.name, 'cybersecpods-submission') ||
+      contains(github.event.issue.labels.*.name, 'cybersecpods-edit')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Parse issue body
+        id: parse
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_LABELS: ${{ toJson(github.event.issue.labels) }}
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+          const body = process.env.ISSUE_BODY || '';
+          const labels = JSON.parse(process.env.ISSUE_LABELS || '[]').map(l => l.name);
+          const isEdit = labels.includes('cybersecpods-edit');
+          const mode = isEdit ? 'edit' : 'add';
+
+          // Issue forms render fields as `### Label\n\nvalue\n` (textareas may use ```lang fences).
+          // Extract by heading label, tolerating variations in casing/whitespace.
+          function section(label) {
+            const re = new RegExp(`^###\\s+${label}\\s*$`, 'mi');
+            const m = body.match(re);
+            if (!m) return null;
+            const start = m.index + m[0].length;
+            const rest = body.slice(start);
+            const next = rest.match(/^###\s+/m);
+            const chunk = next ? rest.slice(0, next.index) : rest;
+            return chunk.trim();
+          }
+
+          let slug = section('Slug') || '';
+          slug = slug.replace(/^`+|`+$/g, '').trim();
+
+          let jsonRaw = section(isEdit ? 'Updated podcast JSON' : 'Podcast JSON') || '';
+          // Strip leading/trailing fenced code block markers (```json ... ```)
+          const fence = jsonRaw.match(/^```(?:json)?\s*\n([\s\S]*?)\n```\s*$/);
+          if (fence) jsonRaw = fence[1];
+          jsonRaw = jsonRaw.trim();
+
+          // Validate slug format
+          const slugOk = /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug);
+
+          let parsed = null;
+          let parseError = null;
+          if (jsonRaw) {
+            try { parsed = JSON.parse(jsonRaw); }
+            catch (e) { parseError = String(e.message || e); }
+          } else {
+            parseError = 'JSON field is empty.';
+          }
+
+          const errors = [];
+          if (!slug) errors.push('Slug is required.');
+          else if (!slugOk) errors.push('Slug must be lowercase kebab-case (e.g. `darknet-diaries`).');
+          if (parseError) errors.push('JSON is not valid: ' + parseError);
+
+          fs.writeFileSync('parse-result.json', JSON.stringify({
+            mode, slug, slugOk, json: parsed, jsonRaw, errors,
+          }, null, 2));
+
+          // Expose outputs
+          const out = process.env.GITHUB_OUTPUT;
+          fs.appendFileSync(out, `mode=${mode}\n`);
+          fs.appendFileSync(out, `slug=${slug}\n`);
+          fs.appendFileSync(out, `ok=${errors.length === 0 ? '1' : '0'}\n`);
+          if (errors.length) {
+            fs.appendFileSync(out, `errors<<__END__\n${errors.map(e => '- ' + e).join('\n')}\n__END__\n`);
+          }
+          EOF
+
+      - name: Comment on issue if parse failed
+        if: steps.parse.outputs.ok != '1'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const errors = `${{ steps.parse.outputs.errors }}`;
+            const body = [
+              "### ❌ Couldn't parse your submission",
+              "",
+              "I had trouble reading the form. Please re-edit the issue and check the fields below:",
+              "",
+              errors,
+              "",
+              "If you used the in-browser form at https://cybersecpods.com/submit/ and still hit this, please mention `@merill` here.",
+            ].join("\n");
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+      - name: Stop on parse failure
+        if: steps.parse.outputs.ok != '1'
+        run: exit 1
+
+      - name: Write podcast JSON file
+        run: |
+          set -e
+          SLUG="${{ steps.parse.outputs.slug }}"
+          mkdir -p "@data/podcasts"
+          node -e '
+            const fs = require("fs");
+            const r = JSON.parse(fs.readFileSync("parse-result.json","utf8"));
+            const path = `@data/podcasts/${r.slug}.json`;
+            fs.writeFileSync(path, JSON.stringify(r.json, null, 2) + "\n");
+            console.log("Wrote", path);
+          '
+
+      - name: Run validator
+        id: validate
+        env:
+          VALIDATION_OUTPUT: validation-output.json
+        run: |
+          set +e
+          npm run validate:input
+          STATUS=$?
+          echo "status=$STATUS" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Build validation summary
+        id: summary
+        run: |
+          node -e '
+            const fs = require("fs");
+            if (!fs.existsSync("validation-output.json")) {
+              fs.writeFileSync("summary.md", "Validation produced no output.");
+              process.exit(0);
+            }
+            const data = JSON.parse(fs.readFileSync("validation-output.json","utf8"));
+            const issues = data.issues ?? [];
+            if (!issues.length) {
+              fs.writeFileSync("summary.md", "✅ JSON validates against the submission schema.");
+              return;
+            }
+            const grouped = {};
+            for (const i of issues) (grouped[i.file] ??= []).push(i.error);
+            let body = "Validation found these issues:\n\n";
+            for (const [file, errs] of Object.entries(grouped)) {
+              body += `**\`${file}\`**\n`;
+              for (const e of errs) body += `- ${e}\n`;
+              body += "\n";
+            }
+            fs.writeFileSync("summary.md", body);
+          '
+
+      - name: Comment on issue if validation failed
+        if: steps.validate.outputs.status != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const summary = fs.readFileSync('summary.md', 'utf8');
+            const body = [
+              "### ❌ Submission validation failed",
+              "",
+              summary,
+              "",
+              "Please edit this issue and fix the JSON, or re-open the form at https://cybersecpods.com/submit/.",
+            ].join("\n");
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+      - name: Stop on validation failure
+        if: steps.validate.outputs.status != '0'
+        run: |
+          echo "Validation failed; see issue comment."
+          exit 1
+
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: cybersecpods-bot/${{ steps.parse.outputs.slug }}
+          base: main
+          delete-branch: true
+          add-paths: "@data/podcasts/${{ steps.parse.outputs.slug }}.json"
+          commit-message: |
+            ${{ steps.parse.outputs.mode == 'edit' && 'edit' || 'add' }}: ${{ steps.parse.outputs.slug }}
+
+            From issue #${{ github.event.issue.number }}.
+          title: "${{ steps.parse.outputs.mode == 'edit' && 'Edit' || 'Add' }}: ${{ steps.parse.outputs.slug }}"
+          body: |
+            Automated PR from issue #${{ github.event.issue.number }}.
+
+            **Mode:** `${{ steps.parse.outputs.mode }}`
+            **Slug:** `${{ steps.parse.outputs.slug }}`
+
+            JSON validated against the submission schema. Apple Podcasts metadata, episodes, and ratings will be fetched automatically by the scheduled workflows after merge.
+
+            Closes #${{ github.event.issue.number }}.
+          labels: |
+            cybersecpods-${{ steps.parse.outputs.mode }}
+            automated
+
+      - name: Comment with PR link
+        if: steps.cpr.outputs.pull-request-url
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const url = `${{ steps.cpr.outputs.pull-request-url }}`;
+            const body = [
+              "### ✅ Submission accepted",
+              "",
+              `Opened a PR for review: ${url}`,
+              "",
+              "Once it's merged, your podcast will appear on the next scheduled site build (within an hour).",
+            ].join("\n");
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
