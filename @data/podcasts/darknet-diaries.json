@@ -1,11 +1,20 @@
 {
   "applePodcastId": "1296350485",
+  "spotifyUrl": "https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5",
+  "websiteUrl": "https://darknetdiaries.com/",
   "youtubeUrl": "https://www.youtube.com/jackrhysider",
+  "twitterUrl": "https://x.com/darknetdiaries",
   "tags": [
     "storytelling",
     "incident-response",
     "threat-intel"
   ],
   "cadence": "biweekly",
-  "format": "narrative"
+  "format": "narrative",
+  "authors": [
+    {
+      "name": "Jack Rhysider",
+      "twitterUrl": "https://x.com/jackrhysider"
+    }
+  ]
 }
