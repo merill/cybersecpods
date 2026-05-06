@@ -1,9 +1,28 @@
 {
   "applePodcastId": "1621305970",
+  "spotifyUrl": "https://open.spotify.com/show/0BdExoUZqbGsBYjt6QZl4Q",
+  "websiteUrl": "https://risky.biz/risky-business-news/",
+  "youtubeUrl": "https://www.youtube.com/@riskybizmedia",
+  "linkedinUrl": "https://www.linkedin.com/company/risky-business-media",
   "tags": [
     "news",
     "threat-intel"
   ],
-  "cadence": "weekly",
-  "format": "news-brief"
+  "cadence": "daily",
+  "format": "news-brief",
+  "authors": [
+    {
+      "name": "The Grugq",
+      "twitterUrl": "https://x.com/thegrugq"
+    },
+    {
+      "name": "Tom Uren"
+    },
+    {
+      "name": "Catalin Cimpanu"
+    },
+    {
+      "name": "Claire Aird"
+    }
+  ]
 }
