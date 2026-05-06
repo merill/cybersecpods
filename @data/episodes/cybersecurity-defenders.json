@@ -1,5 +1,22 @@
 [
   {
+    "id": "power-systems-under-threat-claude-mythos-suspicious-kics-activity-and-jfrog-inte",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Power systems under threat, Claude Mythos, suspicious KICS activity & JFrog  / Intel Chat [#319]",
+    "description": "<p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>Researchers are raising concerns about a new cybersecurity risk emerging from the systems that regulate electrical power inside modern <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk\">electronics and infrastructure</a>.</li><li>Japan’s financial sector is responding to concerns around Anthropic’s new AI model, Claude Mythos, which some officials believe could <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector\">significantly impact cybersecurity</a>.</li><li>Docker and Socket researchers discovered that malicious images were pushed to the official checkmarx/kics Docker Hub repository, indicating a supply chain compromise affecting the KICS <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://socket.dev/blog/checkmarx-supply-chain-compromise\">infrastructure-as-code scanning tool</a>.</li><li>JFrog security researchers identified a malicious npm package published as @bitwarden/cli version 2026.4.0 that impersonates the legitimate <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://research.jfrog.com/post/bitwarden-cli-hijack/\">Bitwarden command-line client</a>.</li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
+    "publishedAt": "2026-05-06T21:22:25.000Z",
+    "duration": 1874,
+    "audioUrl": "https://podcast.wistia.com/deliveries/80171c76c761c6333a1fcbed24f25254a3f7bb9a.mp3?d=eyJtIjoxNDc0OTI0MjksIm1kIjoxODczLjYxLCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjA5NzkyNiwiYiI6IjgwMTcxYzc2Yzc2MWM2MzMzYTFmY2JlZDI0ZjI1MjU0YTNmN2JiOWEiLCJtYiI6MTM0MjY0LCJvYiI6MTQ0MDAxNy4zODg4OTA5NjQ3fQ%3D%3D--8f0a083de0e11e5c75cd5c3e797ca4becc0494d964a1b24addb3cfaa525ee3d2",
+    "videoUrl": null,
+    "imageUrl": "https://embed-ssl.wistia.com/deliveries/d7a8067f8e7e7bbfece1696b29b4258a.png?image_crop_resized=3000x3000",
+    "episodeNumber": 319,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=m8qxvu5yun"
+  },
+  {
     "id": "how-ai-adoption-in-enterprise-infrastructure-has-expanded-the-attack-surface-wit",
     "podcastId": "cybersecurity-defenders",
     "title": "How AI adoption in enterprise infrastructure has expanded the attack surface with Katherine McNamara from Cisco / Defender Fridays [#318]",
