@@ -335,7 +335,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-05-06T12:07:18.079Z"
+        "fetchedAt": "2026-05-06T14:47:44.182Z"
       }
     },
     "submittedBy": "gregclermont"
@@ -1402,7 +1402,7 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-05T13:38:44.000Z",
+    "lastEpisodeDate": "2026-05-06T13:47:28.000Z",
     "firstEpisodeDate": "2025-10-02T13:07:21.000Z",
     "episodeCount": 500,
     "hasVideo": false,
@@ -1734,7 +1734,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-05-06T12:07:23.050Z"
+        "fetchedAt": "2026-05-06T14:47:52.190Z"
       }
     },
     "recentReviews": [
@@ -1784,9 +1784,9 @@
         "name": "Lindsey O’Donnell-Welch"
       }
     ],
-    "lastEpisodeDate": "2026-05-04T10:53:14.000Z",
+    "lastEpisodeDate": "2026-05-06T12:46:15.000Z",
     "firstEpisodeDate": "2018-08-01T19:00:00.000Z",
-    "episodeCount": 347,
+    "episodeCount": 348,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2064,7 +2064,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 56,
-        "fetchedAt": "2026-05-06T12:07:26.898Z"
+        "fetchedAt": "2026-05-06T14:47:53.844Z"
       }
     },
     "recentReviews": [
@@ -2438,21 +2438,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "",
-    "summary": "",
-    "subtitle": "",
+    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "subtitle": "History of Hackers",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en",
+    "language": "en-US",
     "categories": [
       "Technology",
-      "Podcasts",
-      "Education"
+      "Education",
+      "Entrepreneurship"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "",
+    "copyright": "© 2025 Hacker History Podcast",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2469,11 +2469,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": null,
-    "firstEpisodeDate": null,
-    "episodeCount": 0,
+    "lastEpisodeDate": "2026-05-06T02:55:04.000Z",
+    "firstEpisodeDate": "2021-03-01T08:00:00.000Z",
+    "episodeCount": 50,
     "hasVideo": false,
-    "isActive": false,
+    "isActive": true,
     "featured": false,
     "ratings": {
       "apple": {
@@ -4875,7 +4875,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-06T12:07:37.412Z"
+        "fetchedAt": "2026-05-06T14:48:03.468Z"
       }
     },
     "submittedBy": "foudendorp"
