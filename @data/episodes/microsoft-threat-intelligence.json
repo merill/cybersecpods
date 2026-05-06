@@ -1,5 +1,22 @@
 [
   {
+    "id": "russias-forest-blizzard-is-abusing-home-small-office-routers-for-cred-theft",
+    "podcastId": "microsoft-threat-intelligence",
+    "title": "Russia’s Forest Blizzard Is Abusing  Home + Small Office Routers for Cred Theft",
+    "description": "<p>This week on the Microsoft Threat Intelligence Podcast, host⁠ ⁠⁠<a href=\"https://www.linkedin.com/in/sherroddegrippo/\"><u>Sherrod DeGrippo</u></a> speaks with Danny Adamitis, Distinguished Engineer at Lumen Technologies’ Black Lotus Labs who break down how the Russian state-linked threat actor Forest Blizzard is exploiting home and small office routers to hijack DNS traffic, enabling large-scale surveillance and targeted credential theft. The conversation highlights how this low-cost approach scales globally, why unmanaged routers have become a critical weak point, and how tactics, from brute force to token theft to DNS hijacking continue to evolve. </p>\n<p><br></p>\n<p><strong>In this episode you’ll learn: </strong>     </p>\n<ul>\n  <li>\n<p>How Forest Blizzard exploits home routers to intercept DNS traffic </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>Why unmanaged routers are a major blind spot in modern security </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>How tactics have evolved from brute force to token-based access </p>\n</li>\n</ul>\n<p><strong>Some questions we ask: </strong>    </p>\n<ul>\n  <li>\n<p>What defines Forest Blizzard and how they operate? </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>How does this impact machine-to-machine or service account security? </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>What are the broader third-party or downstream risks? </p>\n</li>\n</ul>\n<p><br></p>\n<p><strong>Resources: </strong> </p>\n<ul>\n  <li>\n<p><a href=\"https://www.linkedin.com/in/danny-a-44198047/\">View Danny Adamitis on LinkedIn</a>  </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://www.linkedin.com/in/sherroddegrippo/\">View Sherrod DeGrippo on LinkedIn</a>  </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://www.justice.gov/opa/pr/justice-department-conducts-court-authorized-disruption-dns-hijacking-network-controlled\"><u>Justice Department Conducts Court-Authorized Disruption of DNS Hijacking Network Controlled by a Russian Military Intelligence Unit</u></a> </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://www.lumen.com/blog/en-us/frostarmada-forest-blizzard-dns-hijacking\"><u>FrostArmada: All thriller, no (malware) filler</u></a> </p>\n</li>\n</ul>\n<p> </p>\n<p>Discover and follow other Microsoft podcasts at<a href=\"https://news.microsoft.com/podcasts/\"> </a><a href=\"https://news.microsoft.com/podcasts/\"><u>microsoft.com/podcasts</u></a>  </p>\n<p> </p>\n<p>Get the latest threat intelligence insights and guidance at Microsoft <a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fbusiness%2Fsecurity-insider%2F&data=05%7C02%7Cv-ropetrillo%40microsoft.com%7C81e205a6b727403624b808dc64a26e6b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638495896032091649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=LTpBsEuiaY5YiYn2FYDydHrHkYWl%2FBTl2uAQlkBz1N0%3D&reserved=0\"><u>Security Insider</u></a> </p>\n<p> </p>\n<p><em>The Microsoft Threat Intelligence Podcast is produced by Microsoft, Hangar Studios and distributed as part of N2K media network.</em> </p>",
+    "publishedAt": "2026-05-06T07:05:00.000Z",
+    "duration": 3097,
+    "audioUrl": "https://traffic.megaphone.fm/CYBW6864704140.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 68,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/microsoft-threat-intelligence/68/notes"
+  },
+  {
     "id": "the-cybercrime-shift-from-opportunistic-attacks-to-marketplace-driven-ecosystem",
     "podcastId": "microsoft-threat-intelligence",
     "title": "The Cybercrime Shift: From Opportunistic Attacks to Marketplace-Driven Ecosystem",
