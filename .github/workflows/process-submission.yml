@@ -204,7 +204,7 @@ jobs:
               if (!m) return null;
               const start = m.index + m[0].length;
               const rest = body.slice(start);
-              const next = rest.match(/^###\\s+/m);
+              const next = rest.match(/^###\s+/m);
               const chunk = next ? rest.slice(0, next.index) : rest;
               return chunk.trim();
             }
