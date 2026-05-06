@@ -1,9 +1,23 @@
 {
   "applePodcastId": "216478078",
+  "spotifyUrl": "https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ",
+  "websiteUrl": "https://risky.biz/risky-business/",
+  "youtubeUrl": "https://www.youtube.com/@riskybizmedia",
+  "linkedinUrl": "https://www.linkedin.com/company/risky-business-media",
   "tags": [
     "news",
-    "threat-intel"
+    "threat-intel",
+    "interviews"
   ],
   "cadence": "weekly",
-  "format": "panel"
+  "format": "panel",
+  "authors": [
+    {
+      "name": "Patrick Gray",
+      "websiteUrl": "https://bsky.app/profile/patrick.risky.biz"
+    },
+    {
+      "name": "Adam Boileau"
+    }
+  ]
 }
