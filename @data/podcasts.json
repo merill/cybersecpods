@@ -524,7 +524,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 15,
-        "fetchedAt": "2026-05-06T02:42:49.335Z"
+        "fetchedAt": "2026-05-06T04:06:15.905Z"
       }
     },
     "recentReviews": [
@@ -706,7 +706,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 7,
-        "fetchedAt": "2026-05-06T02:42:53.710Z"
+        "fetchedAt": "2026-05-06T04:06:17.596Z"
       }
     }
   },
@@ -1566,9 +1566,9 @@
     "websiteUrl": "https://darknetdiaries.com/",
     "rssUrl": "https://podcast.darknetdiaries.com",
     "copyright": "Jack Rhysider",
-    "spotifyUrl": null,
+    "spotifyUrl": "https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5",
     "youtubeUrl": "https://www.youtube.com/jackrhysider",
-    "twitterUrl": null,
+    "twitterUrl": "https://x.com/darknetdiaries",
     "linkedinUrl": null,
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1296350485",
     "tags": [
@@ -1578,7 +1578,12 @@
     ],
     "cadence": "biweekly",
     "format": "narrative",
-    "authors": [],
+    "authors": [
+      {
+        "name": "Jack Rhysider",
+        "twitterUrl": "https://x.com/jackrhysider"
+      }
+    ],
     "lastEpisodeDate": "2026-05-05T07:00:00.000Z",
     "firstEpisodeDate": "2017-09-01T12:00:00.000Z",
     "episodeCount": 174,
@@ -1631,6 +1636,66 @@
     ]
   },
   {
+    "id": "decipher-security-podcast",
+    "applePodcastId": "1443911339",
+    "title": "Decipher Security Podcast",
+    "description": "<p>Every week, Dennis Fisher and Lindsey O'Donnell-Welch, the editors of Decipher, bring you exclusive, in-depth conversations with security researchers, CISOs, founders, and security experts to hellp you understand the threat landscape and better protect your organizations.</p>",
+    "summary": "<p>Every week, Dennis Fisher and Lindsey O'Donnell-Welch, the editors of Decipher, bring you exclusive, in-depth conversations with security researchers, CISOs, founders, and security experts to hellp you understand the threat landscape and better protect your organizations.</p>",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/66/f2/d866f218-5024-7a0d-c398-213df97fcac1/mza_7229373592020833672.jpg/600x600bb.jpg",
+    "author": "Decipher",
+    "language": "en",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://decipher.sc/",
+    "rssUrl": "https://anchor.fm/s/10f4f36c4/podcast/rss",
+    "copyright": "Decipher",
+    "spotifyUrl": "https://open.spotify.com/show/3XsgM8xpvhr2SIL7Aqpmqa",
+    "youtubeUrl": "https://www.youtube.com/@DecipherSec",
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1443911339",
+    "tags": [
+      "interviews",
+      "news",
+      "threat-intel"
+    ],
+    "cadence": "weekly",
+    "format": "interview",
+    "authors": [
+      {
+        "name": "Dennis Fisher"
+      },
+      {
+        "name": "Lindsey O’Donnell-Welch"
+      }
+    ],
+    "lastEpisodeDate": "2026-05-04T10:53:14.000Z",
+    "firstEpisodeDate": "2018-08-01T19:00:00.000Z",
+    "episodeCount": 347,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.4,
+        "ratingCount": 9,
+        "fetchedAt": "2026-05-06T04:06:23.310Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "taroliw",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
+  },
+  {
     "id": "decoding-security",
     "applePodcastId": "1627427926",
     "title": "Decoding Security",
@@ -1671,7 +1736,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-05T08:19:39.451Z"
+        "fetchedAt": "2026-05-06T04:06:24.173Z"
       }
     }
   },
@@ -2085,7 +2150,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-06T02:43:08.679Z"
+        "fetchedAt": "2026-05-06T04:06:26.479Z"
       }
     },
     "submittedBy": "cgoosen"
@@ -2205,9 +2270,9 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": "2026-04-16T00:48:31.000Z",
+    "lastEpisodeDate": "2026-05-06T02:55:04.000Z",
     "firstEpisodeDate": "2021-03-01T08:00:00.000Z",
-    "episodeCount": 49,
+    "episodeCount": 50,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2215,7 +2280,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-05-06T02:43:09.503Z"
+        "fetchedAt": "2026-05-06T04:06:27.931Z"
       }
     },
     "recentReviews": [
@@ -2442,7 +2507,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 4,
-        "fetchedAt": "2026-05-06T02:43:11.138Z"
+        "fetchedAt": "2026-05-06T04:06:27.120Z"
       }
     },
     "recentReviews": [
@@ -2535,6 +2600,67 @@
     ]
   },
   {
+    "id": "infosec-decoded",
+    "applePodcastId": "1553663505",
+    "title": "Infosec Decoded",
+    "description": "A twice-weekly podcast of security news and commentary with Sam Bowne, Elizabeth Biddlecome, Kaitlyn Handelman, Irvin Lemus, and Alan Wennersten.",
+    "summary": "A twice-weekly podcast of security news and commentary with Sam Bowne, Elizabeth Biddlecome, Kaitlyn Handelman, Irvin Lemus, and Alan Wennersten.",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/35/65/5f/35655f56-f426-5158-0296-26d3b1e14301/mza_1579844677977403461.jpg/600x600bb.jpg",
+    "author": "Sam Bowne",
+    "language": "en",
+    "categories": [
+      "News",
+      "Tech News"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://samsclass.info/news/",
+    "rssUrl": "https://anchor.fm/s/4c7cf758/podcast/rss",
+    "copyright": "Sam Bowne",
+    "spotifyUrl": "https://open.spotify.com/show/4GKMU5ZAVjWoLwt9z8Vdcm",
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1553663505",
+    "tags": [
+      "news",
+      "ai-security",
+      "privacy",
+      "emerging-tech"
+    ],
+    "cadence": "weekly",
+    "format": "panel",
+    "authors": [
+      {
+        "name": "Sam Bowne",
+        "twitterUrl": "https://twitter.com/sambowne",
+        "websiteUrl": "https://www.samsclass.info/contact.html"
+      }
+    ],
+    "lastEpisodeDate": "2026-05-04T16:36:21.000Z",
+    "firstEpisodeDate": "2021-02-13T00:10:16.000Z",
+    "episodeCount": 527,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.8,
+        "ratingCount": 4,
+        "fetchedAt": "2026-05-06T04:06:28.744Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 4,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
+  },
+  {
     "id": "inside-darknet",
     "applePodcastId": "1715992165",
     "title": "Inside Darknet",
@@ -2576,7 +2702,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-06T02:43:12.438Z"
+        "fetchedAt": "2026-05-06T04:06:28.876Z"
       }
     }
   },
@@ -2783,7 +2909,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-05-05T08:19:43.218Z"
+        "fetchedAt": "2026-05-06T04:06:29.780Z"
       }
     }
   },
@@ -3056,7 +3182,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-05-06T02:43:16.818Z"
+        "fetchedAt": "2026-05-06T04:06:31.445Z"
       }
     },
     "submittedBy": "bastienperez"
@@ -3389,21 +3515,35 @@
       "Technology"
     ],
     "explicit": false,
-    "websiteUrl": "https://risky.biz/",
+    "websiteUrl": "https://risky.biz/risky-business-news/",
     "rssUrl": "https://risky.biz/feeds/risky-business-news/",
     "copyright": "Copyright Risky Business Media 2007-2026",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "spotifyUrl": "https://open.spotify.com/show/0BdExoUZqbGsBYjt6QZl4Q",
+    "youtubeUrl": "https://www.youtube.com/@riskybizmedia",
     "twitterUrl": null,
-    "linkedinUrl": null,
+    "linkedinUrl": "https://www.linkedin.com/company/risky-business-media",
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id1621305970",
     "tags": [
       "news",
       "threat-intel"
     ],
-    "cadence": "weekly",
+    "cadence": "daily",
     "format": "news-brief",
-    "authors": [],
+    "authors": [
+      {
+        "name": "The Grugq",
+        "twitterUrl": "https://x.com/thegrugq"
+      },
+      {
+        "name": "Tom Uren"
+      },
+      {
+        "name": "Catalin Cimpanu"
+      },
+      {
+        "name": "Claire Aird"
+      }
+    ],
     "lastEpisodeDate": "2026-05-04T19:45:48.000Z",
     "firstEpisodeDate": "2025-12-19T02:02:37.000Z",
     "episodeCount": 100,
@@ -3450,21 +3590,30 @@
       "Technology"
     ],
     "explicit": false,
-    "websiteUrl": "https://risky.biz/",
+    "websiteUrl": "https://risky.biz/risky-business/",
     "rssUrl": "https://risky.biz/feeds/risky-business/",
     "copyright": "Copyright Risky Business Media 2007-2026",
-    "spotifyUrl": null,
-    "youtubeUrl": null,
+    "spotifyUrl": "https://open.spotify.com/show/2jzD9zn7R2d6erZz2ULLeQ",
+    "youtubeUrl": "https://www.youtube.com/@riskybizmedia",
     "twitterUrl": null,
-    "linkedinUrl": null,
+    "linkedinUrl": "https://www.linkedin.com/company/risky-business-media",
     "applePodcastUrl": "https://podcasts.apple.com/podcast/id216478078",
     "tags": [
       "news",
-      "threat-intel"
+      "threat-intel",
+      "interviews"
     ],
     "cadence": "weekly",
     "format": "panel",
-    "authors": [],
+    "authors": [
+      {
+        "name": "Patrick Gray",
+        "websiteUrl": "https://bsky.app/profile/patrick.risky.biz"
+      },
+      {
+        "name": "Adam Boileau"
+      }
+    ],
     "lastEpisodeDate": "2026-05-01T00:58:34.000Z",
     "firstEpisodeDate": "2024-10-30T03:32:59.000Z",
     "episodeCount": 100,
@@ -3562,7 +3711,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 10,
-        "fetchedAt": "2026-05-06T02:43:21.543Z"
+        "fetchedAt": "2026-05-06T04:06:32.224Z"
       }
     },
     "recentReviews": [
@@ -3625,7 +3774,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 675,
-        "fetchedAt": "2026-05-06T02:43:23.751Z"
+        "fetchedAt": "2026-05-06T04:06:34.429Z"
       }
     },
     "recentReviews": [
@@ -3707,7 +3856,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-05-05T08:19:48.383Z"
+        "fetchedAt": "2026-05-06T04:06:32.742Z"
       }
     }
   },
@@ -3773,7 +3922,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 79,
-        "fetchedAt": "2026-05-06T02:43:26.125Z"
+        "fetchedAt": "2026-05-06T04:06:32.917Z"
       }
     },
     "recentReviews": [
@@ -3853,7 +4002,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-05T08:19:49.881Z"
+        "fetchedAt": "2026-05-06T04:06:35.094Z"
       }
     }
   },
@@ -3896,7 +4045,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-05T08:19:50.827Z"
+        "fetchedAt": "2026-05-06T04:06:35.141Z"
       }
     }
   },
@@ -4104,7 +4253,7 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 16,
-        "fetchedAt": "2026-05-05T08:19:50.508Z"
+        "fetchedAt": "2026-05-06T04:06:35.251Z"
       }
     },
     "recentReviews": [
@@ -4142,6 +4291,89 @@
         "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
         "author": "GottaRun21",
         "updatedAt": "2021-05-13T14:16:19-07:00"
+      }
+    ]
+  },
+  {
+    "id": "security-weekly-news-audio",
+    "applePodcastId": "1111792719",
+    "title": "Security Weekly News (Audio)",
+    "description": "Concise, bi-weekly reviews of the most significant security stories, including malware, threats, government actions, and other cybersecurity topics. Hosted by Dr. Doug White. Co hosts: Josh Marpet, Aaran Leyland.",
+    "summary": "Concise, bi-weekly reviews of the most significant security stories, including malware, threats, government actions, and other cybersecurity topics. Hosted by Dr. Doug White. Co hosts: Josh Marpet, Aaran Leyland.",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ee/be/c5/eebec599-008d-5646-a3cf-2c66f223142f/mza_5807729166554904800.png/600x600bb.jpg",
+    "author": "Doug White",
+    "language": "en",
+    "categories": [
+      "Technology",
+      "News",
+      "Tech News"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://www.scworld.com/podcast-show/security-weekly-news",
+    "rssUrl": "https://rss.libsyn.com/shows/81240/destinations/376644.xml",
+    "copyright": "© 2024 CyberRisk Alliance",
+    "spotifyUrl": "https://open.spotify.com/show/2tDV6qKYv8o0a3VJnHJYYP",
+    "youtubeUrl": "https://youtube.com/playlist?list=PLlPkFwQHxYE5CBDxb2i-r_HjVaazxyh4i",
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1111792719",
+    "tags": [
+      "news",
+      "threat-intel",
+      "vulnerability-management"
+    ],
+    "cadence": "weekly",
+    "format": "news-brief",
+    "authors": [],
+    "lastEpisodeDate": "2026-05-05T21:00:00.000Z",
+    "firstEpisodeDate": "2016-04-28T20:28:38.000Z",
+    "episodeCount": 800,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.4,
+        "ratingCount": 33,
+        "fetchedAt": "2026-05-06T04:06:37.633Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great news summaries and very funny",
+        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
+        "author": "TFWas",
+        "updatedAt": "2025-07-02T05:16:53-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Reasonably okay infosec podcast",
+        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
+        "author": "[REDACTED] USER",
+        "updatedAt": "2023-11-13T18:43:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Entertaining InfoSec news",
+        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
+        "author": "Bevonomics",
+        "updatedAt": "2022-12-07T14:23:31-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Brief But Not Shallow",
+        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
+        "author": "MLC689",
+        "updatedAt": "2022-11-29T10:37:03-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Stop recommending this, I don’t want to see it",
+        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
+        "author": "Blizzard1s2d",
+        "updatedAt": "2019-06-19T20:00:01-07:00"
       }
     ]
   },
@@ -4593,7 +4825,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 16,
-        "fetchedAt": "2026-05-06T02:43:31.660Z"
+        "fetchedAt": "2026-05-06T04:06:38.689Z"
       }
     },
     "recentReviews": [
@@ -4804,7 +5036,141 @@
         "ratingCount": 47,
         "fetchedAt": "2026-05-05T08:22:58.815Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful and educational",
+        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
+        "author": "Maocol99",
+        "updatedAt": "2025-08-14T17:21:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful, timely, and concise!",
+        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
+        "author": "LarsMarie",
+        "updatedAt": "2025-05-05T15:23:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "More OT cybersecurity and Holly rocks.",
+        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
+        "author": "tryangalway",
+        "updatedAt": "2025-03-10T22:06:15-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great Podcast for Cybersecurity Insights!",
+        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
+        "author": "yshishka",
+        "updatedAt": "2024-08-26T10:36:16-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Accessible & Actionable Resource",
+        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
+        "author": "run_amanda",
+        "updatedAt": "2024-08-19T08:29:33-07:00"
+      }
+    ]
+  },
+  {
+    "id": "three-buddy-problem",
+    "applePodcastId": "1414525622",
+    "title": "Three Buddy Problem",
+    "description": "The Three Buddy Problem is a popular Security Conversations podcast that goes beyond industry talking points to discuss what others won’t -- nation-state malware, attribution, cyberwar, ethics, privacy, and the messy realities of securing computers and corporate networks. \nHosted by three veteran security pros -- journalist Ryan Naraine and malware paleontologists Costin Raiu and Juan Andres Guerrero-Saade -- the weekly show attracts a highly engaged audience of security researchers, corporate defenders, CISOs, and policymakers.\n<a href=\"https://twitter.com/ryanaraine\">Connect with Ryan on Twitter</a> (Open DMs).",
+    "summary": "The Three Buddy Problem is a popular Security Conversations podcast that goes beyond industry talking points to discuss what others won’t -- nation-state malware, attribution, cyberwar, ethics, privacy, and the messy realities of securing computers and corporate networks. \nHosted by three veteran security pros -- journalist Ryan Naraine and malware paleontologists Costin Raiu and Juan Andres Guerrero-Saade -- the weekly show attracts a highly engaged audience of security researchers, corporate defenders, CISOs, and policymakers.\n<a href=\"https://twitter.com/ryanaraine\">Connect with Ryan on Twitter</a> (Open DMs).",
+    "subtitle": "A Security Conversations podcast",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/de/c8/6ddec851-2ca1-fac2-048b-e738cbee5874/mza_5244608465002210952.jpg/600x600bb.jpg",
+    "author": "Security Conversations",
+    "language": "en-us",
+    "categories": [
+      "Technology",
+      "News",
+      "Tech News"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://securityconversations.fireside.fm/",
+    "rssUrl": "https://feeds.fireside.fm/securityconversations/rss",
+    "copyright": "© 2026 The Naraine Group",
+    "spotifyUrl": "https://open.spotify.com/show/6dXbRagTUo4fPfpYjIDlwO",
+    "youtubeUrl": "https://www.youtube.com/@ryanaraine",
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1414525622",
+    "tags": [
+      "threat-intel",
+      "ai-security"
+    ],
+    "cadence": "weekly",
+    "format": "panel",
+    "authors": [
+      {
+        "name": "Ryan Naraine",
+        "twitterUrl": "https://x.com/ryanaraine"
+      },
+      {
+        "name": "Costin Raiu",
+        "twitterUrl": "https://x.com/craiu",
+        "websiteUrl": "https://www.noh.ro/"
+      },
+      {
+        "name": "Juan Andrés Guerrero-Saade",
+        "twitterUrl": "https://x.com/juanandres_gs",
+        "websiteUrl": "https://www.epicturla.com/about"
+      }
+    ],
+    "lastEpisodeDate": "2026-05-01T12:30:00.000Z",
+    "firstEpisodeDate": "2017-12-06T20:00:00.000Z",
+    "episodeCount": 218,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.9,
+        "ratingCount": 62,
+        "fetchedAt": "2026-05-06T04:06:39.609Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful",
+        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
+        "author": "Laughedoutloud",
+        "updatedAt": "2025-12-27T07:09:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Oo",
+        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
+        "author": "\\x4A\\x4D",
+        "updatedAt": "2025-05-20T13:02:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "1X",
+        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
+        "author": "mjg5772",
+        "updatedAt": "2025-05-17T20:32:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Security and more",
+        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
+        "author": "Chris Mc.38",
+        "updatedAt": "2024-12-15T10:04:10-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "True cybersecurity expertise and knowledge at your fingertips",
+        "content": "Ry, JAGS and Costin are insightful, enlightening and entertaining. This cybersecurity podcast is the best in the industry. The guys manage to dissect the most prominent cyber incidents and news happenings in the world with knowledge, truth and expert opinion. Totally recommended for anyone in the industry and for folks who want to learn more about cybersecurity.",
+        "author": "AA13AA13",
+        "updatedAt": "2024-08-02T16:10:15-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",
@@ -4968,5 +5334,63 @@
         "updatedAt": "2022-02-08T17:24:15-07:00"
       }
     ]
+  },
+  {
+    "id": "zero-breach-zone",
+    "applePodcastId": "1770486213",
+    "title": "Zero Breach Zone",
+    "description": "Welcome to the \"Zero Breach Zone,\" where we delve into the vital mission of fortifying K-12 schools against breaches and phishing threats. Hosts Andy Lombardo and Phil Hintz lead insightful conversations with top experts in cybersecurity, education, and technology, uncovering strategies to protect our schools. From breaking down the latest digital threats to sharing actionable security measures, this podcast empowers educators, administrators, and parents with the tools they need to safeguard students and staff in today’s connected world.",
+    "summary": "Welcome to the \"Zero Breach Zone,\" where we delve into the vital mission of fortifying K-12 schools against breaches and phishing threats. Hosts Andy Lombardo and Phil Hintz lead insightful conversations with top experts in cybersecurity, education, and technology, uncovering strategies to protect our schools. From breaking down the latest digital threats to sharing actionable security measures, this podcast empowers educators, administrators, and parents with the tools they need to safeguard students and staff in today’s connected world.",
+    "subtitle": "Welcome to the \"Zero Breach Zone,\" where we delve into the vital mission of fortifying K-12 schools against breaches and phishing threats.",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/da/64/1bda64f5-716e-bded-4bfc-0d4fc833d8ba/mza_13602477832245634067.jpg/600x600bb.jpg",
+    "author": "Andy Lombardo & Phil Hintz",
+    "language": "en",
+    "categories": [
+      "Technology",
+      "Education"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://www.zerobreachpodcast.com",
+    "rssUrl": "https://feeds.transistor.fm/zero-breach-zone",
+    "copyright": "© 2026 Andy Lombardo & Phil Hintz",
+    "spotifyUrl": "https://open.spotify.com/show/1roj2sVP57PDZ95xoq84Jm",
+    "youtubeUrl": "https://www.youtube.com/@ZeroBreachZonePodcast",
+    "twitterUrl": null,
+    "linkedinUrl": "https://www.linkedin.com/company/zero-breach-zone",
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1770486213",
+    "tags": [
+      "blue-team",
+      "vulnerability-management",
+      "incident-response",
+      "cloud-security",
+      "network-security"
+    ],
+    "cadence": "biweekly",
+    "format": "interview",
+    "authors": [
+      {
+        "name": "Andy Lombardo",
+        "linkedinUrl": "https://www.linkedin.com/in/andylombardo/",
+        "websiteUrl": "https://www.bardsec.com"
+      },
+      {
+        "name": "Phil Hintz",
+        "linkedinUrl": "https://www.linkedin.com/in/phil-hintz-med97"
+      }
+    ],
+    "lastEpisodeDate": "2026-04-28T12:00:00.000Z",
+    "firstEpisodeDate": "2024-09-25T11:19:16.000Z",
+    "episodeCount": 36,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 2,
+        "fetchedAt": "2026-05-06T04:06:40.310Z"
+      }
+    },
+    "submittedBy": "BardSEC"
   }
 ]
