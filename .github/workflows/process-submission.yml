@@ -8,31 +8,37 @@ on:
     # `opened` already sees the labels in its payload, and `edited` covers
     # users fixing validation errors and re-submitting.
     types: [opened, edited]
+  schedule:
+    # Hourly catch-up sweep. Picks up any submission issues that didn't get
+    # a PR — whether because a previous run failed mid-flight, the issue
+    # event was missed, or the user later edited the issue while another
+    # run held the concurrency lock.
+    - cron: "17 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
   issues: write
   pull-requests: write
 
+# Only one processor may run at a time. New runs queue behind the active one
+# rather than cancelling it, so a fresh issue triggered while a sweep is in
+# flight will simply be picked up by the next iteration (the queued run
+# re-discovers all outstanding issues, so nothing is dropped).
+concurrency:
+  group: process-submission
+  cancel-in-progress: false
+
 jobs:
   process:
-    # Run if either:
-    #   - the issue carries one of our submission labels, OR
-    #   - the issue title starts with "Add:" / "Edit:" (defence-in-depth in case
-    #     a label race or missing repo label means the label slipped through —
-    #     historically issue #1 was created without labels because the
-    #     `cybersecpods-edit` label didn't yet exist as a repo label, so the
-    #     `?labels=` URL param was silently dropped by GitHub).
-    if: >-
-      contains(github.event.issue.labels.*.name, 'cybersecpods-submission') ||
-      contains(github.event.issue.labels.*.name, 'cybersecpods-edit') ||
-      startsWith(github.event.issue.title, 'Add:') ||
-      startsWith(github.event.issue.title, 'Edit:')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          # We need a token that can push branches and open PRs. The default
+          # GITHUB_TOKEN is fine for both.
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:
@@ -47,227 +53,509 @@ jobs:
         # isn't present.
         run: npx playwright install --with-deps chromium
 
-      - name: Parse issue body
-        id: parse
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-          ISSUE_TITLE: ${{ github.event.issue.title }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
-          ISSUE_LABELS: ${{ toJson(github.event.issue.labels) }}
+      - name: Configure git for bot commits
         run: |
-          node <<'EOF'
-          const fs = require('fs');
-          const body = process.env.ISSUE_BODY || '';
-          const title = process.env.ISSUE_TITLE || '';
-          const labels = JSON.parse(process.env.ISSUE_LABELS || '[]').map(l => l.name);
-          // Determine mode from labels first, then fall back to title prefix.
-          // (Labels can be missing if the `?labels=` URL param was dropped due
-          // to the label not existing in the repo yet — see workflow comment.)
-          const isEdit =
-            labels.includes('cybersecpods-edit') ||
-            (!labels.includes('cybersecpods-submission') && /^Edit:/i.test(title));
-          const mode = isEdit ? 'edit' : 'add';
+          git config user.name  "cybersecpods-bot"
+          git config user.email "cybersecpods-bot@users.noreply.github.com"
 
-          // Issue forms render fields as `### Label\n\nvalue\n` (textareas may use ```lang fences).
-          // Extract by heading label, tolerating variations in casing/whitespace.
-          function section(label) {
-            const re = new RegExp(`^###\\s+${label}\\s*$`, 'mi');
-            const m = body.match(re);
-            if (!m) return null;
-            const start = m.index + m[0].length;
-            const rest = body.slice(start);
-            const next = rest.match(/^###\s+/m);
-            const chunk = next ? rest.slice(0, next.index) : rest;
-            return chunk.trim();
-          }
-
-          let slug = section('Slug') || '';
-          slug = slug.replace(/^`+|`+$/g, '').trim();
-
-          let jsonRaw = section(isEdit ? 'Updated podcast JSON' : 'Podcast JSON') || '';
-          // Strip leading/trailing fenced code block markers (```json ... ```)
-          const fence = jsonRaw.match(/^```(?:json)?\s*\n([\s\S]*?)\n```\s*$/);
-          if (fence) jsonRaw = fence[1];
-          jsonRaw = jsonRaw.trim();
-
-          // Validate slug format
-          const slugOk = /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug);
-
-          let parsed = null;
-          let parseError = null;
-          if (jsonRaw) {
-            try { parsed = JSON.parse(jsonRaw); }
-            catch (e) { parseError = String(e.message || e); }
-          } else {
-            parseError = 'JSON field is empty.';
-          }
-
-          const errors = [];
-          if (!slug) errors.push('Slug is required.');
-          else if (!slugOk) errors.push('Slug must be lowercase kebab-case (e.g. `darknet-diaries`).');
-          if (parseError) errors.push('JSON is not valid: ' + parseError);
-
-          fs.writeFileSync('parse-result.json', JSON.stringify({
-            mode, slug, slugOk, json: parsed, jsonRaw, errors,
-          }, null, 2));
-
-          // Expose outputs
-          const out = process.env.GITHUB_OUTPUT;
-          fs.appendFileSync(out, `mode=${mode}\n`);
-          fs.appendFileSync(out, `slug=${slug}\n`);
-          fs.appendFileSync(out, `ok=${errors.length === 0 ? '1' : '0'}\n`);
-          if (errors.length) {
-            fs.appendFileSync(out, `errors<<__END__\n${errors.map(e => '- ' + e).join('\n')}\n__END__\n`);
-          }
-          EOF
-
-      - name: Comment on issue if parse failed
-        if: steps.parse.outputs.ok != '1'
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const errors = `${{ steps.parse.outputs.errors }}`;
-            const body = [
-              "### ❌ Couldn't parse your submission",
-              "",
-              "I had trouble reading the form. Please re-edit the issue and check the fields below:",
-              "",
-              errors,
-              "",
-              "If you used the in-browser form at https://cybersecpods.com/submit/ and still hit this, please mention `@merill` here.",
-            ].join("\n");
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body,
-            });
-
-      - name: Stop on parse failure
-        if: steps.parse.outputs.ok != '1'
-        run: exit 1
-
-      - name: Write podcast JSON file
-        run: |
-          set -e
-          SLUG="${{ steps.parse.outputs.slug }}"
-          mkdir -p "@data/podcasts"
-          node -e '
-            const fs = require("fs");
-            const r = JSON.parse(fs.readFileSync("parse-result.json","utf8"));
-            const path = `@data/podcasts/${r.slug}.json`;
-            fs.writeFileSync(path, JSON.stringify(r.json, null, 2) + "\n");
-            console.log("Wrote", path);
-          '
-
-      - name: Run validator
-        id: validate
-        env:
-          VALIDATION_OUTPUT: validation-output.json
-        run: |
-          set +e
-          npm run validate:input
-          STATUS=$?
-          echo "status=$STATUS" >> "$GITHUB_OUTPUT"
-          exit 0
-
-      - name: Build validation summary
-        id: summary
-        run: |
-          node -e '
-            const fs = require("fs");
-            (() => {
-              if (!fs.existsSync("validation-output.json")) {
-                fs.writeFileSync("summary.md", "Validation produced no output.");
-                return;
-              }
-              const data = JSON.parse(fs.readFileSync("validation-output.json","utf8"));
-              const issues = data.issues ?? [];
-              if (!issues.length) {
-                fs.writeFileSync("summary.md", "✅ JSON validates against the submission schema.");
-                return;
-              }
-              const grouped = {};
-              for (const i of issues) (grouped[i.file] ??= []).push(i.error);
-              let body = "Validation found these issues:\n\n";
-              for (const [file, errs] of Object.entries(grouped)) {
-                body += `**\`${file}\`**\n`;
-                for (const e of errs) body += `- ${e}\n`;
-                body += "\n";
-              }
-              fs.writeFileSync("summary.md", body);
-            })();
-          '
-
-      - name: Comment on issue if validation failed
-        if: steps.validate.outputs.status != '0'
+      - name: Discover outstanding submission issues
+        id: discover
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
-            const summary = fs.readFileSync('summary.md', 'utf8');
-            const body = [
-              "### ❌ Submission validation failed",
-              "",
-              summary,
-              "",
-              "Please edit this issue and fix the JSON, or re-open the form at https://cybersecpods.com/submit/.",
-            ].join("\n");
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body,
+
+            // 1. Find candidate issues: open, with a submission/edit label OR
+            //    an Add:/Edit: title prefix (defence-in-depth in case the
+            //    `?labels=` URL param was silently dropped by GitHub when the
+            //    repo label didn't exist yet).
+            const candidates = await github.paginate(
+              github.rest.issues.listForRepo,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                per_page: 100,
+              }
+            );
+
+            const matches = candidates.filter((iss) => {
+              if (iss.pull_request) return false; // skip PRs
+              const labels = (iss.labels || []).map((l) =>
+                typeof l === 'string' ? l : l.name
+              );
+              if (
+                labels.includes('cybersecpods-submission') ||
+                labels.includes('cybersecpods-edit')
+              ) {
+                return true;
+              }
+              const t = iss.title || '';
+              return /^Add:/i.test(t) || /^Edit:/i.test(t);
             });
 
-      - name: Stop on validation failure
-        if: steps.validate.outputs.status != '0'
-        run: |
-          echo "Validation failed; see issue comment."
-          exit 1
+            // 2. Find open bot PRs and the issue numbers they reference.
+            //    We treat an issue as "already in flight" if any open PR was
+            //    opened from a `cybersecpods-bot/*` branch and either:
+            //      - mentions `#<issue>` / `Closes #<issue>` in its body, or
+            //      - has the same slug-derived branch name we'd produce.
+            const openPrs = await github.paginate(
+              github.rest.pulls.list,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                per_page: 100,
+              }
+            );
 
-      - name: Create Pull Request
-        id: cpr
-        uses: peter-evans/create-pull-request@v6
-        with:
-          branch: cybersecpods-bot/${{ steps.parse.outputs.slug }}
-          base: main
-          delete-branch: true
-          add-paths: "@data/podcasts/${{ steps.parse.outputs.slug }}.json"
-          commit-message: |
-            ${{ steps.parse.outputs.mode == 'edit' && 'edit' || 'add' }}: ${{ steps.parse.outputs.slug }}
+            const linkedIssues = new Set();
+            const linkedSlugs = new Set();
+            for (const pr of openPrs) {
+              const ref = pr.head && pr.head.ref ? pr.head.ref : '';
+              if (!ref.startsWith('cybersecpods-bot/')) continue;
+              linkedSlugs.add(ref.slice('cybersecpods-bot/'.length));
+              const body = pr.body || '';
+              const re = /#(\d+)/g;
+              let m;
+              while ((m = re.exec(body)) !== null) {
+                linkedIssues.add(Number(m[1]));
+              }
+            }
 
-            From issue #${{ github.event.issue.number }}.
-          title: "${{ steps.parse.outputs.mode == 'edit' && 'Edit' || 'Add' }}: ${{ steps.parse.outputs.slug }}"
-          body: |
-            Automated PR from issue #${{ github.event.issue.number }}.
+            // 3. If this run was triggered by an issue event, make sure that
+            //    issue is in the candidate list even if the listing API
+            //    hasn't caught up yet (eventual consistency).
+            if (
+              context.eventName === 'issues' &&
+              context.payload.issue &&
+              !matches.some((i) => i.number === context.payload.issue.number)
+            ) {
+              const iss = context.payload.issue;
+              if (iss.state === 'open') {
+                const labels = (iss.labels || []).map((l) =>
+                  typeof l === 'string' ? l : l.name
+                );
+                const t = iss.title || '';
+                const hit =
+                  labels.includes('cybersecpods-submission') ||
+                  labels.includes('cybersecpods-edit') ||
+                  /^Add:/i.test(t) ||
+                  /^Edit:/i.test(t);
+                if (hit) matches.unshift(iss);
+              }
+            }
 
-            **Mode:** `${{ steps.parse.outputs.mode }}`
-            **Slug:** `${{ steps.parse.outputs.slug }}`
+            // 4. Filter out issues already linked to an open bot PR.
+            const outstanding = matches
+              .filter((iss) => !linkedIssues.has(iss.number))
+              .map((iss) => ({
+                number: iss.number,
+                title: iss.title || '',
+                body: iss.body || '',
+                labels: (iss.labels || []).map((l) =>
+                  typeof l === 'string' ? l : l.name
+                ),
+              }));
 
-            JSON validated against the submission schema. Apple Podcasts metadata, episodes, and ratings will be fetched automatically by the scheduled workflows after merge.
+            core.info(
+              `Found ${matches.length} candidate issue(s); ` +
+                `${linkedIssues.size} already linked to open PRs; ` +
+                `${outstanding.length} outstanding.`
+            );
+            for (const iss of outstanding) {
+              core.info(`  - #${iss.number}: ${iss.title}`);
+            }
 
-            Closes #${{ github.event.issue.number }}.
-          labels: |
-            cybersecpods-${{ steps.parse.outputs.mode }}
-            automated
+            fs.writeFileSync(
+              'outstanding-issues.json',
+              JSON.stringify(outstanding, null, 2)
+            );
+            core.setOutput('count', String(outstanding.length));
+            // Also expose linked slugs so the per-issue step can avoid a
+            // collision if two issues happen to map to the same slug.
+            fs.writeFileSync(
+              'linked-slugs.json',
+              JSON.stringify([...linkedSlugs], null, 2)
+            );
 
-      - name: Comment with PR link
-        if: steps.cpr.outputs.pull-request-url
+      - name: Process each outstanding issue
+        if: steps.discover.outputs.count != '0'
+        id: run
         uses: actions/github-script@v7
+        env:
+          # Used by validate-input.ts to scope validation to a single file.
+          # We set it dynamically per issue inside the script.
+          DUMMY: "1"
         with:
           script: |
-            const url = `${{ steps.cpr.outputs.pull-request-url }}`;
-            const body = [
-              "### ✅ Submission accepted",
-              "",
-              `Opened a PR for review: ${url}`,
-              "",
-              "Once it's merged, your podcast will appear on the next scheduled site build (within an hour).",
-            ].join("\n");
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body,
-            });
+            const fs = require('fs');
+            const path = require('path');
+            const { execFileSync } = require('child_process');
+
+            const issues = JSON.parse(
+              fs.readFileSync('outstanding-issues.json', 'utf8')
+            );
+
+            // Helper: extract a section by `### Heading` from an issue body.
+            function section(body, label) {
+              const re = new RegExp(`^###\\s+${label}\\s*$`, 'mi');
+              const m = body.match(re);
+              if (!m) return null;
+              const start = m.index + m[0].length;
+              const rest = body.slice(start);
+              const next = rest.match(/^###\\s+/m);
+              const chunk = next ? rest.slice(0, next.index) : rest;
+              return chunk.trim();
+            }
+
+            function parseIssue(iss) {
+              const body = iss.body || '';
+              const title = iss.title || '';
+              const labels = iss.labels || [];
+
+              const isEdit =
+                labels.includes('cybersecpods-edit') ||
+                (!labels.includes('cybersecpods-submission') &&
+                  /^Edit:/i.test(title));
+              const mode = isEdit ? 'edit' : 'add';
+
+              let slug = section(body, 'Slug') || '';
+              slug = slug.replace(/^`+|`+$/g, '').trim();
+
+              let jsonRaw =
+                section(body, isEdit ? 'Updated podcast JSON' : 'Podcast JSON') ||
+                '';
+              const fence = jsonRaw.match(
+                /^```(?:json)?\s*\n([\s\S]*?)\n```\s*$/
+              );
+              if (fence) jsonRaw = fence[1];
+              jsonRaw = jsonRaw.trim();
+
+              const slugOk = /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug);
+
+              let parsed = null;
+              let parseError = null;
+              if (jsonRaw) {
+                try {
+                  parsed = JSON.parse(jsonRaw);
+                } catch (e) {
+                  parseError = String(e.message || e);
+                }
+              } else {
+                parseError = 'JSON field is empty.';
+              }
+
+              const errors = [];
+              if (!slug) errors.push('Slug is required.');
+              else if (!slugOk)
+                errors.push(
+                  'Slug must be lowercase kebab-case (e.g. `darknet-diaries`).'
+                );
+              if (parseError) errors.push('JSON is not valid: ' + parseError);
+
+              return { mode, slug, slugOk, json: parsed, errors };
+            }
+
+            async function comment(issue_number, body) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number,
+                body,
+              });
+            }
+
+            // Run a shell command, capturing stdout/stderr and exit code.
+            function run(cmd, args, opts = {}) {
+              try {
+                const out = execFileSync(cmd, args, {
+                  encoding: 'utf8',
+                  stdio: ['ignore', 'pipe', 'pipe'],
+                  ...opts,
+                });
+                return { ok: true, stdout: out, stderr: '' };
+              } catch (e) {
+                return {
+                  ok: false,
+                  stdout: e.stdout ? e.stdout.toString() : '',
+                  stderr: e.stderr ? e.stderr.toString() : String(e.message),
+                  code: e.status,
+                };
+              }
+            }
+
+            // Make sure we're on a clean main before each issue.
+            function resetToMain() {
+              run('git', ['checkout', 'main']);
+              run('git', ['reset', '--hard', 'origin/main']);
+              run('git', ['clean', '-fd']);
+            }
+
+            const results = [];
+
+            for (const iss of issues) {
+              const head = `--- Processing #${iss.number}: ${iss.title} ---`;
+              core.startGroup(head);
+              const result = { number: iss.number, title: iss.title, ok: false };
+
+              try {
+                resetToMain();
+
+                // 1. Parse the issue body.
+                const parsed = parseIssue(iss);
+                result.slug = parsed.slug;
+                result.mode = parsed.mode;
+
+                if (parsed.errors.length) {
+                  const body = [
+                    "### ❌ Couldn't parse your submission",
+                    '',
+                    'I had trouble reading the form. Please re-edit the issue and check the fields below:',
+                    '',
+                    parsed.errors.map((e) => '- ' + e).join('\n'),
+                    '',
+                    'If you used the in-browser form at https://cybersecpods.com/submit/ and still hit this, please mention `@merill` here.',
+                  ].join('\n');
+                  await comment(iss.number, body);
+                  result.error = 'parse';
+                  results.push(result);
+                  continue;
+                }
+
+                // 2. Write the file.
+                const relPath = `@data/podcasts/${parsed.slug}.json`;
+                fs.mkdirSync('@data/podcasts', { recursive: true });
+                fs.writeFileSync(
+                  relPath,
+                  JSON.stringify(parsed.json, null, 2) + '\n'
+                );
+
+                // 3. Validate just this file.
+                if (fs.existsSync('validation-output.json')) {
+                  fs.unlinkSync('validation-output.json');
+                }
+                const v = run('npm', ['run', 'validate:input'], {
+                  env: {
+                    ...process.env,
+                    CHANGED_FILES: relPath,
+                    VALIDATION_OUTPUT: 'validation-output.json',
+                  },
+                });
+
+                if (!v.ok) {
+                  let summary = 'Validation produced no output.';
+                  if (fs.existsSync('validation-output.json')) {
+                    try {
+                      const data = JSON.parse(
+                        fs.readFileSync('validation-output.json', 'utf8')
+                      );
+                      const vIssues = data.issues || [];
+                      if (vIssues.length) {
+                        const grouped = {};
+                        for (const i of vIssues)
+                          (grouped[i.file] = grouped[i.file] || []).push(i.error);
+                        let body = 'Validation found these issues:\n\n';
+                        for (const [file, errs] of Object.entries(grouped)) {
+                          body += `**\`${file}\`**\n`;
+                          for (const e of errs) body += `- ${e}\n`;
+                          body += '\n';
+                        }
+                        summary = body;
+                      }
+                    } catch (_) {
+                      // fall through to default summary
+                    }
+                  }
+                  const body = [
+                    '### ❌ Submission validation failed',
+                    '',
+                    summary,
+                    '',
+                    'Please edit this issue and fix the JSON, or re-open the form at https://cybersecpods.com/submit/.',
+                  ].join('\n');
+                  await comment(iss.number, body);
+                  result.error = 'validate';
+                  results.push(result);
+                  continue;
+                }
+
+                // 4. Commit on a per-issue branch and push.
+                const branch = `cybersecpods-bot/${parsed.slug}`;
+                // If a stale local/remote branch exists, blow it away so we
+                // always open a fresh PR. (We only get here if there isn't
+                // already an *open* PR for this issue — see discovery step.)
+                run('git', ['branch', '-D', branch]);
+                const co = run('git', ['checkout', '-b', branch]);
+                if (!co.ok) throw new Error('checkout failed: ' + co.stderr);
+
+                run('git', ['add', relPath]);
+                const status = run('git', [
+                  'status',
+                  '--porcelain',
+                  relPath,
+                ]);
+                if (!status.stdout.trim()) {
+                  // Nothing changed vs main — the issue's JSON is identical
+                  // to what's already committed. Tell the user and move on.
+                  await comment(
+                    iss.number,
+                    [
+                      '### ℹ️ Nothing to do',
+                      '',
+                      `The submitted JSON for \`${parsed.slug}\` matches what's already on \`main\`, so there's no PR to open.`,
+                      '',
+                      "If you intended to change something, please edit this issue and update the JSON field.",
+                    ].join('\n')
+                  );
+                  result.ok = true;
+                  result.skipped = 'no-diff';
+                  results.push(result);
+                  continue;
+                }
+
+                const commitMsg =
+                  `${parsed.mode === 'edit' ? 'edit' : 'add'}: ${parsed.slug}\n\n` +
+                  `From issue #${iss.number}.`;
+                const commit = run('git', ['commit', '-m', commitMsg]);
+                if (!commit.ok)
+                  throw new Error('commit failed: ' + commit.stderr);
+
+                const push = run('git', [
+                  'push',
+                  '--force-with-lease',
+                  'origin',
+                  branch,
+                ]);
+                if (!push.ok)
+                  throw new Error('push failed: ' + push.stderr);
+
+                // 5. Open the PR.
+                const prTitle = `${parsed.mode === 'edit' ? 'Edit' : 'Add'}: ${parsed.slug}`;
+                const prBody = [
+                  `Automated PR from issue #${iss.number}.`,
+                  '',
+                  `**Mode:** \`${parsed.mode}\``,
+                  `**Slug:** \`${parsed.slug}\``,
+                  '',
+                  'JSON validated against the submission schema. Apple Podcasts metadata, episodes, and ratings will be fetched automatically by the scheduled workflows after merge.',
+                  '',
+                  `Closes #${iss.number}.`,
+                ].join('\n');
+
+                let pr;
+                try {
+                  const created = await github.rest.pulls.create({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    head: branch,
+                    base: 'main',
+                    title: prTitle,
+                    body: prBody,
+                  });
+                  pr = created.data;
+                } catch (e) {
+                  // Most likely cause: a PR already exists for this branch
+                  // (e.g. closed-but-not-merged). Find it and reuse / surface.
+                  const existing = await github.rest.pulls.list({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    head: `${context.repo.owner}:${branch}`,
+                    state: 'all',
+                    per_page: 1,
+                  });
+                  if (existing.data.length) pr = existing.data[0];
+                  else throw e;
+                }
+
+                // Apply labels (best-effort).
+                try {
+                  await github.rest.issues.addLabels({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    issue_number: pr.number,
+                    labels: [`cybersecpods-${parsed.mode}`, 'automated'],
+                  });
+                } catch (_) {
+                  /* labels may not exist; non-fatal */
+                }
+
+                await comment(
+                  iss.number,
+                  [
+                    '### ✅ Submission accepted',
+                    '',
+                    `Opened a PR for review: ${pr.html_url}`,
+                    '',
+                    "Once it's merged, your podcast will appear on the next scheduled site build (within an hour).",
+                  ].join('\n')
+                );
+
+                result.ok = true;
+                result.pr = pr.html_url;
+                results.push(result);
+              } catch (err) {
+                core.error(`#${iss.number} failed: ${err.message || err}`);
+                result.error = 'exception';
+                result.message = String(err.message || err);
+                try {
+                  await comment(
+                    iss.number,
+                    [
+                      '### ⚠️ Submission processing failed',
+                      '',
+                      'Something went wrong while processing this submission:',
+                      '',
+                      '```',
+                      String(err.message || err).slice(0, 1500),
+                      '```',
+                      '',
+                      'The hourly catch-up sweep will retry automatically. If this keeps happening, please mention `@merill`.',
+                    ].join('\n')
+                  );
+                } catch (_) {
+                  /* commenting is best-effort */
+                }
+                results.push(result);
+              } finally {
+                core.endGroup();
+              }
+            }
+
+            // Summary table in the run log.
+            const ok = results.filter((r) => r.ok).length;
+            const failed = results.filter((r) => !r.ok).length;
+            await core.summary
+              .addHeading('Submission processing results')
+              .addRaw(
+                `Processed **${results.length}** issue(s) — ` +
+                  `${ok} ok, ${failed} failed.\n\n`
+              )
+              .addTable([
+                [
+                  { data: 'Issue', header: true },
+                  { data: 'Status', header: true },
+                  { data: 'Slug', header: true },
+                  { data: 'Notes', header: true },
+                ],
+                ...results.map((r) => [
+                  `#${r.number}`,
+                  r.ok ? (r.skipped ? `skipped (${r.skipped})` : 'ok') : `failed (${r.error})`,
+                  r.slug || '—',
+                  r.pr || r.message || '',
+                ]),
+              ])
+              .write();
+
+            // Expose for the final fail step.
+            fs.writeFileSync(
+              'process-results.json',
+              JSON.stringify(results, null, 2)
+            );
+            core.setOutput('failed', String(failed));
+
+      - name: Fail run if any issue failed
+        if: steps.run.outputs.failed && steps.run.outputs.failed != '0'
+        run: |
+          echo "${{ steps.run.outputs.failed }} issue(s) failed processing; see job summary."
+          exit 1
