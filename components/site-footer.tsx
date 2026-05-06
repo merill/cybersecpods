@@ -37,6 +37,9 @@ export function SiteFooter() {
           <Link href="/episodes/" className="hover:text-foreground">
             Episodes
           </Link>
+          <Link href="/rankings/" className="hover:text-foreground">
+            Rankings
+          </Link>
           <Link href="/rss.xml" className="hover:text-foreground">
             RSS
           </Link>

@@ -1,0 +1,24 @@
+{
+  "applePodcastId": "304863991",
+  "spotifyUrl": "https://open.spotify.com/show/4orGHEysjCAWvGEbHzeL9A",
+  "websiteUrl": "https://isc.sans.edu/podcast.html",
+  "youtubeUrl": "https://www.youtube.com/channel/UCGyCV0hYfv41aFeIAszil0w",
+  "twitterUrl": "https://x.com/sans_isc",
+  "tags": [
+    "news",
+    "threat-intel",
+    "vulnerability-management",
+    "network-security",
+    "blue-team"
+  ],
+  "cadence": "daily",
+  "format": "news-brief",
+  "authors": [
+    {
+      "name": "Johannes B. Ullrich, Ph.D.",
+      "twitterUrl": "https://twitter.com/johullrich",
+      "linkedinUrl": "https://www.linkedin.com/in/johannesullrich/",
+      "websiteUrl": "https://jbu.me/"
+    }
+  ]
+}

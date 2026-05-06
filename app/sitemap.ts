@@ -2,10 +2,8 @@ import type { MetadataRoute } from "next"
 
 import { siteConfig } from "@/config/site"
 import { CATEGORY_GROUPS } from "@/lib/categories"
-import {
-  getAllPodcasts,
-  getEpisodesForPodcast,
-} from "@/lib/podcasts"
+import { BEST_PODCAST_PAGES } from "@/lib/editorial-seo"
+import { getAllPodcasts, getEpisodesForPodcast } from "@/lib/podcasts"
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = siteConfig.url
@@ -27,6 +25,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: "weekly",
     priority: 0.5,
   }))
+
+  const bestPodcastEntries: MetadataRoute.Sitemap = BEST_PODCAST_PAGES.map(
+    (page) => ({
+      url: `${base}/${page.slug}/`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.85,
+    })
+  )
 
   const episodeEntries: MetadataRoute.Sitemap = []
   const STATIC_EPISODES_PER_PODCAST = 25
@@ -78,6 +85,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.3,
     },
+    {
+      url: `${base}/rankings/`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.8,
+    },
+    ...bestPodcastEntries,
     ...podcastEntries,
     ...categoryEntries,
     ...episodeEntries,

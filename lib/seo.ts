@@ -1,5 +1,6 @@
 import type { Metadata } from "next"
-import type { Podcast, Episode } from "@/types/podcast"
+
+import type { Episode, Podcast } from "@/types/podcast"
 import { siteConfig } from "@/config/site"
 
 // Site-wide default OG share-card. Re-exported here so any route that needs to
@@ -25,16 +26,17 @@ export function podcastMetadata(podcast: Podcast): Metadata {
     podcast.summary ||
     stripHtml(podcast.description).slice(0, 200)
   const url = `${siteConfig.url}/podcasts/${podcast.id}/`
+  const title = `${podcast.title} Podcast: Episodes, Ratings, Reviews`
   // Build-time generated 1200x630 share-card. See @build/generate-og-images.ts.
   const ogImage = `${siteConfig.url}/og/podcasts/${podcast.id}.png`
   return {
-    title: podcast.title,
+    title,
     description,
     alternates: { canonical: url },
     openGraph: {
       type: "website",
       url,
-      title: podcast.title,
+      title,
       description,
       siteName: siteConfig.name,
       images: [{ url: ogImage, width: 1200, height: 630, alt: podcast.title }],
@@ -48,10 +50,7 @@ export function podcastMetadata(podcast: Podcast): Metadata {
   }
 }
 
-export function episodeMetadata(
-  podcast: Podcast,
-  episode: Episode
-): Metadata {
+export function episodeMetadata(podcast: Podcast, episode: Episode): Metadata {
   const description = stripHtml(episode.description).slice(0, 200)
   const url = `${siteConfig.url}/podcasts/${podcast.id}/${episode.id}/`
   // Episode pages re-use the parent podcast's OG image. The episode title is
@@ -123,12 +122,13 @@ export function episodeJsonLd(podcast: Podcast, episode: Episode) {
     image: episode.imageUrl || podcast.image,
     datePublished: episode.publishedAt,
     timeRequired: episode.duration ? `PT${episode.duration}S` : undefined,
-    associatedMedia: episode.audioUrl || episode.videoUrl
-      ? {
-          "@type": episode.videoUrl ? "VideoObject" : "AudioObject",
-          contentUrl: episode.videoUrl ?? episode.audioUrl,
-        }
-      : undefined,
+    associatedMedia:
+      episode.audioUrl || episode.videoUrl
+        ? {
+            "@type": episode.videoUrl ? "VideoObject" : "AudioObject",
+            contentUrl: episode.videoUrl ?? episode.audioUrl,
+          }
+        : undefined,
     partOfSeries: {
       "@type": "PodcastSeries",
       name: podcast.title,
@@ -149,6 +149,29 @@ export function websiteJsonLd() {
       target: `${siteConfig.url}/podcasts/?q={search_term_string}`,
       "query-input": "required name=search_term_string",
     },
+  }
+}
+
+export function itemListJsonLd(name: string, url: string, podcasts: Podcast[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name,
+    url,
+    itemListElement: podcasts.map((podcast, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: `${siteConfig.url}/podcasts/${podcast.id}/`,
+      item: {
+        "@type": "PodcastSeries",
+        name: podcast.title,
+        description: stripHtml(
+          podcast.subtitle || podcast.summary || podcast.description
+        ).slice(0, 300),
+        url: `${siteConfig.url}/podcasts/${podcast.id}/`,
+        image: podcast.image,
+      },
+    })),
   }
 }
 
