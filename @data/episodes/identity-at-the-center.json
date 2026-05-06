@@ -1,5 +1,22 @@
 [
   {
+    "id": "420-sponsor-spotlight-gitguardian",
+    "podcastId": "identity-at-the-center",
+    "title": "#420 - Sponsor Spotlight - GitGuardian",
+    "description": "<p>This episode is made possible by GitGuardian. Jeff speaks with Dwayne McDaniel, Principal Developer Advocate at GitGuardian, about secrets sprawl, non-human identity governance, and the findings of the State of Secret Sprawl 2026 report. With 28.6 million secrets leaked to public GitHub in 2025 - a 34% year-over-year increase - they explore why hardcoded credentials persist, how agentic AI tools are making the problem worse, and what IAM practitioners can do to start addressing machine identity governance. Topics include GitGuardian's Good Samaritan notification program, the growing NHI inventory challenge, SPIFFE and SPIRE as a path to zero standing privilege, and data showing Claude Code co-authored commits are more than twice as likely to contain leaked secrets. Visit gitguardian.com/lps/idac to learn more.</p><p><br></p><p><br></p><p><br></p><p>Connect with Dwayne: https://www.linkedin.com/in/dwaynemcdaniel/</p><p><br></p><p>Dwayne's website: https://dwayne-mcdaniel.com/</p><p><br></p><p>Learn more about GitGuardian: https://www.gitguardian.com/lps/idac</p><p><br></p><p>GitGuardian Good Samaritan Program (free) - https://www.gitguardian.com/good-samaritan</p><p><br></p><p>The State of Secrets Sprawl 2026: https://www.gitguardian.com/state-of-secrets-sprawl-report-2026</p><p><br></p><p>SPIFFE Book: https://spiffe.io/book/</p><p><br></p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p><br></p><p>TIMESTAMPS:</p><p>00:00 Introduction and sponsor welcome</p><p>00:48 Dwayne's background and path to developer advocacy</p><p>04:11 Surprises from entering the identity and security space</p><p>06:29 What a principal developer advocate actually does</p><p>09:32 Why secrets became Dwayne's focus area</p><p>14:10 GitGuardian: overview and mission</p><p>19:36 Where secrets commonly leak across the SDLC</p><p>22:17 The Good Samaritan notification program explained</p><p>28:00 Why 70% of leaked secrets from 2022 were still valid in 2025</p><p>33:54 State of Secret Sprawl 2026: the year software changed</p><p>40:39 AI coding tools, Claude Code, and secrets leakage data</p><p>47:28 Practical questions for IAM practitioners to start asking</p><p>52:24 Zero standing privilege and the case for SPIFFE/SPIRE</p><p>01:00:00 Resources: the SPIFFE book, WIMSE, and AWS STS</p><p>01:02:51 Hot sauce, the Cubs, and closing thoughts</p><p><br></p><p><br></p><p><br></p><p>KEYWORDS:</p><p>secrets sprawl, hardcoded secrets, non-human identity, NHI governance, GitGuardian, SPIFFE, SPIRE, workload identity, DevSecOps, agentic AI, Claude Code, zero standing privilege, supply chain security, credential abuse, identity and access management, IAM, IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Dwayne McDaniel</p>",
+    "publishedAt": "2026-05-06T09:00:00.000Z",
+    "duration": 4403,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/119125628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-27%2Fcc8f86dc-30b5-b278-a077-c498860570ef.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 420,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/420---Sponsor-Spotlight---GitGuardian-e3ihu5s"
+  },
+  {
     "id": "419-identity-management-day-2026-idac-live",
     "podcastId": "identity-at-the-center",
     "title": "#419 - Identity Management Day 2026 - IDAC Live",
