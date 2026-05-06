@@ -226,7 +226,7 @@ async function processOne(
     description: feed.description,
     summary: feed.summary,
     subtitle: feed.subtitle,
-    image: feed.image || lookup.artworkUrl600 || "",
+    image: lookup.artworkUrl600 ?? "",
     author: feed.author || lookup.artistName,
     language: feed.language,
     categories: feed.categories.length ? feed.categories : lookup.genres,

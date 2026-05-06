@@ -92,6 +92,22 @@ function escapeXml(s: string): string {
 
 // ----- artwork fetch+resize -------------------------------------------------
 
+/**
+ * Apple's mzstatic CDN encodes the requested artwork dimensions in the URL's
+ * last path segment (e.g. `/600x600bb.jpg`). The catalog stores the 600px
+ * variant for the live site, but for the OG card we composite at 550×550 on
+ * a 1200×630 canvas — pulling the 1200×1200 variant gives sharp output on
+ * retina screens with no extra cost (Apple resamples server-side). For
+ * non-Apple URLs the input is returned unchanged.
+ */
+function upscaleAppleArtworkUrl(url: string): string {
+  if (!/^https?:\/\/[^/]*mzstatic\.com\//.test(url)) return url
+  return url.replace(
+    /\/(\d+)x(\d+)bb(-?\d*)\.(jpe?g|png|webp)$/i,
+    "/1200x1200bb$3.$4"
+  )
+}
+
 async function fetchArtwork(url: string, slug: string): Promise<Buffer | null> {
   if (!url) return null
   if (!fs.existsSync(ARTWORK_CACHE_DIR)) {
@@ -101,8 +117,9 @@ async function fetchArtwork(url: string, slug: string): Promise<Buffer | null> {
   if (fs.existsSync(cacheFile)) {
     return fs.readFileSync(cacheFile)
   }
+  const fetchUrl = upscaleAppleArtworkUrl(url)
   try {
-    const res = await fetch(url, {
+    const res = await fetch(fetchUrl, {
       headers: {
         "User-Agent":
           "Mozilla/5.0 (compatible; cybersecpods-og-builder/1.0; +https://cybersecpods.com)",
