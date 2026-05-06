@@ -290,6 +290,57 @@
     ]
   },
   {
+    "id": "ahl-about-identity",
+    "applePodcastId": "1839022906",
+    "title": "Ahl About Identity",
+    "description": "<p><strong>Ahl About Identity </strong>isn’t your typical cybersecurity podcast. Each episode unpacks how attackers move through cloud and SaaS environments, exposing the overlooked gaps that make identity the new perimeter.</p><p>Through real breach stories and insightful discussions, we examine attacker behavior, identity misuse, and the subtle signals defenders often miss. We put identity at the center of every conversation, connecting attacker tradecraft to practical defense strategies.</p><p>If you care about what’s really happening behind the buzzwords, this is where the identity conversation gets real.</p>",
+    "summary": "",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5a/e2/9f/5ae29f92-ba18-18d8-0325-f32dd6a248f4/mza_10493585145539279634.png/600x600bb.jpg",
+    "author": "Permiso Security",
+    "language": "en",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://permiso.io/",
+    "rssUrl": "https://media.rss.com/the-permiso-podcast/feed.xml",
+    "copyright": "Permiso 2025",
+    "spotifyUrl": "https://open.spotify.com/show/0oGzHDKeZtObtESamRyYjr",
+    "youtubeUrl": "https://www.youtube.com/@permisosecurity",
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1839022906",
+    "tags": [
+      "identity",
+      "ai-security",
+      "cloud-security"
+    ],
+    "cadence": "irregular",
+    "format": "solo",
+    "authors": [
+      {
+        "name": "Ian Ahl",
+        "twitterUrl": "https://x.com/TekDefense",
+        "linkedinUrl": "https://www.linkedin.com/in/ian-ahl-50876612/"
+      }
+    ],
+    "lastEpisodeDate": "2026-04-17T13:53:02.000Z",
+    "firstEpisodeDate": "2025-09-10T16:50:49.000Z",
+    "episodeCount": 9,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 1,
+        "fetchedAt": "2026-05-06T12:07:18.079Z"
+      }
+    },
+    "submittedBy": "gregclermont"
+  },
+  {
     "id": "application-security-weekly",
     "applePodcastId": "1338907745",
     "title": "Application Security Weekly (Audio)",
@@ -1636,6 +1687,67 @@
     ]
   },
   {
+    "id": "darknet-diaries-en-espanol",
+    "applePodcastId": "1815617006",
+    "title": "Darknet Diaries en español",
+    "description": "Estas son historias reales del lado oscuro de Internet. Este podcast fue creado originalmente en inglés y ha sido traducido al español para su disfrute. Las voces que escucharán son las voces de los traductores. For an English version visit darknetdiaries.com.",
+    "summary": "Estas son historias reales del lado oscuro de Internet. Este podcast fue creado originalmente en inglés y ha sido traducido al español para su disfrute. Las voces que escucharán son las voces de los traductores. For an English version visit darknetdiaries.com.",
+    "subtitle": "Estas son historias reales del lado oscuro de Internet.",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cf/9c/c5/cf9cc5c4-afe6-834d-986e-98edf09fa0b9/mza_8640004599773195830.jpg/600x600bb.jpg",
+    "author": "Jack Rhysider",
+    "language": "es",
+    "categories": [
+      "Technology",
+      "Tech News",
+      "Society & Culture",
+      "History",
+      "Personal Journals"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://darknetdiaries.com/es/",
+    "rssUrl": "https://darknetdiaries.com/es/podcast.xml",
+    "copyright": "Jack Rhysider",
+    "spotifyUrl": "https://open.spotify.com/show/52VZlAtiYakzHvdrQuaEnv",
+    "youtubeUrl": "https://www.youtube.com/@DarknetDiariesEspanol",
+    "twitterUrl": "https://twitter.com/darknetdiaries",
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1815617006",
+    "tags": [
+      "storytelling",
+      "privacy"
+    ],
+    "cadence": "monthly",
+    "format": "narrative",
+    "authors": [
+      {
+        "name": "Jack Rhysider",
+        "twitterUrl": "https://twitter.com/jackrhysider"
+      }
+    ],
+    "lastEpisodeDate": "2025-11-21T08:00:00.000Z",
+    "firstEpisodeDate": "2017-11-15T08:00:00.000Z",
+    "episodeCount": 9,
+    "hasVideo": false,
+    "isActive": false,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 2,
+        "fetchedAt": "2026-05-06T12:07:23.050Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
+  },
+  {
     "id": "decipher-security-podcast",
     "applePodcastId": "1443911339",
     "title": "Decipher Security Podcast",
@@ -1903,6 +2015,93 @@
         "content": "No matter the topic, you’re guaranteed to gain something from every episode - can’t recommend Defensive Security Podcast enough.",
         "author": "LisaIsHereForIt",
         "updatedAt": "2022-05-18T14:08:05-07:00"
+      }
+    ]
+  },
+  {
+    "id": "discarded",
+    "applePodcastId": "1612506550",
+    "title": "DISCARDED: Tales From the Threat Research Trenches",
+    "description": "<p>DISCARDED: Tales from the Threat Research Trenches is a podcast for security practitioners, intelligence analysts, and threat hunters looking to learn more about the threat behaviors and attack patterns. Each episode you’ll hear real world insights from our researchers about the latest trends in malware, threat actors, TTPs, and more.<br>Welcome to DISCARDED</p>",
+    "summary": "",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/56/ba/c556baec-344d-4f39-1c08-4666bfa84b7e/mza_16499226668075002377.jpg/600x600bb.jpg",
+    "author": "Proofpoint",
+    "language": "en",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://www.proofpoint.com/podcasts/discarded",
+    "rssUrl": "https://feeds.buzzsprout.com/2445401.rss",
+    "copyright": "© 2026 DISCARDED: Tales From the Threat Research Trenches",
+    "spotifyUrl": "https://open.spotify.com/show/1kH9eNzyzkdMFu0PIOmi7b",
+    "youtubeUrl": null,
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1612506550",
+    "tags": [
+      "interviews",
+      "research",
+      "threat-intel"
+    ],
+    "cadence": "biweekly",
+    "format": "interview",
+    "authors": [
+      {
+        "name": "Selena Larson",
+        "twitterUrl": "https://x.com/selenalarson",
+        "linkedinUrl": "https://www.linkedin.com/in/selenalarson/"
+      }
+    ],
+    "lastEpisodeDate": "2026-04-28T08:00:00.000Z",
+    "firstEpisodeDate": "2022-03-02T19:07:00.000Z",
+    "episodeCount": 102,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 4.9,
+        "ratingCount": 56,
+        "fetchedAt": "2026-05-06T12:07:26.898Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this pod!",
+        "content": "Selena and Crista dives into intriguing topics that are often overlooked, serving up fresh insights in a compelling manner. It feels like a refreshing conversation with a wise friend, always leaving you eager for the next episode.\n\nFrom Bona and Team Capsho",
+        "author": "Bona and Team Capsho",
+        "updatedAt": "2023-08-30T14:42:38-07:00"
+      },
+      {
+        "rating": 4,
+        "title": "Great  Podcast",
+        "content": "Very good podcast Brian a lot from listening to it.",
+        "author": "JonDvid",
+        "updatedAt": "2023-06-11T05:06:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Cyber! Cyber! Cyber!",
+        "content": "This is the best podcast by CTI practitioners diving into detail about current threats. This podcast would win a fight against other similar podcasts. Let’s have a podcast fight club. Oops this pod is already the champ.",
+        "author": "GPSWKEKT1640",
+        "updatedAt": "2023-05-02T21:00:47-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Notch",
+        "content": "Timely and informative content!",
+        "author": "ASVPGLES",
+        "updatedAt": "2023-01-24T11:06:13-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Cyber Threat Podcast",
+        "content": "This podcast has some of the smartest people I’ve ever heard talk about computers. True thought leaders that are titans in the industry bringing the hottest cyber threats to your ears. Highly recommend.",
+        "author": "JM123456789123456789",
+        "updatedAt": "2022-03-10T09:38:13-07:00"
       }
     ]
   },
@@ -4624,6 +4823,62 @@
         "updatedAt": "2024-03-04T10:50:56-07:00"
       }
     ]
+  },
+  {
+    "id": "talking-security-insights-from-microsoft-security-experts",
+    "applePodcastId": "1653147812",
+    "title": "Talking Security: Insights from Microsoft Security Experts",
+    "description": "<p><strong>Talking Security</strong> is your go-to podcast for everything related to <strong>Microsoft Security</strong> and <strong>DevSecOps</strong>. Hosted by <strong>Frans Oudendorp</strong> and <strong>Pouyan Khabazi</strong>, we dive deep into topics like <strong>Microsoft Defender</strong>, <strong>Entra</strong>, <strong>Intune</strong>, <strong>Zero Trust</strong>, <strong>identity protection</strong>, <strong>security automation</strong>, and <strong>secure development practices</strong>.</p><p>In each episode, we engage with <strong>Microsoft MVPs</strong>, product team members, and security experts to explore real-world challenges, practical solutions, and the latest innovations across the Microsoft Security ecosystem. We also focus on integrating security into DevOps workflows, ensuring you stay ahead in the ever-evolving world of cybersecurity.</p><p>🎙 <strong>Hosted by Frans Oudendorp & Pouyan Khabazi</strong> </p><p>🔐 <strong>Focused on Microsoft Security, Identity & DevSecOps</strong> </p><p>🧠 <strong>Made for IT professionals, architects, developers, and decision-makers</strong></p><p>Subscribe and stay ahead in the ever-evolving world of Microsoft Security and secure cloud-native development.</p>",
+    "summary": "",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/b3/b8/08b3b877-1b96-dbf1-dad5-4d9c163994c4/mza_17978667299922998733.png/600x600bb.jpg",
+    "author": "Frans Oudendorp",
+    "language": "en",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://talkingsecurity.nl/",
+    "rssUrl": "https://media.rss.com/talking-security/feed.xml",
+    "copyright": "All rights reserved",
+    "spotifyUrl": "https://open.spotify.com/show/0afAQUzaLtlp2hNYFIt0sW",
+    "youtubeUrl": "https://www.youtube.com/@TalkingSecurity",
+    "twitterUrl": null,
+    "linkedinUrl": "https://www.linkedin.com/company/talkingsecurity",
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1653147812",
+    "tags": [
+      "cloud-security",
+      "identity",
+      "devsecops",
+      "vulnerability-management",
+      "interviews"
+    ],
+    "cadence": "monthly",
+    "format": "interview",
+    "authors": [
+      {
+        "name": "Frans Oudendorp",
+        "linkedinUrl": "https://www.linkedin.com/in/fransoudendorp"
+      },
+      {
+        "name": "Pouyan Khabazi",
+        "linkedinUrl": "https://www.linkedin.com/in/pkhabazi/"
+      }
+    ],
+    "lastEpisodeDate": "2025-12-11T13:20:10.000Z",
+    "firstEpisodeDate": "2019-11-26T06:57:24.000Z",
+    "episodeCount": 55,
+    "hasVideo": false,
+    "isActive": false,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 0,
+        "ratingCount": 0,
+        "fetchedAt": "2026-05-06T12:07:37.412Z"
+      }
+    },
+    "submittedBy": "foudendorp"
   },
   {
     "id": "talos-takes",
