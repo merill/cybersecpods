@@ -1,0 +1,28 @@
+{
+  "applePodcastId": "1770486213",
+  "spotifyUrl": "https://open.spotify.com/show/1roj2sVP57PDZ95xoq84Jm",
+  "websiteUrl": "https://www.zerobreachpodcast.com",
+  "youtubeUrl": "https://www.youtube.com/@ZeroBreachZonePodcast",
+  "linkedinUrl": "https://www.linkedin.com/company/zero-breach-zone",
+  "tags": [
+    "blue-team",
+    "vulnerability-management",
+    "incident-response",
+    "cloud-security",
+    "network-security"
+  ],
+  "cadence": "biweekly",
+  "format": "interview",
+  "authors": [
+    {
+      "name": "Andy Lombardo",
+      "linkedinUrl": "https://www.linkedin.com/in/andylombardo/",
+      "websiteUrl": "https://www.bardsec.com"
+    },
+    {
+      "name": "Phil Hintz",
+      "linkedinUrl": "https://www.linkedin.com/in/phil-hintz-med97"
+    }
+  ],
+  "submittedBy": "BardSEC"
+}
