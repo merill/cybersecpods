@@ -1,0 +1,28 @@
+{
+  "applePodcastId": "1653147812",
+  "spotifyUrl": "https://open.spotify.com/show/0afAQUzaLtlp2hNYFIt0sW",
+  "websiteUrl": "https://talkingsecurity.nl/",
+  "rssUrl": "https://media.rss.com/talking-security/feed.xml",
+  "youtubeUrl": "https://www.youtube.com/@TalkingSecurity",
+  "linkedinUrl": "https://www.linkedin.com/company/talkingsecurity",
+  "tags": [
+    "cloud-security",
+    "identity",
+    "devsecops",
+    "vulnerability-management",
+    "interviews"
+  ],
+  "cadence": "monthly",
+  "format": "interview",
+  "authors": [
+    {
+      "name": "Frans Oudendorp",
+      "linkedinUrl": "https://www.linkedin.com/in/fransoudendorp"
+    },
+    {
+      "name": "Pouyan Khabazi",
+      "linkedinUrl": "https://www.linkedin.com/in/pkhabazi/"
+    }
+  ],
+  "submittedBy": "foudendorp"
+}
