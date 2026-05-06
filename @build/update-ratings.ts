@@ -5,6 +5,7 @@ import {
   appleScrapeAggregateRating,
   type AppleReview,
 } from "./lib/apple.js"
+import { closeBrowser } from "./lib/rss.js"
 
 const ROOT = process.cwd()
 const PODCASTS_DIR = path.join(ROOT, "@data", "podcasts")
@@ -114,7 +115,15 @@ async function main(): Promise<void> {
   }
 }
 
-main().catch((e) => {
-  console.error(e)
-  process.exit(1)
-})
+main()
+  .then(async () => {
+    // No-op if no browser was launched; here purely for symmetry with
+    // update-podcasts so future browser-using code paths in this script
+    // don't reintroduce the hang.
+    await closeBrowser()
+    process.exit(0)
+  })
+  .catch((e) => {
+    console.error(e)
+    process.exit(1)
+  })

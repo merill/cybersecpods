@@ -191,8 +191,10 @@ function shouldUseBrowserFor(url: string): boolean {
 }
 
 // Lazy-imported, lazily-launched browser shared across all calls in a single
-// process. Closed on process exit via the noop guard below — Node will tear
-// the subprocess down regardless.
+// process. Long-running scripts (e.g. update-podcasts) MUST call closeBrowser()
+// after they're done, otherwise the Chromium subprocess keeps Node's event
+// loop alive and the script hangs forever (manifested as 25-minute CI
+// timeouts; see fix in commit history).
 let browserPromise: Promise<unknown> | null = null
 
 interface PlaywrightLike {
@@ -234,6 +236,27 @@ async function getBrowser(): Promise<unknown> {
     return mod.chromium.launch({ headless: true })
   })()
   return browserPromise
+}
+
+/**
+ * Tear down the lazily-launched Chromium browser, if any was started.
+ *
+ * Safe to call unconditionally — it's a no-op if no browser was ever needed.
+ * Long-running entry-points (update-podcasts, update-ratings, OG generator)
+ * must call this in their cleanup path; otherwise the playwright child
+ * process keeps the Node event loop alive and the script never exits.
+ */
+export async function closeBrowser(): Promise<void> {
+  if (!browserPromise) return
+  const p = browserPromise
+  browserPromise = null
+  try {
+    const browser = (await p) as { close: () => Promise<void> }
+    await browser.close()
+  } catch {
+    // Best-effort: if the browser already crashed or isn't fully launched
+    // we still want the script to exit cleanly.
+  }
 }
 
 async function fetchTextViaBrowser(

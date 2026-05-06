@@ -8,7 +8,7 @@ import {
   appleFetchRecentReviews,
   type AppleReview,
 } from "./lib/apple.js"
-import { fetchAndParseRss, slugify } from "./lib/rss.js"
+import { fetchAndParseRss, slugify, closeBrowser } from "./lib/rss.js"
 import { normalizeSpotifyUrl } from "./lib/spotify.js"
 import type { Podcast, Episode, PodcastInput } from "../types/podcast"
 
@@ -345,11 +345,23 @@ async function main(): Promise<void> {
   console.log(
     `\n✓ Wrote ${podcasts.length} podcast(s), ${episodeTotal} episode(s) to @data/`
   )
+
+  // Tear down the lazily-launched Playwright/Chromium browser, if any. If we
+  // skip this the child process keeps the Node event loop alive and the
+  // script hangs until CI cancels it after 25 minutes.
+  await closeBrowser()
 }
 
-main().catch((e) => {
-  console.error(e)
-  process.exit(1)
-})
+main()
+  .then(() => {
+    // Belt-and-braces: even if some other library (sharp's worker pool, libuv
+    // handles, fetch keep-alive sockets) ends up holding the loop open, we
+    // know our work is logically done at this point and can safely exit.
+    process.exit(0)
+  })
+  .catch((e) => {
+    console.error(e)
+    process.exit(1)
+  })
 
 export { slugify }
