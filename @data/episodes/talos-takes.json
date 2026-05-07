@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-trust-paradox-how-attackers-weaponize-legitimate-saas-platforms",
+    "podcastId": "talos-takes",
+    "title": "The trust paradox: How attackers weaponize legitimate SaaS platforms",
+    "description": "<p>In this episode of Talos Takes, Amy Ciminnisi sits down with researcher Diana Brown to discuss the rise of \"platform-as-a-proxy\" (PAP) attacks. We explore how threat actors are weaponizing legitimate SaaS platforms like GitHub and Jira to deliver phishing campaigns that bypass traditional security filters. By leveraging the platforms' own infrastructure to send authenticated emails, attackers are exploiting the inherent trust employees place in these essential business tools. We break down the mechanics of these campaigns and provide actionable strategies for security teams to move beyond binary trust and implement contextual awareness to better protect their organizations.</p><p>Blog: <a href='https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/'>https://blog.talosintelligence.com/weaponizing-saas-notification-pipelines/</a></p>",
+    "publishedAt": "2026-05-07T10:00:00.000Z",
+    "duration": 1251,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19135351-the-trust-paradox-how-attackers-weaponize-legitimate-saas-platforms.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "its-not-you-its-your-printer-state-sponsored-and-phishing-threats-in-2025",
     "podcastId": "talos-takes",
     "title": "It's not you, it's your printer: State-sponsored and phishing threats in 2025",
