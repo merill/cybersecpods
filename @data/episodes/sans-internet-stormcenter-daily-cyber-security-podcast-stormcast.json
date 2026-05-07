@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-may-7th-2026-de-dnsec-fail-pan-os-0-day-patched",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, May 7th, 2026: .DE DNSEC Fail; PAN OS 0-Day Patched;",
+    "description": "<br/>\nTechnical issue with .de domains<br/>\n<a href=\"https://blog.denic.de/en/technical-issue-with-de-domains-resolved/\">https://blog.denic.de/en/technical-issue-with-de-domains-resolved/</a><br/>\nCVE-2026-0300 PAN-OS: Unauthenticated user initiated Buffer Overflow Vulnerability in User-ID  Authentication Portal<br/>\n<a href=\"https://security.paloaltonetworks.com/CVE-2026-0300\">https://security.paloaltonetworks.com/CVE-2026-0300</a><br/>\nAndroid Security Bulletin May 2026 CVE-2026-0073<br/>\n<a href=\"https://source.android.com/docs/security/bulletin/2026/2026-05-01\">https://source.android.com/docs/security/bulletin/2026/2026-05-01</a><br/>",
+    "publishedAt": "2026-05-07T02:00:02.000Z",
+    "duration": 364,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9922.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9922,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9922"
+  },
+  {
     "id": "sans-stormcast-wednesday-may-6th-2026-cleartext-passwords-in-edge-sslcom-root-ro",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, May 6th, 2026: Cleartext Passwords in Edge; SSL.com Root Rotation; DAEMONTOOLS Backdoor;",
