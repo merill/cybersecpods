@@ -1402,7 +1402,7 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-07T16:16:11.000Z",
+    "lastEpisodeDate": "2026-05-07T19:20:07.000Z",
     "firstEpisodeDate": "2025-10-03T13:28:00.000Z",
     "episodeCount": 500,
     "hasVideo": false,
@@ -2438,21 +2438,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "subtitle": "History of Hackers",
+    "description": "",
+    "summary": "",
+    "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en-US",
+    "language": "en",
     "categories": [
       "Technology",
-      "Education",
-      "Entrepreneurship"
+      "Podcasts",
+      "Education"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "© 2025 Hacker History Podcast",
+    "copyright": "",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2469,11 +2469,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": "2026-05-06T02:55:04.000Z",
-    "firstEpisodeDate": "2021-03-01T08:00:00.000Z",
-    "episodeCount": 50,
+    "lastEpisodeDate": null,
+    "firstEpisodeDate": null,
+    "episodeCount": 0,
     "hasVideo": false,
-    "isActive": true,
+    "isActive": false,
     "featured": false,
     "ratings": {
       "apple": {
@@ -2836,9 +2836,9 @@
         "websiteUrl": "https://www.samsclass.info/contact.html"
       }
     ],
-    "lastEpisodeDate": "2026-05-04T16:36:21.000Z",
+    "lastEpisodeDate": "2026-05-07T15:35:32.000Z",
     "firstEpisodeDate": "2021-02-13T00:10:16.000Z",
-    "episodeCount": 527,
+    "episodeCount": 528,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
