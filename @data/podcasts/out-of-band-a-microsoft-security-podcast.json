@@ -1,0 +1,34 @@
+{
+  "applePodcastId": "1789671447",
+  "spotifyUrl": "https://open.spotify.com/show/6OIu5urlxDy26s3ia7ihLU?si=ae234333187d462d",
+  "rssUrl": "https://anchor.fm/s/ffc85b18/podcast/rss",
+  "youtubeUrl": "https://youtube.com/@OOBCasts",
+  "linkedinUrl": "https://www.linkedin.com/company/oobcasts",
+  "tags": [
+    "ai-security",
+    "cloud-security",
+    "identity",
+    "emerging-tech",
+    "news"
+  ],
+  "cadence": "monthly",
+  "format": "panel",
+  "authors": [
+    {
+      "name": "Anthony Porter",
+      "linkedinUrl": "https://www.linkedin.com/in/anthonyantoporter/",
+      "websiteUrl": "https://securingm365.com"
+    },
+    {
+      "name": "Andrew OYoung",
+      "linkedinUrl": "https://www.linkedin.com/in/andrewoyoung/",
+      "websiteUrl": "https://m365senpai.com/"
+    },
+    {
+      "name": "Mat Clark",
+      "linkedinUrl": "https://www.linkedin.com/in/mathewclarkau/",
+      "websiteUrl": "https://www.secureinseconds.com/"
+    }
+  ],
+  "submittedBy": "AntoPorter"
+}
