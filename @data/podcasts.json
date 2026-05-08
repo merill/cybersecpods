@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-05T16:00:00.000Z",
+    "lastEpisodeDate": "2026-05-08T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 325,
+    "episodeCount": 326,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2540,21 +2540,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "",
-    "summary": "",
-    "subtitle": "",
+    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "subtitle": "History of Hackers",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en",
+    "language": "en-US",
     "categories": [
       "Technology",
-      "Podcasts",
-      "Education"
+      "Education",
+      "Entrepreneurship"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "",
+    "copyright": "© 2025 Hacker History Podcast",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2574,11 +2574,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": null,
-    "firstEpisodeDate": null,
-    "episodeCount": 0,
+    "lastEpisodeDate": "2026-05-06T02:55:04.000Z",
+    "firstEpisodeDate": "2021-03-01T08:00:00.000Z",
+    "episodeCount": 50,
     "hasVideo": false,
-    "isActive": false,
+    "isActive": true,
     "featured": false,
     "ratings": {
       "apple": {
@@ -3674,7 +3674,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-05-08T16:46:19.315Z"
+        "fetchedAt": "2026-05-08T18:45:57.496Z"
       }
     },
     "submittedBy": "AntoPorter"
@@ -5853,7 +5853,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 15,
-        "fetchedAt": "2026-05-08T16:46:26.093Z"
+        "fetchedAt": "2026-05-08T18:46:05.250Z"
       }
     },
     "recentReviews": [
