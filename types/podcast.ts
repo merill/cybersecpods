@@ -71,6 +71,12 @@ export interface Podcast {
   twitterUrl: string | null
   linkedinUrl: string | null
   applePodcastUrl: string
+  // Player URLs derived deterministically from applePodcastId. These are
+  // never user-supplied; each platform redirects from `…/{appleId}` to its
+  // canonical show page.
+  pocketCastsUrl: string
+  overcastUrl: string
+  castroUrl: string
 
   // taxonomy (canonical)
   tags: CategorySlug[]

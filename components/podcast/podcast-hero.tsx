@@ -13,19 +13,52 @@ interface PodcastHeroProps {
 }
 
 export function PodcastHero({ podcast }: PodcastHeroProps) {
-  const links: Array<{
+  type LinkItem = {
     href: string | null | undefined
     label: string
     icon: React.ElementType
-  }> = [
-    { href: podcast.applePodcastUrl, label: "Apple", icon: Icons.applePodcasts },
-    { href: podcast.spotifyUrl, label: "Spotify", icon: Icons.spotify },
-    { href: podcast.youtubeUrl, label: "YouTube", icon: Icons.youtube },
-    { href: podcast.rssUrl, label: "RSS", icon: Icons.rss },
+  }
+
+  // Row 1: site / social links (only rendered if any are available).
+  const socialLinks: LinkItem[] = [
     { href: podcast.websiteUrl, label: "Website", icon: Icons.globe },
+    { href: podcast.youtubeUrl, label: "YouTube", icon: Icons.youtube },
     { href: podcast.twitterUrl, label: "X", icon: Icons.x },
     { href: podcast.linkedinUrl, label: "LinkedIn", icon: Icons.linkedin },
   ]
+
+  // Row 2: podcast players + RSS (always shown — Apple/Pocket Casts/Overcast/
+  // Castro derive deterministically from applePodcastId; Spotify is optional).
+  const playerLinks: LinkItem[] = [
+    { href: podcast.applePodcastUrl, label: "Apple", icon: Icons.applePodcasts },
+    { href: podcast.spotifyUrl, label: "Spotify", icon: Icons.spotify },
+    { href: podcast.pocketCastsUrl, label: "Pocket Casts", icon: Icons.pocketCasts },
+    { href: podcast.overcastUrl, label: "Overcast", icon: Icons.overcast },
+    { href: podcast.castroUrl, label: "Castro", icon: Icons.castro },
+    { href: podcast.rssUrl, label: "RSS", icon: Icons.rss },
+  ]
+
+  const renderPill = (l: LinkItem) => {
+    const Icon = l.icon
+    return (
+      <a
+        key={l.label}
+        href={l.href!}
+        target="_blank"
+        rel="noreferrer"
+        className={cn(
+          "inline-flex items-center gap-1.5 rounded-full border bg-background px-3 py-1.5 text-xs font-medium",
+          "transition-colors hover:bg-accent"
+        )}
+      >
+        <Icon className="h-3.5 w-3.5" />
+        {l.label}
+      </a>
+    )
+  }
+
+  const visibleSocialLinks = socialLinks.filter((l) => !!l.href)
+  const visiblePlayerLinks = playerLinks.filter((l) => !!l.href)
 
   return (
     <div className="relative overflow-hidden border-b">
@@ -119,27 +152,17 @@ export function PodcastHero({ podcast }: PodcastHeroProps) {
               </div>
             ) : null}
 
-            <div className="flex flex-wrap gap-2 pt-3">
-              {links
-                .filter((l) => !!l.href)
-                .map((l) => {
-                  const Icon = l.icon
-                  return (
-                    <a
-                      key={l.label}
-                      href={l.href!}
-                      target="_blank"
-                      rel="noreferrer"
-                      className={cn(
-                        "inline-flex items-center gap-1.5 rounded-full border bg-background px-3 py-1.5 text-xs font-medium",
-                        "transition-colors hover:bg-accent"
-                      )}
-                    >
-                      <Icon className="h-3.5 w-3.5" />
-                      {l.label}
-                    </a>
-                  )
-                })}
+            <div className="flex flex-col gap-2 pt-3">
+              {visibleSocialLinks.length > 0 ? (
+                <div className="flex flex-wrap gap-2">
+                  {visibleSocialLinks.map(renderPill)}
+                </div>
+              ) : null}
+              {visiblePlayerLinks.length > 0 ? (
+                <div className="flex flex-wrap gap-2">
+                  {visiblePlayerLinks.map(renderPill)}
+                </div>
+              ) : null}
             </div>
           </div>
         </div>

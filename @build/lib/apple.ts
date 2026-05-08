@@ -150,6 +150,34 @@ export function appleReviewsPageUrl(applePodcastId: string): string {
   return `https://podcasts.apple.com/us/podcast/id${id}?see-all=reviews`
 }
 
+/**
+ * Deterministic Pocket Casts URL derived from an Apple Podcasts ID.
+ * Pocket Casts redirects `pca.st/itunes/{id}` to its canonical share page.
+ */
+export function pocketCastsUrlFor(applePodcastId: string): string {
+  const id = applePodcastId.replace(/^id/, "")
+  return `https://pca.st/itunes/${id}`
+}
+
+/**
+ * Deterministic Overcast URL derived from an Apple Podcasts ID.
+ * Per overcast.fm/podcasterinfo, URLs take the form `overcast.fm/itunes{id}`
+ * (no slash between `itunes` and the ID).
+ */
+export function overcastUrlFor(applePodcastId: string): string {
+  const id = applePodcastId.replace(/^id/, "")
+  return `https://overcast.fm/itunes${id}`
+}
+
+/**
+ * Deterministic Castro URL derived from an Apple Podcasts ID.
+ * Castro's own share pages use the form `castro.fm/itunes/{id}`.
+ */
+export function castroUrlFor(applePodcastId: string): string {
+  const id = applePodcastId.replace(/^id/, "")
+  return `https://castro.fm/itunes/${id}`
+}
+
 export interface AppleAggregateRating {
   averageRating: number | null
   ratingCount: number | null
