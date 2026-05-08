@@ -78,5 +78,12 @@
   },
   "optionalDependencies": {
     "playwright-core": "^1.49.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "unrs-resolver"
+    ]
   }
 }
