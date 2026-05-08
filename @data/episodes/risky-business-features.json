@@ -1,5 +1,22 @@
 [
   {
+    "id": "mythos-smythos-how-to-find-0day-with-lesser-models",
+    "podcastId": "risky-business-features",
+    "title": "Mythos smythos! How to find 0day with lesser models",
+    "description": "<p>In this podcast James Wilson chats with Niels Provos about his research into using older AI models to successfully hunt for 0day vulnerabilities. Niels has had a long and prolific career in cybersecurity, having worked as a Distinguished Engineer at Google and then heading up security at Stripe.</p>\n\n<p>His interest in AI bug hunting was piqued recently when one of the Mythos 0day vulnerabilities that received lots of attention happened to be in code he wrote for the OpenBSD project 27 years ago.</p>\n\n<p>It got him thinking: Are these frontier models really that magical? Or could we replicate their findings with some clever orchestration instead of relying on the model’s smarts to find bugs with a single prompt?</p>\n\n<p>As it turns out, this was worth looking into. Niels’ orchestration framework, Iron Curtain, works extremely well.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/ksWbjE9uQyk\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.provos.org/p/finding-zero-days-with-any-model/\">Finding Zero-Days with Any Model</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://securityblueprints.io/\">Security Blueprints</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-05-08T06:17:57.000Z",
+    "duration": 5273,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES19.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES19/"
+  },
+  {
     "id": "solving-the-ai-agent-identity-problem",
     "podcastId": "risky-business-features",
     "title": "Solving the AI agent identity problem",
