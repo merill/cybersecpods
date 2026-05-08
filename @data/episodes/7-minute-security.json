@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-721-fun-professional-and-personal-ai-project-ideas-part-2",
+    "podcastId": "7-minute-security",
+    "title": "7MS #721: Fun Professional and Personal AI Project Ideas – Part 2",
+    "description": "<p>Hello friends! Picking up the AI-automation series from a couple weeks back — here's another batch of scripts and integrations that have been giving me precious minutes (and sanity) back. Yes, I had to upgrade to Claude Max. No, I'm not trying to automate myself out of a job — just freeing up bandwidth for the more interesting parts of work/life.</p> <ul class= \"[li_&]:mb-0 [li_&]:mt-1 [li_&]:gap-1 [&:not(:last-child)_ul]:pb-1 [&:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\"> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> QuickBooks invoice automation: Got tired of the eight-factor login plus click-fest just to send a few invoices. Now I run a PowerShell menu — type the client name, pick the project, enter the amount, hit Enter — done in ~30 seconds. The QuickBooks dev onboarding (security questionnaire, IP allowlist) was actually a bigger time sink than the script itself.</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> <a href=\"https://pwpush.com/\" target=\"_blank\" rel= \"noopener\">Password Pusher</a> API integration: A menu-driven PowerShell script that prompts for a label, pops an Explorer window to grab the files, optionally adds a password, then auto-drafts the client email with the secure link filled in. A few minutes saved each time, a couple times a day — adds up to some nice time saved!</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Basecamp + Claude: Linked Basecamp into a Claude project so I can ask plain-English questions like \"what personal project tasks are due this month?\" or just voice-note a new task while I'm in the car. Honestly the biggest win is anxiety reduction — once it's in Claude, it's out of my always-simmering pressure cooker of a brain.</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Blumira agent auto-installer for the GOAD lab: I revert the GOAD lab to vanilla a couple times a week, which means re-installing Blumira agents constantly to show clients the attack/defense telemetry side. Wrote a Kali-side script that uses NetExec over WinRM to check each box for the Blumira service and push the installer if it's missing. (Tried SMB exec first, but escaping got wonky on the PowerShell one-liner.) Bonus: Blumira's dashboard auto-removes agents that haven't phoned home in 24 hours, which is a perfect fit for a lab that's constantly getting nuked.</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Auphonic + API for podcast production: This one's a little meta. Old workflow: record → drag into Hindenburg/GarageBand → manually line up intro and outro → noise reduction → export. New workflow: one terminal script that previews the first and last few seconds so I can trim silence, ships the audio to <a href=\"https://auphonic.com/\" target=\"_blank\" rel= \"noopener\">Auphonic</a> via API, and returns a cleaned-up, levels-corrected MP3 plus a full transcript and auto-generated chapter markers. (If your podcast app supports chapters (like Downcast) pop open this episode or <a href= \"https://7minsec.com/blog/2026/05/01/7ms-720-tales-of-pentest-pwnage-part-84/\" target=\"_blank\" rel=\"noopener\">#720</a> and you'll see them.) Next step: pipe the transcript straight into Claude for a show notes first draft.</li> </ul> <p>One quick personal note before I run: my oldest son just landed an EMT job with a great Minnesota medical network, and is wrapping up paramedic school in a few months. I cried some happy dad tears today.</p>",
+    "publishedAt": "2026-05-08T22:35:00.000Z",
+    "duration": 1503,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-721-Fun_Professional_and_Personal_AI_Project_Ideas-Part_2.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-721-fun-professional-and-personal-ai-project-ideas-part-2"
+  },
+  {
     "id": "7ms-720-tales-of-pentest-pwnage-part-84",
     "podcastId": "7-minute-security",
     "title": "7MS #720: Tales of Pentest Pwnage – Part 84",
