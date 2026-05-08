@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-may-8th-2026-ai-generated-dashboard-ivanti-patches-redis-v",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, May 8th, 2026: AI Generated Dashboard; Ivanti Patches; Redis Vuln; @sans_edu Marcio Enriquez",
+    "description": "<br/>\nAn Adaptive Cyber Analytics UI for Web Honeypot Logs<br/>\n<a href=\"https://isc.sans.edu/diary/An%20Adaptive%20Cyber%20Analytics%20UI%20for%20Web%20Honeypot%20Logs%20%5BGuest%20Diary%5D/32962\">https://isc.sans.edu/diary/An%20Adaptive%20Cyber%20Analytics%20UI%20for%20Web%20Honeypot%20Logs%20%5BGuest%20Diary%5D/32962</a><br/>\nIvanti May Patchday<br/>\n<a href=\"https://hub.ivanti.com/s/article/May-2026-Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM-Multiple-CVEs\">https://hub.ivanti.com/s/article/May-2026-Security-Advisory-Ivanti-Endpoint-Manager-Mobile-EPMM-Multiple-CVEs</a><br/>\nRedis Security advisory: [CVE 2026 23479] [CVE 2026 25243] [CVE-2026-25588] [CVE 2026 25589] [CVE-2026-23631]<br/>\n<a href=\"https://redis.io/blog/security-advisory-cve202623479-cve202625243-cve-2026-25588-cve202625589-cve-2026-23631/\">https://redis.io/blog/security-advisory-cve202623479-cve202625243-cve-2026-25588-cve202625589-cve-2026-23631/</a><br/>\n@sans_edu research paper: Marcio Enriquez<br/>\n[link will be added once the paper has been published]<br/>",
+    "publishedAt": "2026-05-08T02:00:02.000Z",
+    "duration": 894,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9924.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9924,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9924"
+  },
+  {
     "id": "sans-stormcast-thursday-may-7th-2026-de-dnsec-fail-pan-os-0-day-patched",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, May 7th, 2026: .DE DNSEC Fail; PAN OS 0-Day Patched;",
