@@ -1402,7 +1402,7 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-07T19:20:07.000Z",
+    "lastEpisodeDate": "2026-05-08T13:59:59.000Z",
     "firstEpisodeDate": "2025-10-03T13:28:00.000Z",
     "episodeCount": 500,
     "hasVideo": false,
@@ -3467,6 +3467,69 @@
     ]
   },
   {
+    "id": "out-of-band-a-microsoft-security-podcast",
+    "applePodcastId": "1789671447",
+    "title": "Out of Band: A Microsoft Security Podcast",
+    "description": "Welcome to \"Out of Band\", your go-to podcast for all things Microsoft Security. Join us as we dive deep into the latest trends, insights, and innovations in the world of cybersecurity. \n\nEpisode features experts from Microsoft and beyond, sharing their knowledge on topics like threat intelligence, data protection, best practices, and the future of AI and machine learning in security. \n\nWhether you're a seasoned professional or just starting your journey in cybersecurity, \"Out of Band\" offers valuable insights and practical advice to help you stay ahead of the curve. \n\nTune in and stay secure!",
+    "summary": "Welcome to \"Out of Band\", your go-to podcast for all things Microsoft Security. Join us as we dive deep into the latest trends, insights, and innovations in the world of cybersecurity. \n\nEpisode features experts from Microsoft and beyond, sharing their knowledge on topics like threat intelligence, data protection, best practices, and the future of AI and machine learning in security. \n\nWhether you're a seasoned professional or just starting your journey in cybersecurity, \"Out of Band\" offers valuable insights and practical advice to help you stay ahead of the curve. \n\nTune in and stay secure!",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/8a/36/c5/8a36c57c-2471-9486-5e5b-6c63fec9a66d/9cbc73d5-fbd8-4432-8b26-fa0ad6d1a773.png/600x600bb.jpg",
+    "author": "Out of Band",
+    "language": "en-au",
+    "categories": [
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://www.linkedin.com/company/oobcasts",
+    "rssUrl": "https://anchor.fm/s/ffc85b18/podcast/rss",
+    "copyright": "Out of Band",
+    "spotifyUrl": "https://open.spotify.com/show/6OIu5urlxDy26s3ia7ihLU",
+    "youtubeUrl": "https://youtube.com/@OOBCasts",
+    "twitterUrl": null,
+    "linkedinUrl": "https://www.linkedin.com/company/oobcasts",
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1789671447",
+    "tags": [
+      "ai-security",
+      "cloud-security",
+      "identity",
+      "emerging-tech",
+      "news"
+    ],
+    "cadence": "monthly",
+    "format": "panel",
+    "authors": [
+      {
+        "name": "Anthony Porter",
+        "linkedinUrl": "https://www.linkedin.com/in/anthonyantoporter/",
+        "websiteUrl": "https://securingm365.com"
+      },
+      {
+        "name": "Andrew OYoung",
+        "linkedinUrl": "https://www.linkedin.com/in/andrewoyoung/",
+        "websiteUrl": "https://m365senpai.com/"
+      },
+      {
+        "name": "Mat Clark",
+        "linkedinUrl": "https://www.linkedin.com/in/mathewclarkau/",
+        "websiteUrl": "https://www.secureinseconds.com/"
+      }
+    ],
+    "lastEpisodeDate": "2026-03-30T00:00:00.000Z",
+    "firstEpisodeDate": "2025-01-12T23:30:00.000Z",
+    "episodeCount": 15,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 0,
+        "ratingCount": 0,
+        "fetchedAt": "2026-05-08T14:18:10.191Z"
+      }
+    },
+    "submittedBy": "AntoPorter"
+  },
+  {
     "id": "paul-s-security-weekly",
     "applePodcastId": "1149992167",
     "title": "Paul's Security Weekly (Audio)",
@@ -5506,6 +5569,69 @@
         "content": "As someone who has been following along with To The Point for the last two years, I loved listening to Sudhakar Ramakrishna’s recent episode as it came full circle with his first episode recorded right after the Sunburst incident. Sudhakar’s transparency about the incident is refreshing and should stand as an example for how cybersecurity leaders should approach their organization’s missteps and the occasional crisis. I also hope that his “community vigil” mindset is an approach to cybersecurity that we see more of in the future.",
         "author": "EmilyPMB223344",
         "updatedAt": "2023-10-03T10:57:28-07:00"
+      }
+    ]
+  },
+  {
+    "id": "trail-of-bits",
+    "applePodcastId": "1629732059",
+    "title": "Trail of Bits",
+    "description": "The Trail of Bits podcast explores the intersection of human intellect and computational power. Imagine having a couple of friends explain to you how they protect some of the world’s most precious data - friends who happen to be the world’s leading cyber security experts, and who know how to speak in plain, straightforward English. That’s what each episode of the Trail of Bits podcast is like. The only ads you’ll ever hear are for our free and open source software and tools.",
+    "summary": "The Trail of Bits podcast explores the intersection of human intellect and computational power. Imagine having a couple of friends explain to you how they protect some of the world’s most precious data - friends who happen to be the world’s leading cyber security experts, and who know how to speak in plain, straightforward English. That’s what each episode of the Trail of Bits podcast is like. The only ads you’ll ever hear are for our free and open source software and tools.",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/4a/c2/09/4ac209d9-1431-606c-98e6-b68428890170/mza_5121969813169069299.jpg/600x600bb.jpg",
+    "author": "Trail of Bits",
+    "language": "en",
+    "categories": [
+      "Technology",
+      "Education",
+      "Self-Improvement",
+      "Science",
+      "Mathematics"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://trailofbits.audio/",
+    "rssUrl": "https://feeds.simplecast.com/oM_1xVen",
+    "copyright": "2022 Trail of Bits",
+    "spotifyUrl": "https://open.spotify.com/show/2oVyvIy5D9fUs2sdFsIrRL",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLciHOL_J7Iwrl6Ss7pEZpopMzxp3ivWQO",
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1629732059",
+    "tags": [
+      "research",
+      "emerging-tech",
+      "appsec"
+    ],
+    "cadence": null,
+    "format": "narrative",
+    "authors": [
+      {
+        "name": "Nick Selby",
+        "linkedinUrl": "https://linkedin.com/in/nickselby",
+        "websiteUrl": "https://nickselby.com/"
+      }
+    ],
+    "lastEpisodeDate": "2022-06-20T20:55:00.000Z",
+    "firstEpisodeDate": "2022-06-10T17:54:00.000Z",
+    "episodeCount": 6,
+    "hasVideo": false,
+    "isActive": false,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 15,
+        "fetchedAt": "2026-05-08T14:18:17.034Z"
+      }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
       }
     ]
   },
