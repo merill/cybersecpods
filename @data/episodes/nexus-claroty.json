@@ -1,5 +1,22 @@
 [
   {
+    "id": "deral-heiland-on-weaponizing-cellular-based-iot",
+    "podcastId": "nexus-claroty",
+    "title": "Deral Heiland on Weaponizing Cellular-Based IoT",
+    "description": "<p>Rapid7 Principal Security Research (IoT) lead Deral Heiland joins the Nexus Podcast to discuss work his team did on how attackers might weaponize cellular-based IoT. </p><p>Rapid7 conducted three phases of this research, with the most recent digging into how attackers with access to these systems can abuse them to gain unauthorized access, potentially exfiltrate critical data, or pivot into backend network infrastructure. </p><p><a href='https://nexusconnect.io/podcasts'>Subscribe and listen to the Nexus Podcast here</a>. </p><p><a href='https://www.rapid7.com/blog/post/tr-new-whitepaper-exploiting-cellular-based-iot-devices/'>Read the Rapid7 research report</a>.</p>",
+    "publishedAt": "2026-05-10T04:00:00.000Z",
+    "duration": 1564,
+    "audioUrl": "https://www.buzzsprout.com/1475533/episodes/19141504-deral-heiland-on-weaponizing-cellular-based-iot.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 130,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "rob-king-on-ot-asset-exposures-mitigations",
     "podcastId": "nexus-claroty",
     "title": "Rob King on OT Asset Exposures, Mitigations",
