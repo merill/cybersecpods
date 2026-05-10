@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-knocknoc-built-a-greynoise-integration",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Knocknoc built a Greynoise integration",
+    "description": "<p>In this sponsored interview Patrick Gray chats with Knocknoc CEO Adam Pointon about their Greynoise integration.</p>\n\n<p>Knocknoc allowlists network connections from users’ IPs after they’ve been through an SSO challenge. It’s great for protecting vulnerable or risky assets that your org has to connect to the internet. But what happens when one of your users tries to authenticate from a bad IP? You probably don’t want to add that one to your allowlist!</p>\n\n<p>Thanks to Knocknoc’s new Greynoise integration, you don’t have to!</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-05-10T21:51:07.000Z",
+    "duration": 622,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI127.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI127/"
+  },
+  {
     "id": "risky-bulletin-state-sponsored-group-exploits-palo-0day",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: State sponsored group exploits Palo 0day",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS512/"
-  },
-  {
-    "id": "between-two-nerds-lights-out",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: Lights out!",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq about the role of cyber operations in the US capture of Venezuela’s president Nicolas Maduro.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/acaPlBDOQYI\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.politico.com/newsletters/weekly-cybersecurity/2026/01/05/maduros-fall-puts-us-cyber-power-in-the-spotlight-00710452\">Maduro's fall puts US cyber power in the spotlight</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.politico.com/news/2026/01/03/trump-venezuela-cyber-operation-maduro-00709816\">Trump suggests US used cyberattacks to turn off lights in Venezuela during strikes</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.politico.com/news/2026/01/07/venezuela-us-cyber-warfare-00713507\">Venezuela strike marks a turning point for US cyber warfare</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://bsky.app/profile/shakirov2036.bsky.social/post/3mbocouzyvc2t\">Power outages, but not cyber (from Oleg Shakirov)</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.nytimes.com/2026/01/03/us/politics/trump-capture-maduro-venezuela.html\">NYTimes Inside 'Operation Absolute Resolve'</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.penguin.com.au/books/spec-ops-9780307547231\">Spec Ops by William McRaven</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-01-12T20:32:35.000Z",
-    "duration": 1678,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN149.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN149/"
   }
 ]
