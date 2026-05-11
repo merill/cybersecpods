@@ -6834,23 +6834,6 @@
     "link": "https://thecyberwire.com/podcasts/word-notes/121/notes"
   },
   {
-    "id": "protecting-your-identity",
-    "podcastId": "hacking-humans",
-    "title": "Protecting your identity.",
-    "description": "<p>Jameeka Green Aaron, CISO, Customer Identity at Okta, sits down with Dave to speak about their State of Secure Identity report. Dave and Joe share some listener follow up from Richard, who writes in to share his thoughts on the discussion of the phishing kit targeting WordPress sites in a previous episode, and also writes in about last episode’s discussion on how companies were turning on employees who are overworked with two remote jobs and shares how Equifax was one of these companies. Dave's story follows typosquatting, which is when a scammer registers a website that is very similar to the real one, but will have a typo in it (ex: amozon, homdepot, gougle) and how a large typosquatting campaign is delivering tech support scams. Joe's story follows a South Bay man who had the misfortune of accepting hundreds of open house offers, but the houses weren't for sale. Our catch of the day comes from listener Chris who writes in that he's never gotten a phishing email on his work email or personal email, but that he received his first phish from PayPal, which seemed to me a notification at first glance rather than a message telling him there is fraudulent activity happening in his account.</p><p>Links to stories:</p><ul>\n<li><a href=\"https://www.malwarebytes.com/blog/threat-intelligence/large-typosquatting-campaign-delivers-tech-support-scams\">Large typosquatting campaign delivers tech support scams</a></li>\n<li><a href=\"https://www.latimes.com/california/story/2022-10-26/prison-sentence-multimillion-dollar-scam-fake-open-houses\">A South Bay man accepted hundreds of offers from open houses. But the homes weren’t for sale</a></li>\n</ul><p><br></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
-    "publishedAt": "2022-11-03T05:00:00.000Z",
-    "duration": 3094,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1005841703.mp3?updated=1667600067",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 219,
-    "seasonNumber": 5,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/hacking-humans/219/notes"
-  },
-  {
     "id": "whats-your-problem-trailer",
     "podcastId": "hacking-humans",
     "title": "What's Your Problem trailer.",
@@ -6866,6 +6849,23 @@
     "episodeType": "trailer",
     "appleEpisodeId": null,
     "link": null
+  },
+  {
+    "id": "protecting-your-identity",
+    "podcastId": "hacking-humans",
+    "title": "Protecting your identity.",
+    "description": "<p>Jameeka Green Aaron, CISO, Customer Identity at Okta, sits down with Dave to speak about their State of Secure Identity report. Dave and Joe share some listener follow up from Richard, who writes in to share his thoughts on the discussion of the phishing kit targeting WordPress sites in a previous episode, and also writes in about last episode’s discussion on how companies were turning on employees who are overworked with two remote jobs and shares how Equifax was one of these companies. Dave's story follows typosquatting, which is when a scammer registers a website that is very similar to the real one, but will have a typo in it (ex: amozon, homdepot, gougle) and how a large typosquatting campaign is delivering tech support scams. Joe's story follows a South Bay man who had the misfortune of accepting hundreds of open house offers, but the houses weren't for sale. Our catch of the day comes from listener Chris who writes in that he's never gotten a phishing email on his work email or personal email, but that he received his first phish from PayPal, which seemed to me a notification at first glance rather than a message telling him there is fraudulent activity happening in his account.</p><p>Links to stories:</p><ul>\n<li><a href=\"https://www.malwarebytes.com/blog/threat-intelligence/large-typosquatting-campaign-delivers-tech-support-scams\">Large typosquatting campaign delivers tech support scams</a></li>\n<li><a href=\"https://www.latimes.com/california/story/2022-10-26/prison-sentence-multimillion-dollar-scam-fake-open-houses\">A South Bay man accepted hundreds of offers from open houses. But the homes weren’t for sale</a></li>\n</ul><p><br></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
+    "publishedAt": "2022-11-03T05:00:00.000Z",
+    "duration": 3094,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1005841703.mp3?updated=1667600067",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 219,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/hacking-humans/219/notes"
   },
   {
     "id": "secure-web-gateway-noun-word-notes-2",
@@ -10523,23 +10523,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/126/notes"
   },
   {
-    "id": "network-time-protocol-ntp-attack-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Network Time Protocol (NTP) attack (noun) [Word Notes]",
-    "description": "<p>A reflection or amplification distributed denial-of-service attack in which hackers query Internet network time protocol servers, NTP servers for short, for the correct time, but spoof the destination address of their target victims.</p>",
-    "publishedAt": "2020-12-01T08:00:00.000Z",
-    "duration": 397,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9519050384.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 19,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/19/notes"
-  },
-  {
     "id": "smishing-sms-phishing-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "smishing (SMS phishing) (noun) [Word Notes]",
@@ -10555,6 +10538,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/17/notes"
+  },
+  {
+    "id": "network-time-protocol-ntp-attack-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Network Time Protocol (NTP) attack (noun) [Word Notes]",
+    "description": "<p>A reflection or amplification distributed denial-of-service attack in which hackers query Internet network time protocol servers, NTP servers for short, for the correct time, but spoof the destination address of their target victims.</p>",
+    "publishedAt": "2020-12-01T08:00:00.000Z",
+    "duration": 397,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9519050384.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 19,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/19/notes"
   },
   {
     "id": "encore-wearing-a-mask-in-the-oval-office-and-the-art-of-deception",
@@ -10608,23 +10608,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/125/notes"
   },
   {
-    "id": "network-detection-and-response-ndr-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Network Detection and Response (NDR) (noun) [Word Notes]",
-    "description": "<p>NDR tools provide anomaly detection and potential attack prevention by collecting telemetry across the entire intrusion kill chain on transactions across the network, between servers, hosts, and cloud-workloads, and running machine learning algorithms against this compiled and very large data set. NDR is an extension of the EDR, or endpoint detection and response idea that emerged in 2013. </p>",
-    "publishedAt": "2020-11-17T08:00:00.000Z",
-    "duration": 379,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1401460992.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 16,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/16/notes"
-  },
-  {
     "id": "shadow-it-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "shadow IT (noun) {Word Notes]",
@@ -10640,6 +10623,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/15/notes"
+  },
+  {
+    "id": "network-detection-and-response-ndr-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Network Detection and Response (NDR) (noun) [Word Notes]",
+    "description": "<p>NDR tools provide anomaly detection and potential attack prevention by collecting telemetry across the entire intrusion kill chain on transactions across the network, between servers, hosts, and cloud-workloads, and running machine learning algorithms against this compiled and very large data set. NDR is an extension of the EDR, or endpoint detection and response idea that emerged in 2013. </p>",
+    "publishedAt": "2020-11-17T08:00:00.000Z",
+    "duration": 379,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1401460992.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 16,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/16/notes"
   },
   {
     "id": "ransomware-statistically-its-likely-to-happen-to-anybody",
