@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-may-11th-2026-new-linux-priv-escalation-pam-backdoors-cpan",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, May 11th, 2026: New Linux Priv Escalation; PAM Backdoors; CPanel Updates; Let’s Encrypt",
+    "description": "<br/>\nAnother Universal Linux Local Privilege Escalation (LPE) Vulnerability: Dirty Frag<br/>\n<a href=\"https://isc.sans.edu/diary/Another%20Universal%20Linux%20Local%20Privilege%20Escalation%20%28LPE%29%20Vulnerability%3A%20Dirty%20Frag/32968\">https://isc.sans.edu/diary/Another%20Universal%20Linux%20Local%20Privilege%20Escalation%20%28LPE%29%20Vulnerability%3A%20Dirty%20Frag/32968</a><br/>\nPAM Backdoors Steel Passwords<br/>\n<a href=\"https://flare.io/learn/resources/blog/pamdoora-new-linux-pam-based-backdoor-sale-dark-web\">https://flare.io/learn/resources/blog/pamdoora-new-linux-pam-based-backdoor-sale-dark-web</a><br/>\nCPanel Updates<br/>\n<a href=\"https://support.cpanel.net/hc/en-us/sections/360007088193-Security\">https://support.cpanel.net/hc/en-us/sections/360007088193-Security</a><br/>\nLet s Encrypt Briefly Halts Certificate Issuance <br/>\n<a href=\"https://letsencrypt.status.io\">https://letsencrypt.status.io</a><br/>",
+    "publishedAt": "2026-05-11T02:15:11.000Z",
+    "duration": 418,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9926.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9926,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9926"
+  },
+  {
     "id": "sans-stormcast-friday-may-8th-2026-ai-generated-dashboard-ivanti-patches-redis-v",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, May 8th, 2026: AI Generated Dashboard; Ivanti Patches; Redis Vuln; @sans_edu Marcio Enriquez",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-fcc-relaxes-foreign-router-security-patch-ban",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: FCC relaxes foreign router security patch ban",
+    "description": "<p>The FCC relaxes its foreign router ban to allow for security updates, the ShinyHunters group disrupts schools across the globe, a 21-year-old remote code execution bug turns up in FreeBSD, and another Linux privilege escalation bug was disclosed… without a patch.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-fcc-relaxes-foreign-router-ban-to-allow-for-security-updates/\">Risky Bulletin: FCC relaxes foreign router ban to allow for security updates</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-05-11T00:39:13.000Z",
+    "duration": 656,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS562.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS562/"
+  },
+  {
     "id": "sponsored-knocknoc-built-a-greynoise-integration",
     "podcastId": "risky-bulletin",
     "title": "Sponsored: Knocknoc built a Greynoise integration",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/SRB150/"
-  },
-  {
-    "id": "risky-bulletin-russia-fines-33-telcos-for-surveillance-non-compliance",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Russia fines 33 telcos for surveillance non-compliance",
-    "description": "<p>Russia fines 33 telcos for surveillance non-compliance, AVCheck admin is arrested in Amsterdam, Poland repels an attack on its power grid, and voice cloning defenses can be bypassed.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-apex-legends-streamers-hacked-again/\">Risky Bulletin: Voice cloning defenses still weak, can be bypassed</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-01-14T03:22:51.000Z",
-    "duration": 377,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS512.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS512/"
   }
 ]
