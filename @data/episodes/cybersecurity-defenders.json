@@ -1,5 +1,22 @@
 [
   {
+    "id": "daily-breach-attempts-target-uae-fake-ransomware-attack-pan-os-vulnerability-and",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Daily breach attempts target UAE, fake ransomware attack, PAN-OS vulnerability & Microsoft’s Phone Link attack / Intel Chat [#321]",
+    "description": "<p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>The cyber threat environment in the Middle East has intensified sharply following military operations involving Israel, <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae\">the United States, and Iran</a>. </li><li>An intrusion campaign attributed with moderate confidence to the Iranian state-linked group MuddyWater was disguised as a Chaos ransomware attack, <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/\">according to research from Rapid7</a>.</li><li>Palo Alto Networks has warned customers that a critical remote code execution vulnerability in PAN-OS is being <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html\">actively exploited in the wild</a>.</li><li>Attackers are abusing Microsoft’s Phone Link application in a campaign that Cisco Talos says has <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa\">been active since January</a>. <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://blog.talosintelligence.com/cloudz-pheno-infostealer/\">Report here.</a></li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
+    "publishedAt": "2026-05-12T17:35:43.000Z",
+    "duration": 1648,
+    "audioUrl": "https://podcast.wistia.com/deliveries/1a336e0427405f208c3a4771809be6cff5643b7e.mp3?d=eyJtIjoxNDc3NDE1NzAsIm1kIjoxNjQ3LjkzLCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjEwMTkyOSwiYiI6IjFhMzM2ZTA0Mjc0MDVmMjA4YzNhNDc3MTgwOWJlNmNmZjU2NDNiN2UiLCJtYiI6MTU1OTA4LCJvYiI6MTQ0MDAyNi45MDY0ODI2Nzg0fQ%3D%3D--13806b6e5192ba5b0240c11559038f0b111e6e76e953c252e26a7f48acaf4554",
+    "videoUrl": null,
+    "imageUrl": "https://embed-ssl.wistia.com/deliveries/da3a3573cddc2cf9a03647568533886b.png?image_crop_resized=3000x3000",
+    "episodeNumber": 321,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=ha9ct852ja"
+  },
+  {
     "id": "ai-the-heros-journey-with-ken-westin-from-limacharlie-defender-fridays-320",
     "podcastId": "cybersecurity-defenders",
     "title": "AI: The Hero's Journey with Ken Westin from LimaCharlie / Defender Fridays [#320]",
