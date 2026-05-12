@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-181-ai-zero-days-google-threat-intelligence-report",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Episode 181: AI Zero Days (Google Threat Intelligence Report)",
+    "description": "<p>Brad and Spencer break down Google Threat Intelligence Group's latest report on how adversaries are weaponizing AI across the entire attack lifecycle.</p><p>The big takeaway isn't that AI has magically replaced attackers, but that it's making certain workflows faster, more scalable, and more repeatable. More importantly, AI platforms, agent skills, integrations, and dependencies are now becoming targets themselves.</p><p>Topics covered include:</p><ul><li><b>AI for vulnerability discovery and exploit development</b>: Google's first confirmed case of a zero-day exploit developed entirely with AI, including intentional prompts like \"You are currently a network security expert specializing in embedded devices\"</li><li><b>Claude skills weaponization</b>: A distilled knowledge base of over 85,000 real-world vulnerability cases integrated into AI research workflows</li><li><b>Automation and scaled research</b>: APT45 sending thousands of repetitive prompts to recursively analyze CVEs and validate proof-of-concept exploits</li><li><b>AI-powered obfuscation techniques</b>: Dynamic modification, evasive payload generation, and decoy logic using Gemini API for just-in-time VBScript obfuscation</li><li><b>Autonomous attack orchestration</b>: Moving beyond content generation into sophisticated malware command automation, including PromptSpy navigating Android UI for persistence</li><li><b>AI-enhanced reconnaissance</b>: Generating detailed organizational hierarchies and third-party relationships for high-value targets in finance, security, and HR departments</li><li><b>Information operations and deepfakes</b>: Taking legitimate journalist videos, editing in fabricated content, and adding AI-generated voiceovers</li><li><b>Attacking AI dependencies</b>: TeamPCP (UNC6780) targeting AI environments as initial access vectors, including March 2026 supply chain attacks on Trivy, Checkmarx, and LiteLLM</li><li><b>The Mini Shai-Hulud worm</b>: May 2026 attacks targeting AI infrastructure and dependencies</li><li><b>Defensive fundamentals</b>: Why inventory, zero trust principles, and behavioral monitoring matter more than ever</li></ul><p>Brad and Spencer emphasize that while the threat landscape is evolving rapidly, doubling down on foundational security practices remains the most effective defense strategy.</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-05-12T20:00:00.000Z",
+    "duration": 2469,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19166599-episode-181-ai-zero-days-google-threat-intelligence-report.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 181,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "episode-180-cybersecurity-echo-chambers-how-to-think-critically-in-a-hype-driven",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Episode 180: Cybersecurity Echo Chambers — How to Think Critically in a Hype-Driven Industry",
