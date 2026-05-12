@@ -1,5 +1,22 @@
 [
   {
+    "id": "why-basic-security-practices-still-work-rob-allen-asw-382",
+    "podcastId": "application-security-weekly",
+    "title": "Why Basic Security Practices Still Work - Rob Allen - ASW #382",
+    "description": "<p>If you have to ditch your entire appsec strategy because you expect 2026 to bring more vulns more quickly, then you probably didn't have a good strategy in the first place. Rob Allen shares how the mentality of \"assume breach\" doesn't have to be a defeatist attitude and can instead be a way to change a catastrophic breach into a more contained one. We also talk about proactive security and what an \"avoid breach\" attitude could look like, including how to apply the macro lessons of default deny and network isolation to writing secure code.</p> <p>Resources</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.threatlocker.com/blog/the-claude-mythos-preview-proves-now-is-the-time-for-zero-trust?utm_source=cyber_risk_alliance&utm_medium=sponsor&utm_campaign=claude_mythos_asw_q2_26&utm_content=claude_mythos_asw-&utm_term=podcast\"> https://www.threatlocker.com/blog/the-claude-mythos-preview-proves-now-is-the-time-for-zero-trust?utm<em>source=cyber</em>risk<em>alliance&utm</em>medium=sponsor&utm<em>campaign=claude</em>mythos<em>asw</em>q2<em>26&utm</em>content=claude<em>mythos</em>asw-&utm_term=podcast</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.threatlocker.com/capabilities/zero-trust-network-access?utm_source=cyber_risk_alliance&utm_medium=sponsor&utm_campaign=ztna_q2_26&utm_content=ztna-&utm_term=podcast\"> https://www.threatlocker.com/capabilities/zero-trust-network-access?utm<em>source=cyber</em>risk<em>alliance&utm</em>medium=sponsor&utm<em>campaign=ztna</em>q2<em>26&utm</em>content=ztna-&utm_term=podcast</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.threatlocker.com/capabilities/zero-trust-cloud-access?utm_source=cyber_risk_alliance&utm_medium=sponsor&utm_campaign=ztca_q2_26&utm_content=ztca-&utm_term=podcast\"> https://www.threatlocker.com/capabilities/zero-trust-cloud-access?utm<em>source=cyber</em>risk<em>alliance&utm</em>medium=sponsor&utm<em>campaign=ztca</em>q2<em>26&utm</em>content=ztca-&utm_term=podcast</a></li> </ul> <p>This segment is sponsored by ThreatLocker. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/threatlocker\">https://securityweekly.com/threatlocker</a> to learn more about them!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-382\">https://securityweekly.com/asw-382</a></p>",
+    "publishedAt": "2026-05-12T09:00:00.000Z",
+    "duration": 4313,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_382_1--0607d16c-744a-4074-8b49-626778dc1cc8--audio-converted--cd868376-73bc-4c3e-86f0-ad244b4b12e6.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/1/2/7/7/1277652f260942b7d959afa2a1bf1c87/ASW_382_Thumbnail_ASW_1920x1920_c77fb26f-81ed-4579-9ba3-59819cf4a2b7.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/why-basic-security-practices-still-work-rob-allen-asw-382"
+  },
+  {
     "id": "keeping-up-with-the-owasp-genai-project-scott-clinton-asw-381",
     "podcastId": "application-security-weekly",
     "title": "Keeping Up With the OWASP GenAI Project - Scott Clinton - ASW #381",
