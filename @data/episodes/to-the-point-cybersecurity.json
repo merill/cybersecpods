@@ -1,5 +1,22 @@
 [
   {
+    "id": "why-human-judgment-still-wins-in-the-ai-driven-soc-with-monzy-merza-part-2",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "Why Human Judgment Still Wins in the AI-Driven SOC with Monzy Merza - Part 2",
+    "description": "<p data-pm-slice=\"1 1 []\">Welcome to another episode of Forcepoint's \"To the Point Cybersecurity\" podcast. This week, Rachael Lyon and Jonathan Knepher continue their deep-dive conversation with Monzy Merza, exploring the transformative impact of AI in security operations centers (SoCs) and the evolving landscape of cyber threats and defense.</p> <p>In this episode, Monzy Merza shares candid insights into building trust and confidence in AI tools, managing the surge in AI-generated data and requirements, and the crucial role of human judgment amid technological advancements. The discussion covers everything from the realities of AI-generated errors to the challenges and opportunities for defenders as attackers adopt agent-driven threats.</p> <p>For CISOs and SOC managers facing the daunting task of AI transformation, Monzy Merza offers practical strategies, hard-earned lessons from the front lines, and a glimpse into future-proofing your security teams. Tune in to hear what practitioners are really experiencing in the trenches and what key questions every leader should be asking in the race to integrate AI securely and effectively. For links and resources discussed in this episode, please visit our show notes at https://www.forcepoint.com/govpodcast/e380</p>",
+    "publishedAt": "2026-05-12T12:30:00.000Z",
+    "duration": 1903,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E380_-_Monzy_Merza_Part_2_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/b/7/4/0/b740b637172d0db116c3140a3186d450/E380_-_Monzy_Merza_Part_2_mixdown.jpg",
+    "episodeNumber": 380,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/govpodcast/e380"
+  },
+  {
     "id": "modern-soc-struggles-ai-data-fragmentation-and-human-limitations-with-monzy-merz",
     "podcastId": "to-the-point-cybersecurity",
     "title": "Modern SOC Struggles: AI, Data Fragmentation, and Human Limitations with Monzy Merza",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/govpodcast/e60"
-  },
-  {
-    "id": "the-insider-threat-landscape-today-with-michael-theis-of-the-national-insider-th",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "The Insider Threat Landscape Today, With Michael Theis Of The National Insider Threat Center, Cert/Sei, Carnegie Mellon University",
-    "description": "<p>Michael C. Theis uses his 25+ years as a Counterintelligence Special Agent supporting the US Intelligence Community along with his 30+ years of concurrent computer systems engineering experience to aid the CERT© Insider Threat Center further its research and development of socio-technical controls to prevent, detect and respond to insider threats. He is also a Senior Member of the Technical Staff at the Software Engineering Institute (SEI). Previously, Theis was the first-ever Chief of Cyber-Counterintelligence for the National Reconnaissance Office, where he served as the Chief for Cyber-CI investigations and operations for over six years. In 2006, he was named one of the Premier 100 IT Leaders in the nation by Computerworld magazine. For links and resources discussed in this episode, please visit our show notes at <a href= \"https://www.forcepoint.com/govpodcast/e59\">https://www.forcepoint.com/govpodcast/e59</a></p>",
-    "publishedAt": "2020-01-07T13:00:00.000Z",
-    "duration": 1355,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E059_Michael_Theis_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/1/2/4/5/1245e819b375f2de/E059_Michael_Theis_mixdown.jpg",
-    "episodeNumber": 59,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e59"
   }
 ]
