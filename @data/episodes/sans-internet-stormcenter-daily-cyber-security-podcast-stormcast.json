@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-may-12th-2026-apple-patches-encrypted-rcs-captchas-checkm",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, May 12th, 2026: Apple Patches; Encrypted RCS; CAPTCHAs; Checkmarx vs TeamPCP;",
+    "description": "<br/>\nApple Patches Everything<br/>\n<a href=\"https://isc.sans.edu/diary/Apple%20Patches%20Everything/32976\">https://isc.sans.edu/diary/Apple%20Patches%20Everything/32976</a><br/>\nEnd-to-End Encrypted RCS Messages<br/>\n<a href=\"https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/\">https://www.apple.com/newsroom/2026/05/end-to-end-encrypted-rcs-messaging-begins-rolling-out-today-in-beta/</a><br/>\nWhy we use CAPTCHAs<br/>\n<a href=\"https://isc.sans.edu/diary/Why%20we%20use%20CAPTCHAs/32974\">https://isc.sans.edu/diary/Why%20we%20use%20CAPTCHAs/32974</a><br/>\nCheckmarx Jenkins AST plugin compromise<br/>\n<a href=\"https://checkmarx.com/blog/ongoing-security-updates/\">https://checkmarx.com/blog/ongoing-security-updates/</a><br/>",
+    "publishedAt": "2026-05-12T03:15:10.000Z",
+    "duration": 356,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9928.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9928,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9928"
+  },
+  {
     "id": "sans-stormcast-monday-may-11th-2026-new-linux-priv-escalation-pam-backdoors-cpan",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, May 11th, 2026: New Linux Priv Escalation; PAM Backdoors; CPanel Updates; Let’s Encrypt",
