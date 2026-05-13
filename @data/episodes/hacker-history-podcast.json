@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-history-of-bill-bernard",
+    "podcastId": "hacker-history-podcast",
+    "title": "The history of Bill Bernard",
+    "description": "Hacker History sits down with Bill Bernard. Bill tells us of his time building and breaking things with his father. The days of TI99 and Apple IIe in school, and some great engineering in college. Bill has some pretty cool experiences working for Zenith, then the phone company trying to sell TV, and a Cable […]",
+    "publishedAt": "2026-05-13T00:14:09.000Z",
+    "duration": 2985,
+    "audioUrl": "https://hackerhistory.com/podcast-download/1602/the-history-of-bill-bernard.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hackerhistory.com/wp-content/uploads/2026/05/square-ti.jpeg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://hackerhistory.com/podcast/the-history-of-bill-bernard/"
+  },
+  {
     "id": "the-history-of-rebecca-jones",
     "podcastId": "hacker-history-podcast",
     "title": "The history of Rebecca Jones",
@@ -831,22 +848,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://hackerhistory.com/podcast/the-history-of-bill-degnan/"
-  },
-  {
-    "id": "the-history-of-d1g1t4lt3mpl4r",
-    "podcastId": "hacker-history-podcast",
-    "title": "The history of D1g1t4l_T3mpl4r",
-    "description": "Hacker History sits down with D1g1t4l_T3mpl4r to discuss his hacker story. We learn about how D1g1t4l_T3mpl4r got into hacking, what it was like for a Midwestern hacker in the late 80s and early 90s. We discuss phreaking, hacking, hardware, phones, culture, a message for the newest hackers among us, and more. Cyphercon presentation",
-    "publishedAt": "2021-03-01T08:00:00.000Z",
-    "duration": 1769,
-    "audioUrl": "https://hackerhistory.com/podcast-download/1286/the-history-of-d1g1t4l_t3mpl4r.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://hackerhistory.com/wp-content/uploads/2021/02/bert-brrr-Zd6PL6PSW5E-unsplash-scaled-e1614371074335.jpg",
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": true,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://hackerhistory.com/podcast/the-history-of-d1g1t4l_t3mpl4r/"
   }
 ]
