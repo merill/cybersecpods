@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-may-13th-2026-microsoft-patch-tuesday-large-npmpypi-com",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, May 13th, 2026: Microsoft Patch Tuesday; Large npm/pypi Compromise; Rubygems Attack",
+    "description": "<br/>\nMicrosoft Patch Tuesday<br/>\n<a href=\"https://isc.sans.edu/diary/32980\">https://isc.sans.edu/diary/32980</a><br/>\nTanstack npm and others compromised<br/>\n<a href=\"https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack\">https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack</a><br/>\nRuby Gems Attack<br/>\n<a href=\"https://x.com/maciejmensfeld/status/2054164602577940619\">https://x.com/maciejmensfeld/status/2054164602577940619</a><br/>",
+    "publishedAt": "2026-05-13T03:05:02.000Z",
+    "duration": 473,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9930.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9930,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9930"
+  },
+  {
     "id": "sans-stormcast-tuesday-may-12th-2026-apple-patches-encrypted-rcs-captchas-checkm",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, May 12th, 2026: Apple Patches; Encrypted RCS; CAPTCHAs; Checkmarx vs TeamPCP;",
