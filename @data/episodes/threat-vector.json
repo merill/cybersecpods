@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-human-side-of-threat-intelligence",
+    "podcastId": "threat-vector",
+    "title": "The Human Side of Threat Intelligence",
+    "description": "<p><a href=\"https://www.linkedin.com/in/ingrid-a-parker/\"><u>Ingrid Parker</u></a>, Director of Intel Response at Unit 42, has a background that doesn't fit the mold: art student, Army linguist, systems administrator deployed to Afghanistan, co-author of <em>11 Strategies of a World-Class Cybersecurity Operations Center</em>. In this conversation, she and <a href=\"https://www.linkedin.com/in/davidrmoulton/\"><u>David</u></a> dig into what it actually feels like to do threat intelligence at the highest levels — how you build the kind of thinking that lets you get inside an adversary's head, what you look for when you're hiring for that skill, and what the job quietly costs the people who do it well.</p>\n<p><strong>Related Episodes:</strong></p>\n<ul>\n  <li>\n<p><a href=\"https://www.paloaltonetworks.com/resources/podcasts/threat-vector-the-art-of-threat-hunting\"><u>The Art of Threat Hunting</u></a> — Ryan Chapman on how threat hunters develop instincts and expertise</p>\n</li>\n  <li>\n<p><a href=\"https://www.paloaltonetworks.com/resources/podcasts/threat-vector-transform-your-soc\"><u>Transform Your SOC and Get Ahead of the Threats</u></a> — Clay Brothers on SOC transformation and what makes teams resilient</p>\n</li>\n  <li>\n<p><a href=\"https://www.paloaltonetworks.com/resources/podcasts/threat-vector-designing-humancentered-security-operations\"><u>Designing Human-Centered Security Operations</u></a> — Liz Pinder and Patrick Bayle on analyst burnout, focus, and what the SOC owes its people</p>\n</li>\n</ul>\n<p>#ThreatIntelligence #CyberDefense</p>\n<p><br></p>\n<p><strong>About Threat Vector</strong></p>\n<p>Threat Vector by Palo Alto Networks is your premier podcast for security thought leadership. Join us as we explore pressing cybersecurity threats, robust protection strategies, and the latest industry trends.</p>\n<p>The podcast features in-depth discussions with industry leaders, Palo Alto Networks experts, and customers, providing crucial insights for security decision-makers.</p>\n<p>Whether you're looking to stay ahead of the curve with innovative solutions or understand the evolving cybersecurity landscape, Threat Vector equips you with the knowledge needed to safeguard your organization.</p>\n<p><br></p>\n<p><strong>Palo Alto Networks</strong></p>\n<p>Palo Alto Networks enables your team to prevent successful cyberattacks with an automated approach that delivers consistent security across the cloud, network, and mobile.<a href=\"http://paloaltonetworks.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ <u>⁠http://paloaltonetworks.com.</u>⁠⁠</a><br></p>",
+    "publishedAt": "2026-05-14T06:00:00.000Z",
+    "duration": 2080,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/e083fe/traffic.megaphone.fm/CYBW2618487220.mp3?updated=1778525488",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/af2685d0-c56c-11f0-ac9a-efb36fdfd10c/image/10135323dcbd51107061105b1e2a81fd.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 117,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/threat-vector/117/notes"
+  },
+  {
     "id": "ai-in-the-wrong-hands",
     "podcastId": "threat-vector",
     "title": "AI in the Wrong Hands",
