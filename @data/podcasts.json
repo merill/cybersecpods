@@ -1880,7 +1880,7 @@
         "rating": 3,
         "title": "Like it but HORRIBLE audio issues",
         "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
-        "author": "taroliw",
+        "author": "btaroli",
         "updatedAt": "2019-02-03T22:19:04-07:00"
       }
     ]
@@ -2540,21 +2540,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "",
-    "summary": "",
-    "subtitle": "",
+    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "subtitle": "History of Hackers",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en",
+    "language": "en-US",
     "categories": [
       "Technology",
-      "Podcasts",
-      "Education"
+      "Education",
+      "Entrepreneurship"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "",
+    "copyright": "© 2025 Hacker History Podcast",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2574,11 +2574,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": null,
-    "firstEpisodeDate": null,
-    "episodeCount": 0,
+    "lastEpisodeDate": "2026-05-13T00:14:09.000Z",
+    "firstEpisodeDate": "2021-03-08T15:45:31.000Z",
+    "episodeCount": 50,
     "hasVideo": false,
-    "isActive": false,
+    "isActive": true,
     "featured": false,
     "ratings": {
       "apple": {
