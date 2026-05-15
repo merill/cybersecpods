@@ -1,5 +1,22 @@
 [
   {
+    "id": "soap-box-where-does-ai-fit-into-cloud-security",
+    "podcastId": "risky-business",
+    "title": "Soap Box: Where does AI fit into cloud security?",
+    "description": "<p>In this sponsored soap box edition of the Risky Business podcast Patrick Gray chats with Toni de la Fuente, the founder of Prowler.</p>\n\n<p>Prowler started off as a bunch of scripts in a trenchcoat, then became an open source cloud security tool, and it’s now a venture-funded cloud security business. In this interview Toni talks us through how AI is changing the game for him as an open source project owner, and as a vendor. In short, reports of the death of IT and security tooling at the hands of frontier models have been greatly exaggerated.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/FEbz4SdOonI\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-05-15T04:55:09.000Z",
+    "duration": 2017,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX107.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SOAPBOX107/"
+  },
+  {
     "id": "risky-business-837-github-actions-footgun-claims-tanstack",
     "podcastId": "risky-business",
     "title": "Risky Business #837 -- GitHub Actions footgun claims TanStack",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB770/"
-  },
-  {
-    "id": "risky-biz-soap-box-why-black-box-email-security-is-dead",
-    "podcastId": "risky-business",
-    "title": "Risky Biz Soap Box: Why black box email security is dead",
-    "description": "<p>In this edition of the Risky Business Soap Box we’re talking all about email security with Sublime Security co-founder Josh Kamdjou.</p>\n\n<p>Email security is one of the oldest product categories in security, but as you’ll hear, Josh thinks the incumbents are just doing it wrong. He joins Risky Business host Patrick Gray for this interview about Sublime’s origin story and its new approach to email security.</p>",
-    "publishedAt": "2024-11-11T02:14:53.000Z",
-    "duration": 2172,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/soapbox90.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/soapbox90/"
   }
 ]
