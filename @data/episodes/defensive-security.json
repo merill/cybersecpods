@@ -1,5 +1,22 @@
 [
   {
+    "id": "defensive-security-podcast-episode-346",
+    "podcastId": "defensive-security",
+    "title": "Defensive Security Podcast Episode 346",
+    "description": "<p>Please consider supporting the DefSec podcast&nbsp;<a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"Defensive Security Podcast Episode 346\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/Fwa3BrvULVs?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Links to this week’s stories:</p>\n<ul>\n<li>https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm</li>\n<li>https://www.csoonline.com/article/4159292/insurance-carriers-quietly-back-away-from-covering-ai-outputs.html</li>\n<li>https://www.livescience.com/technology/artificial-intelligence/hackers-used-ai-to-steal-hundreds-of-millions-of-mexican-government-and-private-citizen-records-in-one-of-the-largest-cybersecurity-breaches-ever</li>\n<li>https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/</li>\n<li>https://cybermagazine.com/news/how-cybercriminals-breached-gta-maker-rockstar</li>\n</ul>",
+    "publishedAt": "2026-05-15T12:28:49.000Z",
+    "duration": 4352,
+    "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/Defensive_Security_Podcast_Episode_346.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://defensivesecurity.org/defensive-security-podcast-episode-346/"
+  },
+  {
     "id": "defensive-security-podcast-episode-345",
     "podcastId": "defensive-security",
     "title": "Defensive Security Podcast Episode 345",
@@ -37,7 +54,7 @@
     "id": "defensive-security-podcast-episode-343",
     "podcastId": "defensive-security",
     "title": "Defensive Security Podcast Episode 343",
-    "description": "<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"Defensive Security Podcast Episode 343\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/_7LsQPt8fT8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Please consider supporting the DefSec podcast <a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n<p>Here are the links we discuss this week:</p>\n<ul>\n<li>https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in</li>\n<li>https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/</li>\n<li>https://www.csoonline.com/article/4147833/cisa-urges-it-to-harden-endpoint-management-systems-after-cyberattack-by-pro-iranian-group.html</li>\n<li>https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/</li>\n<li>https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/</li>\n</ul>",
+    "description": "<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Defensive Security Podcast Episode 343\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/_7LsQPt8fT8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Please consider supporting the DefSec podcast <a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n<p>Here are the links we discuss this week:</p>\n<ul>\n<li>https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in</li>\n<li>https://www.bleepingcomputer.com/news/security/stryker-attack-wiped-tens-of-thousands-of-devices-no-malware-needed/</li>\n<li>https://www.csoonline.com/article/4147833/cisa-urges-it-to-harden-endpoint-management-systems-after-cyberattack-by-pro-iranian-group.html</li>\n<li>https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/</li>\n<li>https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/</li>\n</ul>",
     "publishedAt": "2026-04-04T01:20:43.000Z",
     "duration": 4972,
     "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/Defensive_Security_Podcast_Episode_343.mp3",
@@ -3381,22 +3398,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://defensivesecurity.org/defensive-security-podcast-episode-146/"
-  },
-  {
-    "id": "defensive-security-podcast-episode-145",
-    "podcastId": "defensive-security",
-    "title": "Defensive Security Podcast Episode 145",
-    "description": "http://arstechnica.com/security/2016/01/security-firm-sued-for-filing-woefully-inadequate-forensics-report/\nhttp://arstechnica.com/security/2016/01/et-tu-fortinet-hard-coded-password-raises-new-backdoor-eavesdropping-fears/\nhttp://www.csoonline.com/article/3021774/security/trend-micro-flaw-could-have-allowed-attacker-to-steal-all-passwords.html",
-    "publishedAt": "2016-01-21T00:06:07.000Z",
-    "duration": 2170,
-    "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/defensive-security-podcast-episode-145.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://defensivesecurity.org/defensive-security-podcast-episode-145/"
   }
 ]
