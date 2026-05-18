@@ -1,5 +1,22 @@
 [
   {
+    "id": "284-lessons-learned-from-sql-slammer-to-ai-agents-with-aaron-turner",
+    "podcastId": "ciso-tradecraft",
+    "title": "#284 - Lessons Learned from SQL Slammer to AI Agents (with Aaron Turner)",
+    "description": "<p>What can today’s CISOs learn from the chaos of Code Red and SQL Slammer?</p><p>In this episode, G Mark Hardy interviews Aaron Turner about what it was like responding inside Microsoft during two of the most infamous cyber outbreaks in history.</p><p>Aaron shares firsthand stories from the era when SQL Slammer infected at least 75,000 systems in roughly 10 minutes, exposing massive gaps in patch management, security QA, firewall design, and enterprise readiness. He explains how Microsoft’s early security culture operated, how major incidents and source-code theft forced change, and why many of the same mistakes are now reappearing in enterprise AI adoption.</p><p>The conversation connects the lessons of Code Red and Slammer directly to today’s AI security challenges, including:</p><ul><li>Unauthenticated MCP servers and weak authorization models</li><li>AI accelerating exploit development and vulnerability discovery</li><li>Why the traditional “patching game” no longer scales</li><li>The growing importance of identity security, ITDR, SASE, and developer controls</li><li>How CISOs should think about technical debt and legacy modernization</li><li>Why serverless and cloud-native architectures may become security necessities</li></ul><p>If you’re a CISO, deputy CISO, security architect, or aspiring security leader navigating the risks of AI-driven attacks, this episode provides practical lessons from one of the most important eras in cybersecurity history and why those lessons matter even more today.</p><p>Aaron Turner's Linkedin - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/in/aaronrturner/\">https://www.linkedin.com/in/aaronrturner/</a></p>",
+    "publishedAt": "2026-05-18T12:30:00.000Z",
+    "duration": 2747,
+    "audioUrl": "https://content.rss.com/episodes/352153/2831418/ciso-tradecraft/2026_05_16_16_19_20_8e84654b-a161-466c-8fc2-22b656e3c699.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/ciso-tradecraft/ep_cover_20260516_040518_cad70fb75584a928a60aefa5f8ada507.png",
+    "episodeNumber": 284,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/ciso-tradecraft/2831418"
+  },
+  {
     "id": "283-leadership-lessons-and-the-art-of-the-performance-with-chris-brogan",
     "podcastId": "ciso-tradecraft",
     "title": "#283 - Leadership Lessons and the Art of the Performance (with Chris Brogan)",
