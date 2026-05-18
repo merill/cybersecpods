@@ -1,9 +1,26 @@
 [
   {
+    "id": "rssi-et-dpo-je-taime-moi-non-plus",
+    "podcastId": "nolimitsecu",
+    "title": "RSSI et DPO : Je t’aime, moi non plus ?",
+    "description": "<p style=\"text-align: center;\">Episode #542 consacré à la collaboration entre RSSI et DPO</p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/j%C3%A9r%C3%B4me-poggi-3401a8/\">Jérôme Poggi</a> et <a href=\"https://www.linkedin.com/in/thomas-honnet/\">Thomas Honnet</a></p>\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4060\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/RSSI-ET-DPO.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/RSSI-ET-DPO.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/RSSI-ET-DPO-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/rssi-et-dpo-je-taime-moi-non-plus/\">RSSI et DPO : Je t&rsquo;aime, moi non plus ?</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "publishedAt": "2026-05-17T21:52:22.000Z",
+    "duration": 1792,
+    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-452-Collaboration-RSSI-et-DPO.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 542,
+    "seasonNumber": 11,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.nolimitsecu.fr/rssi-et-dpo-je-taime-moi-non-plus/"
+  },
+  {
     "id": "cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers",
     "podcastId": "nolimitsecu",
     "title": "Cybersécurité et réalité de terrain dans les centres hospitaliers",
-    "description": "<p>Episode #541 consacré aux problématiques de cybersécurité dans les centres hospitaliers. </p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/jean-sylvain-chavanne/\">Jean-Sylvain CHAVANNE</a> et <a href=\"https://www.linkedin.com/in/%D0%BD%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF/\">Herve PELLARIN</a></p>\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4054\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p> </p>\n<p> </p>\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers/\">Cybersécurité et réalité de terrain dans les centres hospitaliers</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #541 consacré aux problématiques de cybersécurité dans les centres hospitaliers. </p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/jean-sylvain-chavanne/\">Jean-Sylvain CHAVANNE</a> et <a href=\"https://www.linkedin.com/in/%D0%BD%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF/\">Herve PELLARIN</a></p>\n<p><img decoding=\"async\" class=\"aligncenter size-full wp-image-4054\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p> </p>\n<p> </p>\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers/\">Cybersécurité et réalité de terrain dans les centres hospitaliers</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-05-10T22:25:39.000Z",
     "duration": 2449,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-541-Cybersecurite-et-realite-de-terrain-dans-les-centres-hospitaliers.mp3",
@@ -20,7 +37,7 @@
     "id": "falco",
     "podcastId": "nolimitsecu",
     "title": "Falco",
-    "description": "<p>Episode #540 consacré à <a href=\"https://falco.org/\">Falco</a>, une solution solution de détection de menaces en temps réel pour les conteneurs, Kubernetes et les hôtes.</p>\n<p style=\"text-align: center;\">avec <a href=\"https://www.linkedin.com/in/iacoporozzo/\">Iacopo Rozzo</a></p>\n<p style=\"text-align: center;\"><a href=\"https://falco.org/\"><img decoding=\"async\" class=\"aligncenter size-full wp-image-4049\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Falco.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Falco.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Falco-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></a></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/falco/\">Falco</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #540 consacré à <a href=\"https://falco.org/\">Falco</a>, une solution solution de détection de menaces en temps réel pour les conteneurs, Kubernetes et les hôtes.</p>\n<p style=\"text-align: center;\">avec <a href=\"https://www.linkedin.com/in/iacoporozzo/\">Iacopo Rozzo</a></p>\n<p style=\"text-align: center;\"><a href=\"https://falco.org/\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-4049\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Falco.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Falco.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Falco-150x150.png 150w\" sizes=\"auto, (max-width: 256px) 100vw, 256px\" /></a></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/falco/\">Falco</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-05-03T21:49:08.000Z",
     "duration": 1855,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-540-Falco.mp3",
@@ -156,7 +173,7 @@
     "id": "mbse",
     "podcastId": "nolimitsecu",
     "title": "MBSE",
-    "description": "<p class=\"has-text-align-center\">Episode #533 consacré à la cybersécurité appliquée à la modélisation des systèmes, ou Model-Based Systems Engineering (MBSE)</p>\n\n\n\n<p class=\"has-text-align-center\">Avec <a href=\"https://www.linkedin.com/in/alice-santin-33a50631/\">Alice Santin</a></p>\n\n\n\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-4003\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/MBSE-300x223.png\" alt=\"\" width=\"300\" height=\"223\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/MBSE-300x223.png 300w, https://www.nolimitsecu.fr/wp-content/uploads/MBSE.png 544w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></p>\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/mbse/\">MBSE</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #533 consacré à la cybersécurité appliquée à la modélisation des systèmes, ou Model-Based Systems Engineering (MBSE) Avec Alice Santin</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/mbse/\">MBSE</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-03-01T17:14:16.000Z",
     "duration": 1622,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-533-MBSE-1.1.mp3",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.nolimitsecu.fr/dfir-orc/"
-  },
-  {
-    "id": "methodes-dappreciation-des-risques",
-    "podcastId": "nolimitsecu",
-    "title": "Méthodes d’appréciation des risques",
-    "description": "<p>Episode #251 consacré aux « Méthodes d’appréciation des risques » Avec Stéphane PAUL, Paul FRAUSTO et Eric PORCHER</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/methodes-appreciation-des-risques/\">Méthodes d’appréciation des risques</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
-    "publishedAt": "2020-01-05T22:24:33.000Z",
-    "duration": 0,
-    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-251-Methodes-d-appreciation-du-risque.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.nolimitsecu.fr/methodes-appreciation-des-risques/"
   }
 ]

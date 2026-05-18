@@ -2822,7 +2822,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-05-17T08:31:18.082Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -3506,8 +3515,8 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-05-10T22:25:39.000Z",
-    "firstEpisodeDate": "2020-01-05T22:24:33.000Z",
+    "lastEpisodeDate": "2026-05-17T21:52:22.000Z",
+    "firstEpisodeDate": "2020-01-12T20:27:46.000Z",
     "episodeCount": 300,
     "hasVideo": false,
     "isActive": true,
@@ -4946,9 +4955,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-05-11T04:00:25.000Z",
+    "lastEpisodeDate": "2026-05-18T04:00:58.000Z",
     "firstEpisodeDate": "2009-08-25T15:14:44.000Z",
-    "episodeCount": 559,
+    "episodeCount": 560,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
