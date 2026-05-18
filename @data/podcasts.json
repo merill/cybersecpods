@@ -1295,9 +1295,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-05-15T21:02:00.000Z",
+    "lastEpisodeDate": "2026-05-18T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1738,
+    "episodeCount": 1739,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2540,21 +2540,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "subtitle": "History of Hackers",
+    "description": "",
+    "summary": "",
+    "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en-US",
+    "language": "en",
     "categories": [
       "Technology",
-      "Education",
-      "Entrepreneurship"
+      "Podcasts",
+      "Education"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "© 2025 Hacker History Podcast",
+    "copyright": "",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2574,11 +2574,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": "2026-05-13T00:14:09.000Z",
-    "firstEpisodeDate": "2021-03-08T15:45:31.000Z",
-    "episodeCount": 50,
+    "lastEpisodeDate": null,
+    "firstEpisodeDate": null,
+    "episodeCount": 0,
     "hasVideo": false,
-    "isActive": true,
+    "isActive": false,
     "featured": false,
     "ratings": {
       "apple": {
@@ -3968,8 +3968,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-05-17T22:06:12.000Z",
-    "firstEpisodeDate": "2026-01-21T01:41:55.000Z",
+    "lastEpisodeDate": "2026-05-18T05:24:03.000Z",
+    "firstEpisodeDate": "2026-01-22T01:25:07.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4131,9 +4131,9 @@
         "name": "James Wilson"
       }
     ],
-    "lastEpisodeDate": "2026-05-12T05:53:53.000Z",
+    "lastEpisodeDate": "2026-05-18T06:36:03.000Z",
     "firstEpisodeDate": "2026-02-17T02:20:42.000Z",
-    "episodeCount": 20,
+    "episodeCount": 21,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
