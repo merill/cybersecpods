@@ -1,5 +1,22 @@
 [
   {
+    "id": "dirty-frag-canvas-ransomware-attack-mini-shai-hulud-malware-campaign-and-ai-deve",
+    "podcastId": "cybersecurity-defenders",
+    "title": "\"Dirty Frag\", Canvas ransomware attack, “Mini Shai-Hulud” malware campaign & AI-developed zero-day exploit / Intel Chat [#324]",
+    "description": "<p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>Researchers have disclosed a new Linux local privilege escalation technique called “Dirty Frag,” which chains together two kernel vulnerabilities: CVE-2026-43284 in xfrm-ESP handling and <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://github.com/V4bel/dirtyfrag\">CVE-2026-43500 in RxRPC</a>.</li><li>The breach affecting educational technology provider Instructure has raised broader concerns about the security dependencies schools have on <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence\">third-party cloud platforms</a>.</li><li>Security researchers at Aikido are tracking a major expansion of the “Mini Shai-Hulud” malware campaign <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.aikido.dev/blog/mini-shai-hulud-is-back-tanstack-compromised\">targeting the npm ecosystem</a>.</li><li>Google Threat Intelligence Group says threat actors are moving from experimental AI usage toward large-scale operational integration of generative models <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access\">across the cyberattack lifecycle</a>.</li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
+    "publishedAt": "2026-05-18T10:00:19.000Z",
+    "duration": 1729,
+    "audioUrl": "https://podcast.wistia.com/deliveries/1d531c6407d43eb404e470d67bccef9fea508a72.mp3?d=eyJtIjoxNDc5MjY5NzIsIm1kIjoxNzI4LjYsImEiOiJ3aXN0aWEtcHJvZHVjdGlvbl8xNzk3NDk4IiwiYyI6MTAwODExLCJlIjoyMTA1MzUzLCJiIjoiMWQ1MzFjNjQwN2Q0M2ViNDA0ZTQ3MGQ2N2JjY2VmOWZlYTUwOGE3MiIsIm1iIjoxNjI0NzMsIm9iIjoxNDQwMDIyLjQyMjc2OTg3MTh9--6a7514d66ce8c93c1900400d4e25a75f279e176fb06a5bbd0323fda49bc8e675",
+    "videoUrl": null,
+    "imageUrl": "https://embed-ssl.wistia.com/deliveries/50810559ff51786565024867ddd5ebd7.png?image_crop_resized=3000x3000",
+    "episodeNumber": 324,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=q7rchgbg78"
+  },
+  {
     "id": "how-to-handle-increasing-vulnerabilities-with-ai-assistants-with-shane-warden-fr",
     "podcastId": "cybersecurity-defenders",
     "title": "How to handle increasing vulnerabilities with AI-assistants? With Shane Warden from ActiveState / Defender Fridays [#323]]",

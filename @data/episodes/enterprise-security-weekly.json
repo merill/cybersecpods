@@ -1,5 +1,22 @@
 [
   {
+    "id": "ai-has-a-data-problem-cascading-breaches-and-the-weekly-news-dimitri-sirota-esw-",
+    "podcastId": "enterprise-security-weekly",
+    "title": "AI Has a data problem, cascading breaches, and the weekly news - Dimitri Sirota - ESW #459",
+    "description": "Interview with Dimitri Sirota from BigID <p>Most organizations think AI risk lives in the model – or the identity. It doesn't. It lives in the data. In this episode, BigID's CEO reframes the conversation: why legacy access controls are breaking down, why visibility into sensitive data is the missing foundation, and what it takes to govern humans and machines under a single, accountable framework.</p> <p>Segment Resources:</p> <ul> <li>BigID's <a rel=\"noopener\" target=\"_blank\" href= \"https://home.bigid.com/download-agent-access-management-guide?utm_source=podcast&utm_medium=esw\"> Agent Access Management Guide</a></li> <li>BigID's podcast, <a rel=\"noopener\" target=\"_blank\" href= \"https://www.youtube.com/watch?v=C9uTQDbc4Cw&list=PLLsddRjFMGjBK4MpkQlOvp7XjtZwUQp0O\"> CTRL + ALT + AI</a></li> </ul> This Week's Topic: Cascading Breaches <p>We're seeing more and more 3rd and 4th party attacks that chain through multiple layers of compromised tools and services. In this topic segment, we discuss the two main aspects of this trend:</p> <ol> <li>How we can stop the chain of breaches from a third party library, vendor, or service provider</li> <li>How this might get handled at the legal, contractual, and organizational levels</li> </ol> <p>We discuss two big recent examples:</p> <ol> <li>Sonicwall's 2025 breach of their cloud firewall configuration backup service</li> <li>The compromise of Aqua Security's widely used Trivy open source tool</li> </ol> The Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>Funding and M&A courtesy of the Security, Funded newsletter</li> <li>We have evidence that attackers are leveraging AI now (this sounds like old news, but there was little to no evidence before, when people were claiming this)</li> <li>The Angry admin problem emerges again</li> <li>Vulnerability information is getting crazy to keep up with</li> <li>Breach information is getting crazy to keep up with</li> <li>You can give your Agents an allowance now - don't spend it all in one place</li> <li>Are vulnerabilities sparse or dense?</li> <li>Mythos, as a model, isn't all that special</li> <li>Deploy your own deception sensors!</li> <li>Japan made something weird. Again.</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-459\">https://securityweekly.com/esw-459</a></p>",
+    "publishedAt": "2026-05-18T09:00:00.000Z",
+    "duration": 5789,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_459_1--a179a867-9814-44db-8bb6-043f56419120--audio-converted--b11cecc4-6c7b-41d0-a9c8-a9f2d0f806da.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/e/a/8/f/ea8f757b9f0e92a4d959afa2a1bf1c87/ESW_459_Thumbnail_ESW_1920x1920_550d2aaa-10df-4cde-9390-1ff7be6f8f4c.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/ai-has-a-data-problem-cascading-breaches-and-the-weekly-news-dimitri-sirota-esw-459"
+  },
+  {
     "id": "the-impact-of-mythos-and-florida-man-confidence-gaps-phishing-and-ai-adoption-ch",
     "podcastId": "enterprise-security-weekly",
     "title": "The impact of Mythos and Florida Man, confidence gaps, phishing, & AI adoption - Chris Wallis, Deepen Desai, Erich Kron - ESW #458",
