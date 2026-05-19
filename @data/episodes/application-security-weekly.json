@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-state-of-ai-and-appsec-keith-hoodlet-asw-383",
+    "podcastId": "application-security-weekly",
+    "title": "The State of AI & AppSec - Keith Hoodlet - ASW #383",
+    "description": "<p>This year has been a dichotomy of established secure design fundamentals and burgeoning chaos of LLM-driven vuln discovery. Keith Hoodlet returns to share his latest observations on what the recent news about Mythos, models, and harnesses means for appsec. He walks through the problems of misalignment, the potential development doom that looms behind a volume of vulns, and what modern code creation looks like. Along the way we touch on the economics of tokens and the principles behind secure software.</p> <p>Keith gave a preview of his upcoming presentation (May 22nd) on these topics. Check out <a rel=\"noopener\" target=\"_blank\" href= \"https://securing.dev/about/\">https://securing.dev/about/</a> for the slides and more of his writing on appsec.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-383\">https://securityweekly.com/asw-383</a></p>",
+    "publishedAt": "2026-05-19T09:00:00.000Z",
+    "duration": 3776,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_383_1--937dd6df-b946-45a5-88c8-2fed606e7da4--audio-converted--b72cfa5e-4bb6-4e44-b6cd-da37720cabf4.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/9/2/2/b/922bfc26da698f6a16c3140a3186d450/ASW_383_Thumbnail_ASW_1920x1920_35b60c99-7f4d-4fa7-918a-03157f141231.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/the-state-of-ai-appsec-keith-hoodlet-asw-383"
+  },
+  {
     "id": "why-basic-security-practices-still-work-rob-allen-asw-382",
     "podcastId": "application-security-weekly",
     "title": "Why Basic Security Practices Still Work - Rob Allen - ASW #382",
