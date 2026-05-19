@@ -604,7 +604,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-05-18T10:21:20.495Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must have podcast for Defenders",
+        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
+        "author": "Rljohnson5",
+        "updatedAt": "2023-05-23T14:47:20-07:00"
+      }
+    ]
   },
   {
     "id": "bluehat-podcast",
@@ -983,9 +992,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-05-15T07:00:00.000Z",
+    "lastEpisodeDate": "2026-05-19T07:00:00.000Z",
     "firstEpisodeDate": "2022-01-21T14:59:00.000Z",
-    "episodeCount": 340,
+    "episodeCount": 341,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1286,9 +1295,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-05-18T07:00:00.000Z",
+    "lastEpisodeDate": "2026-05-19T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1739,
+    "episodeCount": 1740,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1856,7 +1865,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-05-18T10:21:33.377Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -2644,9 +2662,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-05-14T05:00:00.000Z",
+    "lastEpisodeDate": "2026-05-19T07:00:00.000Z",
     "firstEpisodeDate": "2018-05-30T05:00:00.000Z",
-    "episodeCount": 772,
+    "episodeCount": 773,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4109,7 +4127,44 @@
         "ratingCount": 676,
         "fetchedAt": "2026-05-18T10:21:59.158Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Best in Show!",
+        "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
+        "author": "1Flatlander",
+        "updatedAt": "2026-05-06T07:22:39-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "High quality info in a short amount of time. Listen very closely to what he puts out",
+        "content": "Johannes continues to point out trends and indicators I might otherwise have missed.\n\nI’ve seen a lot of crazy scenarios play out based on data he’s gathered and provided.\n\nListen to a few episodes to hear what I mean.\n\nHis podcast also serves as a convenient reminder for Patch Tuesday and iOS updates.\n\nYet another great podcast the sociable Dave Bittner has led me to.",
+        "author": "TFWas",
+        "updatedAt": "2026-03-18T15:59:48-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Required Professional Daily Use",
+        "content": "This is a requirement for my team as they start their day. The information is a great way to start the brain thinking into what is going on and what new things should we be looking for. We discuss it and volunteer topics for research and further discovery. 11/10 -highly recommended",
+        "author": "PowerBob",
+        "updatedAt": "2025-12-16T17:08:12-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Your Daily Cyber Drive-Thru",
+        "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
+        "author": "JayJonahJameson",
+        "updatedAt": "2025-12-16T03:32:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great content",
+        "content": "I don’t always get to listen to this daily but I’m careful to go back at the end of the week to catch up.",
+        "author": "Ceszombie",
+        "updatedAt": "2025-12-13T13:30:15-07:00"
+      }
+    ]
   },
   {
     "id": "secure-the-job",
@@ -4226,7 +4281,44 @@
         "ratingCount": 79,
         "fetchedAt": "2026-05-18T10:22:01.099Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
@@ -5291,7 +5383,44 @@
         "ratingCount": 48,
         "fetchedAt": "2026-05-18T10:22:13.015Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful and educational",
+        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
+        "author": "Maocol99",
+        "updatedAt": "2025-08-14T17:21:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful, timely, and concise!",
+        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
+        "author": "LarsMarie",
+        "updatedAt": "2025-05-05T15:23:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "More OT cybersecurity and Holly rocks.",
+        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
+        "author": "tryangalway",
+        "updatedAt": "2025-03-10T22:06:15-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great Podcast for Cybersecurity Insights!",
+        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
+        "author": "yshishka",
+        "updatedAt": "2024-08-26T10:36:16-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Accessible & Actionable Resource",
+        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
+        "author": "run_amanda",
+        "updatedAt": "2024-08-19T08:29:33-07:00"
+      }
+    ]
   },
   {
     "id": "three-buddy-problem",
