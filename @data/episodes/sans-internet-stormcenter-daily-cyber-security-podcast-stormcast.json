@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-may-19th-2026-new-libssh-in-malware-exchange-0-day-msft-a",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, May 19th, 2026: New libssh in Malware; Exchange 0-Day; MSFT Authenticator Update",
+    "description": "<br/>\nNew Malware Libraries means New Signatures<br/>\n<a href=\"https://isc.sans.edu/diary/%5BGuest%20Diary%5D%20%20New%20Malware%20Libraries%20means%20New%20Signatures/32986\">https://isc.sans.edu/diary/%5BGuest%20Diary%5D%20%20New%20Malware%20Libraries%20means%20New%20Signatures/32986</a><br/>\nAddressing Exchange Server May 2026 vulnerability CVE-2026-42897<br/>\n<a href=\"https://techcommunity.microsoft.com/blog/exchange/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/4518498\">https://techcommunity.microsoft.com/blog/exchange/addressing-exchange-server-may-2026-vulnerability-cve-2026-42897/4518498</a><br/>\nMicrosoft Authenticator Update CVE-2026-41615<br/>\n<a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41615\">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-41615</a><br/>\nssh-keysign-pwn (CVE-2026-46333) Patches Released<br/>\n<a href=\"https://almalinux.org/blog/2026-05-15-ssh-keysign-pwn-cve-2026-46333/\">https://almalinux.org/blog/2026-05-15-ssh-keysign-pwn-cve-2026-46333/</a><br/>",
+    "publishedAt": "2026-05-19T02:00:02.000Z",
+    "duration": 368,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9936.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9936,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9936"
+  },
+  {
     "id": "sans-stormcast-friday-may-15th-2026-website-fraud-outlook-link-preview-bug-nginx",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, May 15th, 2026: Website Fraud; Outlook Link Preview Bug; NGINX Vuln; Cisco 0-Day",
