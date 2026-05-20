@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-may-20th-2026-assume-supply-chain-compromise-github-act",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, May 20th, 2026: Assume Supply Chain Compromise; GitHub Action Compromise;",
+    "description": "<br/>\nTeamPCP Supply Chain Campaign: Activity Through 2026-05-17<br/>\n<a href=\"https://isc.sans.edu/diary/TeamPCP%20Supply%20Chain%20Campaign%3A%20Activity%20Through%202026-05-17/32994\">https://isc.sans.edu/diary/TeamPCP%20Supply%20Chain%20Campaign%3A%20Activity%20Through%202026-05-17/32994</a><br/>\n<a href=\"https://slsa.dev/spec/v0.1/levels\">https://slsa.dev/spec/v0.1/levels</a><br/>\nGithub Action Compromise<br/>\n<a href=\"https://www.stepsecurity.io/blog/actions-cool-issues-helper-github-action-compromised-all-tags-point-to-imposter-commit-that-exfiltrates-ci-cd-credentials\">https://www.stepsecurity.io/blog/actions-cool-issues-helper-github-action-compromised-all-tags-point-to-imposter-commit-that-exfiltrates-ci-cd-credentials</a><br/>\nHow Storm-2949 turned a compromised identity into a cloud-wide breach<br/>\n<a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/\">https://www.microsoft.com/en-us/security/blog/2026/05/18/storm-2949-turned-compromised-identity-into-cloud-wide-breach/</a><br/>",
+    "publishedAt": "2026-05-20T02:00:02.000Z",
+    "duration": 381,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9938.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9938,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9938"
+  },
+  {
     "id": "sans-stormcast-tuesday-may-19th-2026-new-libssh-in-malware-exchange-0-day-msft-a",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, May 19th, 2026: New libssh in Malware; Exchange 0-Day; MSFT Authenticator Update",

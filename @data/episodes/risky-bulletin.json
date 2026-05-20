@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-microsoft-takes-down-crime-saas-used-by-ransomware-gangs",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Microsoft takes down crime SaaS used by ransomware gangs",
+    "description": "<p>Microsoft disrupts a malware-signing service used by ransomware gangs, a CISA contractor leaks sensitive GovCloud keys, vulnerability exploitation is now the dominant network entry vector, and Drupal readies security updates for a “highly critical” vulnerability.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-microsoft-takes-down-msaas-used-by-ransomware-gangs/\">Risky Bulletin: Microsoft takes down MSaaS used by ransomware gangs</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-05-20T03:36:19.000Z",
+    "duration": 530,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS566.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS566/"
+  },
+  {
     "id": "between-two-nerds-russias-hacker-university",
     "podcastId": "risky-bulletin",
     "title": "Between Two Nerds: Russia's hacker university",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS517/"
-  },
-  {
-    "id": "risky-bulletin-improperly-patched-bug-exploited-again-in-fortinet-firewalls",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Improperly patched bug exploited again in Fortinet firewalls",
-    "description": "<p>A poorly patched bug is being exploited in Fortinet firewalls, hackers go after security testing environments, Jordanian police used Cellebrite against activists, and new Cisco and SmarterMail zero-days.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-improperly-patched-bug-exploited-again-in-fortinet-firewalls/\">Risky Bulletin: Improperly patched bug exploited again in Fortinet firewalls</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-01-22T22:26:03.000Z",
-    "duration": 399,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS516.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS516/"
   }
 ]
