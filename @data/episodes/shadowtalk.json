@@ -1,5 +1,22 @@
 [
   {
+    "id": "sqlite-mistral-openai-how-ai-attacks-are-reshaping-the-attack-surface",
+    "podcastId": "shadowtalk",
+    "title": "SQLite, Mistral, OpenAI: How AI Attacks Are Reshaping the Attack Surface",
+    "description": "<p>What happens when an AI agent uncovers a zero-day in hours instead of weeks, and state-backed groups are already operationalizing the same tools? With self-hosted AI infrastructure sprawling outside asset registers and supply chain worms reaching inside AI vendors themselves, defenders need a new operating model.</p><p>Join hosts Tehman and John as they discuss: </p><ul><li>How an AI agent surfaced a memory-safety zero-day in SQLite</li><li>How Mini Shai-Hulud reached Mistral AI and OpenAI devices</li><li>Why the intel-to-action chain still runs at multi-day tempo</li></ul><p><b>Two questions your organization should be asking right now:</b></p><ul><li>Do you have visibility into the shadow AI infrastructure, self-hosted models, and inference endpoints sitting unauthenticated on your network?</li><li>When high-confidence intel lands, what's your median time from \"advisory published\" to \"response action executed\"?</li></ul><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Tehman Tariq</b>: Sr. Manager of Cyber Operations at ReliaQuest. He has spent a majority of my career leading our Incident Response, Security Architecture, and Detection teams. As well has working hand in hand with CISOs to introduce automation allowing for the maturity of their security programs.</p>",
+    "publishedAt": "2026-05-20T14:00:00.000Z",
+    "duration": 1188,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19204715-sqlite-mistral-openai-how-ai-attacks-are-reshaping-the-attack-surface.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "canvas-trellix-mini-shai-hulud-how-defenders-respond-when-supply-chain-attacks-b",
     "podcastId": "shadowtalk",
     "title": "Canvas, Trellix, Mini Shai-Hulud: How Defenders Respond When Supply Chain Attacks Become Weekly",
