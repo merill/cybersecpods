@@ -1,5 +1,22 @@
 [
   {
+    "id": "follow-the-crypto",
+    "podcastId": "threat-vector",
+    "title": "Follow the Crypto",
+    "description": "<p>Every threat actor leaves a financial signature. Ransomware operators, state-sponsored hackers, fraud networks — they all need to move money, and when they do, the blockchain records it permanently.</p>\n<p><a href=\"https://www.linkedin.com/in/jacqueline-burns-koven-139303107/\"><u>Jackie Burns Koven</u></a> leads cyber threat intelligence at Chainalysis, where she tracks how criminal and nation-state actors use cryptocurrency to fund attacks, launder proceeds, and pay for the tools and infrastructure that power the underground economy. Before Chainalysis, she worked in the U.S. Intelligence Community on nuclear proliferation. She also serves on the Ransomware Task Force, the cross-sector coalition working to disrupt the financial ecosystem that makes ransomware profitable.</p>\n<p>In this conversation recorded live at the Links conference in New York, guest host <a href=\"https://www.linkedin.com/in/mikesiko/\"><u>Michael Sikorski</u></a>, CTO of Unit 42, talks with Jackie about how blockchain intelligence works as a threat intelligence discipline, why open-source cryptocurrency is more exposed than most defenders realize, and what the financial signatures of threat actors can reveal that traditional IOCs cannot.</p>\n<p>You’ll learn:</p>\n<ul>\n  <li>\n<p>How blockchain intelligence connects wallets to threat actors, criminal networks, and nation-state operations</p>\n</li>\n  <li>\n<p>Why cryptocurrency is relevant to every organization, even those that don’t pay ransoms or custody crypto</p>\n</li>\n  <li>\n<p>What North Korea’s $2 billion in stolen cryptocurrency tells us about the scale of state-sponsored crypto crime</p>\n</li>\n  <li>\n<p>How financial signatures can track a threat actor across rebrands, gang changes, and evolving crime types</p>\n</li>\n  <li>\n<p>What most CTI analysts are missing by not having a blockchain tracing capability in their toolkit</p>\n</li>\n</ul>\n<p>This episode is essential listening if you’re a threat intelligence analyst, incident responder, or security leader trying to understand the financial infrastructure that funds the attacks hitting your industry.</p>\n<p>Related Episodes:</p>\n<ul>\n  <li>\n<p><a href=\"https://www.paloaltonetworks.com/resources/podcasts/threat-vector-muddled-libra-from-spraying-to-preying-in-2025\"><u>Muddled Libra: From Spraying to Preying in 2025</u></a></p>\n</li>\n  <li>\n<p><a href=\"https://www.paloaltonetworks.com/resources/podcasts/threat-vector-lessons-from-the-underground\"><u>Lessons from the Underground</u></a></p>\n</li>\n</ul>\n<p>#ThreatIntelligence #Ransomware</p>\n<p><br></p>\n<p><strong>About Threat Vector</strong></p>\n<p>Threat Vector by Palo Alto Networks is your premier podcast for security thought leadership. Join us as we explore pressing cybersecurity threats, robust protection strategies, and the latest industry trends.</p>\n<p>The podcast features in-depth discussions with industry leaders, Palo Alto Networks experts, and customers, providing crucial insights for security decision-makers.</p>\n<p>Whether you're looking to stay ahead of the curve with innovative solutions or understand the evolving cybersecurity landscape, Threat Vector equips you with the knowledge needed to safeguard your organization.</p>\n<p><br></p>\n<p><strong>Palo Alto Networks</strong></p>\n<p>Palo Alto Networks enables your team to prevent successful cyberattacks with an automated approach that delivers consistent security across the cloud, network, and mobile.<a href=\"http://paloaltonetworks.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ <u>⁠http://paloaltonetworks.com.</u>⁠⁠⁠</a><br></p>",
+    "publishedAt": "2026-05-21T06:00:00.000Z",
+    "duration": 2155,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/e083fe/traffic.megaphone.fm/CYBW7634610096.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/af4cb854-c56c-11f0-ac9a-53791afb568d/image/7fbbd4ed5aaa7f2b1b41d5a3aed0c81c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 118,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/threat-vector/118/notes"
+  },
+  {
     "id": "the-human-side-of-threat-intelligence",
     "podcastId": "threat-vector",
     "title": "The Human Side of Threat Intelligence",
