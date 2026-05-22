@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-microsoft-ends-sms-mfa-for-personal-accounts",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Microsoft ends SMS MFA for personal accounts",
+    "description": "<p>Microsoft ends support for SMS MFA on personal accounts, GitHub was hacked via a malicious VS Code extension, CISA will let researchers submit new KEV entries, and an SMS blaster was detained at Eurovision.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-microsoft-ends-sms-mfa-for-personal-accounts/\">Risky Bulletin: Microsoft ends SMS MFA for personal accounts</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-05-22T00:48:57.000Z",
+    "duration": 540,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS567.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS567/"
+  },
+  {
     "id": "srsly-risky-biz-politicians-ditch-signal-for-homegrown-apps",
     "podcastId": "risky-bulletin",
     "title": "Srsly Risky Biz: Politicians ditch Signal for homegrown apps",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/BTN151/"
-  },
-  {
-    "id": "sponsored-push-security-on-consentfix-attacks",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Push Security on ConsentFix attacks",
-    "description": "<p>In this Risky Business News sponsor interview, Catalin Cimpanu talks with Luke Jennings, VP of Research & Development at Push Security, about ConsentFix. It’s a new form of email-based social engineering attack used in the wild, an evolution of the ClickFix attack that goes after your identity.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://pushsecurity.com/blog/consentfix\">ConsentFix: Analysing a browser-native ClickFix-style attack that hijacks OAuth consent grants</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://pushsecurity.com/blog/consentfix-debrief\">ConsentFix debrief: latest community insights, recommendations, and predictions</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.linkedin.com/feed/update/urn:li:activity:7407080879292059648/\">Luke Jennings, ConsentFix LinkedIn post</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.youtube.com/watch?v=Z3lXvXGfggs\">Year in Review: How Phishing Attacks Evolved in 2025</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-01-26T19:20:19.000Z",
-    "duration": 786,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI112.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI112/"
   }
 ]
