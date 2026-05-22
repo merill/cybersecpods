@@ -1,5 +1,22 @@
 [
   {
+    "id": "chain-chain-chain-of-compromises",
+    "podcastId": "decipher-security-podcast",
+    "title": "Chain Chain Chain of Compromises",
+    "description": "<p>In the spring, a young attacker's fancy turns to supply chain compromises, and this season's crop includes the GitHub breach and the Grafana intrusion, which are connected and trace back to the TanStack supply chain attack and...TeamPCP. </p><p><br></p><p><strong>Links</strong></p><p>Grafana attack: https://decipher.sc/2026/05/17/grafana-investigating-token-compromise-and-extortion-attempt/</p><p>GitHub breach: https://decipher.sc/2026/05/20/github-confirms-internal-breach/</p>",
+    "publishedAt": "2026-05-22T13:46:23.000Z",
+    "duration": 1338,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/120386426/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-22%2F424685003-44100-2-cae976bd3aed6.m4a",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/Chain-Chain-Chain-of-Compromises-e3joddq"
+  },
+  {
     "id": "what-the-data-tells-us-about-claude-mythos-and-bug-exploitability-or-jay-jacobs-",
     "podcastId": "decipher-security-podcast",
     "title": "What the Data Tells Us About Claude Mythos and Bug Exploitability | Jay Jacobs and Michael Roytman",

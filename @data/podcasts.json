@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-21T16:04:04.000Z",
-    "firstEpisodeDate": "2025-10-13T15:01:47.000Z",
+    "lastEpisodeDate": "2026-05-22T15:13:20.000Z",
+    "firstEpisodeDate": "2025-10-14T13:11:26.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -1862,9 +1862,9 @@
         "name": "Lindsey O’Donnell-Welch"
       }
     ],
-    "lastEpisodeDate": "2026-05-19T17:06:31.000Z",
+    "lastEpisodeDate": "2026-05-22T13:46:23.000Z",
     "firstEpisodeDate": "2018-08-01T19:00:00.000Z",
-    "episodeCount": 353,
+    "episodeCount": 354,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5362,6 +5362,43 @@
         "fetchedAt": "2026-05-22T09:43:37.430Z"
       }
     },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great cybersecurity podcast!",
+        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
+        "author": "Dave McCollough",
+        "updatedAt": "2025-12-12T06:46:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Love it",
+        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
+        "author": "dareyoutomove",
+        "updatedAt": "2024-10-12T09:27:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Pentesting 101",
+        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
+        "author": "Rich-Barr",
+        "updatedAt": "2023-11-01T04:42:09-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Worth a listen",
+        "content": "Great insight and advice and actually very entertaining.",
+        "author": "Chris Y Doyle",
+        "updatedAt": "2022-09-14T12:09:26-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Rock stars!",
+        "content": "This group of folks are the best of the best! Amazing talent sharing their brains with the world. I’m here for it.",
+        "author": "CupcakeHustling",
+        "updatedAt": "2022-08-10T14:26:33-07:00"
+      }
+    ],
     "submittedBy": "techspence"
   },
   {
