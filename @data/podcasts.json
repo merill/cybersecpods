@@ -2476,21 +2476,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "subtitle": "History of Hackers",
+    "description": "",
+    "summary": "",
+    "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en-US",
+    "language": "en",
     "categories": [
       "Technology",
-      "Education",
-      "Entrepreneurship"
+      "Podcasts",
+      "Education"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "© 2025 Hacker History Podcast",
+    "copyright": "",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2510,11 +2510,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": "2026-05-13T00:14:09.000Z",
-    "firstEpisodeDate": "2021-03-08T15:45:31.000Z",
-    "episodeCount": 50,
+    "lastEpisodeDate": null,
+    "firstEpisodeDate": null,
+    "episodeCount": 0,
     "hasVideo": false,
-    "isActive": true,
+    "isActive": false,
     "featured": false,
     "ratings": {
       "apple": {
@@ -2522,7 +2522,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-05-23T08:29:16.891Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -2749,7 +2758,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-05-23T08:29:18.168Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -4226,7 +4244,44 @@
         "ratingCount": 79,
         "fetchedAt": "2026-05-23T08:29:28.450Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
