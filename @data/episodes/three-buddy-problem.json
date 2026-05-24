@@ -1,5 +1,22 @@
 [
   {
+    "id": "jordan-wiens-on-ai-offense-vs-defense-and-the-dying-ctf-pipeline",
+    "podcastId": "three-buddy-problem",
+    "title": "Jordan Wiens on AI, Offense vs. Defense, and the Dying CTF Pipeline",
+    "description": "<p>(<em>Presented by <a href=\"https://tlpblack.net\" rel=\"nofollow\">TLPBLACK</a>: A cybersecurity intelligence platform focused on sharing curated, high-sensitivity threat insights and research with trusted security professionals.</em>)</p>\n\n<p><strong>Three Buddy Problem x Ekoparty Miami</strong>: Jordan Wiens, co-founder of Vector 35 and creator of Binary Ninja, talks about a decade spent building a decompiler in a market everyone told him not to enter. He walks through why accessibility drove the whole project, how Binja's intermediate-language system stacks up against IDA, Ghidra, and Radare, and why language-specific decompilation for Rust, C++, and Go is the next real frontier.</p>\n\n<p>Plus, thoughts on AI disruption and why \"the model can do it\" misses the point that the model is just driving the tool, what verifiability really means, whether AI tilts the field toward offense or defense, and questions around subsidized tokens, the collapse of the CTF talent pipeline, and what happens to a craft when the shortcut is always one prompt away.</p>\n\n<p><strong>Cast:</strong> <a href=\"https://twitter.com/juanandres_gs\" rel=\"nofollow\">Juan Andres Guerrero-Saade</a>,  <a href=\"https://twitter.com/ryanaraine\" rel=\"nofollow\">Ryan Naraine</a> and    <a href=\"https://x.com/psifertex\" rel=\"nofollow\">Jordan Wiens</a>.</p>\n\n<p><strong>Timestamps:</strong><br>\n0:00   Introductory banter<br>\n1:22    Vector 35 and the origin of Binary Ninja<br>\n2:32    From CTFs and SCIFs to building a decompiler<br>\n3:27    Before Ghidra: when an IDA license was out of reach<br>\n9:47    Language-specific decompilation: Rust, C++, and Go<br>\n12:47   Running a 17-person bootstrapped shop with no org chart<br>\n13:50   DARPA money, In-Q-Tel, and staying independent<br>\n15:23   AI as disruptor: the model drives the tool<br>\n18:06   Verifiability and the Fast16 reversing story<br>\n25:10   How AI actually gets used inside the company<br>\n28:52   Frontier models and guardrails <br>\n33:30   Will AI favor offense or defense?<br>\n40:51   Shrinking CTF talent pipelines</p><p>Links:</p><ul><li><a title=\"Transcript\" rel=\"nofollow\" href=\"https://docs.google.com/document/d/1wSLP1tg5NK9LblUIyqTq3H5rUqYobV-4rzQ8G-qXCoc/edit?tab=t.0#heading=h.vj61zciiju0r\">Transcript</a></li><li><a title=\"Jordan Wiens on LinkedIn\" rel=\"nofollow\" href=\"https://www.linkedin.com/in/jwiens/\">Jordan Wiens on LinkedIn</a></li><li><a title=\"Jordan Wiens (@psifertex)\" rel=\"nofollow\" href=\"https://x.com/psifertex?lang=en\">Jordan Wiens (@psifertex)</a></li><li><a title=\"Vector 35\" rel=\"nofollow\" href=\"https://vector35.com/\">Vector 35</a></li><li><a title=\"Binary Ninja\" rel=\"nofollow\" href=\"https://binary.ninja/\">Binary Ninja</a></li><li><a title=\"Ghidra Releases\" rel=\"nofollow\" href=\"https://github.com/NationalSecurityAgency/ghidra/releases\">Ghidra Releases</a></li><li><a title=\"AI x CC (AI Cyber Challenge)\" rel=\"nofollow\" href=\"https://aicyberchallenge.com/\">AI x CC (AI Cyber Challenge)</a></li><li><a title=\"Ekoparty Miami\" rel=\"nofollow\" href=\"https://ekoparty.org/miami/\">Ekoparty Miami</a></li><li><a title=\"TLPBLACK\" rel=\"nofollow\" href=\"https://tlpblack.net/\">TLPBLACK</a></li></ul>",
+    "publishedAt": "2026-05-24T17:00:00.000Z",
+    "duration": 2657,
+    "audioUrl": "https://aphid.fireside.fm/d/1437767933/5f0c01ff-49f1-4c51-a8f8-f14c0d9bc72e/911ccb72-67a2-4af5-ad6c-593e67c5399a.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/5/5f0c01ff-49f1-4c51-a8f8-f14c0d9bc72e/episodes/9/911ccb72-67a2-4af5-ad6c-593e67c5399a/cover.jpg?v=1",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://securityconversations.fireside.fm/jordan-wiens-ai-offense-defense-dying-ctf-pipeline"
+  },
+  {
     "id": "the-ai-powered-10x-patch-tsunami-has-arrived-now-what",
     "podcastId": "three-buddy-problem",
     "title": "The AI-powered 10x patch tsunami has arrived. Now what?",
