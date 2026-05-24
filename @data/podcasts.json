@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-23T16:00:00.000Z",
+    "lastEpisodeDate": "2026-05-24T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 330,
+    "episodeCount": 331,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5676,7 +5676,44 @@
         "ratingCount": 62,
         "fetchedAt": "2026-05-24T08:42:13.208Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful",
+        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
+        "author": "Laughedoutloud",
+        "updatedAt": "2025-12-27T07:09:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Oo",
+        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
+        "author": "\\x4A\\x4D",
+        "updatedAt": "2025-05-20T13:02:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "1X",
+        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
+        "author": "mjg5772",
+        "updatedAt": "2025-05-17T20:32:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Security and more",
+        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
+        "author": "Chris Mc.38",
+        "updatedAt": "2024-12-15T10:04:10-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "True cybersecurity expertise and knowledge at your fingertips",
+        "content": "Ry, JAGS and Costin are insightful, enlightening and entertaining. This cybersecurity podcast is the best in the industry. The guys manage to dissect the most prominent cyber incidents and news happenings in the world with knowledge, truth and expert opinion. Totally recommended for anyone in the industry and for folks who want to learn more about cybersecurity.",
+        "author": "AA13AA13",
+        "updatedAt": "2024-08-02T16:10:15-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",
