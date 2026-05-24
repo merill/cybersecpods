@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-teaching-ai-agents-the-rules-of-the-road",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Teaching AI agents the rules of the road",
+    "description": "<p>In this sponsored interview James Wilson chats with Sondera CEO Josh Devon about why guardrails and instruction files aren’t enough to keep AI agents from going haywire. EDR, DLP and other traditional controls can’t and won’t prevent agents from going rogue.</p>\n\n<p>Josh explains Sondera’s “principle of least autonomy” for agents: let them do useful work, but put them in a deterministic policy harness so they can’t leak secrets, abuse tools or wander off-task.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-05-24T20:24:50.000Z",
+    "duration": 1614,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI129.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI129/"
+  },
+  {
     "id": "risky-bulletin-microsoft-ends-sms-mfa-for-personal-accounts",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Microsoft ends SMS MFA for personal accounts",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS518/"
-  },
-  {
-    "id": "between-two-nerds-getting-pinged-and-the-fog-of-war",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: Getting pinged and the fog of war",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss how getting pinged hurts state hackers by introducing uncertainty. Publishing technical reports on the hack can actually improve the situation by removing uncertainty  about how  attackers were detected.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/988iMgzddqk\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/BTN36b/\">BTN 36, The culture of the Snake</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-01-26T20:26:51.000Z",
-    "duration": 1802,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN151.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN151/"
   }
 ]
