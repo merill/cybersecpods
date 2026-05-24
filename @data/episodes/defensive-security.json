@@ -1,5 +1,22 @@
 [
   {
+    "id": "defensive-security-podcast-episode-348",
+    "podcastId": "defensive-security",
+    "title": "Defensive Security Podcast Episode 348",
+    "description": "<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"Defensive Security Podcast Episode 348\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/SsZTHJeq1yI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Please consider supporting the DefSec podcast <a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Links to this week’s stories:</p>\n\n\n\n<ul>\n<li><a href=\"https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/\">https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/</a></li>\n<li><a href=\"https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html\">https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html</a></li>\n<li><a href=\"https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html\">https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html</a></li>\n<li><a href=\"https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799\">https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799</a></li>\n</ul>\n\n\n\n<figure class=\"wp-block-embed\"><div class=\"wp-block-embed__wrapper\">\nhttps://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799\n</div></figure>",
+    "publishedAt": "2026-05-24T23:10:41.000Z",
+    "duration": 3390,
+    "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/Defensive_Security_Podcast_Episode_348.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://defensivesecurity.org/defensive-security-podcast-episode-348/"
+  },
+  {
     "id": "defensive-security-podcast-episode-347",
     "podcastId": "defensive-security",
     "title": "Defensive Security Podcast Episode 347",
@@ -37,7 +54,7 @@
     "id": "defensive-security-podcast-episode-345",
     "podcastId": "defensive-security",
     "title": "Defensive Security Podcast Episode 345",
-    "description": "<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"Defensive Security Podcast Episode 345\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/3ieVofLSrjM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Please consider supporting the DefSec podcast <a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n\n\n\n<p>Links to this week’s stories:</p>\n<ul>\n<li>https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized</li>\n<li>https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/</li>\n<li>https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/</li>\n<li>https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues</li>\n<li>https://www.businessinsider.com/mercor-lawsuits-data-breach-2026-4</li>\n</ul>",
+    "description": "<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Defensive Security Podcast Episode 345\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/3ieVofLSrjM?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Please consider supporting the DefSec podcast <a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n\n\n\n<p>Links to this week’s stories:</p>\n<ul>\n<li>https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized</li>\n<li>https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/</li>\n<li>https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/</li>\n<li>https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues</li>\n<li>https://www.businessinsider.com/mercor-lawsuits-data-breach-2026-4</li>\n</ul>",
     "publishedAt": "2026-04-22T13:57:04.000Z",
     "duration": 3630,
     "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/Defensive_Security_Podcast_Episode_345.mp3",
@@ -3381,22 +3398,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://defensivesecurity.org/defensive-security-podcast-episode-148/"
-  },
-  {
-    "id": "defensive-security-podcast-episode-147",
-    "podcastId": "defensive-security",
-    "title": "Defensive Security Podcast Episode 147",
-    "description": "Hack in the Box: https://conference.hitb.org/\n\nCircle City Con: https://circlecitycon.com/tickets/\n\nhttp://www.theregister.co.uk/2016/01/28/nsas_top_hacking_boss_explains_how_to_protect_your_network_from_his_minions/?page=1\n\nhttps://www.youtube.com/watch?v=bDJb8WOJYdA\nhttp://krebsonsecurity.com/2016/01/sources-security-firm-norse-corp-imploding/\nhttp://arstechnica.com/security/2016/01/secret-ssh-backdoor-in-fortinet-hardware-found-in-more-products/",
-    "publishedAt": "2016-02-01T01:58:38.000Z",
-    "duration": 2544,
-    "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/defensive-security-podcast-episode-147.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://defensivesecurity.org/defensive-security-podcast-episode-147/"
   }
 ]
