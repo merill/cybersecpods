@@ -1,5 +1,22 @@
 [
   {
+    "id": "visibility-with-edrmdr-is-still-important-the-basics-are-impossible-and-the-news",
+    "podcastId": "enterprise-security-weekly",
+    "title": "Visibility with EDR/MDR is still important, 'the basics' are impossible, and the news - Rob Allen - ESW #460",
+    "description": "Interview with Rob Allen from Threatlocker <p>This week, Rob Allen from Threatlocker is with us to discuss the importance of EDR and MDR visibility. We discuss some real world attacks and anecdotes where EDR was able to save the day when threats were missed by other controls.</p> Topic: Do the basics, they said. Easier said than done. <p>Guillaume and Adrian discuss the futility of attempting to do all the foundational work standards, best practices, and regulations expect of organizations. Adrian has given up. Fortunately, Guillaume has some excellent advice and hope to share on this front.</p> The weekly enterprise news <p>Finally, in the enterprise security news,</p> <ol> <li>a really interesting vibe check</li> <li>funding</li> <li>acquisitions</li> <li>the verizon DBIR</li> <li>we give a tutorial on how to leak AWS keys on github</li> <li>OH NEVERMIND, SOMEONE AT CISA ALREADY MADE THE TUTORIAL</li> <li>agents versus agents</li> <li>exploitbench</li> <li>the vulnpocalypse</li> <li>robot dogs are SO EASY to take out, we don't need to be too scared of them yet</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-460\">https://securityweekly.com/esw-460</a></p>",
+    "publishedAt": "2026-05-25T09:00:00.000Z",
+    "duration": 6294,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_460_1--34ef67c8-981b-46dd-8ccd-ceb27ead120c--audio-converted--f1e3f8ab-46e9-40ce-af21-ddc3aada0afa.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/3/f/f/b/3ffb4175704a5f01d959afa2a1bf1c87/ESW_460_Thumbnail_ESW_1920x1920_6ec542c8-33c4-4b2f-b4d9-7e84bfbc3f21.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/visibility-with-edrmdr-is-still-important-the-basics-are-impossible-and-the-news-rob-allen-esw-460"
+  },
+  {
     "id": "ai-has-a-data-problem-cascading-breaches-and-the-weekly-news-dimitri-sirota-esw-",
     "podcastId": "enterprise-security-weekly",
     "title": "AI Has a data problem, cascading breaches, and the weekly news - Dimitri Sirota - ESW #459",
