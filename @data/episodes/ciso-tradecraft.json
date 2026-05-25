@@ -1,5 +1,22 @@
 [
   {
+    "id": "285-passwordless-authentication-with-nishant-kaushik",
+    "podcastId": "ciso-tradecraft",
+    "title": "#285 - Passwordless Authentication (with Nishant Kaushik)",
+    "description": "<p>In this discussion, G. Mark Hardy and Nishant Kaushik explore the necessity of moving beyond traditional passwords, which they define as the original sin of cybersecurity due to their vulnerability to credential stuffing and phishing attacks. Kaushik explains that the FIDO Alliance promotes a passwordless future by replacing shared secrets with asymmetric cryptography, utilizing private keys stored on smartphones or hardware tokens like YubiKeys to ensure phishing-resistant authentication. The conversation highlights that identity is the new perimeter, shifting the focus from human-memorized codes to biometric verification and device-bound passkeys that verify user presence. Ultimately, the experts warn that a secure transition must include robust account recovery flows, as failing to secure the \"back door\" renders even the most advanced cryptographic-based authentication vulnerable to exploitation.</p><p>FIDO Alliance - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://fidoalliance.org/\">https://fidoalliance.org/</a></p>",
+    "publishedAt": "2026-05-25T11:30:00.000Z",
+    "duration": 2541,
+    "audioUrl": "https://content.rss.com/episodes/352153/2853543/ciso-tradecraft/2026_05_24_13_55_13_94808ed6-7512-4e67-99fa-4f7835254b67.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/ciso-tradecraft/ep_cover_20260524_010555_3979c10250dd87d9a7a47d27eeb3d1d2.png",
+    "episodeNumber": 285,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/ciso-tradecraft/2853543"
+  },
+  {
     "id": "284-lessons-learned-from-sql-slammer-to-ai-agents-with-aaron-turner",
     "podcastId": "ciso-tradecraft",
     "title": "#284 - Lessons Learned from SQL Slammer to AI Agents (with Aaron Turner)",
