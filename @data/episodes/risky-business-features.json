@@ -1,5 +1,22 @@
 [
   {
+    "id": "how-to-survive-supply-chain-attacks",
+    "podcastId": "risky-business-features",
+    "title": "How to survive supply chain attacks",
+    "description": "<p>In this podcast James Wilson chats with Brad Arkin about why software supply chain attacks have gone from rare, once-in-a-while disasters to an operational problem affecting mainstream enterprises almost daily.</p>\n\n<p>AI has made attackers faster, and “vibe coding” means the number of environments pulling packages from the internet has gone to the moon. It also means legacy tooling that seeks out the bad packages and cleans them up isn’t enough. Package cooldown windows won’t fix this either.</p>\n\n<p>But all hope is not lost! Tune in to this podcast to find out how you can get a grip on the disaster de jour!</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-05-25T10:32:22.000Z",
+    "duration": 2211,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES23.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES23/"
+  },
+  {
     "id": "how-the-copyfail-disclosure-went-sideways",
     "podcastId": "risky-business-features",
     "title": "How the CopyFail disclosure went sideways",
