@@ -1,5 +1,22 @@
 [
   {
+    "id": "hacking-with-permission-k-12-pen-testing-with-zelvin-security",
+    "podcastId": "zero-breach-zone",
+    "title": "Hacking With Permission: K-12 Pen Testing with Zelvin Security",
+    "description": "<p>Welcome to Season 2 Episode 5 of the Zero Breach Zone, where hosts Phil Hintz and Andy Lombardo sit down with the people on the front lines of K-12 cybersecurity. This week they're joined by Brian Parton, penetration tester and security expert at Zelvin Security. Brian pulls back the curtain on what a real pen test looks like inside a school district, what attackers are actually looking for, why your printer might be your biggest vulnerability, and how knowing where your defenses fail is one of the smartest investments a district can make.</p><p>Recorded during Teacher Appreciation Week, Phil and Andy take a moment to recognize the educators who make every other profession possible, including the cybersecurity pros keeping school networks safe.</p><p><br><strong>Key Takeaways:</strong></p><ul><li>Penetration testing is active, intentional, and noisy. The goal is to find every exploitable vulnerability across every layer of defense so you know everywhere you're exposed, not just where you didn't get caught</li><li>Red teaming is different. It's quieter and more covert, designed to simulate a real attacker who's trying not to be detected</li><li>Automated pen testing tools beat a basic vulnerability scan, but only a human tester can adapt, troubleshoot, and exploit the edge cases that tools miss. A false sense of security is worse than no test at all</li><li>Printers are a massively underestimated attack surface. Once configured for scanning and email, they often hold credentials that can unlock privilege escalation across your entire network</li><li>Separating admin accounts from everyday user accounts is one of the highest-impact, lowest-cost moves a district can make</li><li>Pen testing validates your existing tool spend and increasingly checks a box on cyber insurance applications</li></ul><p><strong>Parting Tip:</strong></p><ul><li>Visit <a href=\"https://zelvin.com/k12resources\">zelvin.com/K-12-resources</a> for free tools including a pen test ROI guide, a purple teaming explainer, and a password entropy checker. Aim for a base entropy score over 100</li></ul><p><strong>Resources Mentioned:</strong></p><ul><li>Zelvin Security — zelvin.com</li><li>DEFCON Groups — find your local chapter (search \"DC\" + your area code)</li><li>OWASP — find your local chapter for web security community and networking</li></ul>",
+    "publishedAt": "2026-05-26T12:00:00.000Z",
+    "duration": 1839,
+    "audioUrl": "https://media.transistor.fm/19d32d05/0aeb90f2.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 5,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://share.transistor.fm/s/19d32d05"
+  },
+  {
     "id": "surviving-a-school-district-cyberattack-with-sandra-paul",
     "podcastId": "zero-breach-zone",
     "title": "Surviving a School District Cyberattack with Sandra Paul",
