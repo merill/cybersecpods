@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-182-patching-crisis-vulns-now-1-attack-vector-2026-verizon-dbir",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Episode 182: Patching Crisis — Vulns Now #1 Attack Vector (2026 Verizon DBIR)",
+    "description": "<p>Hosts Brad Causey and Spencer Alessi break down the 2026 Verizon Data Breach Investigations Report, focusing on the findings that actually matter for IT and security teams.</p><p>The biggest surprise: vulnerability exploitation has overtaken stolen credentials as the top initial access vector, accounting for 31% of attacks, while credential abuse dropped to just 13%. This completely flips the script on years of \"identity is the new perimeter\" thinking.</p><p>Topics covered include:</p><ul><li><b>Vulnerability explosion and remediation crisis</b>: Why there are too many vulnerabilities and not enough time for patching, with only 26% of CISA KEV vulnerabilities fully remediated (down from 38%)</li><li><b>The patching time paradox</b>: Median remediation time increased from 32 days to 43 days despite organizations initially getting faster at patching from 2022-2024</li><li><b>Web application sprawl</b>: How the push to cloud and SaaS has created massive attack surfaces organizations don't own and can't patch</li><li><b>The top 4 initial access vectors</b>: Vulnerability exploitation, phishing, credential abuse, and pretexting</li><li><b>Ransomware economics shifting</b>: 48% of breaches involved ransomware, but 69% of victims didn't pay and median payments dropped to $139,875</li><li><b>Mobile phishing success</b>: Mobile-centric phishing had 40% higher success rates than email phishing as users get better at spotting email threats</li><li><b>Social engineering evolution</b>: The human element appeared in 62% of breaches, with pretexting requiring different countermeasures than traditional phishing</li><li><b>Shadow AI explosion</b>: 45% of employees are regular AI users on corporate devices (up from 15%), with 67% using non-corporate accounts</li><li><b>AI data exfiltration</b>: Shadow AI is now the third most common non-malicious insider risk, with source code being the top data type leaked</li><li><b>MCP and IDE extension risks</b>: Real-world examples including PocketOS having their entire production database deleted by Claude connected to a railway CLI MCP</li></ul><p>Brad and Spencer emphasize that while the threat landscape is shifting dramatically, the fundamentals still matter. Organizations need to get comfortable with not being able to patch everything and focus on what matters most.</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-05-27T20:00:00.000Z",
+    "duration": 1854,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19249288-episode-182-patching-crisis-vulns-now-1-attack-vector-2026-verizon-dbir.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 182,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "replay-episode-159-how-to-break-into-cybersecurity-what-actually-works",
     "podcastId": "the-cyber-threat-perspective",
     "title": "[Replay] Episode 159: How to Break Into Cybersecurity — What Actually Works",
