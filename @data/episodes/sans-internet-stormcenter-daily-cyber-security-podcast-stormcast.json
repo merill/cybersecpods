@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-may-28th-2026-akira-ransomware-vaultjacking-poisoned-cha",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, May 28th, 2026: Akira Ransomware; Vaultjacking; Poisoned Chatbot and Search Results;",
+    "description": "<br/>\nReconstructing an Akira Ransomware Kill Chain from Perimeter and Endpoint Logs<br/>\n<a href=\"https://isc.sans.edu/diary/Reconstructing%20an%20Akira%20Ransomware%20Kill%20Chain%20from%20Perimeter%20and%20Endpoint%20Logs/33024\">https://isc.sans.edu/diary/Reconstructing%20an%20Akira%20Ransomware%20Kill%20Chain%20from%20Perimeter%20and%20Endpoint%20Logs/33024</a><br/>\nVaultjacking: One Captured PIN, the Entire Google Password Manager Vault<br/>\n<a href=\"https://phishu.net/blogs/blog-vaultjacking-phishing-the-google-password-manager-vault-in-the-phishu-framework.html\">https://phishu.net/blogs/blog-vaultjacking-phishing-the-google-password-manager-vault-in-the-phishu-framework.html</a><br/>\nFrom poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities<br/>\n<a href=\"https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/\">https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/</a><br/>",
+    "publishedAt": "2026-05-28T02:00:02.000Z",
+    "duration": 364,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9948.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9948,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9948"
+  },
+  {
     "id": "sans-stormcast-wednesday-may-27th-2026-fake-claude-ads-sharepoint-vuln-angular-v",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, May 27th, 2026: Fake Claude Ads; SharePoint Vuln; Angular Vulnerabilities",
