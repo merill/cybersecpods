@@ -1,5 +1,22 @@
 [
   {
+    "id": "linux-supply-chain-how-to-psw-928",
+    "podcastId": "paul-s-security-weekly",
+    "title": "Linux Supply Chain How-To - PSW #928",
+    "description": "<p>This week we have a technical segment focused on Linux! Paul released a script that helps you get a handle on Linux supply chain security, and new features allow you to assess the state of Secure Boot on your Linux systems (that also use MS certificates, ironically). The script is in his Git repo: <a rel=\"noopener\" target=\"_blank\" href= \"https://github.com/pasadoorian/Linux_Hacks\">https://github.com/pasadoorian/Linux_Hacks</a>.</p> <p>In the security news:</p> <ul> <li>The CVE chase</li> <li>The new security basics</li> <li>Enterprises are lacking more than AI</li> <li>Detections are falling behind</li> <li>Why DOOM!?!</li> <li>Chromium vulnerability</li> <li>The ambitious Flipper One</li> <li>I'm still curious who was behind these leaks</li> <li>Mitre moves Caldera to Apache foundation</li> <li>Wind cybersecurity</li> <li>PQC updates</li> <li>YellowKey Bitlocker Bypass updates</li> <li>The software supply chain is in deep trouble</li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/psw\">https://www.securityweekly.com/psw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/psw-928\">https://securityweekly.com/psw-928</a></p>",
+    "publishedAt": "2026-05-28T21:00:00.000Z",
+    "duration": 7458,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/pswonly/PSW_928_1--5572887e-0bad-43c1-b091-2246738dc153--audio-converted--4b36831e-9f5f-45f6-96cb-03c18216273f.mp3?dest-id=388575",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/1/1/8/d/118d42e4bca91c1316c3140a3186d450/PSW_928_Thumbnail_PSW_1920x1920_4070ef53-ddaf-4d79-8bee-69f416e5ee90.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://pswonly.libsyn.com/linux-supply-chain-how-to-psw-928"
+  },
+  {
     "id": "fcc-github-minishai-hulud-stated-of-supply-chain-itron-cra-nis2-and-more-psw-927",
     "podcastId": "paul-s-security-weekly",
     "title": "FCC, Github, MiniShai-hulud, Stated of Supply Chain, Itron, CRA, NIS2, and more!! - PSW #927",
