@@ -1647,7 +1647,7 @@
         "updatedAt": "2025-10-09T10:20:15-07:00"
       },
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Great Content",
         "content": "I like the content (and the music mixing) but the host has one of the most AI-generated-sounding voices and enunciation that I have ever heard. It’s not unpleasant, though.",
         "author": "JD000000000000000",
@@ -1722,13 +1722,6 @@
     },
     "recentReviews": [
       {
-        "rating": 5,
-        "title": "1337",
-        "content": "1337 out of 1337",
-        "author": "Thorium9000",
-        "updatedAt": "2026-05-10T02:01:35-07:00"
-      },
-      {
         "rating": 1,
         "title": "What is up with the barely audible background noise? Makes it hard to hear you talk",
         "content": "Cannot hear you as all my attention goes to the background music",
@@ -1755,6 +1748,13 @@
         "content": "I don’t believe I’ve ever left a review for a podcast but for Darknet Diaries, I definitely had to. Amazing show. Very entertaining. I even subscribed so I can get the bonus episodes!!",
         "author": "TNguyen1993",
         "updatedAt": "2026-04-22T15:26:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Best show ever",
+        "content": "I love this show",
+        "author": "jdidjjsnfjkenvnnd",
+        "updatedAt": "2026-03-26T18:21:56-07:00"
       }
     ]
   },
@@ -2540,21 +2540,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
-    "subtitle": "History of Hackers",
+    "description": "",
+    "summary": "",
+    "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en-US",
+    "language": "en",
     "categories": [
       "Technology",
-      "Education",
-      "Entrepreneurship"
+      "Podcasts",
+      "Education"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "© 2025 Hacker History Podcast",
+    "copyright": "",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2574,11 +2574,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": "2026-05-13T00:14:09.000Z",
-    "firstEpisodeDate": "2021-03-08T15:45:31.000Z",
-    "episodeCount": 50,
+    "lastEpisodeDate": null,
+    "firstEpisodeDate": null,
+    "episodeCount": 0,
     "hasVideo": false,
-    "isActive": true,
+    "isActive": false,
     "featured": false,
     "ratings": {
       "apple": {
