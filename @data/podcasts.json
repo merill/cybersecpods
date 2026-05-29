@@ -983,9 +983,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-05-26T07:00:00.000Z",
+    "lastEpisodeDate": "2026-05-29T07:00:00.000Z",
     "firstEpisodeDate": "2022-01-21T14:59:00.000Z",
-    "episodeCount": 343,
+    "episodeCount": 344,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1286,9 +1286,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-05-28T07:00:00.000Z",
+    "lastEpisodeDate": "2026-05-29T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1748,
+    "episodeCount": 1749,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1802,7 +1802,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-05-28T10:19:56.900Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -2476,21 +2485,21 @@
     "id": "hacker-history-podcast",
     "applePodcastId": "1556066383",
     "title": "Hacker History Podcast",
-    "description": "",
-    "summary": "",
-    "subtitle": "",
+    "description": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "summary": "Hacker History: Explore where it all began, interviews with retro hackers, the pioneers and forefathers of yesteryear. The true old school hackers amongst our societies have an unquenchable thirst for knowledge. We will dive into fascinating stories that made hacker history.",
+    "subtitle": "History of Hackers",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/15/ea/65/15ea6510-3152-7278-8f4d-db9926126d1b/mza_6448964297909993094.jpg/600x600bb.jpg",
     "author": "Josh Bressers",
-    "language": "en",
+    "language": "en-US",
     "categories": [
       "Technology",
-      "Podcasts",
-      "Education"
+      "Education",
+      "Entrepreneurship"
     ],
     "explicit": false,
     "websiteUrl": "https://hackerhistory.com/",
     "rssUrl": "https://hackerhistory.com/feed/podcast/",
-    "copyright": "",
+    "copyright": "© 2025 Hacker History Podcast",
     "spotifyUrl": "https://open.spotify.com/show/1oDzDrGseREavzcHgNjpUt",
     "youtubeUrl": null,
     "twitterUrl": null,
@@ -2510,11 +2519,11 @@
         "name": "Josh Bressers"
       }
     ],
-    "lastEpisodeDate": null,
-    "firstEpisodeDate": null,
-    "episodeCount": 0,
+    "lastEpisodeDate": "2026-05-13T00:14:09.000Z",
+    "firstEpisodeDate": "2021-03-08T15:45:31.000Z",
+    "episodeCount": 50,
     "hasVideo": false,
-    "isActive": false,
+    "isActive": true,
     "featured": false,
     "ratings": {
       "apple": {
@@ -5316,9 +5325,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-21T06:00:00.000Z",
+    "lastEpisodeDate": "2026-05-29T06:00:00.000Z",
     "firstEpisodeDate": "2023-07-27T21:30:00.000Z",
-    "episodeCount": 127,
+    "episodeCount": 128,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5533,7 +5542,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-05-28T10:20:42.740Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",
