@@ -1,5 +1,22 @@
 [
   {
+    "id": "github-repositories-compromised-webworm-targets-europe-fake-outlook-and-cybercri",
+    "podcastId": "cybersecurity-defenders",
+    "title": "GitHub repositories compromised, Webworm targets Europe, fake Outlook & cybercriminal VPN / Intel Chat [326]",
+    "description": "<p>Originally recorded: Friday May 22, 2026</p><p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>GitHub has confirmed that roughly 3,800 internal repositories were accessed in a supply chain compromise tied to the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/\">hacking group TeamPCP</a>.</li><li>China-aligned threat actor Webworm has shifted its targeting focus from Asia to Europe, according to new <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs\">research published by ESET</a>.</li><li>Researchers uncovered a previously undocumented Microsoft 365 account takeover panel that integrates directly with Evilginx Pro infrastructure to streamline token theft and <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://newtonpaul.com/blog/evilginx-m365-aitm-panel-research/\">post-compromise operations</a>.</li><li>European and North American law enforcement agencies announced the dismantling of “First VPN,” a VPN service allegedly built to support cybercriminal activity including ransomware operations, data theft, scanning, and <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html\">denial-of-service attacks</a>.</li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
+    "publishedAt": "2026-05-29T14:25:16.000Z",
+    "duration": 1467,
+    "audioUrl": "https://podcast.wistia.com/deliveries/a8bf436aebfd410fd861fc8d4954355124287a9c.mp3?d=eyJtIjoxNDg1MjEzMzAsIm1kIjoxNDY3LjE5LCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjExMTkxNywiYiI6ImE4YmY0MzZhZWJmZDQxMGZkODYxZmM4ZDQ5NTQzNTUxMjQyODdhOWMiLCJtYiI6MTM4MjgzLCJvYiI6MTQ0MDAyOS4wMzUwOTQyOTU5fQ%3D%3D--65f2b4c3b7eef0fef36ac284b07e7828df0e914192e4d8cd2994045a7fd70173",
+    "videoUrl": null,
+    "imageUrl": "https://embed-ssl.wistia.com/deliveries/b827d095e4a36527214f2baf0eebb405.png?image_crop_resized=3000x3000",
+    "episodeNumber": 326,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=a197fcinv9"
+  },
+  {
     "id": "how-analysts-use-cognitive-reasoning-in-investigations-with-chris-sanders-defend",
     "podcastId": "cybersecurity-defenders",
     "title": "How analysts use cognitive reasoning in investigations with Chris Sanders / Defender Fridays [#325]",
