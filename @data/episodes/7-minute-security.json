@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-724-tales-of-pentest-pwnage-part-85",
+    "podcastId": "7-minute-security",
+    "title": "7MS #724: Tales of Pentest Pwnage - Part 85",
+    "description": "<p class= \"font-claude-response-body break-words whitespace-normal leading-[1.7]\"> Hey friends! Today we're going deep on external network pentesting — something I realize we've barely touched in however many episodes we've done. I'm currently in a long stretch of back-to-back external assessments, so it felt like a good time to talk about it.</p> <p class= \"font-claude-response-body break-words whitespace-normal leading-[1.7]\"> Here's what we get into:</p> <ul class= \"[li_&]:mb-0 [li_&]:mt-1 [li_&]:gap-1 [&:not(:last-child)_ul]:pb-1 [&:not(:last-child)_ol]:pb-1 list-disc flex flex-col gap-1 pl-8 mb-3\"> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Scoping headaches — why the old \"count your public IPs and multiply by a big hourly rate\" approach drives me crazy, and how we actually scope external tests to be fair to everyone</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Web apps in scope or not? — this needs its own conversation before the test starts, and skipping it causes pain later</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Testing under real conditions — the debate around whether to request an allowlist vs. scanning as-is, and why I lean toward creating the best testing environment possible</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Multi-tool enumeration — why we run Nessus, Project Discovery, and Shodan together, and what each catches that the others miss</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Reporting the surface — why just walking a customer through what's exposed to the internet (ports, services, screenshots) has more value than I used to give it credit for</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> SNMP and NTP findings — two protocols that keep showing up open when they really (probably) shouldn't be</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> OSINT phase — how we've grown externals to include open-source intelligence work on the customer's domains, not just IP-level scanning</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> WordPress hygiene — it keeps coming up on these assessments, and I've got some practical recommendations</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Dorking and metadata searches — using AI to quickly sift through publicly exposed documents for things attackers could use to pretext a social engineering attack</li> <li class= \"font-claude-response-body whitespace-normal break-words pl-2\"> Subdomain hijacking — a sneaky attack path I've seen in the wild that flies right in the face of all the \"check if the URL is spelled right\" advice we give users</li> </ul> <p class= \"font-claude-response-body break-words whitespace-normal leading-[1.7]\"> Even when the technical findings are pretty quiet, there's a lot you can do to punch up an external pentest report with stuff that's genuinely valuable to customers!</p>",
+    "publishedAt": "2026-05-29T20:22:00.000Z",
+    "duration": 1814,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-724-Tales_of_Pentest_Pwnage-Part_85.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-724-tales-of-pentest-pwnage-part-85"
+  },
+  {
     "id": "7ms-723-cartp-cloud-red-team-tactics-for-attacking-and-defending-azure-part-1",
     "podcastId": "7-minute-security",
     "title": "7MS #723: CARTP - Cloud Red Team Tactics for Attacking and Defending Azure - Part 1",
