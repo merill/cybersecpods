@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-inside-cisas-disastrous-secrets-leak",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Inside CISA's disastrous secrets leak",
+    "description": "<p>In this sponsored interview Casey Ellis chats with Truffle Security’s founder and CEO Dylan Ayrey about the recent CISA secrets leak.</p>\n\n<p>Days after Brian Krebs ran the story, plenty of the exposed credentials were still live, including an admin-level GitHub app key with full rights over CISA’s org.</p>\n\n<p>Dylan walks through why deleting the repo doesn’t fix anything, why most cloud vendors won’t hard-revoke exposed keys (OpenAI and Slack will; AWS, Google and friends mostly won’t), why Hugging Face datasets now hold more secrets than GitHub itself, and what the next generation of multi-provider credential-harvesting supply chain worms is going to look like.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-05-31T23:01:14.000Z",
+    "duration": 1150,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI130.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI130/"
+  },
+  {
     "id": "risky-bulletin-dutch-police-take-down-17m-device-botnet",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Dutch police take down 17m device botnet",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS520/"
-  },
-  {
-    "id": "sponsored-ai-is-critical-to-the-future-of-cyber-defence",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: AI is critical to the future of cyber defence",
-    "description": "<p>In this sponsored interview, Casey Ellis chats to Edward Wu, founder of Dropzone AI about a recent Vanderbilt University report that reveals that foreign adversaries’ resources  are growing. Edward says AI capabilities are critical to the future of cyber defence, because the west can’t hire itself out of the shortfall.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/41/2025/12/Dominating-the-Digital-Space.pdf\">Dominating the Digital Space: A Whole-of-Society Strategy for Securing the United States from Cyber Aggression</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-02-01T20:03:08.000Z",
-    "duration": 1094,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI113.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI113/"
   }
 ]
