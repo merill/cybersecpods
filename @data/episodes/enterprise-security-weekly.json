@@ -1,5 +1,22 @@
 [
   {
+    "id": "helping-defenses-use-of-ai-catch-up-with-offense-cost-of-the-vulnpocalypse-news-",
+    "podcastId": "enterprise-security-weekly",
+    "title": "Helping defense's use of AI catch up with offense, cost of the vulnpocalypse, news - Evan Powell - ESW #461",
+    "description": "Interview with Evan Powell - Generative and agentic AI are improving cyberattacks faster than they're improving cyber defenses. <p>Offensive folks have been having the most luck with AI so far, which is further eroding any advantage defenders might have had. Evan Powell joins us to share some ideas on how defenders can get some benefits from AI as well, and why open source is important with this approach.</p> Topic <p>For this week's topic segment, we've got two very interesting data sources.</p> <p>The first is Anthropic's first update on Project Glasswing, where they're absolutely tearing through codebases with ultra premium Mythos tokens, but then hitting a human-shaped bottleneck as they attempt to validate all the findings.</p> <p>The second is the first report from Root Evidence, the latest startup from Jeremiah Grossman and Robert Hansen (aka RSnake), which aims to help organizations filter out all the vulnerabilities that don't matter.</p> <p>Where these two reports meet in the middle is my concern that the use of AI to scour every last bug out of code is going to be the most Sisyphean task the cybersecurity industry has ever come up with (and we have some deep experience here).</p> The Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>Less funding, more acquisition</li> <li>the AI SOC startup space is CROWDED</li> <li>your CEO is suffering from AI psychosis</li> <li>Some CISOs are done with the job, IT can have it</li> <li>detecting and removing dangerous secrets from dev workstations</li> <li>230,000 security advisories roll up to 6 attacker behaviors</li> <li>The FBI's 2025 IC3 report is out</li> <li>When tech billionaires make predictions, they're actually sales pitches</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-461\">https://securityweekly.com/esw-461</a></p>",
+    "publishedAt": "2026-06-01T09:00:00.000Z",
+    "duration": 5855,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_461_1--58a11b9e-7657-4d9c-9b9c-05ddbb6b4c83--audio-converted--1f173493-00ed-4214-9c7e-40d628759903.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/f/0/8/3/f0833dd2fa01f916d959afa2a1bf1c87/ESW_461_Thumbnail_ESW_1920x1920_fdfd5733-6750-4bae-ab2c-6dc7cbc35a53.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/helping-defenses-use-of-ai-catch-up-with-offense-cost-of-the-vulnpocalypse-news-evan-powell-esw-461"
+  },
+  {
     "id": "visibility-with-edrmdr-is-still-important-the-basics-are-impossible-and-the-news",
     "podcastId": "enterprise-security-weekly",
     "title": "Visibility with EDR/MDR is still important, 'the basics' are impossible, and the news - Rob Allen - ESW #460",
