@@ -1,5 +1,22 @@
 [
   {
+    "id": "megalodon-malware-in-github-malware-slop-steals-from-claude-ai-7-eleven-breach-a",
+    "podcastId": "cybersecurity-defenders",
+    "title": "\"Megalodon\" Malware in GitHub, Malware-Slop steals from Claude AI, 7-Eleven breach & CISA cPanel vulnerability / Intel Chat [#328]",
+    "description": "<p>Originally recorded: Friday May 29, 2026</p><p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>A large-scale software supply chain attack dubbed “Megalodon” infected thousands of GitHub repositories with credential-stealing malware in a highly automated campaign that unfolded over a <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos\">six-hour period on May 18, 2026</a>.</li><li>Researchers from OX Security have identified a malicious npm package named “mouse5212-super-formatter” that was designed to steal files from Anthropic Claude AI environments by targeting<a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html\"> the “/mnt/user-data” directory</a>.</li><li>Convenience store giant 7-Eleven disclosed a data breach tied to an attack that occurred on April 8, 2026, involving systems that contained <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/\">franchise-related documents</a>. <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.securityweek.com/shinyhunters-branded-extortion-activity-expands-escalates/\">SecurityWeek article Matt references</a>.</li><li>CISA has issued an urgent warning about a critical vulnerability in the LiteSpeed cPanel Plugin, tracked as CVE-2026-48172, which is already being <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://cybersecuritynews.com/litespeed-cpanel-plugin-vulnerability-exploit/\">actively exploited in the wild</a>.</li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
+    "publishedAt": "2026-06-01T15:50:43.000Z",
+    "duration": 1745,
+    "audioUrl": "https://podcast.wistia.com/deliveries/0235cd3435796697ac696deba392ae6c788c3d67.mp3?d=eyJtIjoxNDg2MTE3NTksIm1kIjoxNzQ1LjQ1LCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjExMjQ1NSwiYiI6IjAyMzVjZDM0MzU3OTY2OTdhYzY5NmRlYmEzOTJhZTZjNzg4YzNkNjciLCJtYiI6MTIxNDY5LCJvYiI6MTQ0MDAyMS4zODEzMDU2ODA0fQ%3D%3D--106d97eb42a3c420c2d55299bfda6b19c789e044b004549dead3292e0071ca47",
+    "videoUrl": null,
+    "imageUrl": "https://embed-ssl.wistia.com/deliveries/6af3ce45516c1717230d6b1a35ab26ff.png?image_crop_resized=3000x3000",
+    "episodeNumber": 328,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=tkic5nyvac"
+  },
+  {
     "id": "from-pentestgpt-to-production-the-state-of-ai-assisted-offensive-security-with-c",
     "podcastId": "cybersecurity-defenders",
     "title": "From PentestGPT to production: The state of AI-assisted offensive security with Charles Grandjean / Defender Fridays [#327]",
@@ -19,7 +36,7 @@
   {
     "id": "github-repositories-compromised-webworm-targets-europe-fake-outlook-and-cybercri",
     "podcastId": "cybersecurity-defenders",
-    "title": "GitHub repositories compromised, Webworm targets Europe, fake Outlook & cybercriminal VPN / Intel Chat [326]",
+    "title": "GitHub repositories compromised, Webworm targets Europe, fake Outlook & cybercriminal VPN / Intel Chat [#326]",
     "description": "<p>Originally recorded: Friday May 22, 2026</p><p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>GitHub has confirmed that roughly 3,800 internal repositories were accessed in a supply chain compromise tied to the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/\">hacking group TeamPCP</a>.</li><li>China-aligned threat actor Webworm has shifted its targeting focus from Asia to Europe, according to new <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs\">research published by ESET</a>.</li><li>Researchers uncovered a previously undocumented Microsoft 365 account takeover panel that integrates directly with Evilginx Pro infrastructure to streamline token theft and <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://newtonpaul.com/blog/evilginx-m365-aitm-panel-research/\">post-compromise operations</a>.</li><li>European and North American law enforcement agencies announced the dismantling of “First VPN,” a VPN service allegedly built to support cybercriminal activity including ransomware operations, data theft, scanning, and <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html\">denial-of-service attacks</a>.</li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
     "publishedAt": "2026-05-29T14:25:16.000Z",
     "duration": 1467,
