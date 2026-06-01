@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-recently-patched-pan-0day-exploited-in-the-wild",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Recently patched PAN 0day exploited in the wild",
+    "description": "<p>A new Palo Alto Networks firewall bug is being exploited in the wild, Russia expands SORM surveillance, NIST is looking for new post quantum algorithms, and ENSOC launches in Europe.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-russia-greatly-expands-sorm-surveillance-requirements/\">Risky Bulletin: Russia greatly expands SORM surveillance requirements</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-06-01T02:48:14.000Z",
+    "duration": 425,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS571.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS571/"
+  },
+  {
     "id": "sponsored-inside-cisas-disastrous-secrets-leak",
     "podcastId": "risky-bulletin",
     "title": "Sponsored: Inside CISA's disastrous secrets leak",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/BTN152/"
-  },
-  {
-    "id": "risky-bulletin-stopice-blames-hack-on-a-cbp-agent-here-in-socal",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: StopICE blames hack on \"a CBP agent here in SoCal\"",
-    "description": "<p>ICE tracking app blames a recent hack on a government agent, Microsoft will disable NTLM in the next release of Windows, Poland bans Chinese cars from military bases, and Ivanti patches two new zero-days.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-stopice-blames-hack-on-a-cbp-agent-here-in-socal/\">Risky Bulletin: StopICE blames hack on \"a CBP agent here in SoCal\"</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-02-02T02:26:42.000Z",
-    "duration": 469,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS520.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS520/"
   }
 ]
