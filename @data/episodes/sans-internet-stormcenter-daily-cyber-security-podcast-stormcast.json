@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-june-2nd-2026-netlogon-exploit-unidentified-rat-windows-n",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, June 2nd, 2026: Netlogon Exploit; Unidentified RAT; Windows Netlogon Exploited; RedHat npm Affected; Dashlane Bruteforce Attach",
+    "description": "<br/>\nUnidentified RAT pushes NetSupport RAT<br/>\n<a href=\"https://isc.sans.edu/diary/Unidentified%20RAT%20pushes%20NetSupport%20RAT/33034\">https://isc.sans.edu/diary/Unidentified%20RAT%20pushes%20NetSupport%20RAT/33034</a><br/>\nCVE-2026-41089: Windows Netlogon Vulnerability Exploited<br/>\n<a href=\"https://ccb.belgium.be/advisories/warning-microsoft-patch-tuesday-may-2026-patches-118-vulnerabilities-16-critical-102\">https://ccb.belgium.be/advisories/warning-microsoft-patch-tuesday-may-2026-patches-118-vulnerabilities-16-critical-102</a><br/>\nRedHat npm Packages Affected<br/>\n<a href=\"https://www.aikido.dev/blog/red-hat-npm-packages-compromised-credential-stealing-worm\">https://www.aikido.dev/blog/red-hat-npm-packages-compromised-credential-stealing-worm</a><br/>\nDashlane Locking Accounts after Brute Force<br/>\n<a href=\"https://status.dashlane.com/pages/5aabcb89fccc4b04d3774443\">https://status.dashlane.com/pages/5aabcb89fccc4b04d3774443</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-06-02T02:00:02.000Z",
+    "duration": 328,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9954.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9954,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9954"
+  },
+  {
     "id": "sans-stormcast-monday-june-1st-2026-bitskrieg-gogs-unpatched-vuln-oracle-critica",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, June 1st, 2026: Bitskrieg; Gogs Unpatched Vuln; Oracle Critical Updates; PAN-OS Exploited;",
