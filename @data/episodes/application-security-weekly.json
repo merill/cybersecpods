@@ -1,5 +1,22 @@
 [
   {
+    "id": "badhost-dead-ctfs-exploding-npms-and-the-verizon-dbir-asw-385",
+    "podcastId": "application-security-weekly",
+    "title": "BadHost, Dead CTFs, Exploding NPMs, and the Verizon DBIR - ASW #385",
+    "description": "<p>We dedicate an episode to catching up on appsec news with Kalyani Pawar. We see parsing problems that led to the BadHost vuln, which exposed lots of LLMs, MCPs, and agents to potential compromise. We wonder where to look for security education and practice as the camaraderie of the CTF community becomes infiltrated by LLMs. We talk about the tradeoffs in trust between using public packages vs. having agents write replacements from scratch. And we examine some of the appsec details that the Verizon DBIR reveals about how orgs are being attacked -- and how orgs might use that information to protect themselves.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-385\">https://securityweekly.com/asw-385</a></p>",
+    "publishedAt": "2026-06-02T09:00:00.000Z",
+    "duration": 2722,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_385_1--712b8b4e-9c6b-4baf-bb8c-4ac589cd0726--audio-converted--bfd89aae-78b8-401c-a354-c344f289a50e.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/c/e/c/8/cec8794f8d5e8967d959afa2a1bf1c87/ASW_385_Thumbnail_ASW_1920x1920_152b6c3e-5545-400e-9f52-0990b26a7813.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/badhost-dead-ctfs-exploding-npms-and-the-verizon-dbir-asw-385"
+  },
+  {
     "id": "appsec-conversations-on-agents-llms-and-owasp-from-rsac-merritt-maxim-scott-clin",
     "podcastId": "application-security-weekly",
     "title": "AppSec Conversations on Agents, LLMs, and OWASP from RSAC - Merritt Maxim, Scott Clinton, Janet Worthington - ASW #384",
