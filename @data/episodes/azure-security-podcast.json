@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-128-post-quantum-cryptography",
+    "podcastId": "azure-security-podcast",
+    "title": "Episode 128: Post Quantum Cryptography",
+    "description": "<p>In this episode Mark talks with guest Jack Richins and co-host Michael Howard about post-quantum cryptography and the upcoming 'Q-Day'.</p><p>Jack and Michael explain what steps Microsoft is taking and what steps customers can take to reduce exposure to this looming threat.</p><p>This episode was prompted because Michael has moved from the Microsoft Red Team to the Post Quantum team in Azure Security.</p><p>There is no security news in this episode. It's also the longest episode to date!</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/azsecpod\">https://aka.ms/azsecpod</a></p>",
+    "publishedAt": "2026-06-02T15:15:05.000Z",
+    "duration": 3321,
+    "audioUrl": "https://content.rss.com/episodes/8411/2879528/azsecpodcast/2026_06_02_15_12_51_fc47b782-e9fb-4e31-b2af-234c505d0a62.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 128,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/azsecpodcast/2879528"
+  },
+  {
     "id": "episode-127-threat-intel-update-and-ai",
     "podcastId": "azure-security-podcast",
     "title": "Episode 127: Threat intel update and AI",

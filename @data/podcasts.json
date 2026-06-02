@@ -460,9 +460,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-04-30T15:41:54.000Z",
+    "lastEpisodeDate": "2026-06-02T15:15:05.000Z",
     "firstEpisodeDate": "2020-05-02T23:30:00.000Z",
-    "episodeCount": 126,
+    "episodeCount": 127,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -592,9 +592,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-05-26T12:00:00.000Z",
+    "lastEpisodeDate": "2026-06-02T12:00:00.000Z",
     "firstEpisodeDate": "2020-09-21T00:58:14.000Z",
-    "episodeCount": 315,
+    "episodeCount": 316,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-01T13:39:04.000Z",
-    "firstEpisodeDate": "2025-10-16T13:41:36.000Z",
+    "lastEpisodeDate": "2026-06-02T14:01:28.000Z",
+    "firstEpisodeDate": "2025-10-17T13:02:44.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2584,9 +2584,18 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-06-01T11:51:40.619Z"
+        "fetchedAt": "2026-06-02T10:50:18.963Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -2947,9 +2956,9 @@
         "websiteUrl": "https://www.samsclass.info/contact.html"
       }
     ],
-    "lastEpisodeDate": "2026-05-29T16:09:52.000Z",
+    "lastEpisodeDate": "2026-06-02T16:22:34.000Z",
     "firstEpisodeDate": "2021-02-13T00:10:16.000Z",
-    "episodeCount": 533,
+    "episodeCount": 534,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5740,8 +5749,8 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-26T12:30:00.000Z",
-    "firstEpisodeDate": "2020-01-28T13:00:00.000Z",
+    "lastEpisodeDate": "2026-06-02T12:30:00.000Z",
+    "firstEpisodeDate": "2020-02-04T13:00:00.000Z",
     "episodeCount": 300,
     "hasVideo": false,
     "isActive": true,
