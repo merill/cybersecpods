@@ -1,5 +1,22 @@
 [
   {
+    "id": "sonicwall-mfa-bypass-iabs-why-patched-devices-are-still-handing-attackers-initia",
+    "podcastId": "shadowtalk",
+    "title": "SonicWall, MFA Bypass, IABs: Why Patched Devices Are Still Handing Attackers Initial Access",
+    "description": "<p>Your team patches the device. The firmware version matches the advisory. The ticket closes. The device comes off the remediation queue. What your workflow never tracked is that the advisory also required six manual LDAP configuration steps — and without them, the authentication bypass still works. An initial access broker authenticated through the VPN, reached a domain-joined file server, and was gone in under 40 minutes. Your dashboard still showed a clean queue.</p><p>With initial access brokers operating on disciplined, sub-hour timelines and patch-management workflows built around a single completion step, defenders are closing tickets on devices that are still wide open.</p><p><b>Join hosts Tehman and John as they discuss:</b></p><ul><li>How a firmware update can still leave a device fully exploitable</li><li>How initial access brokers progressed their attack in under 40 minutes</li><li>Why teams that prioritize from a single vulnerability score alone are behind</li></ul><p> <b>Two questions your organization should be asking right now:</b></p><ul><li>Does your patch-management workflow include a separate item for post-patch manual configuration requirements?</li><li>When CISA, NVD, and the vendor publish different CVSS scores for the same CVE, does your vulnerability-management policy specify which authority takes precedence — and does it supplement static scoring with a dynamic signal like EPSS? </li></ul><p><b>Tune in for expert insights, practical takeaways, and the full threat report:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>Tehman Tariq</b>: Sr. Manager of Cyber Operations at ReliaQuest. He has spent a majority of my career leading our Incident Response, Security Architecture, and Detection teams. As well has working hand in hand with CISOs to introduce automation allowing for the maturity of their security programs.<br/><br/><b>John Dilgen:</b> John Dilgen is a Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest. <br/><br/><br/></p>",
+    "publishedAt": "2026-06-03T19:00:00.000Z",
+    "duration": 1251,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19289336-sonicwall-mfa-bypass-iabs-why-patched-devices-are-still-handing-attackers-initial-access.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "device-code-oauth-phaas-how-session-token-theft-is-breaking-the-phishing-playboo",
     "podcastId": "shadowtalk",
     "title": "Device Code, OAuth, PhaaS: How Session Token Theft is Breaking the Phishing Playbook",
