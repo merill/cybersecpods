@@ -1,5 +1,22 @@
 [
   {
+    "id": "clickfix-chaos-the-evolution-of-social-engineering",
+    "podcastId": "reimagining-cyber",
+    "title": "ClickFix Chaos! - The Evolution of Social Engineering",
+    "description": "<p>ClickFix is a fast-growing social engineering technique appearing in malware campaigns, compromised websites, fake CAPTCHA prompts, and browser verification scams. </p><p>In this episode Tyler Moffitt explains how attackers compromise legitimate sites by exploiting unpatched CMS or plugins, inject malicious JavaScript, and then trick visitors into “verifying” by opening Run/PowerShell and pasting a preloaded command that downloads malware, leading to info stealers and potentially ransomware. </p><p>ClickFix is effective because it leverages trusted brands, bypasses traditional phishing defenses, scales via high-traffic sites, and is increasingly polished through AI. They connect this to the shrinking “patch window,” emphasizing rapid patching, reducing internet exposure, monitoring website integrity, updating user training to avoid pasting commands, and layering defenses like EDR/MDR and DNS filtering.</p><p>As featured on Million Podcasts' </p><p><a href='https://www.millionpodcasts.com/cyber-security-podcasts/'>Best 100 Cybersecurity Podcasts </a> </p><p><a href='https://www.millionpodcasts.com/ciso-podcasts/'>Top 50 Chief Information Security Officer CISO Podcasts</a> </p><p><a href='https://www.millionpodcasts.com/security-hacking-podcasts/'>Top 70 Security Hacking Podcasts</a></p><p>This list is the most comprehensive ranking of Cyber Security Podcasts online and we are honoured to feature amongst the best!</p><p>Follow or subscribe to the show on your preferred podcast platform.<br/>Share the show with others in the cybersecurity world.<br/>Get in touch via reimaginingcyber@gmail.com</p><p><br/></p><p><br/><br/><br/><br/></p>",
+    "publishedAt": "2026-06-03T04:00:00.000Z",
+    "duration": 965,
+    "audioUrl": "https://www.buzzsprout.com/2004238/episodes/19279472-clickfix-chaos-the-evolution-of-social-engineering.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://storage.buzzsprout.com/ynljvswws7x7i360gq0co63uwk8v?.jpg",
+    "episodeNumber": 204,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "vulnerability-management-and-the-2026-verizon-dbir-203",
     "podcastId": "reimagining-cyber",
     "title": "Vulnerability Management and the 2026 Verizon DBIR  - #203",

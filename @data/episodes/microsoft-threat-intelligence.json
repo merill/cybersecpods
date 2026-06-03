@@ -1,5 +1,22 @@
 [
   {
+    "id": "supply-chain-attacks-open-source-or-open-door",
+    "podcastId": "microsoft-threat-intelligence",
+    "title": "Supply Chain Attacks: Open Source or Open Door?",
+    "description": "<p>In this episode of the Microsoft Threat Intelligence Podcast, host⁠ ⁠⁠<a href=\"https://www.linkedin.com/in/sherroddegrippo/\"><u>Sherrod DeGrippo</u></a> is joined by Allie Luhrs and Mario Samolis from Microsoft Security to explore the growing threat of open source software supply chain attacks. They discuss how malicious NPM packages, compromised developer ecosystems, AI-generated attacks, and software dependency risks are reshaping modern incident response, while sharing insights from their recent presentation at BlueHat IL 2025.  </p>\n<p><br></p>\n<p><strong>In this episode you’ll learn: </strong>     </p>\n<ul>\n  <li>\n<p>How attackers are targeting open source software ecosystems at scale </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>Why AI is accelerating both cyberattacks and threat detection </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>What was uncovered during their BlueHat presentation on modern software supply chain attacks </p>\n</li>\n</ul>\n<p><strong>Some questions we ask:</strong>     </p>\n<ul>\n  <li>\n<p>What patterns did you uncover in NPM attack campaigns? </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>Should developers rely on dependencies or build everything themselves? </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p>Why should organizations pay closer attention to open source security risks? </p>\n</li>\n</ul>\n<p><strong>Resources:  </strong></p>\n<p><a href=\"https://www.linkedin.com/in/allie-luhrs/\"><u>View </u></a><a href=\"https://www.linkedin.com/in/allie-luhrs/\"><u>Allie Luhrs on LinkedIn</u></a>  </p>\n<p><a href=\"https://www.linkedin.com/in/mario-samolis/\"><u>View Mario Samolis on LinkedIn</u></a>  </p>\n<p><a href=\"https://www.linkedin.com/in/sherroddegrippo/\"><u>View Sherrod DeGrippo on LinkedIn</u></a>  </p>\n<p> </p>\n<p><strong>Related Microsoft Podcasts:</strong>                   </p>\n<ul>\n  <li>\n<p><a href=\"https://afternooncybertea.com/\"><u>Afternoon Cyber Tea with Ann Johnson</u></a> </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://bluehatpodcast.com/\"><u>The BlueHat Podcast</u></a> </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://uncoveringhiddenrisks.com/\"><u>Uncovering Hidden Risks</u></a>     </p>\n</li>\n</ul>\n<p> </p>\n<p>Discover and follow other Microsoft podcasts at<a href=\"https://news.microsoft.com/podcasts/\"> </a><a href=\"https://news.microsoft.com/podcasts/\"><u>microsoft.com/podcasts</u></a>  </p>\n<p> </p>\n<p>Get the latest threat intelligence insights and guidance at Microsoft <a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fbusiness%2Fsecurity-insider%2F&data=05%7C02%7Cv-ropetrillo%40microsoft.com%7C81e205a6b727403624b808dc64a26e6b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638495896032091649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=LTpBsEuiaY5YiYn2FYDydHrHkYWl%2FBTl2uAQlkBz1N0%3D&reserved=0\"><u>Security Insider</u></a> </p>\n<p> </p>\n<p><em>The Microsoft Threat Intelligence Podcast is produced by Microsoft, Hangar Studios and distributed as part of N2K media network.</em> </p>",
+    "publishedAt": "2026-06-03T07:05:00.000Z",
+    "duration": 2326,
+    "audioUrl": "https://traffic.megaphone.fm/CYBW3604416092.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 70,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "eviltokens-a-conversation-with-huntress-on-an-aienabled-device-code-phishing-cam",
     "podcastId": "microsoft-threat-intelligence",
     "title": "Eviltokens: A Conversation with Huntress on an AI‑Enabled Device Code Phishing Campaign",
