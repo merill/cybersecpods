@@ -1,5 +1,22 @@
 [
   {
+    "id": "when-synthetic-logs-dont-lie-generating-coherent-attack-stories-for-better-detec",
+    "podcastId": "talos-takes",
+    "title": "When synthetic logs don’t lie: Generating coherent attack stories for better detection",
+    "description": "<p>Are your detection rules failing because your test data lacks the nuance of a real-world network?  In this episode of Talos Takes, Amy sits down with David Bianco to discuss why traditional synthetic data often falls short and how his new open-source project, EvidenceForge, is changing the game.</p><p>Synthetic datasets often look like telemetry but lack the critical causal links and realistic background noise that define actual adversary activity. EvidenceForge solves this by creating data that tells a coherent, causal story. From simulating complex attack chains to modeling realistic, \"bursty\" human behavior, this tool helps threat hunters and detection engineers to sharpen their skills with reproducible, high-quality telemetry.</p><p>EvidenceForge blog: <a href='https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/'>https://blog.talosintelligence.com/introducing-evidenceforge-synthetic-security-logs-that-dont-look-as-fake/</a></p><p>PEAK Threat Hunting Assistant episode: <a href='https://www.buzzsprout.com/2018149/episodes/18825324'>https://www.buzzsprout.com/2018149/episodes/18825324 </a></p>",
+    "publishedAt": "2026-06-03T09:00:00.000Z",
+    "duration": 1169,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19284543-when-synthetic-logs-don-t-lie-generating-coherent-attack-stories-for-better-detection.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "the-trust-paradox-how-attackers-weaponize-legitimate-saas-platforms",
     "podcastId": "talos-takes",
     "title": "The trust paradox: How attackers weaponize legitimate SaaS platforms",

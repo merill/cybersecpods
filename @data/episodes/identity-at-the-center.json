@@ -1,5 +1,22 @@
 [
   {
+    "id": "426-sponsor-spotlight-crowdstrike",
+    "podcastId": "identity-at-the-center",
+    "title": "#426 - Sponsor Spotlight - Crowdstrike",
+    "description": "<p>This episode and the Identity at the Center podcast is supported by CrowdStrike. Learn more at crowdstrike.com.</p><p><br></p><p>Jeff Steadman and Jim McDonald sit down with Scott Kriz, GM of Continuous Identity at CrowdStrike, for a deep dive into continuous identity, zero standing access, and the convergence of identity and security. Scott traces his path from co-founding Bitium, to selling it to Google Cloud, to building SGNL and ultimately joining CrowdStrike. The conversation covers how continuous identity works in practice, why traditional PAM and IGA fall short in a real-time world, and what the rise of agentic AI means for identity governance at scale. </p><p><br></p><p><br></p><p><br></p><p>Connect with Scott: https://www.linkedin.com/in/scottkriz/</p><p><br></p><p>Learn more about Crowdstrike: https://www.crowdstrike.com/en-us/platform/next-gen-identity-security/caep/?idac</p><p><br></p><p><br></p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p><br></p><p><br></p><p>00:00:00 Introduction and welcome</p><p>00:01:21 How Scott got into identity and co-founded Bitium</p><p>00:03:55 Selling to Google Cloud and the inspiration for SGNL</p><p>00:05:02 Continuous identity and zero standing access explained</p><p>00:09:13 Defining continuous identity at CrowdStrike</p><p>00:10:20 How continuous identity differs from PAM and IGA</p><p>00:15:06 Data as the foundation for continuous identity</p><p>00:19:29 Open ecosystems, Shared Signals Framework, and CAEP</p><p>00:25:26 Agents, identity chaining, SPIFFE, SPIRE, and MCP gateways</p><p>00:33:02 Identity inside CrowdStrike's broader security strategy</p><p>00:37:27 Identity security budgets and ROI-driven purchasing</p><p>00:40:04 Agentic scale and the need for automated identity controls</p><p>00:43:39 The SGNL acquisition: what it means for both companies</p><p>00:50:25 Zero trust as a real architectural framework</p><p>00:54:00 Helicopter skiing, avalanches, and staying present</p><p><br></p><p><br></p><p><br></p><p>Keywords: IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Scott Kriz, CrowdStrike, SGNL, continuous identity, zero standing access, PAM, IGA, zero trust, agentic AI, non-human identity, NHI, SPIFFE, SPIRE, MCP, identity security, real-time authorization, cybersecurity</p>",
+    "publishedAt": "2026-06-03T09:00:00.000Z",
+    "duration": 3728,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/119928434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-13%2F7cc70633-6d3d-f459-494c-8fe4d07a11b9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 426,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/426---Sponsor-Spotlight---Crowdstrike-e3jae5i"
+  },
+  {
     "id": "425-eic-2026-recap-and-identibeer-berlin",
     "podcastId": "identity-at-the-center",
     "title": "#425 - EIC 2026 Recap & IdentiBeer Berlin",
