@@ -1,5 +1,22 @@
 [
   {
+    "id": "soap-box-detection-and-response-in-the-ai-age",
+    "podcastId": "risky-business",
+    "title": "Soap Box: Detection and response in the AI age",
+    "description": "<p>In this sponsored Soap Box edition of the Risky Business podcast Patrick Gray chats with Edward Wu, founder of Dropzone, about what AI is doing to detection, response and the SOC more generally.</p>\n\n<p>Dropzone makes AI agents that conduct alert investigations in your SOC, but will the SOC as we know it even exist in the future?</p>\n\n<p>Ed has a deep expertise in SOC tech, having previously led AI/ML detection engineering at Extrahop. This interview is a fantastic look at what the future may bring for detection and response professionals.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/QHM1QxDQDRw\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-06-05T04:41:44.000Z",
+    "duration": 2195,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX108.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SOAPBOX108/"
+  },
+  {
     "id": "risky-business-840-microsoft-walks-back-researcher-threats",
     "podcastId": "risky-business",
     "title": "Risky Business #840 -- Microsoft walks back researcher threats",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/soapbox91/"
-  },
-  {
-    "id": "risky-business-773-cybercriminals-are-dropping-like-flies-in-russia",
-    "podcastId": "risky-business",
-    "title": "Risky Business #773 -- Cybercriminals are dropping like flies in Russia",
-    "description": "<p>On this week’s show, Patrick Gray and Adam Boileau discuss the week’s cybersecurity news, including:</p>\n\n<ul>\n  <li>The FTC decides its time to take another look at Microsoft</li>\n  <li>Exxon’s opponents targeted by hackers</li>\n  <li>Russian hackers keep getting sentenced and it confuses us</li>\n  <li>The Feds recommend Signal, because throwing hackers out of telcos ain’t gonna happen</li>\n  <li>A South Korean set-top-box manufacturer shipped a DDoS client for corpo-combat</li>\n  <li>And much, much more.</li>\n</ul>\n\n<p>This week’s sponsor interview with Vijit Nair from Corelight. We talk to him about doing detection in cloud environments, and how the varied nature of cloud systems makes the old ways - network monitoring - useful in new and interesting ways.</p>\n\n<p>If you’re in Sydney, Pat is recording a live episode of the Wide World of Cyber with Chris Krebs on 5 December. There might still be <a href=\"https://go.sentinelone.com/risky-business-live-apj-sydney-en.html\">tickets left</a>!</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/cstfm5FbRFI\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://go.sentinelone.com/risky-business-live-apj-sydney-en.html\">SentinelOne: Risky Business LIVE</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://apnews.com/article/microsoft-ftc-antitrust-lina-khan-trump-biden-1b8983bec2ad1b2e943fb25c5b27619b\">FTC opens Microsoft antitrust investigation | AP News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.reuters.com/business/energy/exxon-lobbyist-investigated-over-hack-and-leak-environmentalist-emails-sources-2024-11-27/\">Exclusive: Exxon lobbyist investigated over hack-and-leak of environmentalist emails, sources say | Reuters</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/costa-rica-state-energy-company-ransomware\">Costa Rica state energy company calls in US experts to help with ransomware attack | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.upguard.com/security-report/blue-yonder\">Blue Yonder Security Rating, Vendor Risk Report, and Data Breaches</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/englobal-ransomware-attack/734462/\">ENGlobal IT systems impacted by ransomware attack | Cybersecurity Dive</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/wazawaka-mikhail-matveev-reportedly-arrested-russia\">Ransomware suspect Wazawaka reportedly arrested by Russia | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/hyrda-darknet-drug-marketplace-kingpin-sentenced-life-russia\">Russia delivers historic life sentence to suspected founder of darknet marketplace | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/stoli-group-usa-bankruptcy-filing-ransomware\">Vodka maker Stoli says August ransomware attack contributed to bankruptcy filing | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/\">Hacker in Snowflake Extortions May Be a U.S. Soldier – Krebs on Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/uganda-cyberattack-central-bank\">Uganda confirms cyberattack on central bank but minimizes extent of breach | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.police.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1002&q_bbscttSn=20241128120629043\">Press Release: HOME > Announcements/News > Announcements > Press Release</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.nbcnews.com/tech/security/us-officials-urge-americans-use-encrypted-apps-cyberattack-rcna182694\">U.S. officials urge Americans to use encrypted apps amid cyberattack</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.wired.com/story/big-interview-meredith-whittaker-signal-2024/\">With Threats to Encryption Looming, Signal’s Meredith Whittaker Says ‘We’re Not Changing’ | WIRED</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/japanese-crypto-service-shuts-down\">Japanese crypto service shuts down after theft of bitcoin worth $308 million | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.wired.com/story/x-delete-posts-cyd-micah-lee/\">He Got Banned From X. Now He Wants to Help You Escape, Too | WIRED</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/cyberfeeddigest/status/1861512772090986971\">cyberundergroundfeed on X: \"🚨 Pro-Russian Group Allegedly Hacks #Australia #Melbourne Sewage System 🚨 Hackers claim to have compromised the Riversdale sewage pumping station in #Melbourne, #Australia, switching it to manual control and placing it in emergency mode.\"</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.nzherald.co.nz/nz/pump-station-fears-rebuffed/7JESZCUMB2KO7OZJDCJCGSHF6I/#google_vignette\">Pump station fears rebuffed - New Zealand News - NZ Herald</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.rnz.co.nz/news/national/529935/nz-navy-ship-runs-aground-off-samoa-catches-fire-and-sinks\">NZ Navy ship runs aground off Samoa, catches fire and sinks</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2024-12-04T01:54:12.000Z",
-    "duration": 3422,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB773.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RB773/"
   }
 ]
