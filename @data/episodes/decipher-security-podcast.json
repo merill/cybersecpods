@@ -1,5 +1,22 @@
 [
   {
+    "id": "shai-hulud-returns-how-attackers-are-using-ai-and-more-weird-msrc-behavior",
+    "podcastId": "decipher-security-podcast",
+    "title": "Shai Hulud Returns, How Attackers are Using AI, and More Weird MSRC Behavior",
+    "description": "<p>We regret to inform you that there are more npm supply chain attacks this week, and a new variant of the <a href=\"https://decipher.sc/2026/06/01/new-shai-hulud-variant-hits-red-hat-npm-packages/\" target=\"_blank\" rel=\"noopener noreferer\">Shai Hulud worm</a> is involved. We also talk about the new analysis from Anthropic on a year of data relating to how attackers are using AI in their operations, and the continuing adventures of Microsoft's relationship with security researchers. </p>",
+    "publishedAt": "2026-06-05T13:53:03.000Z",
+    "duration": 2192,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/121051448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2F425570590-44100-2-a7b5f20346dc7.m4a",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/Shai-Hulud-Returns--How-Attackers-are-Using-AI--and-More-Weird-MSRC-Behavior-e3kcmro"
+  },
+  {
     "id": "microsoft-has-forgotten-its-vulnerability-disclosure-history",
     "podcastId": "decipher-security-podcast",
     "title": "Microsoft Has Forgotten Its Vulnerability Disclosure History",
