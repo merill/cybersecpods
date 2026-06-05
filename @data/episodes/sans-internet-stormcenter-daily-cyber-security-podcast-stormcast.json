@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-june-5th-2026-coreutils-for-windows-cisco-unified-comm-man",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, June 5th, 2026: Coreutils for Windows; Cisco Unified Comm Manager Fix and Exploit; OAuth Orphans",
+    "description": "<br/>\nMicrosoft's Coreutils for Windows<br/>\n<a href=\"https://isc.sans.edu/diary/Microsoft%27s%20Coreutils%20for%20Windows/33048\">https://isc.sans.edu/diary/Microsoft%27s%20Coreutils%20for%20Windows/33048</a><br/>\nCisco Unified Communications Manager Server-Side Request Forgery Vulnerability CVE-2026-20230<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssrf-cXPnHcW\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-cucm-ssrf-cXPnHcW</a><br/>\nFirmware Update for Acer Connect W6x Router <br/>\n<a href=\"https://community.acer.com/en/kb/articles/19672\">https://community.acer.com/en/kb/articles/19672</a><br/>\nOAuth marketplace apps keep access after publishers vanish<br/>\n<a href=\"https://www.helpnetsecurity.com/2026/06/04/oauth-marketplace-apps-audit/\">https://www.helpnetsecurity.com/2026/06/04/oauth-marketplace-apps-audit/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-06-05T02:00:02.000Z",
+    "duration": 372,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9960.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9960,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9960"
+  },
+  {
     "id": "sans-stormcast-thursday-june-4th-2026-swaggerjson-scans-android-fake-call-detect",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, June 4th, 2026: swagger.json Scans; Android Fake Call Detection; Anthropic Dashboard",
