@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-183-or-owasp-top-10-part-2-security-misconfigurations-that-get-you-hacke",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Episode 183 | OWASP Top 10 Part 2: Security Misconfigurations That Get You Hacked",
+    "description": "<p>Security misconfiguration is one of the most frequently found vulnerabilities in web application pen testing — and most of the fixes are just a checkbox. In Part 2 of their OWASP Top 10 series, Brad Causey and Jordan Natter cover OWASP A05: Security Misconfiguration with real stories from recent engagements and practical takeaways for developers, security teams, and organizations of all sizes.</p><p><b>In this episode:</b></p><ul><li>Hardcoded Active Directory credentials and API keys discovered in a public GitHub repo during a healthcare pen test</li><li>Default credentials (admin/1234) found on a clinical research app storing PHI</li><li>A rogue Apache basic auth panel that survived from dev into production</li><li>How verbose error handling and stack traces hand attackers a roadmap to your app</li><li>Why dev-to-production is the most dangerous transition in your app's lifecycle</li><li>The shift-left mindset and DevSecOps — empowering devs to ship secure code</li><li>How CIS lockdown guides can dramatically improve your security posture overnight</li></ul><p><b>Resources mentioned:</b></p><ul><li>OWASP Top 10: <a href='https://owasp.org/www-project-top-ten/'>OWASP Top Ten Web Application Security Risks | OWASP Foundation</a></li><li>CIS Benchmarks: <a href='https://www.cisecurity.org/cis-benchmarks'>https://www.cisecurity.org/cis-benchmarks</a></li><li>Ep. 182 – OWASP Top 10 Part 1: <a href='https://youtu.be/BwYJ-kZ3XaY'>https://youtu.be/BwYJ-kZ3XaY</a></li></ul><p>Need a web application pen test? Reach out: <a href='https://www.securit360.com/offensive-security'>Offensive Security - SecurIT360</a></p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-06-05T18:00:00.000Z",
+    "duration": 1728,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19301491-episode-183-owasp-top-10-part-2-security-misconfigurations-that-get-you-hacked.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 183,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "episode-182-patching-crisis-vulns-now-1-attack-vector-2026-verizon-dbir",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Episode 182: Patching Crisis — Vulns Now #1 Attack Vector (2026 Verizon DBIR)",
