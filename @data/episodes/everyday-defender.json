@@ -1,5 +1,22 @@
 [
   {
+    "id": "02x05-maesterofpuppetsps1",
+    "podcastId": "everyday-defender",
+    "title": "02x05-maester_of_puppets.ps1",
+    "description": "<p>Live and face-to-face again, this time recorded from Experts Live Netherlands. Chris previews his EL:NL session on practical SecOps for Microsoft 365: how to automate the boring-but-critical parts of M365 security operations, continuously assess tenant posture, detect configuration drift, and respond to common issues using native Microsoft tools you already own.</p>\n<p>Koos recently went on a hunt for a compact FIDO2 security key and discovered there are a lot more options out there than you'd think. He'll walk through what he found, what the trade-offs are between form factor, protocols, and price, and which keys ended up making the shortlist.</p>\n<p>Full show notes available on our blog: <a href=\"https://df3ndr.io/episodes/2026/06/06/02x05-maester_of_puppets.ps1.html\">https://df3ndr.io/episodes/2026/06/06/02x05-maester_of_puppets.ps1.html</a></p>\n<p>Follow us on your favorite podcast platform or check us out at <a href=\"https://df3ndr.io\">https://df3ndr.io</a></p>",
+    "publishedAt": "2026-06-06T08:00:00.000Z",
+    "duration": 2254,
+    "audioUrl": "https://feeds.df3ndr.io/link/24063/17355180/2026_06_06_07_47_13_c4310595-0ee6-4ec1-9c3c-2336fdb8089b.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/df3ndr/ep_cover_20260606_070611_f9293f9d70f3519f1c18e1b4e5f6fdd4.jpg",
+    "episodeNumber": 5,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/df3ndr/2891875"
+  },
+  {
     "id": "02x04-terminalvelocitytui",
     "podcastId": "everyday-defender",
     "title": "02x04-terminal_velocity.tui",
