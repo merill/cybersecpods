@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-nerds-at-nato",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: Nerds at NATO",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq speak at the NATO CyCon conference on Cyber Conflict in Tallinn, Estonia. The pair discuss how cyber operations complement conventional military operations and the past, present and future of cyber conflict.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/JnvpqqVEVQ8\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.aspi.org.au/report/australias-offensive-cyber-capability/\">Australia's Offensive Cyber Capability</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-06-08T21:03:22.000Z",
+    "duration": 1833,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN169.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN169/"
+  },
+  {
     "id": "risky-bulletin-rubygems-adds-dependency-cooldowns-to-counter-supply-chain-attack",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: RubyGems adds dependency cooldowns to counter supply chain attacks",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/BTN153/"
-  },
-  {
-    "id": "risky-bulletin-smartertools-hacked-via-its-own-product",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: SmarterTools hacked via its own product",
-    "description": "<p>A software company gets hacked through vulnerabilities in its own product, European agencies are hacked via recent Ivanti zero-days, Senegal is being extorted by hackers, and a state actor is behind a Signal phishing campaign in Germany.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-smartertools-hacked-via-its-own-product/\">Risky Bulletin: SmarterTools hacked via its own product</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-02-09T02:45:08.000Z",
-    "duration": 368,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS523.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS523/"
   }
 ]
