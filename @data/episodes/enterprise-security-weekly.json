@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-state-of-ai-in-secops-the-unintended-consequences-of-vulnmaxxing-and-the-new",
+    "podcastId": "enterprise-security-weekly",
+    "title": "The State of AI in SecOps, the Unintended Consequences of Vulnmaxxing, and the News - Filip Stojkovski - ESW #462",
+    "description": "Interview with Filip Stojkovski on the State of AI in SecOps <p>Filip joins us to talk through the 2+ year rollercoaster that Security Operations tooling has been on since AI entered the chat. We discuss the AI SecOps market, which Filip closely tracks through his <a rel=\"noopener\" target=\"_blank\" href= \"https://secops-unpacked.ai/research/ai-soc-vendors\">SecOps Unpacked</a> project. We also discuss how most of the market has traditionally been focused on the \"middle\" of the process, which is effectively alert management. Where the conversation really gets interesting is shifting left to discuss <a rel=\"noopener\" target= \"_blank\" href= \"https://www.cybersec-automation.com/p/we-automated-the-easy-part-now-fix-your-detections\"> building better quality detections</a>.</p> <p>Segment Resources:</p> <ul> <li>Be sure to check out <a rel=\"noopener\" target=\"_blank\" href= \"https://secops-unpacked.ai\">SecOps Unpacked</a> - it has more than just vendor information: there are articles, frameworks, podcast episodes, research, and articles/thought leadership</li> </ul> Topic: The Unintended Consequences of Vulnmaxxing <p>We discuss <a rel=\"noopener\" target=\"_blank\" href= \"https://www.defendersinitiative.com/p/the-unintended-consequences-of-vulnmaxxing\"> my latest blog post</a> where I share a theory that perhaps Project Glasswing is a clever exclusive freemium tier, where Anthropic is hoping to ensnare the world's largest producers of software into using its most expensive model to fix their code for the foreseeable future, creating a much needed new revenue stream for the AI giant with a Trillion dollar valuation.</p> <p>There are some potential unintended consequences that come along with an expensive vulnerability discovery/remediation process that threatens to raise the security poverty line and leave less wealthy companies behind.</p> The Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>If you were starting a cybersecurity company today, which category would you pick?</li> <li>layoffs</li> <li>funding</li> <li>the White House AI executive order</li> <li>OpenAI's frontier governance framework</li> <li>Anthropic's Zero Trust for AI agents guide</li> <li>IBM's vulnmaxxing efforts</li> <li>RICO as a service for job seekers</li> <li>Instagram had possibly the most embarrassing hack ever</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-462\">https://securityweekly.com/esw-462</a></p>",
+    "publishedAt": "2026-06-08T09:00:00.000Z",
+    "duration": 5871,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_462_1--91c69475-5321-491c-8c4b-9840642dcdce--audio-converted--b48a46ef-54e5-4b13-8414-575b6885a67a.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/c/a/9/e/ca9e224dd818056c16c3140a3186d450/ESW_462_Thumbnail_ESW_1920x1920_91bd8c4e-0924-43a9-92a3-24783414934a.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/the-state-of-ai-in-secops-the-unintended-consequences-of-vulnmaxxing-and-the-news-filip-stojkovski-esw-462"
+  },
+  {
     "id": "helping-defenses-use-of-ai-catch-up-with-offense-cost-of-the-vulnpocalypse-news-",
     "podcastId": "enterprise-security-weekly",
     "title": "Helping defense's use of AI catch up with offense, cost of the vulnpocalypse, news - Evan Powell - ESW #461",
