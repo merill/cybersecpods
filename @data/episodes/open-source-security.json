@@ -1,5 +1,22 @@
 [
   {
+    "id": "hacking-your-cicd-with-francois-proulx",
+    "podcastId": "open-source-security",
+    "title": "Hacking your CI/CD with François Proulx",
+    "description": "<p dir=\"auto\">Josh welcomes back François Proulx to talk about the absolute madness in the CI/CD universe right now. We also learn about François' new project SmokedMeat which is a tool to help you hack your own CI/CD. When Josh spoke to François a year ago, the world was a very different place than it is today. François has a ton of knowledge about how we got here and what we can do moving forward. Boost Security has a bunch of amazing open source tools François built that can help keep CI/CD systems understood and locked down.</p> <p dir=\"auto\">The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-06-fran%C3%A7ois-smoked-meat/\" rel= \"nofollow\">https://opensourcesecurity.io/2026/2026-06-françois-smoked-meat/</a></p>",
+    "publishedAt": "2026-06-08T00:00:00.000Z",
+    "duration": 2137,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-06-franois-smoked-meat.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/3/9/f/4/39f4cdfe8e20542d16c3140a3186d450/square-coals.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/hacking-your-cicd-with-franois-proulx"
+  },
+  {
     "id": "open-source-verification-with-sal-kimmich",
     "podcastId": "open-source-security",
     "title": "Open source verification with Sal Kimmich",
