@@ -1175,13 +1175,6 @@
     },
     "recentReviews": [
       {
-        "rating": 4,
-        "title": "Good",
-        "content": "Enjoy, but music in the background is annoying..",
-        "author": "Bobazon889",
-        "updatedAt": "2026-05-28T13:07:55-07:00"
-      },
-      {
         "rating": 5,
         "title": "My favorite cybersecurity podcast",
         "content": "Love these guys.  They make having natural conversations look easy.",
@@ -1208,6 +1201,13 @@
         "content": "Love the interview style, research and plain language your team uses. Fun and interesting. The interviews of experts are smooth and professional and your storytelling is great!",
         "author": "Zackmn",
         "updatedAt": "2023-12-29T17:15:14-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Greatest cyber show",
+        "content": "We all enjoy this at the club. We laugh along and are shocked by the findings. Who knew there was so much on the dark web! Love it!",
+        "author": "XavierGate34",
+        "updatedAt": "2023-12-28T20:10:47-07:00"
       }
     ]
   },
@@ -1647,7 +1647,7 @@
         "updatedAt": "2025-10-09T10:20:15-07:00"
       },
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Great Content",
         "content": "I like the content (and the music mixing) but the host has one of the most AI-generated-sounding voices and enunciation that I have ever heard. It’s not unpleasant, though.",
         "author": "JD000000000000000",
@@ -1722,13 +1722,6 @@
     },
     "recentReviews": [
       {
-        "rating": 5,
-        "title": "1337",
-        "content": "1337 out of 1337",
-        "author": "Thorium9000",
-        "updatedAt": "2026-05-10T02:01:35-07:00"
-      },
-      {
         "rating": 1,
         "title": "What is up with the barely audible background noise? Makes it hard to hear you talk",
         "content": "Cannot hear you as all my attention goes to the background music",
@@ -1755,6 +1748,13 @@
         "content": "I don’t believe I’ve ever left a review for a podcast but for Darknet Diaries, I definitely had to. Amazing show. Very entertaining. I even subscribed so I can get the bonus episodes!!",
         "author": "TNguyen1993",
         "updatedAt": "2026-04-22T15:26:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Best show ever",
+        "content": "I love this show",
+        "author": "jdidjjsnfjkenvnnd",
+        "updatedAt": "2026-03-26T18:21:56-07:00"
       }
     ]
   },
@@ -2501,13 +2501,6 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "So good",
-        "content": "I love these guys and I always learn something new.",
-        "author": "Mofhtvabnsjj",
-        "updatedAt": "2026-06-02T19:10:23-07:00"
-      },
-      {
-        "rating": 5,
         "title": "Amazing pod :0",
         "content": "Such a great podcast, i want to go into cybersecurity or web design after high school and this is very inspiring. I can’t believe some people give this one star.",
         "author": "felicia:;.",
@@ -2533,6 +2526,13 @@
         "content": "Found this podcast by accident.  I love it. The hosts are funny, witty and informative. Love hearing the listeners stories as well. Keep up the great work",
         "author": "Casey Marie's Music",
         "updatedAt": "2025-03-16T13:29:42-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "eh",
+        "content": "too many ads and lacks depth",
+        "author": "nakd moon",
+        "updatedAt": "2024-12-18T16:31:57-07:00"
       }
     ]
   },
@@ -2584,9 +2584,18 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-06-07T09:29:19.245Z"
+        "fetchedAt": "2026-06-08T11:12:45.149Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
