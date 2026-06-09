@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-june-9th-2026-azure-repos-infected-checkpoint-vpn-0-day-v",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, June 9th, 2026: Azure Repos Infected; Checkpoint VPN 0-Day; Verizon VoLTE missing IPSec integrity prot.",
+    "description": "<br/>\nAzure Functions Action and 72 Other Repositories Disabled After Supply Chain Attack<br/>\n<a href=\"https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents\">https://www.stepsecurity.io/blog/miasma-worm-hits-microsoft-again-azure-functions-action-and-72-other-repositories-disabled-after-supply-chain-attack-targeting-ai-coding-agents</a><br/>\nActive Exploitation of Check Point VPN Authentication Bypass (CVE-2026-50751)<br/>\n<a href=\"https://blog.checkpoint.com/security/check-point-releases-important-hotfix-for-vulnerabilities-in-deprecated-ikev1-vpn-protocol/\">https://blog.checkpoint.com/security/check-point-releases-important-hotfix-for-vulnerabilities-in-deprecated-ikev1-vpn-protocol/</a><br/>\nMissing IPsec Integrity Protection for IMS SIP Signaling in Verizon VoLTE Deployments<br/>\n<a href=\"https://kb.cert.org/vuls/id/615987\">https://kb.cert.org/vuls/id/615987</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-06-09T02:00:03.000Z",
+    "duration": 327,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9964.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9964,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9964"
+  },
+  {
     "id": "sans-stormcast-monday-june-8th-2026-wetransfer-phish-spying-smart-tv-dashlane-br",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, June 8th, 2026: Wetransfer Phish; Spying Smart TV; Dashlane Brute Force",
