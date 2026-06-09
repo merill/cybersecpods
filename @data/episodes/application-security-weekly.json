@@ -1,5 +1,22 @@
 [
   {
+    "id": "scanner-results-are-a-starting-point-heres-what-comes-next-federico-kirschbaum-a",
+    "podcastId": "application-security-weekly",
+    "title": "Scanner Results Are a Starting Point. Here's What Comes Next. - Federico Kirschbaum - ASW #386",
+    "description": "<p>Most AppSec teams are working through more findings than their teams can validate. SAST surfaces thousands of potential issues. DAST generates alert volume that outpaces triage capacity. Somewhere in that output are the vulnerabilities that matter, the ones that are actually exploitable in production. This conversation explores why automated testing often stops short of the hardest part of the job: proving what is real. We dig into how business logic flaws and authorization vulnerabilities get missed by tools that scan without reasoning, what exploit validation looks like at runtime, and how security engineers are shifting toward findings that developers will actually act on.</p> <p>The segment is sponsored by XBOW. Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/xbow\">https://securityweekly.com/xbow</a> to see how autonomous AI pentesting delivers expert-quality findings in hours with real exploit validation your team can actually act on.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-386\">https://securityweekly.com/asw-386</a></p>",
+    "publishedAt": "2026-06-09T09:00:00.000Z",
+    "duration": 4583,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_386_1--7ef42155-fea5-4ffe-ad99-83adac9da8cb--audio-converted--3e6f3d41-086f-4f25-8e99-0ae84ffa0c6c.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/c/c/b/6/ccb6f24355c6cb9216c3140a3186d450/ASW_386_Thumbnail_ASW_1920x1920-op1_b7008379-b6c5-491c-a093-02c505f5ff03.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/scanner-results-are-a-starting-point-heres-what-comes-next-federico-kirschbaum-asw-386"
+  },
+  {
     "id": "badhost-dead-ctfs-exploding-npms-and-the-verizon-dbir-asw-385",
     "podcastId": "application-security-weekly",
     "title": "BadHost, Dead CTFs, Exploding NPMs, and the Verizon DBIR - ASW #385",
