@@ -1,5 +1,22 @@
 [
   {
+    "id": "china-nation-state-cyber-espionage-how-op-512-exploited-legacy-iis-servers-and-e",
+    "podcastId": "shadowtalk",
+    "title": "China Nation State Cyber Espionage: How OP-512 Exploited Legacy IIS Servers and Evaded Detection",
+    "description": "<p>Your team built defenses around known China-linked clusters. The file hashes are tracked. The behavioral patterns are documented. What those weren't built to catch is a new cluster that studied those exact defenses and engineered around them. A China-linked attacker compromised an internet-facing IIS server, maintained access for over 75 days, and came back on fresh infrastructure.</p><p>With four China-linked clusters converging on the same legacy IIS stack in twelve months, defenders building detection programs around yesterday's cluster are already behind the next one.</p><p>Join hosts Alex and John as they discuss:</p><ul><li>How OP-512 engineered its tooling to evade defenses</li><li>Why killing a malicious process is incomplete</li><li>What advantage cross-source correlation provides</li></ul><p><b>Two questions your organization should be asking right now:</b></p><ul><li>When your detection sources each generate a separate low-confidence signal from the same host, does anything in your current workflow correlate those signals automatically?</li><li>Do you have internet-facing IIS servers running end-of-life .NET in your environment, and does your vulnerability-management workflow prioritize correctly?</li></ul><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>Alexandra Moore: </b>Manager of Threat Intelligence at ReliaQuest, where she leads intelligence analysis and customer dissemination to help organizations understand and respond to emerging cyber threats. Prior to this, she established and scaled monitoring across Russian-language cybercriminal platforms at Digital Shadows, building collection and analytical coverage to support digital risk protection capabilities.</p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><br/></p>",
+    "publishedAt": "2026-06-10T13:00:00.000Z",
+    "duration": 1388,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19325542-china-nation-state-cyber-espionage-how-op-512-exploited-legacy-iis-servers-and-evaded-detection.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "sonicwall-mfa-bypass-iabs-why-patched-devices-are-still-handing-attackers-initia",
     "podcastId": "shadowtalk",
     "title": "SonicWall, MFA Bypass, IABs: Why Patched Devices Are Still Handing Attackers Initial Access",
