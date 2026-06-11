@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-184-or-active-directory-isnt-dead-its-just-undefended",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Episode 184 | Active Directory Isn't Dead. It's Just Undefended.",
+    "description": "<p>Think Active Directory is dead? Think again. According to Microsoft data, 86% of organizational workloads still touch Active Directory, and nearly 20% of organizations don't expect to reach a hybrid state for 10-20+ years. In this episode, Brad and Spencer break down why AD attack paths remain one of the most critical threats in enterprise environments and what defenders can do about it right now.<br/><br/>Spencer also previews his ContinuumCon workshop \"Killing AD Attack Paths Once and For All\" where he demonstrates how authentication policies and silos can eliminate an entire class of lateral movement attacks built into Windows and Active Directory.<br/><br/>In this episode:<br/><br/>- Why Active Directory is still alive, well, and heavily targeted<br/>- What an Active Directory attack path is and how attackers use them<br/>- The four prerequisites attackers need to abuse AD attack paths<br/>- Real-world examples: Kerberos ticket theft, SCCM abuse, certificate misconfigurations, and misconfigured permissions<br/>- Tools defenders should know: Bloodhound, PingCastle, Purple Knight, Locksmith, and ADelegator<br/>- How to prioritize remediations based on ease of exploitation vs. impact<br/>- Why retesting is the most overlooked step in any remediation cycle<br/><br/>Resources mentioned:<br/><br/>- Spencer's ContinuumCon Workshop (Fri. June 12, 10:30am PT / 1:30pm ET): https://continuumcon.com/schedule/<br/>- Hybrid Identity Protection Podcast (Semperis): https://www.semperis.com/hybrid-identity-protection-podcast/<br/>- Bloodhound CE: https://github.com/SpecterOps/BloodHound<br/>- PingCastle: https://www.pingcastle.com<br/>- Purple Knight: https://www.purple-knight.com<br/>- Locksmith: https://github.com/TrimarcJake/Locksmith<br/>- offsec.blog | securit360.com</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-06-11T10:00:00.000Z",
+    "duration": 1732,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19327712-episode-184-active-directory-isn-t-dead-it-s-just-undefended.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 184,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "episode-183-or-owasp-top-10-part-2-security-misconfigurations-that-get-you-hacke",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Episode 183 | OWASP Top 10 Part 2: Security Misconfigurations That Get You Hacked",
