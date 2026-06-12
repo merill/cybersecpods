@@ -1,5 +1,22 @@
 [
   {
+    "id": "why-npm-v12-wont-stop-supply-chain-attacks",
+    "podcastId": "risky-business-features",
+    "title": "Why NPM v12 won’t stop supply chain attacks",
+    "description": "<p>In this podcast episode, James Wilson is joined by Open Source Malware Security co-founder Paul McCarty to talk about the supply chain attack mitigations coming in NPM v12.</p>\n\n<p>NPM disabling (by default) auto-run install scripts and dynamic dependencies is a positive step forward… but it’ll take years for this new version to be adopted, and these changes do nothing to prevent malicious packages being imported into projects.</p>\n\n<p>Further, Paul thinks disabling these features by default will introduce friction that will cause them to be re-enabled. When the choice is “this builds” and “this is less prone to malware”, the former will always win.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-06-12T07:28:50.000Z",
+    "duration": 2312,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES26.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES26/"
+  },
+  {
     "id": "everything-is-getting-much-worse-much-faster",
     "podcastId": "risky-business-features",
     "title": "Everything is getting much worse, much faster",
