@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-june-12th-2026-bitlocker-trouble-ivanti-and-oracle-exploit",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, June 12th, 2026: Bitlocker Trouble; Ivanti and Oracle Exploited; macOS Malicious Installers",
+    "description": "<br/>\nMore Bitlocker Issues: GreatXML<br/>\n<a href=\"https://git.churchofmalware.org/Nightmare_Eclipse/GreatXML\">https://git.churchofmalware.org/Nightmare_Eclipse/GreatXML</a><br/>\nSecurity Advisory Ivanti Sentry (CVE-2026-10520, CVE-2026-10523)<br/>\n<a href=\"https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Sentry-CVE-2026-10520-CVE-2026-10523?language=en_US\">https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Sentry-CVE-2026-10520-CVE-2026-10523?language=en_US</a><br/>\nOracle Security Alert Advisory - CVE-2026-35273<br/>\n<a href=\"https://www.oracle.com/security-alerts/alert-cve-2026-35273.html\">https://www.oracle.com/security-alerts/alert-cve-2026-35273.html</a><br/>\n<a href=\"https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/\">https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/</a><br/>\nHow Deceptive Installers Are Targeting macOS Users<br/>\n<a href=\"https://www.huntress.com/blog/deceptive-installers-macos-infostealers\">https://www.huntress.com/blog/deceptive-installers-macos-infostealers</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-06-12T12:30:10.000Z",
+    "duration": 399,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9970.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9970,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9970"
+  },
+  {
     "id": "sans-stormcast-thursday-june-11th-2026-framing-protections-npm-improvements-adob",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, June 11th, 2026: Framing Protections; npm improvements; Adobe Patches; New Defender 0-day",

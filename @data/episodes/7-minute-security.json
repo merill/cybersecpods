@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-726-babys-first-hermes",
+    "podcastId": "7-minute-security",
+    "title": "7MS #726: Baby's First Hermes",
+    "description": "<p>Hello friends! I've been on a bit of an AI agent journey lately, and today I'm sharing my experience ditching OpenClaw and going all-in on <a href=\"https://hermes-agent.nousresearch.com/\" target=\"_blank\" rel=\"noopener\">Hermes</a> — a self-hosted AI agent built by <a href= \"https://hermes-agent.nousresearch.com/\" target=\"_blank\" rel= \"noopener\">Nous Research</a>. A <a href= \"https://www.youtube.com/watch?v=QQEgIo4Juxg&vl=en\" target= \"_blank\" rel=\"noopener\">Network Chuck video</a> sold me on it, I wiped my Mac Mini (again), and baby's first Hermes adventure began!</p> <p>Here's what we get into today:</p> <ul> <li>Why I left OpenClaw — After getting the Mac Mini set up, OpenClaw left me feeling pretty meh: burning through API requests, random mid-conversation shutdowns, and a marketplace where the top listings were flagged as \"potentially malicious.\" Hard pass.</li> <li>Network Chuck's five reasons Hermes rocks — His video summarized why Hermes stands out: (1) Nous Research has serious open source model cred predating OpenClaw, (2) more flexible persistent memory via markdown files + optional Honcho integration for building a profile of you over time, (3) a mission around humanistic and democratic AI, (4) a self-improvement loop where it writes its own skills after figuring things out, and (5) it just doesn't break — it feels like a product, not a project.</li> <li>The install — I used Claude to build a Mac Mini install guide from the Network Chuck transcript, and had Hermes up and running in about 15 minutes (one small Ollama hiccup aside). The install wizard lets you choose cloud models like Claude or ChatGPT, or go fully local with something like Gemma — I'm planning a hybrid setup with two Telegram bots.</li> <li>First real-world use: sitting in a truck running errands — With Hermes running on the Mac Mini and connected via Telegram, I asked it what it could do. It suggested Uptime Kuma for LAN monitoring — weirdly well-timed since I'd just been thinking about flaky IoT devices. I said \"go install it,\" and it did — narrating its own troubleshooting out loud the whole time like a little robot intern.</li> <li>Remote access and Home Assistant — Had it install Home Assistant for smarthome control too, with plans to wire up TwinGate for remote access (it had a TailScale skill ready to fire in about two seconds, but I'm trying to keep VPN services consolidated).</li> <li>Daily digest via email — Hooked Hermes into a dedicated Gmail account and set up a 6 a.m. cron job that sends me a personalized morning digest: weather for my watched locations, recent breach/CVE news from select sites, and a summary of my favorite pentesting-focused Mastodon accounts. Needs tuning, but the first digest landed this morning and it's really good!</li> <li>The privacy angle — The real long-term win I see here is a hybrid model: feed raw, unsanitized pentest data to a local private model, let it analyze and sanitize, then hand off the clean version to a cloud model for deeper insight. Best of both worlds without the data exposure anxiety.</li> </ul> <p>Check out the <a href= \"https://www.youtube.com/watch?v=QQEgIo4Juxg&vl=en\" target= \"_blank\" rel=\"noopener\">Network Chuck video</a> that started it all, and as always, if you're doing cool AI + security stuff, I'd love to hear about it. Find our pentesting services and training at <a href=\"https://7minsec.com/\" target=\"_blank\" rel=\"noopener\">7MinSec.com</a>, pentesting tips and scripts at <a href=\"https://7minsec.wiki/\" target=\"_blank\" rel= \"noopener\">7MinSec.wiki</a>, and if you want to support the show, head over to <a href=\"https://7minsec.club/\" target=\"_blank\" rel=\"noopener\">7MinSec.club</a>.</p>",
+    "publishedAt": "2026-06-12T12:07:00.000Z",
+    "duration": 1323,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-726-Babys_First_Hermes.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-726-babys-first-hermes"
+  },
+  {
     "id": "7ms-725-building-a-bulletproof-backup-solution",
     "podcastId": "7-minute-security",
     "title": "7MS #725: Building a Bulletproof Backup Solution",
