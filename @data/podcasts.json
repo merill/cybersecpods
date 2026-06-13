@@ -43,7 +43,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 71,
-        "fetchedAt": "2026-06-12T10:26:09.150Z"
+        "fetchedAt": "2026-06-13T09:28:16.314Z"
       }
     },
     "recentReviews": [
@@ -129,7 +129,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 56,
-        "fetchedAt": "2026-06-12T10:26:09.633Z"
+        "fetchedAt": "2026-06-13T09:28:16.881Z"
       }
     },
     "recentReviews": [
@@ -213,7 +213,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 18,
-        "fetchedAt": "2026-06-12T10:26:10.204Z"
+        "fetchedAt": "2026-06-13T09:28:17.496Z"
       }
     }
   },
@@ -260,7 +260,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 38,
-        "fetchedAt": "2026-06-12T10:26:10.699Z"
+        "fetchedAt": "2026-06-13T09:28:17.835Z"
       }
     },
     "recentReviews": [
@@ -350,7 +350,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-06-12T10:26:11.495Z"
+        "fetchedAt": "2026-06-13T09:28:18.346Z"
       }
     },
     "submittedBy": "gregclermont"
@@ -399,7 +399,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 12,
-        "fetchedAt": "2026-06-12T10:26:12.114Z"
+        "fetchedAt": "2026-06-13T09:28:18.792Z"
       }
     },
     "recentReviews": [
@@ -470,7 +470,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 25,
-        "fetchedAt": "2026-06-12T10:26:12.637Z"
+        "fetchedAt": "2026-06-13T09:28:19.409Z"
       }
     }
   },
@@ -516,7 +516,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 142,
-        "fetchedAt": "2026-06-12T10:26:13.521Z"
+        "fetchedAt": "2026-06-13T09:28:20.061Z"
       }
     },
     "recentReviews": [
@@ -602,7 +602,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 15,
-        "fetchedAt": "2026-06-12T10:26:14.149Z"
+        "fetchedAt": "2026-06-13T09:28:20.634Z"
       }
     }
   },
@@ -648,7 +648,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 12,
-        "fetchedAt": "2026-06-12T10:26:14.945Z"
+        "fetchedAt": "2026-06-13T09:28:21.232Z"
       }
     },
     "recentReviews": [
@@ -733,7 +733,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 3,
-        "fetchedAt": "2026-06-12T10:26:15.503Z"
+        "fetchedAt": "2026-06-13T09:28:21.767Z"
       }
     }
   },
@@ -784,7 +784,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 7,
-        "fetchedAt": "2026-06-12T10:26:15.968Z"
+        "fetchedAt": "2026-06-13T09:28:22.609Z"
       }
     }
   },
@@ -832,7 +832,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 193,
-        "fetchedAt": "2026-06-12T10:26:16.502Z"
+        "fetchedAt": "2026-06-13T09:28:23.027Z"
       }
     },
     "recentReviews": [
@@ -915,7 +915,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 49,
-        "fetchedAt": "2026-06-12T10:26:17.066Z"
+        "fetchedAt": "2026-06-13T09:28:23.380Z"
       }
     },
     "recentReviews": [
@@ -993,7 +993,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 413,
-        "fetchedAt": "2026-06-12T10:26:17.708Z"
+        "fetchedAt": "2026-06-13T09:28:23.875Z"
       }
     },
     "recentReviews": [
@@ -1076,7 +1076,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 57,
-        "fetchedAt": "2026-06-12T10:26:18.209Z"
+        "fetchedAt": "2026-06-13T09:28:24.559Z"
       }
     },
     "recentReviews": [
@@ -1161,10 +1161,17 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 30,
-        "fetchedAt": "2026-06-12T10:26:18.711Z"
+        "fetchedAt": "2026-06-13T09:28:25.214Z"
       }
     },
     "recentReviews": [
+      {
+        "rating": 4,
+        "title": "Good",
+        "content": "Enjoy, but music in the background is annoying..",
+        "author": "Bobazon889",
+        "updatedAt": "2026-05-28T13:07:55-07:00"
+      },
       {
         "rating": 5,
         "title": "My favorite cybersecurity podcast",
@@ -1192,13 +1199,6 @@
         "content": "Love the interview style, research and plain language your team uses. Fun and interesting. The interviews of experts are smooth and professional and your storytelling is great!",
         "author": "Zackmn",
         "updatedAt": "2023-12-29T17:15:14-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Greatest cyber show",
-        "content": "We all enjoy this at the club. We laugh along and are shocked by the findings. Who knew there was so much on the dark web! Love it!",
-        "author": "XavierGate34",
-        "updatedAt": "2023-12-28T20:10:47-07:00"
       }
     ]
   },
@@ -1249,7 +1249,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:19.255Z"
+        "fetchedAt": "2026-06-13T09:28:25.554Z"
       }
     }
   },
@@ -1296,7 +1296,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 136,
-        "fetchedAt": "2026-06-12T10:26:19.875Z"
+        "fetchedAt": "2026-06-13T09:28:26.047Z"
       }
     },
     "recentReviews": [
@@ -1383,7 +1383,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 102,
-        "fetchedAt": "2026-06-12T10:26:20.342Z"
+        "fetchedAt": "2026-06-13T09:28:26.633Z"
       }
     },
     "recentReviews": [
@@ -1466,7 +1466,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 21,
-        "fetchedAt": "2026-06-12T10:26:20.748Z"
+        "fetchedAt": "2026-06-13T09:28:27.155Z"
       }
     },
     "recentReviews": [
@@ -1540,7 +1540,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 25,
-        "fetchedAt": "2026-06-12T10:26:21.842Z"
+        "fetchedAt": "2026-06-13T09:28:27.552Z"
       }
     },
     "recentReviews": [
@@ -1609,9 +1609,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-06-12T20:30:00.000Z",
+    "lastEpisodeDate": "2026-06-13T07:00:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3657,
+    "episodeCount": 3658,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1619,7 +1619,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 1013,
-        "fetchedAt": "2026-06-12T10:26:22.277Z"
+        "fetchedAt": "2026-06-13T09:28:28.084Z"
       }
     },
     "recentReviews": [
@@ -1708,7 +1708,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 8019,
-        "fetchedAt": "2026-06-12T10:26:23.745Z"
+        "fetchedAt": "2026-06-13T09:28:29.149Z"
       }
     },
     "recentReviews": [
@@ -1800,7 +1800,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-06-12T10:26:22.885Z"
+        "fetchedAt": "2026-06-13T09:28:28.480Z"
       }
     }
   },
@@ -1854,7 +1854,7 @@
       "apple": {
         "averageRating": 4.4,
         "ratingCount": 9,
-        "fetchedAt": "2026-06-12T10:26:24.596Z"
+        "fetchedAt": "2026-06-13T09:28:29.605Z"
       }
     }
   },
@@ -1902,7 +1902,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:25.031Z"
+        "fetchedAt": "2026-06-13T09:28:29.940Z"
       }
     }
   },
@@ -1950,7 +1950,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 76,
-        "fetchedAt": "2026-06-12T10:26:25.652Z"
+        "fetchedAt": "2026-06-13T09:28:30.688Z"
       }
     },
     "recentReviews": [
@@ -2037,7 +2037,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 369,
-        "fetchedAt": "2026-06-12T10:26:26.061Z"
+        "fetchedAt": "2026-06-13T09:28:31.119Z"
       }
     },
     "recentReviews": [
@@ -2127,7 +2127,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 56,
-        "fetchedAt": "2026-06-12T10:26:26.525Z"
+        "fetchedAt": "2026-06-13T09:28:31.700Z"
       }
     }
   },
@@ -2175,7 +2175,7 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 95,
-        "fetchedAt": "2026-06-12T10:26:27.068Z"
+        "fetchedAt": "2026-06-13T09:28:32.438Z"
       }
     },
     "recentReviews": [
@@ -2261,7 +2261,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 14,
-        "fetchedAt": "2026-06-12T10:26:28.402Z"
+        "fetchedAt": "2026-06-13T09:28:32.915Z"
       }
     },
     "recentReviews": [
@@ -2384,7 +2384,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:29.852Z"
+        "fetchedAt": "2026-06-13T09:28:33.878Z"
       }
     },
     "submittedBy": "cgoosen"
@@ -2430,8 +2430,8 @@
     "ratings": {
       "apple": {
         "averageRating": 4.5,
-        "ratingCount": 181,
-        "fetchedAt": "2026-06-12T10:26:30.195Z"
+        "ratingCount": 182,
+        "fetchedAt": "2026-06-13T09:28:34.470Z"
       }
     },
     "recentReviews": [
@@ -2520,18 +2520,9 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-06-12T10:26:30.644Z"
+        "fetchedAt": "2026-06-13T09:28:35.095Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Hacker History is important",
-        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
-        "author": "KingKamic",
-        "updatedAt": "2021-03-03T07:12:50-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "hacker-valley-studio",
@@ -2578,7 +2569,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 61,
-        "fetchedAt": "2026-06-12T10:26:31.447Z"
+        "fetchedAt": "2026-06-13T09:28:35.441Z"
       }
     },
     "recentReviews": [
@@ -2663,7 +2654,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 318,
-        "fetchedAt": "2026-06-12T10:26:31.918Z"
+        "fetchedAt": "2026-06-13T09:28:35.828Z"
       }
     },
     "recentReviews": [
@@ -2756,7 +2747,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 4,
-        "fetchedAt": "2026-06-12T10:26:32.610Z"
+        "fetchedAt": "2026-06-13T09:28:36.429Z"
       }
     }
   },
@@ -2801,7 +2792,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 40,
-        "fetchedAt": "2026-06-12T10:26:33.190Z"
+        "fetchedAt": "2026-06-13T09:28:37.053Z"
       }
     },
     "recentReviews": [
@@ -2893,7 +2884,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 4,
-        "fetchedAt": "2026-06-12T10:26:33.812Z"
+        "fetchedAt": "2026-06-13T09:28:37.411Z"
       }
     }
   },
@@ -2932,9 +2923,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-05-30T08:00:00.000Z",
+    "lastEpisodeDate": "2026-06-13T08:00:00.000Z",
     "firstEpisodeDate": "2023-11-01T09:48:00.000Z",
-    "episodeCount": 121,
+    "episodeCount": 122,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2942,7 +2933,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:34.474Z"
+        "fetchedAt": "2026-06-13T09:28:37.850Z"
       }
     }
   },
@@ -2990,7 +2981,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 49,
-        "fetchedAt": "2026-06-12T10:26:34.864Z"
+        "fetchedAt": "2026-06-13T09:28:38.453Z"
       }
     },
     "recentReviews": [
@@ -3073,7 +3064,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 930,
-        "fetchedAt": "2026-06-12T10:26:35.247Z"
+        "fetchedAt": "2026-06-13T09:28:39.088Z"
       }
     },
     "recentReviews": [
@@ -3158,7 +3149,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-06-12T10:26:35.498Z"
+        "fetchedAt": "2026-06-13T09:28:39.492Z"
       }
     }
   },
@@ -3205,7 +3196,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 23,
-        "fetchedAt": "2026-06-12T10:26:36.209Z"
+        "fetchedAt": "2026-06-13T09:28:39.968Z"
       }
     },
     "recentReviews": [
@@ -3274,7 +3265,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 57,
-        "fetchedAt": "2026-06-12T10:26:36.846Z"
+        "fetchedAt": "2026-06-13T09:28:40.468Z"
       }
     },
     "recentReviews": [
@@ -3356,7 +3347,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 17,
-        "fetchedAt": "2026-06-12T10:26:37.353Z"
+        "fetchedAt": "2026-06-13T09:28:40.892Z"
       }
     },
     "recentReviews": [
@@ -3443,7 +3434,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-06-12T10:26:37.805Z"
+        "fetchedAt": "2026-06-13T09:28:41.264Z"
       }
     },
     "submittedBy": "bastienperez"
@@ -3490,7 +3481,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 40,
-        "fetchedAt": "2026-06-12T10:26:38.451Z"
+        "fetchedAt": "2026-06-13T09:28:41.709Z"
       }
     },
     "recentReviews": [
@@ -3592,7 +3583,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:39.136Z"
+        "fetchedAt": "2026-06-13T09:28:42.153Z"
       }
     },
     "submittedBy": "AntoPorter"
@@ -3641,7 +3632,7 @@
       "apple": {
         "averageRating": 4.2,
         "ratingCount": 20,
-        "fetchedAt": "2026-06-12T10:26:39.866Z"
+        "fetchedAt": "2026-06-13T09:28:42.528Z"
       }
     },
     "recentReviews": [
@@ -3711,7 +3702,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 21,
-        "fetchedAt": "2026-06-12T10:26:40.417Z"
+        "fetchedAt": "2026-06-13T09:28:43.108Z"
       }
     },
     "recentReviews": [
@@ -3797,7 +3788,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 19,
-        "fetchedAt": "2026-06-12T10:26:41.263Z"
+        "fetchedAt": "2026-06-13T09:28:43.706Z"
       }
     },
     "recentReviews": [
@@ -3896,7 +3887,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 47,
-        "fetchedAt": "2026-06-12T10:26:41.958Z"
+        "fetchedAt": "2026-06-13T09:28:44.178Z"
       }
     },
     "recentReviews": [
@@ -3969,7 +3960,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 390,
-        "fetchedAt": "2026-06-12T10:26:43.107Z"
+        "fetchedAt": "2026-06-13T09:28:44.920Z"
       }
     },
     "recentReviews": [
@@ -4059,7 +4050,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 12,
-        "fetchedAt": "2026-06-12T10:26:42.588Z"
+        "fetchedAt": "2026-06-13T09:28:44.521Z"
       }
     }
   },
@@ -4116,7 +4107,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 677,
-        "fetchedAt": "2026-06-12T10:26:43.967Z"
+        "fetchedAt": "2026-06-13T09:28:45.267Z"
       }
     }
   },
@@ -4164,7 +4155,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-06-12T10:26:44.243Z"
+        "fetchedAt": "2026-06-13T09:28:45.823Z"
       }
     }
   },
@@ -4233,9 +4224,46 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 79,
-        "fetchedAt": "2026-06-12T10:26:44.612Z"
+        "fetchedAt": "2026-06-13T09:28:46.166Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
@@ -4279,7 +4307,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:44.898Z"
+        "fetchedAt": "2026-06-13T09:28:46.433Z"
       }
     }
   },
@@ -4325,7 +4353,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:45.544Z"
+        "fetchedAt": "2026-06-13T09:28:46.758Z"
       }
     }
   },
@@ -4372,7 +4400,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 2011,
-        "fetchedAt": "2026-06-12T10:26:46.060Z"
+        "fetchedAt": "2026-06-13T09:28:47.529Z"
       }
     },
     "recentReviews": [
@@ -4459,7 +4487,7 @@
       "apple": {
         "averageRating": 4,
         "ratingCount": 56,
-        "fetchedAt": "2026-06-12T10:26:47.105Z"
+        "fetchedAt": "2026-06-13T09:28:48.207Z"
       }
     },
     "recentReviews": [
@@ -4542,7 +4570,7 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 16,
-        "fetchedAt": "2026-06-12T10:26:46.441Z"
+        "fetchedAt": "2026-06-13T09:28:47.883Z"
       }
     }
   },
@@ -4591,7 +4619,7 @@
       "apple": {
         "averageRating": 4.4,
         "ratingCount": 33,
-        "fetchedAt": "2026-06-12T10:26:47.853Z"
+        "fetchedAt": "2026-06-13T09:28:48.786Z"
       }
     }
   },
@@ -4640,7 +4668,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 42,
-        "fetchedAt": "2026-06-12T10:26:48.171Z"
+        "fetchedAt": "2026-06-13T09:28:49.353Z"
       }
     },
     "recentReviews": [
@@ -4726,7 +4754,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 28,
-        "fetchedAt": "2026-06-12T10:26:48.709Z"
+        "fetchedAt": "2026-06-13T09:28:49.938Z"
       }
     },
     "recentReviews": [
@@ -4811,7 +4839,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 316,
-        "fetchedAt": "2026-06-12T10:26:49.335Z"
+        "fetchedAt": "2026-06-13T09:28:50.451Z"
       }
     },
     "recentReviews": [
@@ -4906,7 +4934,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-06-12T10:26:49.833Z"
+        "fetchedAt": "2026-06-13T09:28:50.710Z"
       }
     },
     "submittedBy": "foudendorp"
@@ -4952,7 +4980,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 13,
-        "fetchedAt": "2026-06-12T10:26:50.290Z"
+        "fetchedAt": "2026-06-13T09:28:51.072Z"
       }
     },
     "recentReviews": [
@@ -5029,7 +5057,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 40,
-        "fetchedAt": "2026-06-12T10:26:50.969Z"
+        "fetchedAt": "2026-06-13T09:28:51.750Z"
       }
     },
     "recentReviews": [
@@ -5120,9 +5148,46 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 16,
-        "fetchedAt": "2026-06-12T10:26:51.552Z"
+        "fetchedAt": "2026-06-13T09:28:52.065Z"
       }
     },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great cybersecurity podcast!",
+        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
+        "author": "Dave McCollough",
+        "updatedAt": "2025-12-12T06:46:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Love it",
+        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
+        "author": "dareyoutomove",
+        "updatedAt": "2024-10-12T09:27:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Pentesting 101",
+        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
+        "author": "Rich-Barr",
+        "updatedAt": "2023-11-01T04:42:09-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Worth a listen",
+        "content": "Great insight and advice and actually very entertaining.",
+        "author": "Chris Y Doyle",
+        "updatedAt": "2022-09-14T12:09:26-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Rock stars!",
+        "content": "This group of folks are the best of the best! Amazing talent sharing their brains with the world. I’m here for it.",
+        "author": "CupcakeHustling",
+        "updatedAt": "2022-08-10T14:26:33-07:00"
+      }
+    ],
     "submittedBy": "techspence"
   },
   {
@@ -5215,7 +5280,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 149,
-        "fetchedAt": "2026-06-12T10:26:52.594Z"
+        "fetchedAt": "2026-06-13T09:28:53.130Z"
       }
     },
     "recentReviews": [
@@ -5298,7 +5363,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 48,
-        "fetchedAt": "2026-06-12T10:26:53.061Z"
+        "fetchedAt": "2026-06-13T09:28:53.661Z"
       }
     }
   },
@@ -5361,9 +5426,46 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 62,
-        "fetchedAt": "2026-06-12T10:26:53.586Z"
+        "fetchedAt": "2026-06-13T09:28:54.634Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 1,
+        "title": "So much potential",
+        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
+        "author": "Yeahyeahblahblah",
+        "updatedAt": "2026-06-06T04:49:02-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful",
+        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
+        "author": "Laughedoutloud",
+        "updatedAt": "2025-12-27T07:09:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Oo",
+        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
+        "author": "\\x4A\\x4D",
+        "updatedAt": "2025-05-20T13:02:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "1X",
+        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
+        "author": "mjg5772",
+        "updatedAt": "2025-05-17T20:32:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Security and more",
+        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
+        "author": "Chris Mc.38",
+        "updatedAt": "2024-12-15T10:04:10-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",
@@ -5409,7 +5511,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 39,
-        "fetchedAt": "2026-06-12T10:26:54.140Z"
+        "fetchedAt": "2026-06-13T09:28:55.219Z"
       }
     },
     "recentReviews": [
@@ -5503,7 +5605,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 15,
-        "fetchedAt": "2026-06-12T10:26:54.652Z"
+        "fetchedAt": "2026-06-13T09:28:55.504Z"
       }
     }
   },
@@ -5550,7 +5652,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 136,
-        "fetchedAt": "2026-06-12T10:26:55.230Z"
+        "fetchedAt": "2026-06-13T09:28:56.125Z"
       }
     },
     "recentReviews": [
@@ -5647,7 +5749,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-06-12T10:26:55.775Z"
+        "fetchedAt": "2026-06-13T09:28:56.651Z"
       }
     },
     "submittedBy": "BardSEC"
