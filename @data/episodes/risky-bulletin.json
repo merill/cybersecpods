@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-ent-on-using-ai-to-track-human-behavior-on-the-endpoint",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Ent on using AI to track human behavior on the endpoint",
+    "description": "<p>In this Risky Business sponsored interview, Catalin Cimpanu talks with Brandon Dixon, co-founder and CTO of Ent AI, about the company’s innovative use of local LLMs to track user behavior on the endpoint, and add context to suspicious events to detect or prevent malicious activity.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.linkedin.com/in/brandonsdixon\">Brandon Dixon on LinkedIn</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-06-14T19:45:00.000Z",
+    "duration": 1176,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI132.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI132/"
+  },
+  {
     "id": "risky-bulletin-cisa-tightens-patching-rules-amid-bug-deluge",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: CISA tightens patching rules amid bug deluge",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS526/"
-  },
-  {
-    "id": "sponsored-filtering-the-kev-was-really-hard-until-now",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Filtering the KEV was really hard … Until now!",
-    "description": "<p>In this sponsored interview Casey Ellis chats to Tod Beardsley, VP of Security at RunZero about Kevology, the company’s analysis of CISA’s KEV list. Kevology lets you easily identify and fix vulnerabilities from the list that are urgent and relevant to you.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.runzero.com/resources/kevology/\">KEVology: An analysis of exploits, scores, & timelines on the CISA KEV</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-02-15T19:42:21.000Z",
-    "duration": 1438,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI115.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI115/"
   }
 ]
