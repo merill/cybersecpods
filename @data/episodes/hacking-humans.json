@@ -7021,23 +7021,6 @@
     "link": "https://thecyberwire.com/podcasts/word-notes/121/notes"
   },
   {
-    "id": "protecting-your-identity",
-    "podcastId": "hacking-humans",
-    "title": "Protecting your identity.",
-    "description": "<p>Jameeka Green Aaron, CISO, Customer Identity at Okta, sits down with Dave to speak about their State of Secure Identity report. Dave and Joe share some listener follow up from Richard, who writes in to share his thoughts on the discussion of the phishing kit targeting WordPress sites in a previous episode, and also writes in about last episode’s discussion on how companies were turning on employees who are overworked with two remote jobs and shares how Equifax was one of these companies. Dave's story follows typosquatting, which is when a scammer registers a website that is very similar to the real one, but will have a typo in it (ex: amozon, homdepot, gougle) and how a large typosquatting campaign is delivering tech support scams. Joe's story follows a South Bay man who had the misfortune of accepting hundreds of open house offers, but the houses weren't for sale. Our catch of the day comes from listener Chris who writes in that he's never gotten a phishing email on his work email or personal email, but that he received his first phish from PayPal, which seemed to me a notification at first glance rather than a message telling him there is fraudulent activity happening in his account.</p><p>Links to stories:</p><ul>\n<li><a href=\"https://www.malwarebytes.com/blog/threat-intelligence/large-typosquatting-campaign-delivers-tech-support-scams\">Large typosquatting campaign delivers tech support scams</a></li>\n<li><a href=\"https://www.latimes.com/california/story/2022-10-26/prison-sentence-multimillion-dollar-scam-fake-open-houses\">A South Bay man accepted hundreds of offers from open houses. But the homes weren’t for sale</a></li>\n</ul><p><br></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
-    "publishedAt": "2022-11-03T05:00:00.000Z",
-    "duration": 3094,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1005841703.mp3?updated=1667600067",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 219,
-    "seasonNumber": 5,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/hacking-humans/219/notes"
-  },
-  {
     "id": "whats-your-problem-trailer",
     "podcastId": "hacking-humans",
     "title": "What's Your Problem trailer.",
@@ -7053,6 +7036,23 @@
     "episodeType": "trailer",
     "appleEpisodeId": null,
     "link": null
+  },
+  {
+    "id": "protecting-your-identity",
+    "podcastId": "hacking-humans",
+    "title": "Protecting your identity.",
+    "description": "<p>Jameeka Green Aaron, CISO, Customer Identity at Okta, sits down with Dave to speak about their State of Secure Identity report. Dave and Joe share some listener follow up from Richard, who writes in to share his thoughts on the discussion of the phishing kit targeting WordPress sites in a previous episode, and also writes in about last episode’s discussion on how companies were turning on employees who are overworked with two remote jobs and shares how Equifax was one of these companies. Dave's story follows typosquatting, which is when a scammer registers a website that is very similar to the real one, but will have a typo in it (ex: amozon, homdepot, gougle) and how a large typosquatting campaign is delivering tech support scams. Joe's story follows a South Bay man who had the misfortune of accepting hundreds of open house offers, but the houses weren't for sale. Our catch of the day comes from listener Chris who writes in that he's never gotten a phishing email on his work email or personal email, but that he received his first phish from PayPal, which seemed to me a notification at first glance rather than a message telling him there is fraudulent activity happening in his account.</p><p>Links to stories:</p><ul>\n<li><a href=\"https://www.malwarebytes.com/blog/threat-intelligence/large-typosquatting-campaign-delivers-tech-support-scams\">Large typosquatting campaign delivers tech support scams</a></li>\n<li><a href=\"https://www.latimes.com/california/story/2022-10-26/prison-sentence-multimillion-dollar-scam-fake-open-houses\">A South Bay man accepted hundreds of offers from open houses. But the homes weren’t for sale</a></li>\n</ul><p><br></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
+    "publishedAt": "2022-11-03T05:00:00.000Z",
+    "duration": 3094,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1005841703.mp3?updated=1667600067",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 219,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/hacking-humans/219/notes"
   },
   {
     "id": "secure-web-gateway-noun-word-notes-2",
@@ -10489,23 +10489,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/129/notes"
   },
   {
-    "id": "fuzzing-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "fuzzing (noun) [Word Notes]",
-    "description": "<p>An automatic software bug and vulnerability discovery technique that input's invalid, unexpected and/or random data or fuzz into a program and then monitors the program's reaction to it.</p>",
-    "publishedAt": "2021-01-05T08:00:00.000Z",
-    "duration": 315,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW3226459436.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 28,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/28/notes"
-  },
-  {
     "id": "unix-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "Unix (noun) [Word Notes]",
@@ -10521,6 +10504,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/27/notes"
+  },
+  {
+    "id": "fuzzing-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "fuzzing (noun) [Word Notes]",
+    "description": "<p>An automatic software bug and vulnerability discovery technique that input's invalid, unexpected and/or random data or fuzz into a program and then monitors the program's reaction to it.</p>",
+    "publishedAt": "2021-01-05T08:00:00.000Z",
+    "duration": 315,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW3226459436.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 28,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/28/notes"
   },
   {
     "id": "encore-dont-go-looking-for-morality-here-hacking-humans",
@@ -10574,23 +10574,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/5/notes"
   },
   {
-    "id": "tactics-techniques-and-procedures-ttps-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "tactics, techniques and procedures (TTPs) (noun) [Word Notes]",
-    "description": "<p>A set of behaviors that precisely describes a cyber adversary attack campaign.</p>",
-    "publishedAt": "2020-12-22T08:00:00.000Z",
-    "duration": 403,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1542562394.mp3?updated=1608663287",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 24,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/24/notes"
-  },
-  {
     "id": "rootkit-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "rootkit (noun) [Word Notes]",
@@ -10606,6 +10589,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/25/notes"
+  },
+  {
+    "id": "tactics-techniques-and-procedures-ttps-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "tactics, techniques and procedures (TTPs) (noun) [Word Notes]",
+    "description": "<p>A set of behaviors that precisely describes a cyber adversary attack campaign.</p>",
+    "publishedAt": "2020-12-22T08:00:00.000Z",
+    "duration": 403,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1542562394.mp3?updated=1608663287",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 24,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/24/notes"
   },
   {
     "id": "phishing-lures-that-may-be-in-your-inbox-soon-and-how-to-deal-left-of-bang",
@@ -10659,23 +10659,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/127/notes"
   },
   {
-    "id": "cyber-threat-intelligence-cti-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "cyber threat intelligence (CTI) (noun) [Word Notes]",
-    "description": "<p>Information used by leadership to make decisions regarding the cybersecurity posture of their organization.</p>",
-    "publishedAt": "2020-12-08T08:00:00.000Z",
-    "duration": 362,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9696124098.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 23,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/23/notes"
-  },
-  {
     "id": "virtual-private-network-vpn-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "Virtual Private Network (VPN) (noun) [Word Notes}",
@@ -10691,6 +10674,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/20/notes"
+  },
+  {
+    "id": "cyber-threat-intelligence-cti-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "cyber threat intelligence (CTI) (noun) [Word Notes]",
+    "description": "<p>Information used by leadership to make decisions regarding the cybersecurity posture of their organization.</p>",
+    "publishedAt": "2020-12-08T08:00:00.000Z",
+    "duration": 362,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9696124098.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 23,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/23/notes"
   },
   {
     "id": "going-behind-the-scenes-and-preventing-social-engineering-in-financial-instituti",
@@ -10710,23 +10710,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/126/notes"
   },
   {
-    "id": "network-time-protocol-ntp-attack-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Network Time Protocol (NTP) attack (noun) [Word Notes]",
-    "description": "<p>A reflection or amplification distributed denial-of-service attack in which hackers query Internet network time protocol servers, NTP servers for short, for the correct time, but spoof the destination address of their target victims.</p>",
-    "publishedAt": "2020-12-01T08:00:00.000Z",
-    "duration": 397,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9519050384.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 19,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/19/notes"
-  },
-  {
     "id": "smishing-sms-phishing-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "smishing (SMS phishing) (noun) [Word Notes]",
@@ -10742,6 +10725,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/17/notes"
+  },
+  {
+    "id": "network-time-protocol-ntp-attack-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Network Time Protocol (NTP) attack (noun) [Word Notes]",
+    "description": "<p>A reflection or amplification distributed denial-of-service attack in which hackers query Internet network time protocol servers, NTP servers for short, for the correct time, but spoof the destination address of their target victims.</p>",
+    "publishedAt": "2020-12-01T08:00:00.000Z",
+    "duration": 397,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9519050384.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 19,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/19/notes"
   },
   {
     "id": "encore-wearing-a-mask-in-the-oval-office-and-the-art-of-deception",
