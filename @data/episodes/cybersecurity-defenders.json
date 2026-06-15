@@ -1,5 +1,22 @@
 [
   {
+    "id": "ffmpegs-21-zero-days-ruby-cooldown-feature-microsoft-disrupted-by-shai-hulud-wor",
+    "podcastId": "cybersecurity-defenders",
+    "title": "FFmpeg's 21 zero-days, Ruby cooldown feature, Microsoft disrupted by Shai-Hulud worm & Meta AI tool compromise / Intel Chat [#331]",
+    "description": "<p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>DepthFirst reported that it's autonomous security agent discovered 21 previously unknown vulnerabilities in FFmpeg, a widely deployed multimedia framework used across browsers, streaming infrastructure, <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://depthfirst.com/research/21-zero-days-in-ffmpeg\">and other systems that process media</a>. </li><li>Bundler, 4.0.13 introduces a new security feature called cooldown, aimed at reducing the impact of software supply chain attacks <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html\">in the Ruby ecosystem</a>. </li><li>A new variant of the Shai-Hulud supply chain worm, known as Miasma, briefly disrupted Microsoft's software development ecosystem after <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories\">compromising dozens of GitHub repositories</a>.</li><li>Meta says approximately 20,000 Instagram accounts may have been compromised through the abuse of an AI powered <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/\">account recovery support system</a>.</li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
+    "publishedAt": "2026-06-15T12:45:16.000Z",
+    "duration": 1711,
+    "audioUrl": "https://podcast.wistia.com/deliveries/95fb4828fdd9c20eb75c2ed13f2b0889eec21f5a.mp3?d=eyJtIjoxNDkxNjQxMjgsIm1kIjoxNzExLjEsImEiOiJ3aXN0aWEtcHJvZHVjdGlvbl8xNzk3NDk4IiwiYyI6MTAwODExLCJlIjoyMTE4NTk1LCJiIjoiOTVmYjQ4MjhmZGQ5YzIwZWI3NWMyZWQxM2YyYjA4ODllZWMyMWY1YSIsIm1iIjoxNDg4OTYsIm9iIjoxNDQwMDIwLjkzMzkwMjE2ODJ9--be7bf37f2f13f5db0f95930b763df3f5c12c201ed2ea895511abbb5785043fff",
+    "videoUrl": null,
+    "imageUrl": "https://embed-ssl.wistia.com/deliveries/91c43d87b47183fe9f404670dc2276e2.png?image_crop_resized=3000x3000",
+    "episodeNumber": 331,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=pe1jzpl53l"
+  },
+  {
     "id": "ai-assisted-soc-training-with-carlo-anez-defender-fridays-330",
     "podcastId": "cybersecurity-defenders",
     "title": "AI-assisted SOC training with Carlo Anez / Defender Fridays [#330]",
