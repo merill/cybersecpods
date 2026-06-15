@@ -1,5 +1,22 @@
 [
   {
+    "id": "sustaining-open-vsx-with-mike-and-thabang",
+    "podcastId": "open-source-security",
+    "title": "Sustaining Open VSX with Mike and Thabang",
+    "description": "<p dir=\"auto\">Josh welcomes Mike Milinkovich and Thabang Mashologu from the Eclipse Foundation to talk about their new managed Open VSX registry. This is the first open source package registry to create a commercial operation for large company users to help fund the registry. We discuss how we got here, what's actually going on, and why this commercial approach is working. Everyone knew this day would come, and it looks like the Eclipse Foundation got this one right.</p> <p dir=\"auto\">The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-06-openvsx-mike-thabang/\" rel= \"nofollow\">https://opensourcesecurity.io/2026/2026-06-openvsx-mike-thabang/</a></p>",
+    "publishedAt": "2026-06-15T00:00:00.000Z",
+    "duration": 2213,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-06-openvsx-mike-thabang.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/5/1/3/a/513ae2e2edb63b5bd959afa2a1bf1c87/square-vsx.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/sustaining-open-vsx-with-mike-and-thabang"
+  },
+  {
     "id": "hacking-your-cicd-with-francois-proulx",
     "podcastId": "open-source-security",
     "title": "Hacking your CI/CD with François Proulx",
