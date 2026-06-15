@@ -1,5 +1,22 @@
 [
   {
+    "id": "facing-the-vulnpocalypse-with-lcamtuf",
+    "podcastId": "security-cryptography-whatever",
+    "title": "Facing the Vulnpocalypse with lcamtuf",
+    "description": "<p>We talk to Michał Zalewski (lcamtuf) about the vulnpocalypse and if we even need fuzzers anymore. This episode may be export controlled at a future date.</p><p>Watch on YouTube: https://www.youtube.com/watch?v=<a href='https://youtu.be/dEKBHI3rodY'>uI9CSgB4p9o</a></p><p>Transcript: https://securitycryptographywhatever.com/2026/06/14/facing-the-vulnpocalypse-with-lcamtuf</p><ul><li><a href='https://github.com/google/afl'>https://github.com/google/afl</a></li><li><a href='https://www.reddit.com/r/claude/comments/1tqtenf/anthropic_said_today_that_mythos_is_coming_to_all/'>https://www.reddit.com/r/claude/comments/1tqtenf/anthropic_said_today_that_mythos_is_coming_to_all/</a></li><li><a href='https://github.com/google/clusterfuzz'>https://github.com/google/clusterfuzz</a></li><li><a href='https://en.wikipedia.org/wiki/Jevons_paradox'>https://en.wikipedia.org/wiki/Jevons_paradox</a></li><li><a href='https://en.wikipedia.org/wiki/XZ_Utils_backdoor'>https://en.wikipedia.org/wiki/XZ_Utils_backdoor</a></li><li><a href='https://en.wikipedia.org/wiki/Brighton_hotel_bombing'>https://en.wikipedia.org/wiki/Brighton_hotel_bombing</a></li><li><a href='https://curl.se/'>https://curl.se/</a></li><li><a href='https://ftp.openbsd.org/pub/OpenBSD/patches/7.8/common/025_sack.patch.sig'>https://ftp.openbsd.org/pub/OpenBSD/patches/7.8/common/025_sack.patch.sig</a></li><li><a href='https://www.wired.com/story/last-pass-vulnerability-password-safe/'>https://www.wired.com/story/last-pass-vulnerability-password-safe/</a></li><li><a href='https://nostarch.com/tangledweb'>https://nostarch.com/tangledweb</a></li><li><a href='https://nostarch.com/silence.htm'>https://nostarch.com/silence.htm</a></li><li><a href='https://nostarch.com/practical-doomsday'>https://nostarch.com/practical-doomsday</a></li><li><a href='https://nostarch.com/secret-life-of-circuits'>https://nostarch.com/secret-life-of-circuits</a></li><li><a href='https://www.youtube.com/c/3blue1brown'>https://www.youtube.com/c/3blue1brown</a></li></ul><p><br/>\"Security Cryptography Whatever\" is hosted by <a href='https://twitter.com/durumcrustulum'>Deirdre Connolly</a> (@durumcrustulum), <a href='https://twitter.com/tqbf'>Thomas Ptacek</a> (@tqbf), and <a href='https://twitter.com/dadrian'>David Adrian</a> (@dadrian)</p>",
+    "publishedAt": "2026-06-15T08:00:00.000Z",
+    "duration": 4289,
+    "audioUrl": "https://www.buzzsprout.com/1822302/episodes/19346543-facing-the-vulnpocalypse-with-lcamtuf.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 6,
+    "seasonNumber": 5,
+    "explicit": true,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "ai-finds-vulns-you-cant-with-nicholas-carlini",
     "podcastId": "security-cryptography-whatever",
     "title": "AI Finds Vulns You Can't With Nicholas Carlini",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "safe-ai-at-scale-what-happens-after-initial-access-and-the-weekly-enterprise-new",
+    "podcastId": "enterprise-security-weekly",
+    "title": "Safe AI at scale, what happens after initial access, and the weekly enterprise news - Albert Estevez Polo, Shiva Pillay - ESW #463",
+    "description": "Interview with Shiva Pillay from Veeam <p>Safe AI at Scale</p> <p>AI investment is exploding, yet nearly 90% of enterprise initiatives fail because the data powering AI cannot be trusted. That's the uncomfortable truth the industry is facing right now. Safe AI at scale requires more than just great models—it demands trusted, governed, and recoverable data.</p> <p>This segment is sponsored by Veeam. Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/veeam\">https://securityweekly.com/veeam</a> to learn more about them!</p> <p>Segment resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.veeam.com/company/press-release/veeam-launches-new-data-and-ai-trust-maturity-model-to-help-organizations-benchmark-ai-readiness.html\"> Veeam Launches New Data and AI Trust Maturity Model to Help Organizations Benchmark AI Readiness</a></li> </ul> Topic: Sure, we know how initial access works, but what about lateral movement? <p>A special topic segment where we're joined by Albert Estevez Polo, field CTO for Zero Networks (a community guest, not a podcast sponsor). Zero Networks just released some very interesting data on what attackers are doing <em>after</em> they gain access to victim's environments and how they're doing it.</p> <p>Segment Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://zeronetworks.com/resource-center/reports/2026-lateral-movement-exposure-report?utm_medium=pr&utm_source=zero_networks&utm_campaign=lmer_and_blast_radius_tool_pr\"> Link to report page</a></li> </ul> Weekly Enterprise Security News <p>Finally, in the enterprise security news,</p> <ol> <li>Funding and acquisitions</li> <li>Good news, Mythos isn't dangerous anymore!</li> <li>An excellent breach analysis</li> <li>Cyber insurance rates are dropping, but there's a catch</li> <li>CISA updates vulnerability remediation guidance</li> <li>Zoom calls are worse than you think, and maybe not for the reasons you think</li> <li>Remember when it was illegal to rip DVDs?</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-463\">https://securityweekly.com/esw-463</a></p>",
+    "publishedAt": "2026-06-15T09:00:00.000Z",
+    "duration": 5477,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_463_1--14539927-8835-49bc-a26c-955b02061174--audio-converted--cfb36075-7d4e-499e-be04-4fb89d4dce94.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/4/c/3/f/4c3f39f938300b8ad959afa2a1bf1c87/ESW_463_Thumbnail_ESW_1920x1920-op1_1c566dff-f2dd-41c7-ba0b-c9545012fbdc.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/safe-ai-at-scale-what-happens-after-initial-access-and-the-weekly-enterprise-news-albert-estevez-polo-shiva-pillay-esw-463"
+  },
+  {
     "id": "the-state-of-ai-in-secops-the-unintended-consequences-of-vulnmaxxing-and-the-new",
     "podcastId": "enterprise-security-weekly",
     "title": "The State of AI in SecOps, the Unintended Consequences of Vulnmaxxing, and the News - Filip Stojkovski - ESW #462",
