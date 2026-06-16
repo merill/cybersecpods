@@ -1,5 +1,22 @@
 [
   {
+    "id": "why-does-it-matter-who-or-what-created-the-code-matias-madou-asw-387",
+    "podcastId": "application-security-weekly",
+    "title": "Why Does It Matter Who or What Created the Code? - Matias Madou - ASW #387",
+    "description": "<p>Agents and LLMs are creating and reviewing code. They're a new tool to help developers write software and they're a new abstraction layer for expressing what code should do. But if we're focused on determining whether code is secure, where do we focus our attention on ensuring a secure outcome? Matias Madou talks about the challenges of finding metrics to help answer these questions. We walk through many of the questions we'd like to see answered and our desire to see appsec (finally?) shift out of a find-and-fix mode into a future of secure design.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-387\">https://securityweekly.com/asw-387</a></p>",
+    "publishedAt": "2026-06-16T09:00:00.000Z",
+    "duration": 4000,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_387_1--b1d61246-de74-4b4f-9df4-12a4e6763414--audio-converted--fd4c76f0-d8e5-4873-a823-17dfd8dc475e.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/5/7/c/4/57c40193ef19590ad959afa2a1bf1c87/ASW_387_Thumbnail_ASW_1920x1920-op1_d31115e9-c4e6-431e-9eae-d997931a4f42.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/why-does-it-matter-who-or-what-created-the-code-matias-madou-asw-387"
+  },
+  {
     "id": "scanner-results-are-a-starting-point-heres-what-comes-next-federico-kirschbaum-a",
     "podcastId": "application-security-weekly",
     "title": "Scanner Results Are a Starting Point. Here's What Comes Next. - Federico Kirschbaum - ASW #386",

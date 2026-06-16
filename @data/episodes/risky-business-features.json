@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-state-of-the-art-in-ai-model-jailbreaks",
+    "podcastId": "risky-business-features",
+    "title": "The state of the art in AI model jailbreaks",
+    "description": "<p>In this solo podcast episode, James Wilson breaks down the current state of AI model jailbreaks.</p>\n\n<p>If you’ve somehow missed the story, last week Anthropic released its Fable 5 and Mythos 5 models to the public. In the name of safety, both models were guardrailed up the wazoo, but that didn’t stop a bunch of jailbreakers from figuring out how to bypass at least some of their safety restrictions.</p>\n\n<p>In response to these guardrail bypasses the White House issued an export control directive on the models, citing national security concerns. But was the Trump administration right to do this? Do these jailbreaks represent a threat to the security of the USA, or was the export restriction overkill? Tune in to find out!</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://x.com/elder_plinius/status/2064776322979676227\">Pliny the Elder on Fable 5 Jailbreak</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/whojumpr/status/2065413811184496894\">whoJumper's response to Pliny</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arxiv.org/abs/2408.04870\">ConfusedPilot: Confused Deputy Risks in RAG-based LLMs</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-06-16T09:03:04.000Z",
+    "duration": 3159,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES27.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES27/"
+  },
+  {
     "id": "why-npm-v12-wont-stop-supply-chain-attacks",
     "podcastId": "risky-business-features",
     "title": "Why NPM v12 won’t stop supply chain attacks",
