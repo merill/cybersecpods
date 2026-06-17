@@ -1,5 +1,22 @@
 [
   {
+    "id": "shinyhunters-expanding-toolkit-oracle-peoplesoft-zero-day-exploitation-and-the-b",
+    "podcastId": "shadowtalk",
+    "title": "ShinyHunters' Expanding Toolkit: Oracle PeopleSoft Zero-Day Exploitation and the BreachForums Defense Gaps",
+    "description": "<p>ShinyHunters dominated headlines this week: a zero-day, a BreachForums listing, and unverified claims all hitting at once. The problem isn't just keeping up with the volume. It's knowing which of it is real, which is noise, and what your team actually needs to act on.</p><p>Join hosts Tehman and John as they discuss:</p><ul><li>ShinyHunters zero-day exploitation of CVE-2026-35273</li><li>Why a BreachForums listing extends the threat well beyond the initial compromise</li><li>What proactive, resource-development-stage detection looks like in practice</li></ul><p> <b>Two questions your organization should be asking right now:</b></p><ul><li>Is your Oracle PeopleSoft Environment Management Hub internet-facing?</li><li>Do you have dark web and criminal forum monitoring in place to detect before the attack begins?</li></ul><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Tehman Tariq</b>: Sr. Manager of Cyber Operations at ReliaQuest. He has spent a majority of my career leading our Incident Response, Security Architecture, and Detection teams. As well has working hand in hand with CISOs to introduce automation allowing for the maturity of their security programs.</p>",
+    "publishedAt": "2026-06-17T20:00:00.000Z",
+    "duration": 1179,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19363450-shinyhunters-expanding-toolkit-oracle-peoplesoft-zero-day-exploitation-and-the-breachforums-defense-gaps.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "china-linked-cyber-espionage-how-op-512-exploited-legacy-iis-servers-and-evaded-",
     "podcastId": "shadowtalk",
     "title": "China-Linked Cyber Espionage: How OP-512 Exploited Legacy IIS Servers and Evaded Detection",
