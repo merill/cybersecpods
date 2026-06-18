@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-185-or-a-toddler-with-a-bazooka-the-real-risk-of-ai-agents",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Episode 185 | A Toddler with a Bazooka: The Real Risk of AI Agents",
+    "description": "<p>AI agents can search the web, manipulate files, run commands, make API requests, access cloud platforms, and operate fully autonomously. They are powerful, they are here, and most organizations have no security controls around them whatsoever.</p><p>In this episode, Brad and Spencer break down the five major AI agent risk categories security teams need to understand right now, using Simon Willison's \"lethal trifecta\" as a framework and building on it with two additional risk areas they see in the field.</p><p>In this episode:</p><p>- What an AI agent actually is and why the definition matters before you can secure it<br/> - What AI agents are capable of: files, commands, APIs, memory, cloud access, and autonomous execution<br/> - The lethal trifecta: access to private data, exposure to untrusted content, and external communication<br/> - Risk category 1: Access to private data - why agents inherit your permissions and why that is dangerous<br/> - Risk category 2: Exposure to untrusted content and prompt injection attacks<br/> - Risk category 3: External communication and data exfiltration (including a real canary token experiment)<br/> - Risk category 4: Privileged access and limiting blast radius with least privilege identities<br/> - Risk category 5: Autonomous actions, approval gates, rate limits, and kill switches<br/> - Why backups, rollback plans, and recovery playbooks are more important than ever in an AI agent world</p><p>Resources mentioned:</p><p>- Simon Willison's lethal trifecta post (June 2025): <a href='https://simonwillison.net'>https://simonwillison.net</a><br/> - Zach Korman's ContinuumCon sandbox escape workshop: <a href='https://continuumcon.com/schedule/'>https://continuumcon.com/schedule/</a><br/> - offsec.blog | securit360.com</p><p>Need a pen test before end of year? Q3 slots are filling up fast. </p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-06-18T10:00:00.000Z",
+    "duration": 2756,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19363782-episode-185-a-toddler-with-a-bazooka-the-real-risk-of-ai-agents.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "episode-184-or-active-directory-isnt-dead-its-just-undefended",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Episode 184 | Active Directory Isn't Dead. It's Just Undefended.",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "patching-in-the-dark-managing-unknown-threats-in-complex-environments",
+    "podcastId": "talos-takes",
+    "title": "Patching in the dark: Managing unknown threats in complex environments",
+    "description": "<p>If you're tired of being told to \"just patch,\" we understand. The threat landscape is evolving at breakneck speed, with AI-driven tools enabling adversaries to uncover and exploit vulnerabilities before defenders even know they exist. In this episode of Talos Takes, Amy sits down with Threat Intelligence Lead Pierre Cadieux to discuss how to defend against these unknown threats. We move past the simplified advice of \"just patch everything\" to explore the logistical, technical, and business realities that make patching a complex, high-stakes operation rather than a simple button click.</p><p>From the necessity of testing your patches to the importance of building strong partnerships between security teams and business leadership, this episode breaks down the things defenders often miss that build true resilience in organizations.</p>",
+    "publishedAt": "2026-06-18T10:00:00.000Z",
+    "duration": 1395,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19360999-patching-in-the-dark-managing-unknown-threats-in-complex-environments.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "when-synthetic-logs-dont-lie-generating-coherent-attack-stories-for-better-detec",
     "podcastId": "talos-takes",
     "title": "When synthetic logs don’t lie: Generating coherent attack stories for better detection",
