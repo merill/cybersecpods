@@ -2584,7 +2584,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-06-17T11:11:47.483Z"
+        "fetchedAt": "2026-06-18T10:42:48.840Z"
       }
     },
     "recentReviews": [
@@ -4925,11 +4925,11 @@
     "applePodcastId": "329032812",
     "title": "Shared Security Podcast",
     "description": "Shared Security is the the longest-running cybersecurity and privacy podcast where industry veterans Tom Eston, Scott Wright, and Kevin Tackett break down the week’s security WTF moments, privacy fails, human mistakes, and “why is this still a problem?” stories — with humor, honesty, and hard-earned real-world experience.  Whether you’re a security pro, a privacy advocate, or just here to hear Kevin yell about vendor nonsense, this podcast delivers insights you’ll actually use — and laughs you probably need.  Real security talk from people who’ve lived it.",
-    "summary": "",
-    "subtitle": "",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/78/fd/4978fdb9-89ca-9dfb-be3f-9b0163ef57f2/mza_17986082766011588214.jpg/600x600bb.jpg",
+    "summary": "Shared Security is the the longest-running cybersecurity and privacy podcast where industry veterans Tom Eston, Scott Wright, and Kevin Tackett break down the week’s security WTF moments, privacy fails, human mistakes, and “why is this still a problem?” stories — with humor, honesty, and hard-earned real-world experience.  Whether you’re a security pro, a privacy advocate, or just here to hear Kevin yell about vendor nonsense, this podcast delivers insights you’ll actually use — and laughs you probably need.  Real security talk from people who’ve lived it.",
+    "subtitle": "Shared Security is the the longest-running cybersecurity and privacy podcast where industry veterans Tom Eston, Scott Wright, and Kevin Tackett break down the week’s security WTF moments, privacy fails, human mistakes, and “why is this still a problem?” stories — with humor, honesty, and hard-earned real-world experience.",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/dd/eb/c1ddebf1-c5de-42b4-ae3a-66a0e5b6db16/mza_16763679910331693604.jpg/600x600bb.jpg",
     "author": "Tom Eston, Scott Wright, Kevin Tackett",
-    "language": "en-US",
+    "language": "en-us",
     "categories": [
       "News",
       "Tech News",
@@ -4937,7 +4937,7 @@
     ],
     "explicit": false,
     "websiteUrl": "https://sharedsecurity.net/",
-    "rssUrl": "https://sharedsecurity.net/feed/podcast/",
+    "rssUrl": "https://feeds.transistor.fm/shared-security-podcast",
     "copyright": "2026",
     "spotifyUrl": null,
     "youtubeUrl": null,
