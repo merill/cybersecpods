@@ -1,5 +1,22 @@
 [
   {
+    "id": "how-using-open-weight-models-can-blow-up-in-your-face",
+    "podcastId": "risky-business-features",
+    "title": "How using open weight models can blow up in your face",
+    "description": "<p>In this podcast episode James Wilson and Brad Arkin talk about how to safely use open weight large language models in the enterprise. The cost of frontier models was already driving interest in freely available open weight models like DeepSeek, Kimi and Qwen. But now the US government is forcing Anthropic to pull its Fable and Mythors models from the market, the argument for having greater control over your own AI stack is stronger than ever.</p>\n\n<p>But as you’ll hear in this episode, the model itself is just one component of the complex tech stack you’ll need to spin up if you want local inference. There’s a lot of moving parts, each of which comes with its own supply chain risks.</p>\n\n<p>So whether you’re hosting these models on your own hardware or via a SaaS provider, there’s a lot to ponder!</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-06-19T07:15:44.000Z",
+    "duration": 2585,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES28.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES28/"
+  },
+  {
     "id": "the-state-of-the-art-in-ai-model-jailbreaks",
     "podcastId": "risky-business-features",
     "title": "The state of the art in AI model jailbreaks",
