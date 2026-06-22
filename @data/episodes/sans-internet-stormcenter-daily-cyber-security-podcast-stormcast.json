@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-june-22nd-2026-ipv4-mapped-phish-nginx-bug-squid-bleeds-am",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, June 22nd, 2026: IPv4 Mapped Phish; nginx bug; squid bleeds; AMD encryption fix",
+    "description": "<br/>\neBanking Phishing Delivered Through IPv4-Mapped IPv6 Address<br/>\n<a href=\"https://isc.sans.edu/diary/eBanking%20Phishing%20Delivered%20Through%20IPv4-Mapped%20IPv6%20Address/33090\">https://isc.sans.edu/diary/eBanking%20Phishing%20Delivered%20Through%20IPv4-Mapped%20IPv6%20Address/33090</a><br/>\nNGINX ngx_http_v3_module vulnerability CVE-2026-42530<br/>\n<a href=\"https://my.f5.com/manage/s/article/K000161616\">https://my.f5.com/manage/s/article/K000161616</a><br/>\nSquidbleed (CVE-2026-47729)<br/>\n<a href=\"https://blog.calif.io/p/squidbleed-cve-2026-47729\">https://blog.calif.io/p/squidbleed-cve-2026-47729</a><br/>\nAMD will reinstate memory encryption on Ryzen 9000 CPUs through a BIOS update in July <br/>\n<a href=\"https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback\">https://www.tomshardware.com/pc-components/cpus/amd-will-reinstate-memory-encryption-on-ryzen-9000-cpus-through-a-bios-update-in-july-tsme-is-coming-back-after-valuable-community-feedback</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-06-22T02:00:02.000Z",
+    "duration": 366,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9980.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9980,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9980"
+  },
+  {
     "id": "sans-stormcast-thursday-june-18th-2026-quic-challenge-android-17-oracle-cspu-jet",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, June 18th, 2026: QUIC Challenge; Android 17; Oracle CSPU; JetBrains Plugins;",

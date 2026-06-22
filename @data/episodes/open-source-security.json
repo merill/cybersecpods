@@ -1,5 +1,22 @@
 [
   {
+    "id": "packagist-and-composer-security-with-jordi-boggiano",
+    "podcastId": "open-source-security",
+    "title": "Packagist and Composer security with Jordi Boggiano",
+    "description": "<p dir=\"auto\">Josh welcomes Jordi Boggiano the lead maintainer of Composer and Packagist to explain the truckload of security features they've recently added. Packagist is the PHP package registry, Composer is the dependency manager for PHP. Recently the people behind these projects have added a number of security features that will improve the security of the entire ecosystem. Jordi explains it all to us and gives a glimpse of what's coming next.</p> <p dir=\"auto\">The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-06-packagist-security-jordi\" rel= \"nofollow\">https://opensourcesecurity.io/2026/2026-06-packagist-security-jordi</a></p> <p> </p>",
+    "publishedAt": "2026-06-22T00:00:00.000Z",
+    "duration": 2088,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-06-packagist-security-jordi.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/6/3/5/2/6352f82f67f6e297d959afa2a1bf1c87/square-fragile-box.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/packagist-and-composer-security-with-jordi-boggiano"
+  },
+  {
     "id": "sustaining-open-vsx-with-mike-and-thabang",
     "podcastId": "open-source-security",
     "title": "Sustaining Open VSX with Mike and Thabang",
