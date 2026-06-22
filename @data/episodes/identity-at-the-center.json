@@ -1,5 +1,22 @@
 [
   {
+    "id": "430-ai-for-iam-and-iam-for-ai-with-martin-sandren",
+    "podcastId": "identity-at-the-center",
+    "title": "#430 - AI for IAM and IAM for AI with Martin Sandren",
+    "description": "<p>Recorded live at EIC 2026 in Berlin, Jeff and Jim sit down with Martin Sandren, IAM Product Lead at IKEA, for a wide-ranging conversation covering nearly every corner of modern identity security. Martin shares what has changed since his first IDAC appearance on episode 293, including the rise of AI, growing interest in digital sovereignty, and the maturing shared signals framework. The conversation moves through risk-based defense in depth, tiered MFA rollout strategies, session management, and the real challenge of trusting AI to make security decisions. Martin introduces identity dark matter and explains how IVIP can surface the 95-plus percent of applications that never reach an IGA system. The episode also covers shadow AI, MCP server risks, the SaaSpocalypse debate, and the EU AI Act. It closes on a grounded note: solar panels.</p><p><br></p><p><br></p><p><br></p><p>Connect with Martin: https://www.linkedin.com/in/martinsandren/</p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p><br></p><p>TIMESTAMPS</p><p><br></p><p>00:00 Welcome and EIC 2026 intro</p><p>01:47 What has changed in two years: AI, sovereignty, shared signals</p><p>03:06 Martin's EIC presentations: AI for IAM and IAM for AI</p><p>04:46 Can you prioritize one direction over the other?</p><p>07:13 What would it take to trust AI making identity decisions?</p><p>09:32 AI-enhanced detection and risk-based session management</p><p>13:07 Session invalidation and the shared signals framework</p><p>14:11 Defense in depth and right-sizing privileges</p><p>18:25 MFA today: any MFA versus phish-resistant MFA</p><p>19:17 AI chatbots, enterprise LLMs, and shadow AI</p><p>23:11 MCP servers, NHI risk, and return on risk thinking</p><p>27:00 AI configuring IAM systems: how close are we?</p><p>31:30 LLM costs, the SaaSpocalypse, and enterprise AI futures</p><p>40:10 Identity dark matter and the IVIP concept</p><p>44:16 CMDB versus IVIP: do you need both?</p><p>46:18 The EU AI Act and building an AI governance registry</p><p>49:18 Where to start: get your AI inventory in place first</p><p>50:00 Closing thoughts and the solar panel tangent</p><p><br></p><p>KEYWORDS</p><p><br></p><p>AI for IAM, IAM for AI, identity dark matter, IVIP, IGA, shared signals framework, phish-resistant MFA, defense in depth, session management, MCP servers, NHI, shadow AI, SaaSpocalypse, EU AI Act, AI governance, zero standing privilege, EIC 2026, IKEA, IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Martin Sandren</p><p><br></p><p><br></p><p><br></p>",
+    "publishedAt": "2026-06-22T09:00:00.000Z",
+    "duration": 3597,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/120581691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2Fbc5730af-a262-0a31-2c15-b6150a7470fa.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 430,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/430---AI-for-IAM-and-IAM-for-AI-with-Martin-Sandren-e3juc3r"
+  },
+  {
     "id": "429-sponsor-spotlight-sailpoint",
     "podcastId": "identity-at-the-center",
     "title": "#429 - Sponsor Spotlight - SailPoint",
