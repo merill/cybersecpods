@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-trail-of-bits-and-openai-patch-the-planet",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Trail of Bits and OpenAI patch the planet",
+    "description": "<p>In this sponsored interview James Wilson chats with Trail of Bits founder and CEO Dan Guido about its newly announced partnership with OpenAI. Together, they’ve started a new initiative called “Patch the Planet” to support open source maintainers.</p>\n\n<p>Being an open source maintainer is more difficult than ever. Just using frontier models to keep up with all the bug reports isn’t enough. Trail of Bits wants to help maintainers by combining its deep cybersecurity expertise with OpenAI’s GPT 5.5 Cyber.</p>\n\n<p>As Dan points out in this interview, this isn’t just about helping maintainers find and fix bugs. They’re spending just as much time on SDLC improvements, architecture changes, and the foundations needed to make open source sustainable in the AI era.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-06-23T04:17:44.000Z",
+    "duration": 1107,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI133.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI133/"
+  },
+  {
     "id": "between-two-nerds-the-prc-vs-ai",
     "podcastId": "risky-bulletin",
     "title": "Between Two Nerds: The PRC vs AI",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS530/"
-  },
-  {
-    "id": "between-two-nerds-how-nsa-will-use-ai",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: How NSA will use AI",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about how ‘professional’ Five Eyes cyber espionage agencies like NSA will use AI. These agencies place a premium on stealth and won’t yolo AI.</p>\n\n<p>This episode is available on <a href=\"https://youtu.be/w7sTC9GcL8A\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://news.risky.biz/ai-powered-espionage-will-favor-china/\">How AI-powered espionage will favour China</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use\">Google's AI threat tracker, February 2026</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-02-23T21:13:02.000Z",
-    "duration": 1646,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN155.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN155/"
   }
 ]

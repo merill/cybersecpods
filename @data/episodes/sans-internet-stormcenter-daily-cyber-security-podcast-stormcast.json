@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-june-23rd-2026-webshells-github-actions-update-fortibleed",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, June 23rd, 2026:  Webshells; GitHub Actions Update; Fortibleed Update; Private Access Control Tokens",
+    "description": "<br/>\nWebshells Remain Popular<br/>\n<a href=\"https://isc.sans.edu/diary/Webshells%20Remain%20Popular/33096\">https://isc.sans.edu/diary/Webshells%20Remain%20Popular/33096</a><br/>\nSafer pull_request_target defaults for GitHub Actions checkout<br/>\n<a href=\"https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout/\">https://github.blog/changelog/2026-06-18-safer-pull_request_target-defaults-for-github-actions-checkout/</a><br/>\nPrivate Access Control Tokens<br/>\n<a href=\"https://cloudflare.net/news/news-details/2026/Cloudflare-Collaborates-With-Leading-Browsers-to-Develop-a-Privacy-First-Protocol-For-the-Global-Internet/default.aspx\">https://cloudflare.net/news/news-details/2026/Cloudflare-Collaborates-With-Leading-Browsers-to-Develop-a-Privacy-First-Protocol-For-the-Global-Internet/default.aspx</a><br/>\n<a href=\"https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/\">https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</a><br/>\nFortibleed Update<br/>\n<a href=\"https://socradar.io/resources/whitepapers/dismantling-fortibleed-inside-a-russian-fortinet-compromise-operation/\">https://socradar.io/resources/whitepapers/dismantling-fortibleed-inside-a-russian-fortinet-compromise-operation/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-06-23T02:00:03.000Z",
+    "duration": 481,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9982.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9982,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9982"
+  },
+  {
     "id": "sans-stormcast-monday-june-22nd-2026-ipv4-mapped-phish-nginx-bug-squid-bleeds-am",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, June 22nd, 2026: IPv4 Mapped Phish; nginx bug; squid bleeds; AMD encryption fix",
