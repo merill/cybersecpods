@@ -1456,8 +1456,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-22T19:01:42.000Z",
-    "firstEpisodeDate": "2025-10-30T13:40:11.000Z",
+    "lastEpisodeDate": "2026-06-23T14:23:11.000Z",
+    "firstEpisodeDate": "2025-11-01T05:00:58.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -1802,16 +1802,7 @@
         "ratingCount": 2,
         "fetchedAt": "2026-06-23T09:58:31.527Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Jack is awesome",
-        "content": "Congrats on launch of Spanish version.",
-        "author": "Gotchayeah",
-        "updatedAt": "2025-05-22T18:24:35-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decipher-security-podcast",
@@ -2138,7 +2129,44 @@
         "ratingCount": 56,
         "fetchedAt": "2026-06-23T09:58:35.596Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this pod!",
+        "content": "Selena and Crista dives into intriguing topics that are often overlooked, serving up fresh insights in a compelling manner. It feels like a refreshing conversation with a wise friend, always leaving you eager for the next episode.\n\nFrom Bona and Team Capsho",
+        "author": "Bona and Team Capsho",
+        "updatedAt": "2023-08-30T14:42:38-07:00"
+      },
+      {
+        "rating": 4,
+        "title": "Great  Podcast",
+        "content": "Very good podcast Brian a lot from listening to it.",
+        "author": "JonDvid",
+        "updatedAt": "2023-06-11T05:06:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Cyber! Cyber! Cyber!",
+        "content": "This is the best podcast by CTI practitioners diving into detail about current threats. This podcast would win a fight against other similar podcasts. Let’s have a podcast fight club. Oops this pod is already the champ.",
+        "author": "GPSWKEKT1640",
+        "updatedAt": "2023-05-02T21:00:47-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Notch",
+        "content": "Timely and informative content!",
+        "author": "ASVPGLES",
+        "updatedAt": "2023-01-24T11:06:13-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Cyber Threat Podcast",
+        "content": "This podcast has some of the smartest people I’ve ever heard talk about computers. True thought leaders that are titans in the industry bringing the hottest cyber threats to your ears. Highly recommend.",
+        "author": "JM123456789123456789",
+        "updatedAt": "2022-03-10T09:38:13-07:00"
+      }
+    ]
   },
   {
     "id": "down-the-security-rabbithole",
@@ -2577,9 +2605,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-16T15:00:00.000Z",
+    "lastEpisodeDate": "2026-06-23T16:28:22.000Z",
     "firstEpisodeDate": "2019-06-19T14:51:23.000Z",
-    "episodeCount": 428,
+    "episodeCount": 429,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5551,16 +5579,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-06-23T09:59:10.129Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "When Podcasting Is Elevated In Thought and Execution",
-        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
-        "author": "When Podcasting Is Elevated",
-        "updatedAt": "2022-06-28T14:44:42-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "unsupervised-learning",
