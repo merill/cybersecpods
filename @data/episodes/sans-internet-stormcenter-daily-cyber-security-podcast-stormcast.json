@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-june-24th-2026-patching-vs-configurations-updates-libss",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, June 24th, 2026: Patching vs. Configurations Updates; libssh2 and ffmpeg vuln;",
+    "description": "<br/>\nCVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration.<br/>\n<a href=\"https://isc.sans.edu/diary/CVE-2024-40766%3A%20The%20Patch%20Fixed%20the%20Bug.%20Nobody%20Fixed%20the%20Configuration./33094\">https://isc.sans.edu/diary/CVE-2024-40766%3A%20The%20Patch%20Fixed%20the%20Bug.%20Nobody%20Fixed%20the%20Configuration./33094</a><br/>\nlibssh2 - Out-of-Bounds Write via Unchecked packet_length in transport.c<br/>\n<a href=\"https://www.vulncheck.com/advisories/libssh2-out-of-bounds-write-via-unchecked-packet-length-in-transport-c\">https://www.vulncheck.com/advisories/libssh2-out-of-bounds-write-via-unchecked-packet-length-in-transport-c</a><br/>\nPixelSmash   Critical FFmpeg Vulnerability Turns Media Files into Weapons<br/>\n<a href=\"https://jfrog.com/blog/pixelsmash-critical-ffmpeg-vulnerability-turns-media-files-into-weapons/\">https://jfrog.com/blog/pixelsmash-critical-ffmpeg-vulnerability-turns-media-files-into-weapons/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-06-24T02:00:03.000Z",
+    "duration": 408,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9984.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9984,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9984"
+  },
+  {
     "id": "sans-stormcast-tuesday-june-23rd-2026-webshells-github-actions-update-fortibleed",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, June 23rd, 2026:  Webshells; GitHub Actions Update; Fortibleed Update; Private Access Control Tokens",
