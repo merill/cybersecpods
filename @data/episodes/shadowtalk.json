@@ -1,5 +1,22 @@
 [
   {
+    "id": "klue-kali365-oauth-when-the-front-door-is-a-trusted-integration",
+    "podcastId": "shadowtalk",
+    "title": "Klue, Kali365, OAuth: When the Front Door Is a Trusted Integration",
+    "description": "<p>In the Klue compromises threat actors walked in through a trusted integration, using legitimate credentials to quietly siphon Salesforce CRM data at scale. The challenge isn't just responding to Klue. It's recognizing that every OAuth-connected integration in your environment is part of your attack surface.</p><p>Join hosts Alexandra and John as they discuss:</p><ul><li>How compromised Klue integrations were leveraged to exfiltrate Salesforce CRM data</li><li>Attribution and what it signals about the evolving data extortion landscape</li><li>How Oauth token and device code theft is growing</li></ul><p> <b>Two questions your organization should be asking right now:</b></p><ul><li>How many third-party integrations in your environment have active OAuth access to platforms holding critical data — and when were they last audited?</li><li>Do you have detections in place for unusual Salesforce API query volume and service account behavior that could signal an active exfiltration?</li></ul><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Alexandra Moore: </b>Manager of Threat Intelligence at ReliaQuest, where she leads intelligence analysis and customer dissemination to help organizations understand and respond to emerging cyber threats. Prior to this, she established and scaled monitoring across Russian-language cybercriminal platforms at Digital Shadows, building collection and analytical coverage to support digital risk protection capabilities.</p>",
+    "publishedAt": "2026-06-24T16:00:00.000Z",
+    "duration": 1688,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19397029-klue-kali365-oauth-when-the-front-door-is-a-trusted-integration.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "shinyhunters-expanding-toolkit-oracle-peoplesoft-zero-day-exploitation-and-the-b",
     "podcastId": "shadowtalk",
     "title": "ShinyHunters' Expanding Toolkit: Oracle PeopleSoft Zero-Day Exploitation and the BreachForums Defense Gaps",
