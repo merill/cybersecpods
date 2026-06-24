@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-business-843-fortibleed-is-kinda-awesome-actually",
+    "podcastId": "risky-business",
+    "title": "Risky Business #843 -- Fortibleed is kinda awesome, actually",
+    "description": "<p>On this week’s show special guest co-host Rob Joyce joins Patrick Gray and James Wilson to discuss the week’s cybersecurity news. Rob served as an advisor to Donald Trump during his first term as president and also served at NSA for 34 years. While at the agency, Joyce led Tailored Access Operations (TAO), and later became NSA’s Director of Cybersecurity.</p>\n\n<p>They cover:</p>\n\n<ul>\n  <li>The surprisingly well done Fortibleed campaign</li>\n  <li>Stolen Klue OAuth tokens lead to Salesforce data theft</li>\n  <li>OpenAI wants to patch the planet</li>\n  <li>runZero gets acquired by Accenture, congrats HD Moore!</li>\n  <li>Much, much more!</li>\n</ul>\n\n<p>This episode is also available on <a href=\"https://youtu.be/nzWA3eYR-0M\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials\">FortiBleed campaign used custom FortiGate sniffer to steal credentials | BleepingComputer</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://unit42.paloaltonetworks.com/large-scale-credential-attacks\">FortiBleed: Fortinet device credential compromise expands into broader credential-attack guidance | unit42.paloaltonetworks.com</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://techcrunch.com/2026/06/17/cybercriminals-allegedly-hacked-tens-of-thousands-of-fortinet-firewalls-used-by-major-companies-all-over-the-world\">Cybercriminals allegedly hacked tens of thousands of Fortinet firewalls used by major companies all over the world | TechCrunch Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks\">Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks | BleepingComputer</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/Polymarket/status/2068649209654309288\">Polymarket (@Polymarket) on X | X (formerly Twitter)</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://wrd.cm/4uHi57q\">The Korean telecom giant at the center of Anthropic’s Mythos controversy | wrd.cm</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://srlabs.de/blog/beyond-fable\">Beyond Fable: Can a Local LLM Replace Cloud AI for Security Code Reviews - SRLabs Research | SRLabs</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos\">OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos | wired.com</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/RBNEWSSI133\">Sponsored: Trail of Bits and OpenAI patch the planet | Risky Bulletin</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/five-eyes-alliance-say-advanced-ai-hacking-models-months-away\">Intel agencies: Frontier AI models will reshape cybersecurity faster than expected | cyberscoop.com</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html\">Embedding Forbidden Text in Spyware to Discourage AI Analysis | Schneier on Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak\">A new unpatchable flaw in Apple chips opens the door to an iPhone jailbreak | TechCrunch Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files\">USB worm spreads crypto-stealing malware via Windows shortcut files | BleepingComputer</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/gadgets/2026/06/google-shares-updated-timeline-for-rolling-out-android-developer-verification\">Android verification is coming: Google confirms timeline and supported app stores | Ars Technica</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/california-water-utility-breach-iran-hacker/823148\">California water utility probes breach claim by Iran-linked actor | Cybersecurity Dive</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/suspected-cyberattack-triggers-false-emergency-alerts-brazil\">Suspected cyberattack triggers false emergency alerts across parts of Brazil | The Record</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct\">Tesco moving 40,000 server workloads off VMware amid Broadcom's \"abusive conduct\" | Ars Technica</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/trump-directs-federal-agencies-quantum-cryptography\">Trump directs federal agencies to protect US data from quantum threats | therecord.media</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/accenture-industrial-cybersecurity-acquisition-dragos-netrise-runzero\">Accenture shells out $4.18B on three companies in big industrial cybersecurity push | cyberscoop.com</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-06-24T05:47:01.000Z",
+    "duration": 3815,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB843.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RB843/"
+  },
+  {
     "id": "risky-business-842-anthropic-needs-an-adult-in-the-c-suite",
     "podcastId": "risky-business",
     "title": "Risky Business #842 -- Anthropic needs an adult in the C suite",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB775/"
-  },
-  {
-    "id": "wide-world-of-cyber-sentinelones-chris-krebs-on-chinese-cyber-operations",
-    "podcastId": "risky-business",
-    "title": "Wide World of Cyber: SentinelOne's Chris Krebs on Chinese cyber operations",
-    "description": "<p>In this edition of the Wild World of Cyber podcast Patrick Gray sits down with SentinelOne’s Chief Intelligence and Public Policy Officer Chris Krebs to talk all about Chinese cyber operations.</p>\n\n<p>They look at the Salt Typhoon and Volt Typhoon campaigns, the last 20 years of Chinese operations, and the evolution of the cyber roles of China’s Ministry of State Security and People’s Liberation Army.</p>\n\n<p>It’s a very dense hour of conversation!</p>\n\n<p>This podcast was recorded in front of an audience at the Museum of Contemporary Art in Sydney.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/MQaVx9vpvQg\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2024-12-13T03:56:26.000Z",
-    "duration": 3004,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/WWC6.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/WWC6/"
   }
 ]

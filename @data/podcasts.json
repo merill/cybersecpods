@@ -604,16 +604,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-06-23T09:58:20.569Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must have podcast for Defenders",
-        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
-        "author": "Rljohnson5",
-        "updatedAt": "2023-05-23T14:47:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "bluehat-podcast",
@@ -1295,9 +1286,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-06-23T07:00:00.000Z",
+    "lastEpisodeDate": "2026-06-24T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1770,
+    "episodeCount": 1771,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1811,16 +1802,7 @@
         "ratingCount": 2,
         "fetchedAt": "2026-06-23T09:58:31.527Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Jack is awesome",
-        "content": "Congrats on launch of Spanish version.",
-        "author": "Gotchayeah",
-        "updatedAt": "2025-05-22T18:24:35-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decipher-security-podcast",
@@ -2822,16 +2804,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-06-23T09:58:42.065Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must-Listen for Identity Pros",
-        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
-        "author": "Ilse ☺️",
-        "updatedAt": "2026-02-27T06:06:05-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "identity-at-the-center",
@@ -2968,16 +2941,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-06-23T09:58:43.645Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 4,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -3968,8 +3932,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-06-23T04:17:44.000Z",
-    "firstEpisodeDate": "2026-02-25T01:29:58.000Z",
+    "lastEpisodeDate": "2026-06-24T06:20:28.000Z",
+    "firstEpisodeDate": "2026-02-26T00:59:10.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4041,8 +4005,8 @@
         "name": "Adam Boileau"
       }
     ],
-    "lastEpisodeDate": "2026-06-17T04:04:41.000Z",
-    "firstEpisodeDate": "2024-12-13T03:56:26.000Z",
+    "lastEpisodeDate": "2026-06-24T05:47:01.000Z",
+    "firstEpisodeDate": "2024-12-18T01:37:09.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4143,16 +4107,7 @@
         "ratingCount": 12,
         "fetchedAt": "2026-06-23T09:58:53.855Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4363,44 +4318,7 @@
         "ratingCount": 79,
         "fetchedAt": "2026-06-23T09:58:57.243Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Love this podcast!!",
-        "content": "Never a null moment!",
-        "author": "sr_98_sr",
-        "updatedAt": "2025-03-12T04:16:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Gold",
-        "content": "Amusing and informative and poetic!",
-        "author": "eahiv",
-        "updatedAt": "2024-05-27T17:14:36-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "good at cryptography",
-        "content": "also good at making me laugh",
-        "author": "cydyio",
-        "updatedAt": "2024-04-15T18:05:27-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Wonderfully accessible!",
-        "content": "Each episode is a great discussion into a large field",
-        "author": "Bob on Ross",
-        "updatedAt": "2024-03-03T19:32:17-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Found my new favorite podcast!",
-        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
-        "author": "Ragnaroekk",
-        "updatedAt": "2023-05-06T12:26:55-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-insider-conversations",
@@ -4795,44 +4713,7 @@
         "ratingCount": 33,
         "fetchedAt": "2026-06-23T09:59:01.432Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great news summaries and very funny",
-        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
-        "author": "TFWas",
-        "updatedAt": "2025-07-02T05:16:53-07:00"
-      },
-      {
-        "rating": 2,
-        "title": "Reasonably okay infosec podcast",
-        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
-        "author": "[REDACTED] USER",
-        "updatedAt": "2023-11-13T18:43:38-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Entertaining InfoSec news",
-        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
-        "author": "Bevonomics",
-        "updatedAt": "2022-12-07T14:23:31-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Brief But Not Shallow",
-        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
-        "author": "MLC689",
-        "updatedAt": "2022-11-29T10:37:03-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "Stop recommending this, I don’t want to see it",
-        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
-        "author": "Blizzard1s2d",
-        "updatedAt": "2019-06-19T20:00:01-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "shadowtalk",
@@ -5362,43 +5243,6 @@
         "fetchedAt": "2026-06-23T09:59:06.401Z"
       }
     },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great cybersecurity podcast!",
-        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
-        "author": "Dave McCollough",
-        "updatedAt": "2025-12-12T06:46:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Love it",
-        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
-        "author": "dareyoutomove",
-        "updatedAt": "2024-10-12T09:27:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Pentesting 101",
-        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
-        "author": "Rich-Barr",
-        "updatedAt": "2023-11-01T04:42:09-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Worth a listen",
-        "content": "Great insight and advice and actually very entertaining.",
-        "author": "Chris Y Doyle",
-        "updatedAt": "2022-09-14T12:09:26-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Rock stars!",
-        "content": "This group of folks are the best of the best! Amazing talent sharing their brains with the world. I’m here for it.",
-        "author": "CupcakeHustling",
-        "updatedAt": "2022-08-10T14:26:33-07:00"
-      }
-    ],
     "submittedBy": "techspence"
   },
   {
@@ -5564,9 +5408,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-18T06:00:00.000Z",
+    "lastEpisodeDate": "2026-06-24T06:00:00.000Z",
     "firstEpisodeDate": "2023-07-27T21:30:00.000Z",
-    "episodeCount": 131,
+    "episodeCount": 132,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5576,44 +5420,7 @@
         "ratingCount": 48,
         "fetchedAt": "2026-06-23T09:59:08.422Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Insightful and educational",
-        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
-        "author": "Maocol99",
-        "updatedAt": "2025-08-14T17:21:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful, timely, and concise!",
-        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
-        "author": "LarsMarie",
-        "updatedAt": "2025-05-05T15:23:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "More OT cybersecurity and Holly rocks.",
-        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
-        "author": "tryangalway",
-        "updatedAt": "2025-03-10T22:06:15-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great Podcast for Cybersecurity Insights!",
-        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
-        "author": "yshishka",
-        "updatedAt": "2024-08-26T10:36:16-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Accessible & Actionable Resource",
-        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
-        "author": "run_amanda",
-        "updatedAt": "2024-08-19T08:29:33-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "three-buddy-problem",
@@ -5676,44 +5483,7 @@
         "ratingCount": 63,
         "fetchedAt": "2026-06-23T09:59:08.986Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 1,
-        "title": "So much potential",
-        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
-        "author": "Yeahyeahblahblah",
-        "updatedAt": "2026-06-06T04:49:02-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful",
-        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
-        "author": "Laughedoutloud",
-        "updatedAt": "2025-12-27T07:09:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Oo",
-        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
-        "author": "\\x4A\\x4D",
-        "updatedAt": "2025-05-20T13:02:20-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "1X",
-        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
-        "author": "mjg5772",
-        "updatedAt": "2025-05-17T20:32:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Security and more",
-        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
-        "author": "Chris Mc.38",
-        "updatedAt": "2024-12-15T10:04:10-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "to-the-point-cybersecurity",
@@ -5855,16 +5625,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-06-23T09:59:10.129Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "When Podcasting Is Elevated In Thought and Execution",
-        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
-        "author": "When Podcasting Is Elevated",
-        "updatedAt": "2022-06-28T14:44:42-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "unsupervised-learning",
