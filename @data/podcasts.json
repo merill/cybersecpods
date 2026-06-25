@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-24T16:00:00.000Z",
+    "lastEpisodeDate": "2026-06-25T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 328,
+    "episodeCount": 329,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1937,11 +1937,11 @@
     "id": "defense-in-depth",
     "applePodcastId": "1450197741",
     "title": "Defense in Depth",
-    "description": "Defense in Depth promises clear talk on cybersecurity's most controversial and confusing debates. Once a week we choose one controversial and popular cybersecurity debate and use the InfoSec community's insights to lead our discussion.",
-    "summary": "Defense in Depth promises clear talk on cybersecurity's most controversial and confusing debates. Once a week we choose one controversial and popular cybersecurity debate and use the InfoSec community's insights to lead our discussion.",
+    "description": "Defense in Depth, hosted by David Spark, Steve Zalewski, Geoff Belknap, and Edward Contreras, promises clear talk on cybersecurity's most controversial and confusing debates. Once a week we choose one controversial and popular cybersecurity debate and use the InfoSec community's insights to lead our discussion.",
+    "summary": "Defense in Depth, hosted by David Spark, Steve Zalewski, Geoff Belknap, and Edward Contreras, promises clear talk on cybersecurity's most controversial and confusing debates. Once a week we choose one controversial and popular cybersecurity debate and use the InfoSec community's insights to lead our discussion.",
     "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/8e/13/63/8e136368-ee01-abea-d780-976f33d799c8/mza_8428782477805015991.png/600x600bb.jpg",
-    "author": "David Spark, Steve Zalewski, Geoff Belknap",
+    "author": "CISO Series",
     "language": "en",
     "categories": [
       "Technology",
@@ -2822,7 +2822,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-06-25T09:36:54.843Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -4134,7 +4143,16 @@
         "ratingCount": 12,
         "fetchedAt": "2026-06-25T09:37:03.736Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5344,6 +5362,43 @@
         "fetchedAt": "2026-06-25T09:37:12.859Z"
       }
     },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great cybersecurity podcast!",
+        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
+        "author": "Dave McCollough",
+        "updatedAt": "2025-12-12T06:46:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Love it",
+        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
+        "author": "dareyoutomove",
+        "updatedAt": "2024-10-12T09:27:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Pentesting 101",
+        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
+        "author": "Rich-Barr",
+        "updatedAt": "2023-11-01T04:42:09-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Worth a listen",
+        "content": "Great insight and advice and actually very entertaining.",
+        "author": "Chris Y Doyle",
+        "updatedAt": "2022-09-14T12:09:26-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Rock stars!",
+        "content": "This group of folks are the best of the best! Amazing talent sharing their brains with the world. I’m here for it.",
+        "author": "CupcakeHustling",
+        "updatedAt": "2022-08-10T14:26:33-07:00"
+      }
+    ],
     "submittedBy": "techspence"
   },
   {
