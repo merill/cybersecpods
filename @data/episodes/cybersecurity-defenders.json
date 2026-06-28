@@ -1,5 +1,22 @@
 [
   {
+    "id": "anthropic-restriction-servicenow-incident-fortinet-credential-harvesting-and-ukr",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Anthropic restriction, ServiceNow incident, Fortinet credential harvesting & Ukraine accesses EU cyber reserve / Intel Chat [#333]",
+    "description": "<p>In this episode of The Cybersecurity Defenders Podcast, we discuss some intel being shared in the <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://community.limacharlie.com/\">LimaCharlie community</a>.</p><ul><li>Reports state that the US government issued an export control order restricting access to anthropic newly released cloud mythos five and fable five <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.semafor.com/article/06/13/2026/white-house-move-to-limit-anthropic-linked-to-concerns-about-chinese-access-to-mythos\">models for foreign nationals</a>.</li><li>ServiceNow disclosed a security incident involving an unauthenticated access for an API endpoint that allowed users to query data from customer instances <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/\">without proper authentication</a>.</li><li>A large scale credential harvesting campaign dubbed for to bleed is actively targeting Fortinet firewalls and VPN gateways, and has already compromised more than 30,000 internet facing devices <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices\">across 194 countries</a>. </li><li>Ukraine has been granted access to the European Union's cyber security reserve, giving the country the ability to request assistance from EU approved cyber security experts during major cyber attacks that exceed <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://therecord.media/ukraine-access-eu-cybersecurity-reserve\">its own response capabilities</a>. </li></ul><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at <a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://limacharlie.io/\">limacharlie.io</a>.</p>",
+    "publishedAt": "2026-06-28T20:22:43.000Z",
+    "duration": 2084,
+    "audioUrl": "https://podcast.wistia.com/deliveries/01114973f1e976b208270c3c22b88ed6ca7417d8.mp3?d=eyJtIjoxNDk3NDMxMTgsIm1kIjoyMDgzLjUsImEiOiJ3aXN0aWEtcHJvZHVjdGlvbl8xNzk3NDk4IiwiYyI6MTAwODExLCJlIjoyMTI2MTg2LCJiIjoiMDExMTQ5NzNmMWU5NzZiMjA4MjcwYzNjMjJiODhlZDZjYTc0MTdkOCIsIm1iIjo4MTcsIm9iIjoxNDQwMDE4LjMxNTMzNDc3MzR9--192b51084b2076a74e84265d9b9f7a4c97b3bae13fad32d4e1692e755c704280",
+    "videoUrl": null,
+    "imageUrl": "https://embed-ssl.wistia.com/deliveries/4d94fb7edccf1d7d54ba60f75ee16445.png?image_crop_resized=3000x3000",
+    "episodeNumber": 1,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=ka2dfj10cy"
+  },
+  {
     "id": "last-call-for-defenders-how-were-actually-using-ai-in-the-soc-with-eric-capuano-",
     "podcastId": "cybersecurity-defenders",
     "title": "Last call for Defenders - How we're actually using AI in the SOC with Eric Capuano / Defender Fridays [#332]",
