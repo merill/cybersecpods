@@ -1,9 +1,26 @@
 [
   {
+    "id": "questionnaires-de-securite",
+    "podcastId": "nolimitsecu",
+    "title": "Questionnaires de sécurité",
+    "description": "<p>Episode #546 consacré aux questionnaires de sécurité dans le cadre des évaluations fournisseurs, avec <a href=\"https://www.linkedin.com/in/etienne-retout-7a059b109/\">Etienne Retout</a> (Galink)</p>\n\n\n\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-medium wp-image-4084\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-300x169.png\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-300x169.png 300w, https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-624x351.png 624w, https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires.png 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n\n\n\n<p>En introduction, présentation de la <a href=\"https://www.arcsi.fr/la-boite-a-crypto.php\">Boite à Crypto</a>.</p>\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/questionnaires-de-securite/\">Questionnaires de sécurité</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "publishedAt": "2026-06-29T07:57:32.000Z",
+    "duration": 2294,
+    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-546-Questionnaires-Securite.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 546,
+    "seasonNumber": 12,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.nolimitsecu.fr/questionnaires-de-securite/"
+  },
+  {
     "id": "detection-de-secrets",
     "podcastId": "nolimitsecu",
     "title": "Détection de Secrets",
-    "description": "<p>Episode #545 consacré à la détection de secrets</p>\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4079\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p>Mots de passe en dur, clés d&rsquo;API oubliées, jetons d&rsquo;authentification qui traînent… À l&rsquo;ère de l&rsquo;explosion des outils d&rsquo;IA et du code collaboratif, la fuite de secrets est devenue le terrain de jeu favori des cybercriminels. Pourtant, le sujet reste encore trop souvent négligé par les équipes de développement.<br /><br />Dans cet épisode, nous recevons <a href=\"https://www.linkedin.com/in/gvaladon/\">Guillaume Valadon</a> et Gaëtan Ferry, chercheurs en cybersécurité chez GitGuardian. Ensemble, ils lèvent le voile sur les coulisses de la gestion des secrets dans nos infrastructures numériques.<br /><br />Au programme de cet épisode :</p>\n<p><br />– Où se cachent les secrets ? Du traditionnel dépôt GitHub public aux recoins les plus insolites (images Docker, messages Slack, métadonnées et tickets de support). <br />– L&rsquo;impact de l&rsquo;IA en 2026 : Comment l&rsquo;arrivée massive de nouveaux agents (comme Claude Code ou OpenClaw) bouleverse la typologie des fuites et fait exploser le nombre de clés d&rsquo;API compromises. <br />– Secrets spécifiques vs secrets génériques : Pourquoi la détection par simple Regex (Pattern Matching) ne suffit plus et comment le Machine Learning prend le relais pour éliminer les faux positifs. <br />– Le casse-tête de la remédiation : Une fois le secret détecté, qui paie pour corriger ? Comment intégrer la rotation et l&rsquo;injection dans un vault sans casser la production ?</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/detection-de-secrets/\">Détection de Secrets</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #545 consacré à la détection de secrets</p>\n<p><img decoding=\"async\" class=\"aligncenter size-full wp-image-4079\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p>Mots de passe en dur, clés d&rsquo;API oubliées, jetons d&rsquo;authentification qui traînent… À l&rsquo;ère de l&rsquo;explosion des outils d&rsquo;IA et du code collaboratif, la fuite de secrets est devenue le terrain de jeu favori des cybercriminels. Pourtant, le sujet reste encore trop souvent négligé par les équipes de développement.<br /><br />Dans cet épisode, nous recevons <a href=\"https://www.linkedin.com/in/gvaladon/\">Guillaume Valadon</a> et Gaëtan Ferry, chercheurs en cybersécurité chez GitGuardian. Ensemble, ils lèvent le voile sur les coulisses de la gestion des secrets dans nos infrastructures numériques.<br /><br />Au programme de cet épisode :</p>\n<p><br />– Où se cachent les secrets ? Du traditionnel dépôt GitHub public aux recoins les plus insolites (images Docker, messages Slack, métadonnées et tickets de support). <br />– L&rsquo;impact de l&rsquo;IA en 2026 : Comment l&rsquo;arrivée massive de nouveaux agents (comme Claude Code ou OpenClaw) bouleverse la typologie des fuites et fait exploser le nombre de clés d&rsquo;API compromises. <br />– Secrets spécifiques vs secrets génériques : Pourquoi la détection par simple Regex (Pattern Matching) ne suffit plus et comment le Machine Learning prend le relais pour éliminer les faux positifs. <br />– Le casse-tête de la remédiation : Une fois le secret détecté, qui paie pour corriger ? Comment intégrer la rotation et l&rsquo;injection dans un vault sans casser la production ?</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/detection-de-secrets/\">Détection de Secrets</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-06-21T20:14:03.000Z",
     "duration": 2768,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-545-Detection-de-secrets.mp3",
@@ -20,7 +37,7 @@
     "id": "panorama-de-la-cybermenace-2025",
     "podcastId": "nolimitsecu",
     "title": "Panorama de la Cybermenace 2025",
-    "description": "<p style=\"text-align: center;\">Episode #544 consacré au <a href=\"https://www.cert.ssi.gouv.fr/uploads/CERTFR-2026-CTI-002.pdf\">Panorama de la Cybermenace 2025</a></p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/vincent-strubel-7b7056200/\">Vincent Strubel</a>, Directeur Général de l&rsquo;<a href=\"https://cyber.gouv.fr/\">ANSSI</a></p>\n<p style=\"text-align: center;\"><a href=\"https://cyber.gouv.fr/nous-connaitre/publications/panoramas-de-la-cybermenace/\"><img decoding=\"async\" class=\"aligncenter size-full wp-image-2678\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/logo_anssi.png\" alt=\"\" width=\"256\" height=\"256\" /></a></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/panorama-de-la-cybermenace-2025/\">Panorama de la Cybermenace 2025</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p style=\"text-align: center;\">Episode #544 consacré au <a href=\"https://www.cert.ssi.gouv.fr/uploads/CERTFR-2026-CTI-002.pdf\">Panorama de la Cybermenace 2025</a></p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/vincent-strubel-7b7056200/\">Vincent Strubel</a>, Directeur Général de l&rsquo;<a href=\"https://cyber.gouv.fr/\">ANSSI</a></p>\n<p style=\"text-align: center;\"><a href=\"https://cyber.gouv.fr/nous-connaitre/publications/panoramas-de-la-cybermenace/\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-2678\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/logo_anssi.png\" alt=\"\" width=\"256\" height=\"256\" /></a></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/panorama-de-la-cybermenace-2025/\">Panorama de la Cybermenace 2025</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-06-14T19:23:00.000Z",
     "duration": 2170,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-544-Panorama-de-la-cybermenace-2025.mp3",
@@ -156,7 +173,7 @@
     "id": "hors-serie-standardisation-de-lia-agentique",
     "podcastId": "nolimitsecu",
     "title": "Hors Série – Standardisation de l’IA Agentique",
-    "description": "<p>Dans cet épisode hors-série, nous recevons <a href=\"https://www.linkedin.com/in/arnaudtaddei/\">Arnaud Taddei</a>, président de la <a href=\"https://www.itu.int/en/ITU-T/studygroups/2025-2028/17/Pages/default.aspx\">Commission d’Etude 17 (ITU-T SG17)</a> pour analyser le cadre normatif en cours de construction autour de l&rsquo;IA agentique.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-4031\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Standardisation-IA-Agentique.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Standardisation-IA-Agentique.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Standardisation-IA-Agentique-150x150.png 150w\" sizes=\"auto, (max-width: 256px) 100vw, 256px\" /></p>\n<p>Points clés abordés dans cet échange :</p>\n<ul>\n<li>État des lieux technique : Définition de l&rsquo;IA agentique et distinction par rapport aux modèles de langage classiques.</li>\n<li>La nécessité de standards : Pourquoi l&rsquo;interopérabilité et la sécurité des protocoles de communication entre agents nécessitent une normalisation rigoureuse.</li>\n<li>Gouvernance et conformité : Un point sur les travaux des organismes de normalisation (ITU, IETF, 3GPP, etc.) et l&rsquo;articulation avec les réglementations actuelles (IA Act).<br />Sécurité par conception : Comment intégrer les mécanismes de contrôle et d&rsquo;auditabilité dans des systèmes de plus en plus autonomes.</li>\n</ul>\n<p>Le workshop mentioné sur l’interoperabilité de l’identité numérique pour les humains et les IA agentiques a eu lieu <a href=\"https://www.itu.int/en/ITU-T/Workshops-and-Seminars/2026/0330/Pages/default.aspx\">(enregistrements et présentations disponibles dans la page)</a>. Consulter la page de la <a href=\"https://www.itu.int/en/ITU-T/studygroups/2025-2028/17/Pages/default.aspx\">SG17</a> pour la suite du programme.</p>\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/hors-serie-standardisation-de-lia-agentique/\">Hors Série – Standardisation de l&rsquo;IA Agentique</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Dans cet épisode hors-série, nous recevons Arnaud Taddei, président de la Commission d’Etude 17 (ITU-T SG17) pour analyser le cadre normatif en cours de construction autour de l’IA agentique. Points clés abordés dans cet échange : État des lieux technique : Définition de l’IA agentique et distinction par rapport aux modèles de langage classiques. La […]</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/hors-serie-standardisation-de-lia-agentique/\">Hors Série – Standardisation de l’IA Agentique</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-04-12T21:36:03.000Z",
     "duration": 2651,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-Hors-Serie-Normalisation-IA-Agentique.mp3",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.nolimitsecu.fr/bug-de-lan-2020/"
-  },
-  {
-    "id": "livre-blanc-a-lusage-des-dirigeants",
-    "podcastId": "nolimitsecu",
-    "title": "Livre Blanc à l’usage des dirigeants",
-    "description": "<p>Episode #256 consacré au livre blanc : « La cybersécurité à l’usage des dirigeants«  coécrit par le CLUSIF et l’OSSIR Avec Jean-Philippe Gaulier et Pierre Raufast</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/livre-blanc-a-lusage-dirigeants/\">Livre Blanc à l’usage des dirigeants</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
-    "publishedAt": "2020-02-09T23:58:43.000Z",
-    "duration": 0,
-    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-256-La-cyber-securite-a-l-usage-des-dirigeants.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.nolimitsecu.fr/livre-blanc-a-lusage-dirigeants/"
   }
 ]

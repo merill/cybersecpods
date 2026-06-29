@@ -1286,9 +1286,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-06-26T07:00:00.000Z",
+    "lastEpisodeDate": "2026-06-29T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1773,
+    "episodeCount": 1774,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2251,9 +2251,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-06-22T09:00:00.000Z",
+    "lastEpisodeDate": "2026-06-29T09:00:00.000Z",
     "firstEpisodeDate": "2016-05-06T16:12:39.000Z",
-    "episodeCount": 482,
+    "episodeCount": 483,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2791,9 +2791,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-22T09:00:00.000Z",
+    "lastEpisodeDate": "2026-06-29T09:00:00.000Z",
     "firstEpisodeDate": "2019-07-02T19:56:42.000Z",
-    "episodeCount": 430,
+    "episodeCount": 431,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2895,7 +2895,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-06-28T09:23:58.250Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 4,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
@@ -3433,8 +3442,8 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-06-21T20:14:03.000Z",
-    "firstEpisodeDate": "2020-02-09T23:58:43.000Z",
+    "lastEpisodeDate": "2026-06-29T07:57:32.000Z",
+    "firstEpisodeDate": "2020-02-16T21:56:06.000Z",
     "episodeCount": 300,
     "hasVideo": false,
     "isActive": true,
@@ -4061,7 +4070,16 @@
         "ratingCount": 13,
         "fetchedAt": "2026-06-28T09:24:05.431Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
