@@ -1,5 +1,22 @@
 [
   {
+    "id": "harvest-now-decrypt-later-with-marcus-sachs-290",
+    "podcastId": "ciso-tradecraft",
+    "title": "Harvest Now, Decrypt Later (with Marcus Sachs) - #290",
+    "description": "<p>Nation-state adversaries are vacuuming up encrypted traffic today, waiting for quantum computers to decrypt it tomorrow. This attack strategy, \"Harvest Now, Decrypt Later,\" isn't theoretical. It's happening right now.</p><p>G Mark Hardy sits down with Marcus Sachs (former White House cyber advisor, CSO of NERC, now SVP and Chief Engineer at CIS) to break down two executive orders just signed by the White House on post-quantum cryptography and what every security leader needs to do before the clock runs out.</p><p><strong>What you'll learn:</strong></p><ul><li>Why TLS, VPNs, and PKI are your most urgent exposure</li><li>The Harvest Now, Decrypt Later threat model and what it means for your data retention policies</li><li>How to build a Cryptographic Bill of Materials (CBOM)</li><li>What cryptographic agility means and why hard-coded crypto is a ticking time bomb</li><li>Lessons from Y2K that apply directly to the quantum migration</li></ul><p>You can't name a date certain. But your adversaries are already running the clock.</p><p>Links, NIST resources, and both executive orders in the show notes.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography\">https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography</a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.nist.gov/pqc\">https://www.nist.gov/pqc</a></p>",
+    "publishedAt": "2026-06-29T12:30:00.000Z",
+    "duration": 2514,
+    "audioUrl": "https://content.rss.com/episodes/352153/2946558/ciso-tradecraft/2026_06_26_23_34_07_79386794-d50a-4138-82c1-27789285ebc8.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/ciso-tradecraft/ep_cover_20260626_110605_53e1db113e74d3b5c40064cf0868d99c.png",
+    "episodeNumber": 290,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/ciso-tradecraft/2946558"
+  },
+  {
     "id": "289-whats-the-best-career-move-after-being-a-ciso-with-gary-hayslip",
     "podcastId": "ciso-tradecraft",
     "title": "#289 - What's the Best Career Move After Being a CISO? (with Gary Hayslip)",
