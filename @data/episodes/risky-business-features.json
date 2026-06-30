@@ -1,5 +1,22 @@
 [
   {
+    "id": "mythos-on-your-desk-using-local-llms-for-code-reviews",
+    "podcastId": "risky-business-features",
+    "title": "Mythos on your desk? Using local LLMs for code reviews",
+    "description": "<p>In this podcast episode James Wilson chats with Karsten Nohl about his research into using local LLMs to replace cloud AI in security code reviews.</p>\n\n<p>In essence, Karsten created a hybrid code reviewing system where both cloud and local models are used to orchestrate, triage outputs, and write reports. In this system, only the local LLMs have source code access, with the cloud models used to manage the local models.</p>\n\n<p>In this “source-local” review technique, the source code never leaves the local endpoint, which is a requirement for some reviews. But funnily enough, Karsten was able to use this system to generate findings that were as impressive as when using frontier models directly.</p>\n\n<p>In a nutshell, Karsten proved it’s possible to use locally-hosted, open-weight models running on commodity hardware to produce findings comparable to those discovered by frontier cloud models.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/nhS5DTW0yzs\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://srlabs.de/blog/beyond-fable\">Beyond Fable: Can a Local LLM Replace Cloud AI for Security Code Reviews</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/RBFEATURES19/\">Mythos smythos! How to find 0day with lesser models</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-06-30T05:01:22.000Z",
+    "duration": 4289,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES30.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES30/"
+  },
+  {
     "id": "pitching-security-startups-to-vcs-in-the-ai-era",
     "podcastId": "risky-business-features",
     "title": "Pitching security startups to VCs in the AI era",
