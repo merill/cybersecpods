@@ -1,5 +1,22 @@
 [
   {
+    "id": "intel-chat-cisco-cucm-exploited-ransomware-profiles-gamaredon-and-ai-agent-phish",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Intel Chat: Cisco CUCM exploited, ransomware profiles, Gamaredon & AI agent phishing [335]",
+    "description": "<p>Intel Chat with Matt Bromiley and Chris Luft.</p><p>Matt and Chris break down four stories from the week in threat intel:</p><p>• Cisco CUCM (CVE-2026-20230) — a web-dialer SSRF that chains to root-level RCE, exploited in the wild less than 24 hours after the PoC and full exploit chain were published.</p><p>• The latest Ransomware Tool Matrix (RTM) / Ransomware Vulnerability Matrix (RVM) update, profiling three active groups — The Gentlemen, DragonForce and Warlock — and the BYOVD and legit-admin-tool tradecraft they increasingly share.</p><p>• Gamaredon's upgraded toolkit against Ukraine (per ESET): new PowerShell downloaders like PteroPaste, Cloudflare tunneling and Workers for C2, and exfiltration to trusted cloud storage such as Amazon S3 and Dropbox.</p><p>• Varonis Threat Labs phishing an AI email agent (\"Pinchy\") — why agents spot technical phishing better than humans yet hand over credentials to a convincing social request, and why you should treat them as privileged junior employees.</p><p>Chapters:</p><p>0:00 Intro & catching up</p><p>2:25 Cisco CUCM exploited within 24h of the PoC</p><p>9:57 Ransomware Tool Matrix: The Gentlemen, DragonForce & Warlock</p><p>15:44 Gamaredon's upgraded TTPs against Ukraine</p><p>22:18 Can AI email agents be phished?</p><p>28:08 Wrap-up: Black Hat plans & the LimaCharlie suite</p><p>The Cybersecurity Defenders Podcast — a podcast about cybersecurity and the people that keep the internet safe. New episodes drop weekly.</p><p>Subscribe wherever you listen:</p><p>• Spotify: https://open.spotify.com/show/6ep00zeY3S8ffZ4o0UeSps</p><p>• Apple Podcasts: https://podcasts.apple.com/us/podcast/the-cybersecurity-defenders-podcast/id1649981740</p><p>• YouTube: https://www.youtube.com/@limacharlieio</p><p>Learn more about LimaCharlie: https://limacharlie.io</p><p>#cybersecurity #infosec #threatintel #ransomware #DFIR</p>",
+    "publishedAt": "2026-07-01T15:47:48.000Z",
+    "duration": 1801,
+    "audioUrl": "https://podcast.wistia.com/deliveries/44e112387d70f2006908ee3dccc3661897f28f56.mp3?d=eyJtIjoxNDk4ODEwNDYsIm1kIjoxODAwLjg3LCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjEyNzQwOSwiYiI6IjQ0ZTExMjM4N2Q3MGYyMDA2OTA4ZWUzZGNjYzM2NjE4OTdmMjhmNTYiLCJtYiI6ODM2LCJvYiI6OTYwMDIwLjEyMzYwNjkyMzR9--647993be90250e6c39f62f3673e2a2d6dd77887dd3beff499c37b9edfb3f679c",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 335,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=q1ew6ji0a0"
+  },
+  {
     "id": "the-evolving-fraud-landscape-in-the-age-of-ai-with-tamas-kadar-334",
     "podcastId": "cybersecurity-defenders",
     "title": "The evolving fraud landscape in the age of AI with Tamas Kadar [#334]",
