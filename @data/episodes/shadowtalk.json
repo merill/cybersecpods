@@ -1,5 +1,22 @@
 [
   {
+    "id": "how-hackers-are-using-ai-right-now-faster-attacks-smarter-malware-and-a-new-arms",
+    "podcastId": "shadowtalk",
+    "title": "How Hackers Are Using AI Right Now: Faster Attacks, Smarter Malware, and a New Arms Race",
+    "description": "<p>AI is not replacing threat actors, instead it is making them faster, cheaper, and harder to stop. From AI powered phishing campaigns generating thousands of pages simultaneously, to a newly discovered macOS implant called Gaslight that injects fabricated system error messages into AI powered triage pipelines, the arms race between attackers and defenders is accelerating. The question is not whether AI is being used against your organization. It is whether your defenses are keeping pace.</p><p>Join hosts Brandon and John as they discuss:</p><ul><li>How threat actors are leveraging AI across social engineering and malicious code generation</li><li>The Gaslight macOS malware with anti-AI analysis tactics</li><li>What organizations need to do right now to match attackers</li></ul><p> <b>Two questions your organization should be asking right now:</b></p><p>• How long does it actually take your team to detect and contain a critical severity alert?</p><p>• Are your detections layered across enough diverse log sources?</p><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Brandon Tirado</b>: Director of GreyMatter Operations for ReliaQuest. A skilled cyber defense professional with a unique combination of management and hands-on experience. With a deep understanding of adversary motives and the tactics, techniques, and procedures (TTPs) they use to achieve their goals, Brandon enjoys operationalizing his knowledge to make it more difficult for adversaries to operate within the environments of ReliaQuest customers. His managerial and hands-on experience enriches ShadowTalk with practical and strategic viewpoints.</p>",
+    "publishedAt": "2026-07-01T18:00:00.000Z",
+    "duration": 1518,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19432446-how-hackers-are-using-ai-right-now-faster-attacks-smarter-malware-and-a-new-arms-race.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "klue-kali365-oauth-when-the-front-door-is-a-trusted-integration",
     "podcastId": "shadowtalk",
     "title": "Klue, Kali365, OAuth: When the Front Door Is a Trusted Integration",
