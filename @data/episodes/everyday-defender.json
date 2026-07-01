@@ -1,5 +1,22 @@
 [
   {
+    "id": "02x06-silenceofthelogskql",
+    "podcastId": "everyday-defender",
+    "title": "02x06-silence_of_the_logs.kql",
+    "description": "<p>In this episode Chris takes a look at Exchange-attribute Source of Authority (SOA) transfer - could this finally be the answer to removing that last Exchange server we've all been waiting for?</p>\n<p>Koos has spent years deep in Microsoft Sentinel, and a big chunk of that has been log ingestion and keeping the ingestion bill under control: getting the right data in, keeping the noise out. He promised this wouldn't turn into the Sentinel show, but when Microsoft ships two genuinely new log-ingestion features, he has to talk about them. There are two Azure Monitor previews worth talking about. The first, 'multi-stage transformations', lets you filter and aggregate logs before they're ingested. The second brings platform logs into the Data Collection Rule model, the same way he already collects everything else. He'll cover what's genuinely new, and why he thinks Microsoft perhaps highlighted the wrong features in their blogs.</p>\n<p>Full show notes available on our blog: <a href=\"https://df3ndr.io/episodes/2026/07/01/02x06-silence_of_the_logs.kql.html\">https://df3ndr.io/episodes/2026/07/01/02x06-silence_of_the_logs.kql.html</a></p>\n<p>Follow us on your favorite podcast platform or check us out at <a href=\"https://df3ndr.io\">https://df3ndr.io</a></p>",
+    "publishedAt": "2026-07-01T05:00:00.000Z",
+    "duration": 2301,
+    "audioUrl": "https://feeds.df3ndr.io/link/24063/17370730/2026_06_26_10_15_27_9db2c3aa-e288-43aa-a3e2-92a3a6869355.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/df3ndr/ep_cover_20260626_100642_c9570c742dc0951c87116cad9adfb3a6.jpg",
+    "episodeNumber": 6,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/df3ndr/2945172"
+  },
+  {
     "id": "02x05-maesterofpuppetsps1",
     "podcastId": "everyday-defender",
     "title": "02x05-maester_of_puppets.ps1",
