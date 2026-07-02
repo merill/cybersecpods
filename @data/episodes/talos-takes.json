@@ -1,5 +1,22 @@
 [
   {
+    "id": "from-evasion-to-detection-a-guide-to-analyzing-com-based-threats",
+    "podcastId": "talos-takes",
+    "title": "From evasion to detection: A guide to analyzing COM-based threats",
+    "description": "<p>While the Component Object Model (COM) is a fundamental Windows technology that allows software to communicate and function, it's also a powerful tool for threat actors looking to move laterally, maintain persistence, and evade traditional security measures.</p><p>Joining us is Vanya Svajcer, who shares his expertise on how to cut through the noise and identify malicious signals within COM-based binaries. Whether you are a seasoned researcher or just starting your journey into reverse engineering and malware analysis, here's some practical advice on how to start hunting for COM-based threats and making your next investigation a little more effective.</p><p>Vanja's blog: <a href='https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats'>https://blog.talosintelligence.com/introduction-to-com-usage-by-windows-threats</a></p>",
+    "publishedAt": "2026-07-02T10:00:00.000Z",
+    "duration": 1136,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19402751-from-evasion-to-detection-a-guide-to-analyzing-com-based-threats.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "patching-in-the-dark-managing-unknown-threats-in-complex-environments",
     "podcastId": "talos-takes",
     "title": "Patching in the dark: Managing unknown threats in complex environments",
