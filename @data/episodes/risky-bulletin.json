@@ -1,5 +1,22 @@
 [
   {
+    "id": "srsly-risky-biz-america-wont-beat-the-distillation-ecosystem",
+    "podcastId": "risky-bulletin",
+    "title": "Srsly Risky Biz: America won't beat the distillation ecosystem",
+    "description": "<p>Tom Uren and James Wilson talk about Chinese AI labs stealing the special sauce of American AI models in ‘distillation attacks’. These attacks are fed by a grey market in which Chinese consumers buy access to American models, where one of the byproducts is logs of user requests and responses. These make wonderful inputs into distillation attacks and the whole market might be subsidised by Chinese AI Labs paying for these logs.</p>\n\n<p>They also discuss the possibility that last year’s hack of Jaguar Land Rover was caused by a group of Russian hackers. Was it Russians? Was it state-directed or endorsed? Who knows, but even the possibility that it was has some benefits for the Russian state.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/Y5cZHTT_vpE\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-07-02T05:03:03.000Z",
+    "duration": 1802,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB173.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SRB173/"
+  },
+  {
     "id": "risky-bulletin-researcher-drops-giant-cache-of-zero-days",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Researcher drops giant cache of zero-days",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS534/"
-  },
-  {
-    "id": "srsly-risky-biz-the-four-hour-cyber-war-on-iran",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: The four hour cyber war on Iran",
-    "description": "<p>Tom Uren and Amberleigh Jack talk about how cyber operations were used in the first hours of the US-Israeli attack on Iran. They were instrumental in the attack on Iranian Supreme Leader Ali Khamenei, but they didn’t last long. The Iranian regime implemented an internet blackout within four hours of the first bombs.</p>\n\n<p>They also discuss how threat actors are using AI. It’s not game-changing so far, but it is very much altering the balance between attack and defence.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/UHoaIi9Ai1E\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-03-05T02:58:16.000Z",
-    "duration": 1256,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB157.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB157/"
   }
 ]
