@@ -1,5 +1,22 @@
 [
   {
+    "id": "trumps-golden-post-quantum-eos",
+    "podcastId": "security-cryptography-whatever",
+    "title": "Trump's Golden Post-Quantum EO(s)",
+    "description": "<p>The dear leader has actually bleated out some not-dumb executive orders (EOs) to accelerate adoption of post-quantum crypto for the US government! This looks to be in response to a flurry of advancements in quantum computing and quantum attack algorithms a few months ago. We cram legalize into our eyeballs— plus, ECDSA.fail!<br/><br/>Watch on YouTube: https://www.youtube.com/watch?v=7ZwQpN_F6P8<br/><br/>Transcript: https://securitycryptographywhatever.com/2026/07/02/trumps-golden-post-quantum-eos</p><p>Links:</p><p>- The EO https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/<br/>- CNSA2 https://media.defense.gov/2022/Sep/07/2003071836/-1/-1/0/CSI_CNSA_2.0_FAQ_.PDF<br/>- https://media.defense.gov/2025/May/30/2003728741/-1/-1/0/CSA_CNSA_2.0_ALGORITHMS.PDF<br/>- https://www.ecdsa.fail/<br/>- https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/<br/>- https://blog.cloudflare.com/post-quantum-roadmap/<br/>- https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/<br/>- https://en.wikipedia.org/wiki/FedRAMP<br/>- https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/<br/>- https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/<br/>- https://scottaaronson.blog/?p=9861<br/><br/></p><p><br/>\"Security Cryptography Whatever\" is hosted by <a href='https://twitter.com/durumcrustulum'>Deirdre Connolly</a> (@durumcrustulum), <a href='https://twitter.com/tqbf'>Thomas Ptacek</a> (@tqbf), and <a href='https://twitter.com/dadrian'>David Adrian</a> (@dadrian)</p>",
+    "publishedAt": "2026-07-02T06:00:00.000Z",
+    "duration": 3397,
+    "audioUrl": "https://www.buzzsprout.com/1822302/episodes/19434683-trump-s-golden-post-quantum-eo-s.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 7,
+    "seasonNumber": 5,
+    "explicit": true,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "facing-the-vulnpocalypse-with-lcamtuf",
     "podcastId": "security-cryptography-whatever",
     "title": "Facing the Vulnpocalypse with lcamtuf",
