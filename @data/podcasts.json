@@ -1075,9 +1075,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-23T18:40:32.000Z",
+    "lastEpisodeDate": "2026-07-02T16:00:01.000Z",
     "firstEpisodeDate": "2019-11-28T22:18:29.000Z",
-    "episodeCount": 352,
+    "episodeCount": 353,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-01T16:11:36.000Z",
-    "firstEpisodeDate": "2025-11-10T14:20:42.000Z",
+    "lastEpisodeDate": "2026-07-02T15:05:33.000Z",
+    "firstEpisodeDate": "2025-11-11T14:10:59.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2460,7 +2460,7 @@
     "description": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott. Are internet hitmen really a thing? What does someone do with a crypto wallet full of millions and a lost password? Did a Minecraft scammer really hack the president? Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
     "summary": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott. Are internet hitmen really a thing? What does someone do with a crypto wallet full of millions and a lost password? Did a Minecraft scammer really hack the president? Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
     "subtitle": "A podcast about people using technology in unintended ways.",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/5d/e2/145de210-a496-c197-f9fc-3f2de3ec23b5/mza_8058621631120231164.jpeg/600x600bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/23/da/3923da1e-7f3a-175d-dbc2-66db13cdf01b/mza_12276024828673851050.jpeg/600x600bb.jpg",
     "author": "Hacked",
     "language": "en",
     "categories": [
@@ -2971,7 +2971,7 @@
     },
     "recentReviews": [
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Cyber updates and more",
         "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
         "author": "Wooyilac",
@@ -5258,9 +5258,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-06-22T18:35:14.000Z",
+    "lastEpisodeDate": "2026-07-02T16:33:27.000Z",
     "firstEpisodeDate": "2018-06-17T00:47:00.000Z",
-    "episodeCount": 380,
+    "episodeCount": 381,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5855,7 +5855,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-07-02T09:27:58.751Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",
