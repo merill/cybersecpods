@@ -1,5 +1,22 @@
 [
   {
+    "id": "intel-chat-hijacked-ai-backends-billboard-hacks-cursor-duneslide-and-claude-expo",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Intel Chat: Hijacked AI backends, billboard hacks, Cursor DuneSlide & Claude export controls [336]",
+    "description": "<p>Intel Chat with Matt Bromiley and Chris Luft.</p><p>Matt and Chris break down four stories from the week in threat intel:</p><p>• Zenity researchers observed three campaigns where attackers hijacked internet-exposed AI inference endpoints (Ollama, LiteLLM) as free model backends for offensive operations — including the Strix and HexStrike-AI pentesting frameworks and a Codex agent posing as a \"security auditor\" — enabled by no-auth defaults and placeholder API keys.</p><p><a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops\">https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops</a></p><p>• A CISA advisory on Daktronics controllers behind scoreboards, digital billboards and highway signs: unauthenticated path traversal, arbitrary file upload and default admin credentials chaining to root-level control, found and responsibly disclosed by a Princeton undergrad.</p><p><a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/\">https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/</a></p><p>• Cato's \"DuneSlide\" (CVE-2026-50548 / CVE-2026-50549) — two critical Cursor flaws where a single prompt injection escapes the terminal sandbox and executes arbitrary commands on a developer's machine; patched in Cursor 3.0.</p><p><a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html\">https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html</a></p><p>• Anthropic restoring worldwide Claude Fable 5 access after the US Commerce Department lifted emergency export controls triggered by a jailbreak — plus what it means for AI governance, open-source model catch-up and the data center debate.</p><p><a rel=\"noreferrer noopener\" target=\"_blank\" href=\"https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html\">https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html</a></p><p>Chapters:</p><p>0:00 Intro & catching up</p><p>1:17 Attackers hijacking exposed AI backends (Ollama & LiteLLM)</p><p>9:18 CISA advisory: billboard & highway sign controllers</p><p>13:46 Cursor \"DuneSlide\" prompt-injection sandbox escape</p><p>20:34 Claude Fable 5 export controls lifted</p><p>28:17 Data centers, nuclear déjà vu & the AI race</p><p>33:39 Wrap-up</p><p>The Cybersecurity Defenders Podcast — a podcast about cybersecurity and the people that keep the internet safe. New episodes drop weekly.</p><p>Learn more about LimaCharlie: https://limacharlie.io</p><p>#cybersecurity #infosec #threatintel #AIsecurity #promptinjection</p>",
+    "publishedAt": "2026-07-03T18:07:56.000Z",
+    "duration": 2033,
+    "audioUrl": "https://podcast.wistia.com/deliveries/b798ec80e47495df11540c7c76a190de58286736.mp3?d=eyJtIjoxNDk5NzE1NzEsIm1kIjoyMDMyLjkxLCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjEyODk3NSwiYiI6ImI3OThlYzgwZTQ3NDk1ZGYxMTU0MGM3Yzc2YTE5MGRlNTgyODY3MzYiLCJtYiI6Mjg0LCJvYiI6NDgwMDEwLjI0MTQ3NjUwNDEzfQ%3D%3D--aacf255ffb1cdfa1f26433bdb15ab71f267cf854147027c5ae1dc22d6552100b",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 336,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=d1q84nrl6i"
+  },
+  {
     "id": "intel-chat-cisco-cucm-exploited-ransomware-profiles-gamaredon-and-ai-agent-phish",
     "podcastId": "cybersecurity-defenders",
     "title": "Intel Chat: Cisco CUCM exploited, ransomware profiles, Gamaredon & AI agent phishing [335]",
