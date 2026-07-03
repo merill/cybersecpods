@@ -983,9 +983,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-06-30T07:00:00.000Z",
+    "lastEpisodeDate": "2026-07-03T07:00:00.000Z",
     "firstEpisodeDate": "2022-01-21T14:59:00.000Z",
-    "episodeCount": 353,
+    "episodeCount": 354,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1286,9 +1286,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-02T07:00:00.000Z",
+    "lastEpisodeDate": "2026-07-03T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1777,
+    "episodeCount": 1778,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1609,9 +1609,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-02T20:30:00.000Z",
+    "lastEpisodeDate": "2026-07-03T05:00:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3680,
+    "episodeCount": 3681,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4535,44 +4535,7 @@
         "ratingCount": 16,
         "fetchedAt": "2026-07-02T09:27:50.261Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 2,
-        "title": "Just ok",
-        "content": "The one with Roland was really good the others have been hit and miss.",
-        "author": "cisoNYC",
-        "updatedAt": "2022-01-04T02:29:33-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "A must listen for all security leaders",
-        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
-        "author": "nicfill",
-        "updatedAt": "2021-05-18T10:06:29-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great new cybersecurity podcast!",
-        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
-        "author": "Frogstar5",
-        "updatedAt": "2021-05-13T14:40:00-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Excellent show",
-        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
-        "author": "Meatball_army_2021",
-        "updatedAt": "2021-05-13T14:24:25-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Depth of Knowledge shines through",
-        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
-        "author": "GottaRun21",
-        "updatedAt": "2021-05-13T14:16:19-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-weekly-news-audio",
@@ -5328,44 +5291,7 @@
         "ratingCount": 47,
         "fetchedAt": "2026-07-02T09:27:57.164Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Insightful and educational",
-        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
-        "author": "Maocol99",
-        "updatedAt": "2025-08-14T17:21:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful, timely, and concise!",
-        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
-        "author": "LarsMarie",
-        "updatedAt": "2025-05-05T15:23:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "More OT cybersecurity and Holly rocks.",
-        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
-        "author": "tryangalway",
-        "updatedAt": "2025-03-10T22:06:15-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great Podcast for Cybersecurity Insights!",
-        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
-        "author": "yshishka",
-        "updatedAt": "2024-08-26T10:36:16-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Accessible & Actionable Resource",
-        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
-        "author": "run_amanda",
-        "updatedAt": "2024-08-19T08:29:33-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "three-buddy-problem",
