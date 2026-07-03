@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-30T16:00:00.000Z",
+    "lastEpisodeDate": "2026-07-03T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 333,
+    "episodeCount": 334,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2586,7 +2586,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-03T09:31:24.393Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -2813,7 +2822,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-03T09:31:27.153Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -2938,9 +2956,9 @@
         "websiteUrl": "https://www.samsclass.info/contact.html"
       }
     ],
-    "lastEpisodeDate": "2026-06-30T15:35:49.000Z",
+    "lastEpisodeDate": "2026-07-03T16:09:54.000Z",
     "firstEpisodeDate": "2021-02-13T00:10:16.000Z",
-    "episodeCount": 539,
+    "episodeCount": 540,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
