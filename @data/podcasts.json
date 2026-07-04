@@ -1874,7 +1874,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-07-04T08:48:18.227Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -2577,16 +2586,7 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-04T08:48:26.690Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Hacker History is important",
-        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
-        "author": "KingKamic",
-        "updatedAt": "2021-03-03T07:12:50-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "hacker-valley-studio",
@@ -4134,16 +4134,7 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-04T08:48:38.407Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
