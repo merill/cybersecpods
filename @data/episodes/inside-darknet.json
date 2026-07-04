@@ -1,5 +1,22 @@
 [
   {
+    "id": "123-vect",
+    "podcastId": "inside-darknet",
+    "title": "123; Vect",
+    "description": "<p>Eine Ransomware-Gruppe verspricht ihren Opfern Verschlüsselung, liefert aber ungewollt einen Wiper, der Daten unwiederbringlich zerstört. Wir sprechen mit VECT über Ransomware-as-a-Service.</p>",
+    "publishedAt": "2026-07-04T16:30:11.000Z",
+    "duration": 1304,
+    "audioUrl": "https://traffic.megaphone.fm/APO2428267267.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39607723/39607723-1783182589421-1c58b708c9d1b.jpg",
+    "episodeNumber": 123,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/insidedarknet/episodes/123-Vect-e3llcg4"
+  },
+  {
     "id": "122-fulcrumsec",
     "podcastId": "inside-darknet",
     "title": "122; FulcrumSec",
