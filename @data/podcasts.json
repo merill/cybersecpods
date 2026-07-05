@@ -2971,7 +2971,7 @@
     },
     "recentReviews": [
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Cyber updates and more",
         "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
         "author": "Wooyilac",
@@ -4143,7 +4143,16 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-05T09:18:14.109Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5353,43 +5362,6 @@
         "fetchedAt": "2026-07-05T09:18:25.891Z"
       }
     },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great cybersecurity podcast!",
-        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
-        "author": "Dave McCollough",
-        "updatedAt": "2025-12-12T06:46:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Love it",
-        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
-        "author": "dareyoutomove",
-        "updatedAt": "2024-10-12T09:27:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Pentesting 101",
-        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
-        "author": "Rich-Barr",
-        "updatedAt": "2023-11-01T04:42:09-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Worth a listen",
-        "content": "Great insight and advice and actually very entertaining.",
-        "author": "Chris Y Doyle",
-        "updatedAt": "2022-09-14T12:09:26-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Rock stars!",
-        "content": "This group of folks are the best of the best! Amazing talent sharing their brains with the world. I’m here for it.",
-        "author": "CupcakeHustling",
-        "updatedAt": "2022-08-10T14:26:33-07:00"
-      }
-    ],
     "submittedBy": "techspence"
   },
   {
@@ -5667,7 +5639,44 @@
         "ratingCount": 62,
         "fetchedAt": "2026-07-05T09:18:28.282Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 1,
+        "title": "So much potential",
+        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
+        "author": "Yeahyeahblahblah",
+        "updatedAt": "2026-06-06T04:49:02-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful",
+        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
+        "author": "Laughedoutloud",
+        "updatedAt": "2025-12-27T07:09:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Oo",
+        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
+        "author": "\\x4A\\x4D",
+        "updatedAt": "2025-05-20T13:02:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "1X",
+        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
+        "author": "mjg5772",
+        "updatedAt": "2025-05-17T20:32:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Security and more",
+        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
+        "author": "Chris Mc.38",
+        "updatedAt": "2024-12-15T10:04:10-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",
