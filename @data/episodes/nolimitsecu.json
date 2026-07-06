@@ -1,9 +1,26 @@
 [
   {
+    "id": "le-hack-2026",
+    "podcastId": "nolimitsecu",
+    "title": "Le Hack 2026",
+    "description": "<p style=\"text-align: center;\">Episode #547 consacré à l&rsquo;événement <a href=\"https://lehack.org/fr/\">LeHack 2026</a></p>\n<p style=\"text-align: center;\"><a href=\"https://lehack.org/fr/\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-full wp-image-4092\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/lehack-2026.png\" alt=\"\" width=\"256\" height=\"244\" /></a></p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/le-hack-2026/\">Le Hack 2026</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "publishedAt": "2026-07-05T21:32:51.000Z",
+    "duration": 1577,
+    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-547-LeHack2026.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 547,
+    "seasonNumber": 11,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.nolimitsecu.fr/le-hack-2026/"
+  },
+  {
     "id": "questionnaires-de-securite",
     "podcastId": "nolimitsecu",
     "title": "Questionnaires de sécurité",
-    "description": "<p>Episode #546 consacré aux questionnaires de sécurité dans le cadre des évaluations fournisseurs, avec <a href=\"https://www.linkedin.com/in/etienne-retout-7a059b109/\">Etienne Retout</a> (Galink)</p>\n\n\n\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-medium wp-image-4084\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-300x169.png\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-300x169.png 300w, https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-624x351.png 624w, https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires.png 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n\n\n\n<p>En introduction, présentation de la <a href=\"https://www.arcsi.fr/la-boite-a-crypto.php\">Boite à Crypto</a>.</p>\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/questionnaires-de-securite/\">Questionnaires de sécurité</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #546 consacré aux questionnaires de sécurité dans le cadre des évaluations fournisseurs, avec <a href=\"https://www.linkedin.com/in/etienne-retout-7a059b109/\">Etienne Retout</a> (Galink)</p>\n\n\n\n<p><img decoding=\"async\" class=\"aligncenter size-medium wp-image-4084\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-300x169.png\" alt=\"\" width=\"300\" height=\"169\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-300x169.png 300w, https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires-624x351.png 624w, https://www.nolimitsecu.fr/wp-content/uploads/Questionnaires.png 720w\" sizes=\"(max-width: 300px) 100vw, 300px\" /></p>\n\n\n\n<p>En introduction, présentation de la <a href=\"https://www.arcsi.fr/la-boite-a-crypto.php\">Boite à Crypto</a>.</p>\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/questionnaires-de-securite/\">Questionnaires de sécurité</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-06-29T07:57:32.000Z",
     "duration": 2294,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-546-Questionnaires-Securite.mp3",
@@ -20,7 +37,7 @@
     "id": "detection-de-secrets",
     "podcastId": "nolimitsecu",
     "title": "Détection de Secrets",
-    "description": "<p>Episode #545 consacré à la détection de secrets</p>\n<p><img decoding=\"async\" class=\"aligncenter size-full wp-image-4079\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p>Mots de passe en dur, clés d&rsquo;API oubliées, jetons d&rsquo;authentification qui traînent… À l&rsquo;ère de l&rsquo;explosion des outils d&rsquo;IA et du code collaboratif, la fuite de secrets est devenue le terrain de jeu favori des cybercriminels. Pourtant, le sujet reste encore trop souvent négligé par les équipes de développement.<br /><br />Dans cet épisode, nous recevons <a href=\"https://www.linkedin.com/in/gvaladon/\">Guillaume Valadon</a> et Gaëtan Ferry, chercheurs en cybersécurité chez GitGuardian. Ensemble, ils lèvent le voile sur les coulisses de la gestion des secrets dans nos infrastructures numériques.<br /><br />Au programme de cet épisode :</p>\n<p><br />– Où se cachent les secrets ? Du traditionnel dépôt GitHub public aux recoins les plus insolites (images Docker, messages Slack, métadonnées et tickets de support). <br />– L&rsquo;impact de l&rsquo;IA en 2026 : Comment l&rsquo;arrivée massive de nouveaux agents (comme Claude Code ou OpenClaw) bouleverse la typologie des fuites et fait exploser le nombre de clés d&rsquo;API compromises. <br />– Secrets spécifiques vs secrets génériques : Pourquoi la détection par simple Regex (Pattern Matching) ne suffit plus et comment le Machine Learning prend le relais pour éliminer les faux positifs. <br />– Le casse-tête de la remédiation : Une fois le secret détecté, qui paie pour corriger ? Comment intégrer la rotation et l&rsquo;injection dans un vault sans casser la production ?</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/detection-de-secrets/\">Détection de Secrets</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #545 consacré à la détection de secrets</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-4079\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Detection-de-secrets-150x150.png 150w\" sizes=\"auto, (max-width: 256px) 100vw, 256px\" /></p>\n<p>Mots de passe en dur, clés d&rsquo;API oubliées, jetons d&rsquo;authentification qui traînent… À l&rsquo;ère de l&rsquo;explosion des outils d&rsquo;IA et du code collaboratif, la fuite de secrets est devenue le terrain de jeu favori des cybercriminels. Pourtant, le sujet reste encore trop souvent négligé par les équipes de développement.<br /><br />Dans cet épisode, nous recevons <a href=\"https://www.linkedin.com/in/gvaladon/\">Guillaume Valadon</a> et Gaëtan Ferry, chercheurs en cybersécurité chez GitGuardian. Ensemble, ils lèvent le voile sur les coulisses de la gestion des secrets dans nos infrastructures numériques.<br /><br />Au programme de cet épisode :</p>\n<p><br />– Où se cachent les secrets ? Du traditionnel dépôt GitHub public aux recoins les plus insolites (images Docker, messages Slack, métadonnées et tickets de support). <br />– L&rsquo;impact de l&rsquo;IA en 2026 : Comment l&rsquo;arrivée massive de nouveaux agents (comme Claude Code ou OpenClaw) bouleverse la typologie des fuites et fait exploser le nombre de clés d&rsquo;API compromises. <br />– Secrets spécifiques vs secrets génériques : Pourquoi la détection par simple Regex (Pattern Matching) ne suffit plus et comment le Machine Learning prend le relais pour éliminer les faux positifs. <br />– Le casse-tête de la remédiation : Une fois le secret détecté, qui paie pour corriger ? Comment intégrer la rotation et l&rsquo;injection dans un vault sans casser la production ?</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/detection-de-secrets/\">Détection de Secrets</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-06-21T20:14:03.000Z",
     "duration": 2768,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-545-Detection-de-secrets.mp3",
@@ -156,7 +173,7 @@
     "id": "rapport-m-trends-2026",
     "podcastId": "nolimitsecu",
     "title": "Rapport M-Trends 2026",
-    "description": "<p style=\"text-align: center;\">Episode #538 consacré au rapport <a href=\"https://cloud.google.com/security/resources/m-trends?hl=fr\">M-Trends 2026</a></p>\n<p style=\"text-align: center;\">Avec <a href=\"https://fr.linkedin.com/in/davidgrout\">David Grout</a></p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-medium wp-image-4036\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/M-Trends-2026-300x94.png\" alt=\"\" width=\"300\" height=\"94\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/M-Trends-2026-300x94.png 300w, https://www.nolimitsecu.fr/wp-content/uploads/M-Trends-2026-1024x320.png 1024w, https://www.nolimitsecu.fr/wp-content/uploads/M-Trends-2026-768x240.png 768w, https://www.nolimitsecu.fr/wp-content/uploads/M-Trends-2026-1536x480.png 1536w, https://www.nolimitsecu.fr/wp-content/uploads/M-Trends-2026-624x195.png 624w, https://www.nolimitsecu.fr/wp-content/uploads/M-Trends-2026.png 1696w\" sizes=\"auto, (max-width: 300px) 100vw, 300px\" /></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/rapport-m-trends-2026/\">Rapport M-Trends 2026</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #538 consacré au rapport M-Trends 2026 Avec David Grout  </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/rapport-m-trends-2026/\">Rapport M-Trends 2026</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-04-19T09:57:06.000Z",
     "duration": 1502,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-538-M-Trends-2026.mp3",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.nolimitsecu.fr/etat-de-l-art-reponse-a-incident/"
-  },
-  {
-    "id": "bug-de-lan-2020",
-    "podcastId": "nolimitsecu",
-    "title": "Bug de l’an 2020",
-    "description": "<p>Episode Hors Série consacré au bug de l’an 2020 Avec Vincent Balouet</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/bug-de-lan-2020/\">Bug de l’an 2020</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
-    "publishedAt": "2020-02-16T21:56:06.000Z",
-    "duration": 1144,
-    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-Hors-Serie-Bug-de-l-an-2020.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.nolimitsecu.fr/bug-de-lan-2020/"
   }
 ]

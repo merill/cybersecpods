@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-eu-officials-phone-infected-with-pegasus",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: EU official’s phone infected with Pegasus",
+    "description": "<p>A European MP’s phone was infected by Pegasus spyware, Android drops its PIN guessing limit from 1,800 attempts to 20, Alibaba bans employees from using Claude at work, and there’s a new vulnerability in the Linux kernel.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-android-drops-pin-guessing-limit-from-1-800-attempts-to-just-20/\">Risky Bulletin: Android drops PIN guessing limit from 1,800 attempts to just 20</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-07-06T04:21:28.000Z",
+    "duration": 346,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS586.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS586/"
+  },
+  {
     "id": "risky-bulletin-fatfs-bugs-enable-physical-access-attacks-on-a-load-of-devices",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: FatFs bugs enable physical access attacks on a load of devices",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS535/"
-  },
-  {
-    "id": "sponsored-what-it-means-to-be-a-learning-organisation",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: What it means to be a learning organisation",
-    "description": "<p>In this Risky Business sponsor interview, Marco Slaviero, CTO of Thinkst, talks to Tom Uren about how the company ensures that it is a learning organisation.</p>\n\n<p>The pair discuss the company’s investment in its Thinkst Labs, how it differs from other security research labs, and how it helps grow products and people.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-03-08T20:06:57.000Z",
-    "duration": 880,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI118.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI118/"
   }
 ]
