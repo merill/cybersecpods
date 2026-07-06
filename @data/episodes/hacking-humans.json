@@ -901,23 +901,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/368/notes"
   },
   {
-    "id": "poisoned-at-the-source-omitb",
-    "podcastId": "hacking-humans",
-    "title": "Poisoned at the source. [OMITB]",
-    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠Qintel⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, we dive into supply chain attacks through the lens of a massive Android malware campaign that infects devices before they ever reach users, embedding itself in firmware and reseller-installed system images. We connect the dots to other high-impact supply chain incidents—from SolarWinds to the recent F5 breach—and share new intelligence on Android devices compromised during manufacturing and distribution in China. Together, these cases highlight how attacks at the source can quietly scale, persist, and evade traditional defenses.</p>",
-    "publishedAt": "2026-01-06T08:00:00.000Z",
-    "duration": 2685,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW8302587816.mp3?updated=1767639058",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/79f136b0-ea67-11f0-9851-f3e46ab5d2bd/image/d9f0cdb0dcdd515f0dfd92da4cc68fb2.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 19,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/19/notes"
-  },
-  {
     "id": "apple-lockdown-mode-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "Apple Lockdown Mode (noun) [Word Notes]",
@@ -933,6 +916,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/116/notes"
+  },
+  {
+    "id": "poisoned-at-the-source-omitb",
+    "podcastId": "hacking-humans",
+    "title": "Poisoned at the source. [OMITB]",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠Qintel⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, we dive into supply chain attacks through the lens of a massive Android malware campaign that infects devices before they ever reach users, embedding itself in firmware and reseller-installed system images. We connect the dots to other high-impact supply chain incidents—from SolarWinds to the recent F5 breach—and share new intelligence on Android devices compromised during manufacturing and distribution in China. Together, these cases highlight how attacks at the source can quietly scale, persist, and evade traditional defenses.</p>",
+    "publishedAt": "2026-01-06T08:00:00.000Z",
+    "duration": 2685,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW8302587816.mp3?updated=1767639058",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/79f136b0-ea67-11f0-9851-f3e46ab5d2bd/image/d9f0cdb0dcdd515f0dfd92da4cc68fb2.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 19,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/19/notes"
   },
   {
     "id": "hot-sauce-and-hot-takes-an-only-malware-in-the-building-special",
@@ -1241,23 +1241,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/362/notes"
   },
   {
-    "id": "web-30-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Web 3.0 (noun) [Word Notes]",
-    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>The potential next evolution of the worldwide web that decentralizes interaction between users and content away from the big silicon valley social media platforms like Twitter, Facebook, and YouTube, and towards peer-to-peer interaction using blockchain as the underlying technology. </p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/web-30\">⁠https://thecyberwire.com/glossary/web-30⁠</a></p>\n<p>Audio reference link: “<a href=\"https://www.youtube.com/watch?v=ESjUgb_ZakA\">⁠What Elon Musk Just Said about Metaverse, Web3 and Neuralink⁠</a>,” By Clayton Morris, Crypto News Daily, YouTube. 2 December 2021.</p>",
-    "publishedAt": "2025-11-04T08:00:00.000Z",
-    "duration": 420,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW2802258503.mp3?updated=1736193886",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/380601d8-b8fb-11f0-bf7b-8fbc2fea6026/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 107,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/107/notes"
-  },
-  {
     "id": "pass-the-intel-please-omitb",
     "podcastId": "hacking-humans",
     "title": "Pass the intel, please. [OMITB]",
@@ -1273,6 +1256,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/17/notes"
+  },
+  {
+    "id": "web-30-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Web 3.0 (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>The potential next evolution of the worldwide web that decentralizes interaction between users and content away from the big silicon valley social media platforms like Twitter, Facebook, and YouTube, and towards peer-to-peer interaction using blockchain as the underlying technology. </p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/web-30\">⁠https://thecyberwire.com/glossary/web-30⁠</a></p>\n<p>Audio reference link: “<a href=\"https://www.youtube.com/watch?v=ESjUgb_ZakA\">⁠What Elon Musk Just Said about Metaverse, Web3 and Neuralink⁠</a>,” By Clayton Morris, Crypto News Daily, YouTube. 2 December 2021.</p>",
+    "publishedAt": "2025-11-04T08:00:00.000Z",
+    "duration": 420,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW2802258503.mp3?updated=1736193886",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/380601d8-b8fb-11f0-bf7b-8fbc2fea6026/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 107,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/107/notes"
   },
   {
     "id": "the-malware-mash",
@@ -2414,23 +2414,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/332/notes"
   },
   {
-    "id": "account-takeover-prevention-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "account takeover prevention (noun) [Word Notes]",
-    "description": "<p>Enjoy this encore of Word Notes. </p><p>The prevention of the first part of an intrusion kill chain model exploitation technique, where the hacker steals valid logging credentials from a targeted victim. </p><p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/account-takeover-prevention\">https://thecyberwire.com/glossary/account-takeover-prevention</a></p>",
-    "publishedAt": "2025-04-01T07:00:00.000Z",
-    "duration": 383,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9725091791.mp3?updated=1743437801",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/5e6699a8-0e4e-11f0-ba23-97a0ed79d66b/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 77,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/77/notes"
-  },
-  {
     "id": "hello-is-it-malware-youre-looking-for-omitb",
     "podcastId": "hacking-humans",
     "title": "Hello? Is it malware you’re looking for? [OMITB]",
@@ -2446,6 +2429,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/11/notes"
+  },
+  {
+    "id": "account-takeover-prevention-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "account takeover prevention (noun) [Word Notes]",
+    "description": "<p>Enjoy this encore of Word Notes. </p><p>The prevention of the first part of an intrusion kill chain model exploitation technique, where the hacker steals valid logging credentials from a targeted victim. </p><p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/account-takeover-prevention\">https://thecyberwire.com/glossary/account-takeover-prevention</a></p>",
+    "publishedAt": "2025-04-01T07:00:00.000Z",
+    "duration": 383,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9725091791.mp3?updated=1743437801",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/5e6699a8-0e4e-11f0-ba23-97a0ed79d66b/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 77,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/77/notes"
   },
   {
     "id": "smells-like-scam-season-is-upon-us",
@@ -3451,23 +3451,6 @@
     "link": "https://thecyberwire.com/podcasts/cso-perspectives-public/5573/notes"
   },
   {
-    "id": "non-fungible-tokens-nft-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "non-fungible tokens (NFT) (noun) [Word Notes]",
-    "description": "<p>Enjoy this encore of Word Notes.</p><p>Digital assets that are cryptographically protected on a blockchain and contain unique identification codes and metadata that makes them one of a kind.</p>",
-    "publishedAt": "2024-10-01T07:00:00.000Z",
-    "duration": 334,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1121002856.mp3?updated=1727711696",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 54,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/51/notes"
-  },
-  {
     "id": "the-dark-arts-of-cyber-only-malware-in-the-building",
     "podcastId": "hacking-humans",
     "title": "The Dark Arts of cyber. [Only Malware in the Building]",
@@ -3483,6 +3466,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/5/notes"
+  },
+  {
+    "id": "non-fungible-tokens-nft-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "non-fungible tokens (NFT) (noun) [Word Notes]",
+    "description": "<p>Enjoy this encore of Word Notes.</p><p>Digital assets that are cryptographically protected on a blockchain and contain unique identification codes and metadata that makes them one of a kind.</p>",
+    "publishedAt": "2024-10-01T07:00:00.000Z",
+    "duration": 334,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1121002856.mp3?updated=1727711696",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 54,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/51/notes"
   },
   {
     "id": "the-devil-is-in-the-details",
@@ -10591,23 +10591,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/129/notes"
   },
   {
-    "id": "unix-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Unix (noun) [Word Notes]",
-    "description": "<p>A family of multitasking, multi-user computer operating systems that derive from the original Unix system built by Ken Thompson and Dennis Ritchie in the 1960s.</p>",
-    "publishedAt": "2021-01-05T08:00:00.000Z",
-    "duration": 315,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9555456575.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 27,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/27/notes"
-  },
-  {
     "id": "fuzzing-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "fuzzing (noun) [Word Notes]",
@@ -10623,6 +10606,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/28/notes"
+  },
+  {
+    "id": "unix-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Unix (noun) [Word Notes]",
+    "description": "<p>A family of multitasking, multi-user computer operating systems that derive from the original Unix system built by Ken Thompson and Dennis Ritchie in the 1960s.</p>",
+    "publishedAt": "2021-01-05T08:00:00.000Z",
+    "duration": 315,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9555456575.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 27,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/27/notes"
   },
   {
     "id": "encore-dont-go-looking-for-morality-here-hacking-humans",
@@ -10761,23 +10761,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/127/notes"
   },
   {
-    "id": "cyber-threat-intelligence-cti-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "cyber threat intelligence (CTI) (noun) [Word Notes]",
-    "description": "<p>Information used by leadership to make decisions regarding the cybersecurity posture of their organization.</p>",
-    "publishedAt": "2020-12-08T08:00:00.000Z",
-    "duration": 362,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9696124098.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 23,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/23/notes"
-  },
-  {
     "id": "virtual-private-network-vpn-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "Virtual Private Network (VPN) (noun) [Word Notes}",
@@ -10793,6 +10776,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/20/notes"
+  },
+  {
+    "id": "cyber-threat-intelligence-cti-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "cyber threat intelligence (CTI) (noun) [Word Notes]",
+    "description": "<p>Information used by leadership to make decisions regarding the cybersecurity posture of their organization.</p>",
+    "publishedAt": "2020-12-08T08:00:00.000Z",
+    "duration": 362,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9696124098.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 23,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/23/notes"
   },
   {
     "id": "going-behind-the-scenes-and-preventing-social-engineering-in-financial-instituti",
@@ -10812,23 +10812,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/126/notes"
   },
   {
-    "id": "network-time-protocol-ntp-attack-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Network Time Protocol (NTP) attack (noun) [Word Notes]",
-    "description": "<p>A reflection or amplification distributed denial-of-service attack in which hackers query Internet network time protocol servers, NTP servers for short, for the correct time, but spoof the destination address of their target victims.</p>",
-    "publishedAt": "2020-12-01T08:00:00.000Z",
-    "duration": 397,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9519050384.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 19,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/19/notes"
-  },
-  {
     "id": "smishing-sms-phishing-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "smishing (SMS phishing) (noun) [Word Notes]",
@@ -10844,6 +10827,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/17/notes"
+  },
+  {
+    "id": "network-time-protocol-ntp-attack-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Network Time Protocol (NTP) attack (noun) [Word Notes]",
+    "description": "<p>A reflection or amplification distributed denial-of-service attack in which hackers query Internet network time protocol servers, NTP servers for short, for the correct time, but spoof the destination address of their target victims.</p>",
+    "publishedAt": "2020-12-01T08:00:00.000Z",
+    "duration": 397,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9519050384.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 19,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/19/notes"
   },
   {
     "id": "encore-wearing-a-mask-in-the-oval-office-and-the-art-of-deception",
@@ -10897,23 +10897,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/125/notes"
   },
   {
-    "id": "shadow-it-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "shadow IT (noun) {Word Notes]",
-    "description": "<p>Technology, software and hardware deployed without explicit organizational approval. In the early days of the computer era from the 1980s through the 2000s security and information system practitioners considered shadow IT as completely negative. Those unauthorized systems were nothing more than a hindrance that created more technical debt in organizations that were already swimming in it with the known and authorized systems. </p>",
-    "publishedAt": "2020-11-17T08:00:00.000Z",
-    "duration": 294,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW5003658503.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 15,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/15/notes"
-  },
-  {
     "id": "network-detection-and-response-ndr-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "Network Detection and Response (NDR) (noun) [Word Notes]",
@@ -10929,6 +10912,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/16/notes"
+  },
+  {
+    "id": "shadow-it-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "shadow IT (noun) {Word Notes]",
+    "description": "<p>Technology, software and hardware deployed without explicit organizational approval. In the early days of the computer era from the 1980s through the 2000s security and information system practitioners considered shadow IT as completely negative. Those unauthorized systems were nothing more than a hindrance that created more technical debt in organizations that were already swimming in it with the known and authorized systems. </p>",
+    "publishedAt": "2020-11-17T08:00:00.000Z",
+    "duration": 294,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW5003658503.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 15,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/15/notes"
   },
   {
     "id": "ransomware-statistically-its-likely-to-happen-to-anybody",
@@ -11611,23 +11611,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/101/notes"
   },
   {
-    "id": "wearing-a-mask-in-the-oval-office",
-    "podcastId": "hacking-humans",
-    "title": "Wearing a mask in the Oval Office.",
-    "description": "<p>Joe shares his Classic Cons Part 3, Dave has an Apple device scam story, The Catch of the Day is your assassination heads-up, and later in the show our interview with Jonna Mendez, retired CIA intelligence officer and former Chief of Disguise.</p><p>Link to story:</p><p><a href=\"https://twitter.com/floam/status/1262901978394431489?s=20\"> Twitter</a></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
-    "publishedAt": "2020-05-28T05:00:00.000Z",
-    "duration": 2510,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9774888724.mp3?updated=1633705762",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/8833f8c2-a50b-11ea-9279-5b115c80b35d/image/Hacking-Humans-iTunes-art-1400x1400.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 100,
-    "seasonNumber": 3,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/hacking-humans/100/notes"
-  },
-  {
     "id": "hh-extra-happy-100-shows",
     "podcastId": "hacking-humans",
     "title": "HH Extra - Happy 100 shows!",
@@ -11643,6 +11626,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": null
+  },
+  {
+    "id": "wearing-a-mask-in-the-oval-office",
+    "podcastId": "hacking-humans",
+    "title": "Wearing a mask in the Oval Office.",
+    "description": "<p>Joe shares his Classic Cons Part 3, Dave has an Apple device scam story, The Catch of the Day is your assassination heads-up, and later in the show our interview with Jonna Mendez, retired CIA intelligence officer and former Chief of Disguise.</p><p>Link to story:</p><p><a href=\"https://twitter.com/floam/status/1262901978394431489?s=20\"> Twitter</a></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
+    "publishedAt": "2020-05-28T05:00:00.000Z",
+    "duration": 2510,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9774888724.mp3?updated=1633705762",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/8833f8c2-a50b-11ea-9279-5b115c80b35d/image/Hacking-Humans-iTunes-art-1400x1400.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 100,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/hacking-humans/100/notes"
   },
   {
     "id": "how-scammers-fill-the-gap",
