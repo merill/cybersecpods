@@ -1,5 +1,22 @@
 [
   {
+    "id": "omitb-trusting-the-wrong-package",
+    "podcastId": "discarded",
+    "title": "OMITB: Trusting the wrong package.",
+    "description": "<p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2445401/fan_mail/new\">Send us fan mail!</a></p><p><em>Hello to all our Cyber Pals! This week, we present a special replay of \"Only Malware in the Building,\" the podcast that our host, Selena Larson, also co-hosts! Enjoy!</em></p><p><br/></p><p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href='https://www.linkedin.com/in/selenalarson/'>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, <a href='https://www.proofpoint.com/'>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href='https://www.proofpoint.com/us/podcasts/discarded'>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href='https://www.n2k.com/?__hstc=223811332.c0bb255a4b8fe007089467434474ef1d.1783382157453.1783382157453.1783453584063.2&__hssc=223811332.1.1783453584063&__hsfp=f6b28859beceacddfa0d917766303e9a'>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> <a href='https://www.linkedin.com/in/dave-bittner-27231a4/'>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> and <a href='https://www.linkedin.com/in/keith-mularski-b737551/'>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href='https://www.linkedin.com/company/qintel/'>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Qintel⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</p><p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. This week, our hosts dive into the evolving threat of software supply chain attacks and the growing risks facing the open-source ecosystem. As developers increasingly rely on third-party packages and AI-powered coding tools, attackers are finding new ways to abuse trusted software to reach a wider range of targets. The discussion explores why these attacks are becoming more common, what recent incidents reveal about the state of software security, and what organizations can do to better protect themselves.</p><p><b><br/>Sources: </b> <a href='https://cyberscoop.com/supply-chain-attack-shai-hulud-npm/'>⁠<br/></a><br/></p><p><a href='https://cyberscoop.com/supply-chain-attack-shai-hulud-npm/'>Shai-Hulud worm returns stronger and more automated than ever before</a><a href='https://cyberscoop.com/mini-shai-hulud-supply-chain-malware-attack/'>⁠</a></p><p><a href='https://cyberscoop.com/mini-shai-hulud-supply-chain-malware-attack/'>‘Mini Shai-Hulud’ malware compromises hundreds of open-source packages in sprawling supply-chain attack</a><a href='https://thecyberwire.com/podcasts/only-malware-in-the-building/24/%C2%A0%E2%81%A0https://www.sans.org/blog/what-we-learned-axios-npm-supply-chain-compromise-emergency-briefing'>⁠</a></p><p><a href='https://www.sans.org/blog/what-we-learned-axios-npm-supply-chain-compromise-emergency-briefing'>What We Learned: Axios NPM Supply Chain Compromise Emergency Briefing</a></p><p><a href='https://www.trendmicro.com/en_us/research/26/c/inside-litellm-supply-chain-compromise.html'>Your AI Gateway Was a Backdoor: Inside the LiteLLM Supply Chain Compromise</a></p>",
+    "publishedAt": "2026-07-07T19:00:00.000Z",
+    "duration": 2305,
+    "audioUrl": "https://www.buzzsprout.com/2445401/episodes/19460244-omitb-trusting-the-wrong-package.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 105,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "from-phishing-to-court-cases-how-microsoft-fights-back-against-hackers",
     "podcastId": "discarded",
     "title": "From Phishing to Court Cases: How Microsoft Fights Back Against Hackers",
