@@ -203,9 +203,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-06-30T18:00:00.000Z",
+    "lastEpisodeDate": "2026-07-07T18:00:00.000Z",
     "firstEpisodeDate": "2018-01-10T04:00:00.000Z",
-    "episodeCount": 325,
+    "episodeCount": 326,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4143,7 +4143,16 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-07T09:56:15.673Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
