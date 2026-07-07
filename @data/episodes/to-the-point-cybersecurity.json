@@ -1,5 +1,22 @@
 [
   {
+    "id": "ai-agents-arent-people-dont-give-them-the-keys-with-ido-shlomo",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "AI Agents Aren't People. Don't Give Them the Keys with Ido Shlomo",
+    "description": "<p>Welcome back to the To the Point Cybersecurity Podcast! This week, Rachael Lyon and Jonathan Knepher dive into the evolving world of quantum computing and agentic AI—a realm where cutting-edge technology meets enterprise security challenges and opportunities. They're joined by Ido Shlomo, co-founder and CTO of Token Security and a veteran of Israel's elite Unit 8200, who shares his journey from gamer and offensive cybersecurity expert to innovator focused on securing non-human identities in cloud and AI-first environments.</p> <p>Together, they unpack the promise and perils of agentic AI, discussing its real-world adoption in business, risks of unchecked AI agents, the critical role of identity and access management, and where regulation fits into the picture. With insights on practical security guardrails, the future of enterprise productivity, and even the psychological quirks of GenAI chatbots, this episode challenges listeners to rethink the boundaries between human and machine—and how to keep innovation both secure and responsible.</p> <p>For links and resources discussed in this episode, please visit our show notes at https://www.forcepoint.com/govpodcast/e386</p>",
+    "publishedAt": "2026-07-07T12:30:00.000Z",
+    "duration": 2437,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E386_-_Ido_Shlomo_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/c/0/3/b/c03b09725150a30ed959afa2a1bf1c87/E386_-_Ido_Shlomo_mixdown.jpg",
+    "episodeNumber": 386,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/govpodcast/e386"
+  },
+  {
     "id": "appsec-needs-ai-employees-not-more-tools-with-shan-kulkarni",
     "podcastId": "to-the-point-cybersecurity",
     "title": "AppSec Needs AI Employees, Not More Tools with Shan Kulkarni",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/govpodcast/e66"
-  },
-  {
-    "id": "2020-government-cybersecurity-predictions-part-2-of-2",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "2020 Government Cybersecurity Predictions, Part 2 of 2",
-    "description": "<p>2020 Final Three Predictions, Part 2 of 2: Cloud smart not dumb, Mature approach to data and privacy, Indicators of Compromise IoC to Indicators of Behavior IoB. Nicolas Fischbach, Forcepoint's CTO, Phil Goldstein of FedTech and Mike Gruss of Fifth Domain weigh in on Forcepoint Cybersecurity Predictions and Trends for 2020. For more information about this episode, please visit <a href= \"https://www.forcepoint.com/govpodcast/e65\">https://www.forcepoint.com/govpodcast/e65</a>, and be sure to check out Forcepoint's Cybersecurity Predictions Report here: <a href= \"https://www.forcepoint.com/blog/x-labs/2020-forcepoint-cybersecurity-predictions\"> https://www.forcepoint.com/blog/x-labs/2020-forcepoint-cybersecurity-predictions</a></p>",
-    "publishedAt": "2020-02-18T13:00:00.000Z",
-    "duration": 1778,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E065_2020_Gov_Predictions_Part_2_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/9/f/8/5/9f857588df2cda72/E065_2020_Gov_Predictions_Part_2_mixdown.jpg",
-    "episodeNumber": 65,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e65"
   }
 ]

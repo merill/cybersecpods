@@ -1,5 +1,22 @@
 [
   {
+    "id": "claude-fable-sharepoint-rce-and-cisas-kev-list",
+    "podcastId": "blue-security",
+    "title": "Claude Fable, SharePoint RCE, and CISA's KEV list",
+    "description": "<p><strong>Summary</strong></p><p>In this episode of the Blue Security Podcast, hosts Andy Jaw and Adam Brewer discuss Andy's career transition from Microsoft to Zscaler, the return of the AI model Fable and its user experience, and a critical SharePoint vulnerability that has caught CISA's attention. They delve into the implications of these topics for security professionals and the importance of staying updated on actively exploited vulnerabilities.----------------------------------------------------</p><p>YouTube Video Link: <a href=\"https://youtu.be/HzoyyLLpo7Y\">⁠⁠</a>https://youtu.be/3VbR22krL-w</p><p>----------------------------------------------------</p><p>Documentation: </p><p>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/</p><p>https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-45659</p><p>https://www.cisa.gov/known-exploited-vulnerabilities-catalog</p><p>----------------------------------------------------</p><p>Contact Us:</p><p>Website: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bluesecuritypod.com</p><p>Bluesky: https://bsky.app/profile/bluesecuritypod.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/company/bluesecpod</p><p>YouTube: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/c/BlueSecurityPodcast</p><p>-----------------------------------------------------------</p><p>Andy Jaw</p><p>Bluesky: https://bsky.app/profile/ajawzero.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/andyjaw/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠andy@bluesecuritypod.com⁠</p><p>----------------------------------------------------</p><p>Adam Brewer</p><p>Twitter: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://twitter.com/ajbrewer</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/adamjbrewer/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠adam@bluesecuritypod.com</p>",
+    "publishedAt": "2026-07-07T12:00:00.000Z",
+    "duration": 1328,
+    "audioUrl": "https://anchor.fm/s/37babf1c/podcast/play/122487319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F440feebb-5313-b575-1019-063f6e7bf560.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9249855/9249855-1600984785589-140b457fbd8fe.jpg",
+    "episodeNumber": 42,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/blue-security-podcast/episodes/Claude-Fable--SharePoint-RCE--and-CISAs-KEV-list-e3loh2n"
+  },
+  {
     "id": "helping-or-hurting-an-honest-conversation-about-ai",
     "podcastId": "blue-security",
     "title": "Helping or Hurting? - An Honest Conversation About AI",
