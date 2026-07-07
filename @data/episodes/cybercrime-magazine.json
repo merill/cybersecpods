@@ -1,5 +1,22 @@
 [
   {
+    "id": "what-cybersecurity-sounds-like-shift-in-ai-around-where-inference-runs-sean-juro",
+    "podcastId": "cybercrime-magazine",
+    "title": "What Cybersecurity Sounds Like. Shift In AI Around Where Inference Runs. Sean Juroviesky, SoundCloud",
+    "description": "Sean Juroviesky is a senior security engineer at SoundCloud. In this episode, he joins host Paul John Spaulding to discuss shift happening in AI around where inference actually runs, a recent situation with AWS Bedrock and Anthropic routing inference outside the EU, and more. • For more on cybersecurity, visit us at https://cybersecurityventures.com",
+    "publishedAt": "2026-07-07T15:42:17.000Z",
+    "duration": 1065,
+    "audioUrl": "https://feeds.soundcloud.com/stream/2351923604-cybercrimemagazine-what-cybersecurity-sounds-like-shift-in-ai-inference-runs-sean-juroviesky-soundcloud.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://i1.sndcdn.com/artworks-DMl5LCOP9X7Czo8i-tobq5w-t3000x3000.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://soundcloud.com/cybercrimemagazine/what-cybersecurity-sounds-like-shift-in-ai-inference-runs-sean-juroviesky-soundcloud"
+  },
+  {
     "id": "cybercrime-wire-for-jul-7-2026-moody-bible-institute-breach-leaks-23m-records-wc",
     "podcastId": "cybercrime-magazine",
     "title": "Cybercrime Wire For Jul 7, 2026. Moody Bible Institute Breach Leaks 2.3M Records. WCYB Digital Radio",
@@ -32,6 +49,23 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://soundcloud.com/cybercrimemagazine/russian-hackers-target-uk-gov-email-accounts"
+  },
+  {
+    "id": "digital-rights-and-safety-todays-environment-silvia-semenzin-digital-sociologist",
+    "podcastId": "cybercrime-magazine",
+    "title": "Digital Rights & Safety. Today's Environment. Silvia Semenzin, Digital Sociologist & Author.",
+    "description": "Silvia Semenzin is a digital sociologist, author, and digital rights activist whose vital work bridges the gap between academia and activism. Her research focuses on the intersection of emerging technologies, media studies, and data justice, with a particular emphasis on governance, algorithmic discrimination, and technology-facilitated gender-based violence. In this episode, she joins host Heather Engel to discuss her work in detail, including the online environment that she sees as a researcher and activist, her book analyzing cyberviolence against women in male-populated digital environments, and more. • For more on cybersecurity, visit us at https://cybersecurityventures.com",
+    "publishedAt": "2026-07-07T00:00:00.000Z",
+    "duration": 1429,
+    "audioUrl": "https://feeds.soundcloud.com/stream/2350011947-cybercrimemagazine-digital-rights-safety-today-silvia-semenzin-digital-sociologist-author.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://i1.sndcdn.com/artworks-aP0LhGgrvRx9sqVd-EM8uSQ-t3000x3000.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://soundcloud.com/cybercrimemagazine/digital-rights-safety-today-silvia-semenzin-digital-sociologist-author"
   },
   {
     "id": "cybercrime-wire-for-jul-6-2026-monmouth-university-breach-16tb-data-claimed-wcyb",
@@ -8432,23 +8466,6 @@
     "link": "https://soundcloud.com/cybercrimemagazine/cybersecurity-venture-capital-report-q3-2025-richard-seewald-evolution-equity-partners"
   },
   {
-    "id": "locker-talk-how-ai-is-transforming-pentesting-russ-gleber-breachlock",
-    "podcastId": "cybercrime-magazine",
-    "title": "Locker Talk. How AI Is Transforming Pentesting. Russ Gleber, BreachLock.",
-    "description": "Russ Gleber is the Senior Director of Penetration Testing Solutions at BreachLock. In this episode, he joins host Scott Schober to discuss how artificial intelligence is transforming penetration testing, including what is driving the need to integrate AI into workflows across organizations, some of the most promising use cases, and more. This episode is brought to you by BreachLock. To learn more about our sponsor, visit https://breachlock.com.",
-    "publishedAt": "2025-11-12T15:56:28.000Z",
-    "duration": 369,
-    "audioUrl": "https://feeds.soundcloud.com/stream/2210850356-cybercrimemagazine-locker-talk-ai-transforming-pentesting-russ-gleber-breachlock.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://i1.sndcdn.com/artworks-TeYHSOfDfZB4ljDK-qIY8KA-t3000x3000.jpg",
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://soundcloud.com/cybercrimemagazine/locker-talk-ai-transforming-pentesting-russ-gleber-breachlock"
-  },
-  {
     "id": "cybercrime-wire-for-nov-12-2025-cyberattack-strikes-popular-museum-in-germany-wc",
     "podcastId": "cybercrime-magazine",
     "title": "Cybercrime Wire For Nov. 12, 2025. Cyberattack Strikes Popular Museum In Germany. WCYB Digital Radio",
@@ -8481,22 +8498,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://soundcloud.com/cybercrimemagazine/iran-backed-hackers-leak-aussie-tank-plans"
-  },
-  {
-    "id": "cybercrime-wire-for-nov-11-2025-iran-backed-hack-hits-aussie-military-wcyb-digit",
-    "podcastId": "cybercrime-magazine",
-    "title": "Cybercrime Wire For Nov. 11, 2025. Iran-Backed Hack Hits Aussie Military. WCYB Digital Radio.",
-    "description": "The Cybercrime Wire, hosted by Scott Schober, provides boardroom and C-suite executives, CIOs, CSOs, CISOs, IT executives and cybersecurity professionals with a breaking news story we’re following. If there’s a cyberattack, hack, or data breach you should know about, then we’re on it. Listen to the podcast daily and hear it every hour on WCYB. The Cybercrime Wire is brought to you Cybercrime Magazine, Page ONE for Cybersecurity at https://cybercrimemagazine.com. • For more breaking news, visit https://cybercrimewire.com",
-    "publishedAt": "2025-11-11T14:29:20.000Z",
-    "duration": 84,
-    "audioUrl": "https://feeds.soundcloud.com/stream/2210706047-cybercrimemagazine-iran-backed-hack-hits-aussie-military.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://i1.sndcdn.com/artworks-kieyMXFX6F57RB4h-hnOtwQ-t3000x3000.png",
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://soundcloud.com/cybercrimemagazine/iran-backed-hack-hits-aussie-military"
   }
 ]
