@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-july-7th-2026-rcs-and-dns-openssh-update-beyond-trust-adv",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, July 7th, 2026: RCS and DNS; OpenSSH Update; Beyond Trust Advisory; PolinRider Update",
+    "description": "<br/>\nRCS and DNS: The NAPTR Record<br/>\n<a href=\"https://isc.sans.edu/diary/RCS%20and%20DNS%3A%20The%20NAPTR%20Record/33124\">https://isc.sans.edu/diary/RCS%20and%20DNS%3A%20The%20NAPTR%20Record/33124</a><br/>\nOpenSSH 10.4 released<br/>\n<a href=\"https://seclists.org/oss-sec/2026/q3/62\">https://seclists.org/oss-sec/2026/q3/62</a><br/>\nBeyond Trust Advisory CVE-2026-40138 CVE-2026-40139<br/>\n<a href=\"https://www.beyondtrust.com/trust-center/security-advisories/bt26-03\">https://www.beyondtrust.com/trust-center/security-advisories/bt26-03</a><br/>\nPolinRider: North Korea-Linked Supply Chain Campaign<br/>\n<a href=\"https://socket.dev/blog/polinrider-north-korea-linked-supply-chain-campaign-expands\">https://socket.dev/blog/polinrider-north-korea-linked-supply-chain-campaign-expands</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-07T02:00:02.000Z",
+    "duration": 398,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/9996.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 9996,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/9996"
+  },
+  {
     "id": "sans-stormcast-monday-july-6th-2026-apple-patch-policy-fatfs-vulns-openwrt-multi",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, July 6th, 2026: Apple Patch Policy; FatFS Vulns; OpenWRT; Multi-Agent Offensive AI;",
