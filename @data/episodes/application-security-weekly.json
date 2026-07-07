@@ -1,5 +1,22 @@
 [
   {
+    "id": "defense-in-depth-strategies-for-securing-mobile-applications-ryan-lloyd-asw-390",
+    "podcastId": "application-security-weekly",
+    "title": "Defense-in-depth strategies for securing mobile applications - Ryan Lloyd - ASW #390",
+    "description": "<p>Mobile applications have unique risks and threat models compared to server-side applications and infrastructure. Consequently, they need different strategies to ensure their business logic and workflows well secured. We'll dive into some of these defense-in-depth strategies and why they are important to mobile applications. Securing workflows goes beyond input validation and pattern matching suspicious payloads; it requires detailed attention to state machines, edge cases, and collecting signals to evaluate trust.</p> <p>Segment Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://hubs.la/Q04jLKj70\">https://hubs.la/Q04jLKj70</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://mas.owasp.org/MASTG/0x04c-Tampering-and-Reverse-Engineering/\"> https://mas.owasp.org/MASTG/0x04c-Tampering-and-Reverse-Engineering/</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://owasp.org/API-Security/editions/2023/en/0x00-header/\">https://owasp.org/API-Security/editions/2023/en/0x00-header/</a></li> </ul> <p>This segment is sponsored by Guardsquare. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/guardsquare\">https://securityweekly.com/guardsquare</a> to learn more about them!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-390\">https://securityweekly.com/asw-390</a></p>",
+    "publishedAt": "2026-07-07T09:00:00.000Z",
+    "duration": 2873,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_390_1--4b0e21d2-3c69-44d3-be69-a71716049e47--audio-converted--588e1185-e8ad-46c1-8e0a-daee242b1d64.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/a/9/c/3/a9c3b4eddf07f165d959afa2a1bf1c87/ASW_390_Thumbnail_ASW_1920x1920-op1_981a473b-5002-4f01-ac7f-192c80c47924.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/defense-in-depth-strategies-for-securing-mobile-applications-ryan-lloyd-asw-390"
+  },
+  {
     "id": "reducing-attack-surface-and-evaluating-efficiency-in-agents-itamar-apelblat-davi",
     "podcastId": "application-security-weekly",
     "title": "Reducing Attack Surface & Evaluating Efficiency in Agents - Itamar Apelblat, David Goldschlag - ASW #389",
