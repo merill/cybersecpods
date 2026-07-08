@@ -723,9 +723,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-01T09:00:00.000Z",
+    "lastEpisodeDate": "2026-07-08T09:00:00.000Z",
     "firstEpisodeDate": "2016-07-28T17:20:12.000Z",
-    "episodeCount": 472,
+    "episodeCount": 473,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1856,7 +1856,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-07-08T08:40:53.055Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -2129,7 +2138,44 @@
         "ratingCount": 56,
         "fetchedAt": "2026-07-08T08:40:55.398Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this pod!",
+        "content": "Selena and Crista dives into intriguing topics that are often overlooked, serving up fresh insights in a compelling manner. It feels like a refreshing conversation with a wise friend, always leaving you eager for the next episode.\n\nFrom Bona and Team Capsho",
+        "author": "Bona and Team Capsho",
+        "updatedAt": "2023-08-30T14:42:38-07:00"
+      },
+      {
+        "rating": 4,
+        "title": "Great  Podcast",
+        "content": "Very good podcast Brian a lot from listening to it.",
+        "author": "JonDvid",
+        "updatedAt": "2023-06-11T05:06:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Cyber! Cyber! Cyber!",
+        "content": "This is the best podcast by CTI practitioners diving into detail about current threats. This podcast would win a fight against other similar podcasts. Let’s have a podcast fight club. Oops this pod is already the champ.",
+        "author": "GPSWKEKT1640",
+        "updatedAt": "2023-05-02T21:00:47-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Notch",
+        "content": "Timely and informative content!",
+        "author": "ASVPGLES",
+        "updatedAt": "2023-01-24T11:06:13-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Cyber Threat Podcast",
+        "content": "This podcast has some of the smartest people I’ve ever heard talk about computers. True thought leaders that are titans in the industry bringing the hottest cyber threats to your ears. Highly recommend.",
+        "author": "JM123456789123456789",
+        "updatedAt": "2022-03-10T09:38:13-07:00"
+      }
+    ]
   },
   {
     "id": "down-the-security-rabbithole",
@@ -2782,9 +2828,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-06T09:00:00.000Z",
+    "lastEpisodeDate": "2026-07-08T09:00:00.000Z",
     "firstEpisodeDate": "2019-07-02T19:56:42.000Z",
-    "episodeCount": 432,
+    "episodeCount": 433,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4052,16 +4098,7 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-08T08:41:09.680Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5160,6 +5197,43 @@
         "fetchedAt": "2026-07-08T08:41:20.104Z"
       }
     },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great cybersecurity podcast!",
+        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
+        "author": "Dave McCollough",
+        "updatedAt": "2025-12-12T06:46:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Love it",
+        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
+        "author": "dareyoutomove",
+        "updatedAt": "2024-10-12T09:27:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Pentesting 101",
+        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
+        "author": "Rich-Barr",
+        "updatedAt": "2023-11-01T04:42:09-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Worth a listen",
+        "content": "Great insight and advice and actually very entertaining.",
+        "author": "Chris Y Doyle",
+        "updatedAt": "2022-09-14T12:09:26-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Rock stars!",
+        "content": "This group of folks are the best of the best! Amazing talent sharing their brains with the world. I’m here for it.",
+        "author": "CupcakeHustling",
+        "updatedAt": "2022-08-10T14:26:33-07:00"
+      }
+    ],
     "submittedBy": "techspence"
   },
   {
