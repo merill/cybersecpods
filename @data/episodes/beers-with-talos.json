@@ -1,5 +1,22 @@
 [
   {
+    "id": "space-pirates-living-off-trusted-services-and-bill-declares-food-war",
+    "podcastId": "beers-with-talos",
+    "title": "Space Pirates, Living Off Trusted Services, & Bill Declares Food War",
+    "description": "<p>In this episode of Beers with Talos, Hazel, Bill, Dave and Joe are joined by Talos Security Research Engineer James Nutland to discuss Living Off Trusted Services (LOTS) - a growing technique where attackers use platforms such as GitHub, Google Drive, Microsoft services and Telegram for command and control, malware delivery and data exfiltration.</p><p>We explore why this trend is growing, how it differs from Living Off the Land (LOTL)....and Lord of the Rings (LOTR)....why trusted services create new detection challenges, and what defenders should be monitoring.</p><p>Also in this episode:</p><ul><li>Data centers in space, when physics still has to physics.</li><li>A USA vs UK Independence Day food showdown.</li><li>Hazel faces another round of <em>Make Hazel a Hacker</em>.</li><li>A new <em>Reason Not to Quit</em> looks at the latest successes from Operation Endgame.</li><li>Bill gets his own corner.</li></ul><p>Here's the LOTS project repository mentioned in the episode <a href='https://lots-project.com/'>https://lots-project.com/</a></p>",
+    "publishedAt": "2026-07-08T08:00:00.000Z",
+    "duration": 3259,
+    "audioUrl": "https://www.buzzsprout.com/2033817/episodes/19458005-space-pirates-living-off-trusted-services-bill-declares-food-war.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": true,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "ai-is-finding-bugs-faster-now-what",
     "podcastId": "beers-with-talos",
     "title": "AI Is Finding Bugs Faster. Now What?",
