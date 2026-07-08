@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-05T16:00:00.000Z",
+    "lastEpisodeDate": "2026-07-08T13:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 335,
+    "episodeCount": 336,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-07T18:45:18.000Z",
-    "firstEpisodeDate": "2025-11-12T14:44:59.000Z",
+    "lastEpisodeDate": "2026-07-08T13:29:36.000Z",
+    "firstEpisodeDate": "2025-11-12T20:39:55.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -1874,16 +1874,7 @@
         "ratingCount": 9,
         "fetchedAt": "2026-07-08T08:40:53.055Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 3,
-        "title": "Like it but HORRIBLE audio issues",
-        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
-        "author": "btaroli",
-        "updatedAt": "2019-02-03T22:19:04-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decoding-security",
@@ -2584,9 +2575,18 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-07-07T09:56:05.489Z"
+        "fetchedAt": "2026-07-08T08:40:58.415Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -4134,16 +4134,7 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-08T08:41:09.680Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4860,9 +4851,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-01T18:00:00.000Z",
+    "lastEpisodeDate": "2026-07-08T14:00:00.000Z",
     "firstEpisodeDate": "2018-01-05T18:23:08.000Z",
-    "episodeCount": 480,
+    "episodeCount": 481,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
