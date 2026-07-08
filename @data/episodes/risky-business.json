@@ -1,5 +1,22 @@
 [
   {
+    "id": "soap-box-using-threat-hunting-to-drive-detection",
+    "podcastId": "risky-business",
+    "title": "Soap Box: Using threat hunting to drive detection",
+    "description": "<p>In this wholly sponsored Soap Box edition of the podcast Patrick Gray chats with Damien Lewke, the CEO and founder of Nebulock, about the future of threat hunting and detection.</p>\n\n<p>Damien spent a decade in the EDR and MDR space before founding Nebulock in 2024. It started off as an AI-powered threat hunt platform but has evolved into a broader security data platform that can answer questions, drive hunts and drive detections.</p>\n\n<p>This product is engineered around the idea that a lot of security is a data problem. So, if we accept this premise, how do we solve security? And how much of that solution is about agents, vs building a good graph? And if you’re going to build a good graph, do you want to build it for a person to use, or an agent to use?</p>\n\n<p>This is truly a conversation for the security nerd’s nerd. Enjoy!</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/YyiK-WqIN48\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-07-08T04:51:09.000Z",
+    "duration": 2116,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX109.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SOAPBOX109/"
+  },
+  {
     "id": "risky-business-844-china-closes-ai-vulndev-gap-as-usa-lifts-fable-ban",
     "podcastId": "risky-business",
     "title": "Risky Business #844 -- China closes AI vulndev gap as USA lifts Fable ban",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB776/"
-  },
-  {
-    "id": "risky-biz-soap-box-cool-compliance-tricks-with-the-island-enterprise-browser",
-    "podcastId": "risky-business",
-    "title": "Risky Biz Soap Box: Cool compliance tricks with the Island enterprise browser",
-    "description": "<p>In this sponsored Soap Box edition of the show Patrick Gray talks to Island CEO Michael Fey about some of the cool tricks in the Island enterprise browser. You can use it to tick off so many compliance boxes, and not just cybersecurity boxes.</p>\n\n<p>This is largely a conversation about compliance, but it’s actually interesting and fun. These are words we never thought we’d type!</p>\n\n<p>You can find Island at https://island.io/</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/1tOecvkpPWU\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2024-12-20T03:16:53.000Z",
-    "duration": 1600,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/soapbox92.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/soapbox92/"
   }
 ]
