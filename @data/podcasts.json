@@ -2586,16 +2586,7 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-08T08:40:58.415Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Hacker History is important",
-        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
-        "author": "KingKamic",
-        "updatedAt": "2021-03-03T07:12:50-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "hacker-valley-studio",
@@ -4363,44 +4354,7 @@
         "ratingCount": 79,
         "fetchedAt": "2026-07-08T08:41:12.179Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Love this podcast!!",
-        "content": "Never a null moment!",
-        "author": "sr_98_sr",
-        "updatedAt": "2025-03-12T04:16:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Gold",
-        "content": "Amusing and informative and poetic!",
-        "author": "eahiv",
-        "updatedAt": "2024-05-27T17:14:36-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "good at cryptography",
-        "content": "also good at making me laugh",
-        "author": "cydyio",
-        "updatedAt": "2024-04-15T18:05:27-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Wonderfully accessible!",
-        "content": "Each episode is a great discussion into a large field",
-        "author": "Bob on Ross",
-        "updatedAt": "2024-03-03T19:32:17-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Found my new favorite podcast!",
-        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
-        "author": "Ragnaroekk",
-        "updatedAt": "2023-05-06T12:26:55-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-insider-conversations",
@@ -5040,9 +4994,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-01T23:00:06.000Z",
+    "lastEpisodeDate": "2026-07-08T23:00:03.000Z",
     "firstEpisodeDate": "2016-12-20T06:00:00.000Z",
-    "episodeCount": 476,
+    "episodeCount": 477,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
