@@ -1,5 +1,22 @@
 [
   {
+    "id": "intel-chat-dialogflow-rogue-agent-ghost-phishing-cisa-kev-deadline-and-hallusqua",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Intel Chat: Dialogflow Rogue Agent, ghost phishing, CISA KEV deadline & HalluSquatting [338]",
+    "description": "<p>Intel Chat with Matt Bromiley and Chris Luft.</p><p>Matt and Chris break down four stories from the week in threat intel:</p><p>• Varonis Threat Labs' \"Rogue Agent\" — a permission boundary flaw in Google Dialogflow CX's Code Blocks feature that could let an attacker with a single permission (dialogflow.playbooks.update) inject persistent malicious code into a chatbot's execution pipeline and silently exfiltrate conversations; Google has fully patched it, no customer action required.</p><p>• The EvilTokens campaign and \"ghost phishing\" — AES-GCM-encrypted phishing pages that look harmless to URL scanners and only reveal themselves after decrypting in the victim's browser, driving Microsoft device code phishing against Microsoft 365 accounts.</p><p>• CISA adds four actively exploited flaws to the KEV catalog with a July 10 patch deadline under BOD 26-04: Adobe ColdFusion (CVE-2026-48282, CVSS 10.0), Langflow (CVE-2026-55255, chained with CVE-2026-33017), and Joomla's SP Page Builder (CVE-2026-48908) and Page Builder CK (CVE-2026-56290) extensions.</p><p>• HalluSquatting — Tel Aviv University researchers show attackers can register the repository names AI coding assistants predictably hallucinate, then ride prompt injection to code execution on developer machines — with success rates up to 85% for repos and 100% for skill installs across Cursor, Windsurf, Copilot, Cline, Gemini CLI and more.</p><p>Stories covered:</p><p>• https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft</p><p>• https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html</p><p>• https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/</p><p>• https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html</p><p>Chapters:</p><p>0:00 Intro & catching up</p><p>4:31 Google Dialogflow CX \"Rogue Agent\" flaw</p><p>11:03 EvilTokens & \"ghost phishing\"</p><p>17:37 CISA KEV: ColdFusion, Langflow & Joomla — patch by July 10</p><p>24:56 HalluSquatting: weaponizing AI hallucinations</p><p>33:16 Wrap-up</p><p>The Cybersecurity Defenders Podcast — a podcast about cybersecurity and the people that keep the internet safe. New episodes drop weekly.</p><p>Subscribe wherever you listen:</p><p>• Spotify: https://open.spotify.com/show/6ep00zeY3S8ffZ4o0UeSps</p><p>• Apple Podcasts: https://podcasts.apple.com/us/podcast/the-cybersecurity-defenders-podcast/id1649981740</p><p>• YouTube: https://www.youtube.com/@limacharlieio</p><p>Learn more about LimaCharlie: https://limacharlie.io</p><p>#cybersecurity #infosec #threatintel #AIsecurity #phishing</p>",
+    "publishedAt": "2026-07-09T15:44:38.000Z",
+    "duration": 2066,
+    "audioUrl": "https://podcast.wistia.com/deliveries/9e8ea0b06a3cc4d722a4996120560d934a65d650.mp3?d=eyJtIjoxNTAxODMzMTUsIm1kIjoyMDY2LjM5LCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjEzMDkwMywiYiI6IjllOGVhMGIwNmEzY2M0ZDcyMmE0OTk2MTIwNTYwZDkzNGE2NWQ2NTAiLCJtYiI6NTk2LCJvYiI6OTYwMDEyLjIyNDIxNzExM30%3D--c7a527f2c1f4e01c2ce5fdf94fd0df782bac78d8b2474551c93475d558393f05",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 338,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=858eccrmio"
+  },
+  {
     "id": "ransomware-in-the-age-of-agentic-ai-with-behnaz-karimi-337",
     "podcastId": "cybersecurity-defenders",
     "title": "Ransomware in the age of agentic AI with Behnaz Karimi [337]",
