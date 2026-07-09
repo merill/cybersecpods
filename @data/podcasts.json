@@ -43,7 +43,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 71,
-        "fetchedAt": "2026-07-08T08:40:37.450Z"
+        "fetchedAt": "2026-07-09T09:58:27.281Z"
       }
     },
     "recentReviews": [
@@ -129,7 +129,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 56,
-        "fetchedAt": "2026-07-08T08:40:38.058Z"
+        "fetchedAt": "2026-07-09T09:58:28.070Z"
       }
     },
     "recentReviews": [
@@ -213,7 +213,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 18,
-        "fetchedAt": "2026-07-08T08:40:38.650Z"
+        "fetchedAt": "2026-07-09T09:58:28.565Z"
       }
     }
   },
@@ -260,7 +260,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 38,
-        "fetchedAt": "2026-07-08T08:40:39.144Z"
+        "fetchedAt": "2026-07-09T09:58:29.312Z"
       }
     },
     "recentReviews": [
@@ -350,7 +350,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-07-08T08:40:40.153Z"
+        "fetchedAt": "2026-07-09T09:58:30.015Z"
       }
     },
     "submittedBy": "gregclermont"
@@ -399,7 +399,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 12,
-        "fetchedAt": "2026-07-08T08:40:40.815Z"
+        "fetchedAt": "2026-07-09T09:58:30.610Z"
       }
     },
     "recentReviews": [
@@ -470,7 +470,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 25,
-        "fetchedAt": "2026-07-08T08:40:41.180Z"
+        "fetchedAt": "2026-07-09T09:58:31.214Z"
       }
     }
   },
@@ -516,7 +516,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 142,
-        "fetchedAt": "2026-07-08T08:40:41.661Z"
+        "fetchedAt": "2026-07-09T09:58:31.819Z"
       }
     },
     "recentReviews": [
@@ -602,7 +602,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 15,
-        "fetchedAt": "2026-07-08T08:40:42.291Z"
+        "fetchedAt": "2026-07-09T09:58:32.420Z"
       }
     }
   },
@@ -648,7 +648,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 12,
-        "fetchedAt": "2026-07-08T08:40:42.732Z"
+        "fetchedAt": "2026-07-09T09:58:33.044Z"
       }
     },
     "recentReviews": [
@@ -733,7 +733,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 3,
-        "fetchedAt": "2026-07-08T08:40:43.347Z"
+        "fetchedAt": "2026-07-09T09:58:33.777Z"
       }
     }
   },
@@ -784,7 +784,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 7,
-        "fetchedAt": "2026-07-08T08:40:44.059Z"
+        "fetchedAt": "2026-07-09T09:58:34.591Z"
       }
     }
   },
@@ -832,7 +832,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 193,
-        "fetchedAt": "2026-07-08T08:40:44.735Z"
+        "fetchedAt": "2026-07-09T09:58:35.213Z"
       }
     },
     "recentReviews": [
@@ -915,7 +915,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 49,
-        "fetchedAt": "2026-07-08T08:40:45.413Z"
+        "fetchedAt": "2026-07-09T09:58:36.119Z"
       }
     },
     "recentReviews": [
@@ -993,7 +993,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 414,
-        "fetchedAt": "2026-07-08T08:40:46.180Z"
+        "fetchedAt": "2026-07-09T09:58:36.694Z"
       }
     },
     "recentReviews": [
@@ -1076,7 +1076,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 57,
-        "fetchedAt": "2026-07-08T08:40:46.787Z"
+        "fetchedAt": "2026-07-09T09:58:37.262Z"
       }
     },
     "recentReviews": [
@@ -1161,10 +1161,17 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 30,
-        "fetchedAt": "2026-07-08T08:40:47.739Z"
+        "fetchedAt": "2026-07-09T09:58:37.951Z"
       }
     },
     "recentReviews": [
+      {
+        "rating": 4,
+        "title": "Good",
+        "content": "Enjoy, but music in the background is annoying..",
+        "author": "Bobazon889",
+        "updatedAt": "2026-05-28T13:07:55-07:00"
+      },
       {
         "rating": 5,
         "title": "My favorite cybersecurity podcast",
@@ -1192,13 +1199,6 @@
         "content": "Love the interview style, research and plain language your team uses. Fun and interesting. The interviews of experts are smooth and professional and your storytelling is great!",
         "author": "Zackmn",
         "updatedAt": "2023-12-29T17:15:14-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Greatest cyber show",
-        "content": "We all enjoy this at the club. We laugh along and are shocked by the findings. Who knew there was so much on the dark web! Love it!",
-        "author": "XavierGate34",
-        "updatedAt": "2023-12-28T20:10:47-07:00"
       }
     ]
   },
@@ -1249,7 +1249,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:40:48.416Z"
+        "fetchedAt": "2026-07-09T09:58:38.470Z"
       }
     }
   },
@@ -1296,7 +1296,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 137,
-        "fetchedAt": "2026-07-08T08:40:49.082Z"
+        "fetchedAt": "2026-07-09T09:58:39.112Z"
       }
     },
     "recentReviews": [
@@ -1383,7 +1383,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 102,
-        "fetchedAt": "2026-07-08T08:40:49.606Z"
+        "fetchedAt": "2026-07-09T09:58:39.597Z"
       }
     },
     "recentReviews": [
@@ -1466,7 +1466,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 21,
-        "fetchedAt": "2026-07-08T08:40:50.203Z"
+        "fetchedAt": "2026-07-09T09:58:40.130Z"
       }
     },
     "recentReviews": [
@@ -1540,7 +1540,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 25,
-        "fetchedAt": "2026-07-08T08:40:50.999Z"
+        "fetchedAt": "2026-07-09T09:58:40.763Z"
       }
     },
     "recentReviews": [
@@ -1619,7 +1619,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 1014,
-        "fetchedAt": "2026-07-08T08:40:51.505Z"
+        "fetchedAt": "2026-07-09T09:58:41.310Z"
       }
     },
     "recentReviews": [
@@ -1708,7 +1708,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 8034,
-        "fetchedAt": "2026-07-08T08:40:52.474Z"
+        "fetchedAt": "2026-07-09T09:58:42.489Z"
       }
     },
     "recentReviews": [
@@ -1800,9 +1800,18 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-07-08T08:40:51.943Z"
+        "fetchedAt": "2026-07-09T09:58:41.922Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -1854,9 +1863,18 @@
       "apple": {
         "averageRating": 4.4,
         "ratingCount": 9,
-        "fetchedAt": "2026-07-08T08:40:53.055Z"
+        "fetchedAt": "2026-07-09T09:58:43.224Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -1902,7 +1920,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:40:53.666Z"
+        "fetchedAt": "2026-07-09T09:58:43.732Z"
       }
     }
   },
@@ -1950,7 +1968,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 76,
-        "fetchedAt": "2026-07-08T08:40:54.186Z"
+        "fetchedAt": "2026-07-09T09:58:44.348Z"
       }
     },
     "recentReviews": [
@@ -2037,7 +2055,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 369,
-        "fetchedAt": "2026-07-08T08:40:54.847Z"
+        "fetchedAt": "2026-07-09T09:58:44.811Z"
       }
     },
     "recentReviews": [
@@ -2127,9 +2145,46 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 56,
-        "fetchedAt": "2026-07-08T08:40:55.398Z"
+        "fetchedAt": "2026-07-09T09:58:45.293Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this pod!",
+        "content": "Selena and Crista dives into intriguing topics that are often overlooked, serving up fresh insights in a compelling manner. It feels like a refreshing conversation with a wise friend, always leaving you eager for the next episode.\n\nFrom Bona and Team Capsho",
+        "author": "Bona and Team Capsho",
+        "updatedAt": "2023-08-30T14:42:38-07:00"
+      },
+      {
+        "rating": 4,
+        "title": "Great  Podcast",
+        "content": "Very good podcast Brian a lot from listening to it.",
+        "author": "JonDvid",
+        "updatedAt": "2023-06-11T05:06:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Cyber! Cyber! Cyber!",
+        "content": "This is the best podcast by CTI practitioners diving into detail about current threats. This podcast would win a fight against other similar podcasts. Let’s have a podcast fight club. Oops this pod is already the champ.",
+        "author": "GPSWKEKT1640",
+        "updatedAt": "2023-05-02T21:00:47-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Notch",
+        "content": "Timely and informative content!",
+        "author": "ASVPGLES",
+        "updatedAt": "2023-01-24T11:06:13-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Cyber Threat Podcast",
+        "content": "This podcast has some of the smartest people I’ve ever heard talk about computers. True thought leaders that are titans in the industry bringing the hottest cyber threats to your ears. Highly recommend.",
+        "author": "JM123456789123456789",
+        "updatedAt": "2022-03-10T09:38:13-07:00"
+      }
+    ]
   },
   {
     "id": "down-the-security-rabbithole",
@@ -2175,7 +2230,7 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 95,
-        "fetchedAt": "2026-07-08T08:40:55.938Z"
+        "fetchedAt": "2026-07-09T09:58:45.930Z"
       }
     },
     "recentReviews": [
@@ -2261,7 +2316,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 14,
-        "fetchedAt": "2026-07-08T08:40:56.529Z"
+        "fetchedAt": "2026-07-09T09:58:46.540Z"
       }
     },
     "recentReviews": [
@@ -2384,7 +2439,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:40:57.527Z"
+        "fetchedAt": "2026-07-09T09:58:47.799Z"
       }
     },
     "submittedBy": "cgoosen"
@@ -2431,7 +2486,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 182,
-        "fetchedAt": "2026-07-08T08:40:57.985Z"
+        "fetchedAt": "2026-07-09T09:58:48.359Z"
       }
     },
     "recentReviews": [
@@ -2578,7 +2633,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 61,
-        "fetchedAt": "2026-07-08T08:40:58.895Z"
+        "fetchedAt": "2026-07-09T09:58:49.410Z"
       }
     },
     "recentReviews": [
@@ -2663,7 +2718,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 319,
-        "fetchedAt": "2026-07-08T08:40:59.475Z"
+        "fetchedAt": "2026-07-09T09:58:50.037Z"
       }
     },
     "recentReviews": [
@@ -2756,7 +2811,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 4,
-        "fetchedAt": "2026-07-08T08:41:00.066Z"
+        "fetchedAt": "2026-07-09T09:58:50.802Z"
       }
     }
   },
@@ -2801,7 +2856,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 40,
-        "fetchedAt": "2026-07-08T08:41:00.831Z"
+        "fetchedAt": "2026-07-09T09:58:51.312Z"
       }
     },
     "recentReviews": [
@@ -2893,7 +2948,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 4,
-        "fetchedAt": "2026-07-08T08:41:01.169Z"
+        "fetchedAt": "2026-07-09T09:58:51.919Z"
       }
     }
   },
@@ -2942,7 +2997,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:41:01.853Z"
+        "fetchedAt": "2026-07-09T09:58:52.327Z"
       }
     }
   },
@@ -2990,7 +3045,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 49,
-        "fetchedAt": "2026-07-08T08:41:02.433Z"
+        "fetchedAt": "2026-07-09T09:58:52.998Z"
       }
     },
     "recentReviews": [
@@ -3073,7 +3128,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 931,
-        "fetchedAt": "2026-07-08T08:41:02.827Z"
+        "fetchedAt": "2026-07-09T09:58:53.721Z"
       }
     },
     "recentReviews": [
@@ -3158,7 +3213,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-07-08T08:41:03.215Z"
+        "fetchedAt": "2026-07-09T09:58:54.099Z"
       }
     }
   },
@@ -3205,7 +3260,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 25,
-        "fetchedAt": "2026-07-08T08:41:03.979Z"
+        "fetchedAt": "2026-07-09T09:58:54.663Z"
       }
     },
     "recentReviews": [
@@ -3274,7 +3329,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 57,
-        "fetchedAt": "2026-07-08T08:41:04.628Z"
+        "fetchedAt": "2026-07-09T09:58:55.322Z"
       }
     },
     "recentReviews": [
@@ -3356,7 +3411,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 17,
-        "fetchedAt": "2026-07-08T08:41:05.083Z"
+        "fetchedAt": "2026-07-09T09:58:55.807Z"
       }
     },
     "recentReviews": [
@@ -3443,7 +3498,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 3,
-        "fetchedAt": "2026-07-08T08:41:05.847Z"
+        "fetchedAt": "2026-07-09T09:58:56.263Z"
       }
     },
     "submittedBy": "bastienperez"
@@ -3490,7 +3545,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 40,
-        "fetchedAt": "2026-07-08T08:41:06.568Z"
+        "fetchedAt": "2026-07-09T09:58:56.896Z"
       }
     },
     "recentReviews": [
@@ -3592,7 +3647,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:41:06.989Z"
+        "fetchedAt": "2026-07-09T09:58:57.418Z"
       }
     },
     "submittedBy": "AntoPorter"
@@ -3641,7 +3696,7 @@
       "apple": {
         "averageRating": 4.2,
         "ratingCount": 20,
-        "fetchedAt": "2026-07-08T08:41:07.734Z"
+        "fetchedAt": "2026-07-09T09:58:58.002Z"
       }
     },
     "recentReviews": [
@@ -3711,7 +3766,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 21,
-        "fetchedAt": "2026-07-08T08:41:08.347Z"
+        "fetchedAt": "2026-07-09T09:58:58.703Z"
       }
     },
     "recentReviews": [
@@ -3797,7 +3852,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 19,
-        "fetchedAt": "2026-07-08T08:41:08.835Z"
+        "fetchedAt": "2026-07-09T09:58:59.141Z"
       }
     },
     "recentReviews": [
@@ -3896,7 +3951,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 47,
-        "fetchedAt": "2026-07-08T08:41:09.243Z"
+        "fetchedAt": "2026-07-09T09:58:59.735Z"
       }
     },
     "recentReviews": [
@@ -3968,8 +4023,8 @@
     "ratings": {
       "apple": {
         "averageRating": 4.6,
-        "ratingCount": 392,
-        "fetchedAt": "2026-07-08T08:41:10.305Z"
+        "ratingCount": 393,
+        "fetchedAt": "2026-07-09T09:59:00.811Z"
       }
     },
     "recentReviews": [
@@ -4059,9 +4114,18 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 13,
-        "fetchedAt": "2026-07-08T08:41:09.680Z"
+        "fetchedAt": "2026-07-09T09:59:00.329Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4116,9 +4180,46 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 677,
-        "fetchedAt": "2026-07-08T08:41:11.156Z"
+        "fetchedAt": "2026-07-09T09:59:01.420Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "In IT?  Do you have 5 minutes?",
+        "content": "Concise, Effective, Timely\n \nThe perfect podcast, Johannes is amazing.  This must take him hours every day to research.  The effort is much appreciated!",
+        "author": "Gump4487245",
+        "updatedAt": "2026-05-20T04:48:52-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Best in Show!",
+        "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
+        "author": "1Flatlander",
+        "updatedAt": "2026-05-06T07:22:39-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "High quality info in a short amount of time. Listen very closely to what he puts out",
+        "content": "Johannes continues to point out trends and indicators I might otherwise have missed.\n\nI’ve seen a lot of crazy scenarios play out based on data he’s gathered and provided.\n\nListen to a few episodes to hear what I mean.\n\nHis podcast also serves as a convenient reminder for Patch Tuesday and iOS updates.\n\nYet another great podcast the sociable Dave Bittner has led me to.",
+        "author": "TFWas",
+        "updatedAt": "2026-03-18T15:59:48-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Required Professional Daily Use",
+        "content": "This is a requirement for my team as they start their day. The information is a great way to start the brain thinking into what is going on and what new things should we be looking for. We discuss it and volunteer topics for research and further discovery. 11/10 -highly recommended",
+        "author": "PowerBob",
+        "updatedAt": "2025-12-16T17:08:12-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Your Daily Cyber Drive-Thru",
+        "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
+        "author": "JayJonahJameson",
+        "updatedAt": "2025-12-16T03:32:20-07:00"
+      }
+    ]
   },
   {
     "id": "secure-the-job",
@@ -4164,7 +4265,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-07-08T08:41:11.517Z"
+        "fetchedAt": "2026-07-09T09:59:02.474Z"
       }
     }
   },
@@ -4233,7 +4334,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 79,
-        "fetchedAt": "2026-07-08T08:41:12.179Z"
+        "fetchedAt": "2026-07-09T09:59:03.078Z"
       }
     }
   },
@@ -4279,7 +4380,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:41:12.669Z"
+        "fetchedAt": "2026-07-09T09:59:03.528Z"
       }
     }
   },
@@ -4325,7 +4426,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:41:13.308Z"
+        "fetchedAt": "2026-07-09T09:59:04.000Z"
       }
     }
   },
@@ -4372,7 +4473,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 2013,
-        "fetchedAt": "2026-07-08T08:41:14.010Z"
+        "fetchedAt": "2026-07-09T09:59:04.561Z"
       }
     },
     "recentReviews": [
@@ -4459,7 +4560,7 @@
       "apple": {
         "averageRating": 4,
         "ratingCount": 56,
-        "fetchedAt": "2026-07-08T08:41:15.000Z"
+        "fetchedAt": "2026-07-09T09:59:05.686Z"
       }
     },
     "recentReviews": [
@@ -4542,9 +4643,46 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 16,
-        "fetchedAt": "2026-07-08T08:41:14.485Z"
+        "fetchedAt": "2026-07-09T09:59:05.112Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 2,
+        "title": "Just ok",
+        "content": "The one with Roland was really good the others have been hit and miss.",
+        "author": "cisoNYC",
+        "updatedAt": "2022-01-04T02:29:33-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "A must listen for all security leaders",
+        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
+        "author": "nicfill",
+        "updatedAt": "2021-05-18T10:06:29-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great new cybersecurity podcast!",
+        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
+        "author": "Frogstar5",
+        "updatedAt": "2021-05-13T14:40:00-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Excellent show",
+        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
+        "author": "Meatball_army_2021",
+        "updatedAt": "2021-05-13T14:24:25-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Depth of Knowledge shines through",
+        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
+        "author": "GottaRun21",
+        "updatedAt": "2021-05-13T14:16:19-07:00"
+      }
+    ]
   },
   {
     "id": "security-weekly-news-audio",
@@ -4591,7 +4729,7 @@
       "apple": {
         "averageRating": 4.4,
         "ratingCount": 33,
-        "fetchedAt": "2026-07-08T08:41:15.563Z"
+        "fetchedAt": "2026-07-09T09:59:06.225Z"
       }
     }
   },
@@ -4640,7 +4778,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 42,
-        "fetchedAt": "2026-07-08T08:41:16.222Z"
+        "fetchedAt": "2026-07-09T09:59:06.731Z"
       }
     },
     "recentReviews": [
@@ -4724,9 +4862,9 @@
     "featured": false,
     "ratings": {
       "apple": {
-        "averageRating": 0,
-        "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:41:16.923Z"
+        "averageRating": 4.5,
+        "ratingCount": 28,
+        "fetchedAt": "2026-07-09T09:59:07.306Z"
       }
     },
     "recentReviews": [
@@ -4811,7 +4949,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 316,
-        "fetchedAt": "2026-07-08T08:41:17.821Z"
+        "fetchedAt": "2026-07-09T09:59:08.009Z"
       }
     },
     "recentReviews": [
@@ -4906,7 +5044,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-08T08:41:18.369Z"
+        "fetchedAt": "2026-07-09T09:59:08.573Z"
       }
     },
     "submittedBy": "foudendorp"
@@ -4952,7 +5090,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 14,
-        "fetchedAt": "2026-07-08T08:41:18.802Z"
+        "fetchedAt": "2026-07-09T09:59:09.473Z"
       }
     },
     "recentReviews": [
@@ -5029,7 +5167,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 40,
-        "fetchedAt": "2026-07-08T08:41:19.335Z"
+        "fetchedAt": "2026-07-09T09:59:10.079Z"
       }
     },
     "recentReviews": [
@@ -5120,9 +5258,46 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 16,
-        "fetchedAt": "2026-07-08T08:41:20.104Z"
+        "fetchedAt": "2026-07-09T09:59:10.627Z"
       }
     },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great cybersecurity podcast!",
+        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
+        "author": "Dave McCollough",
+        "updatedAt": "2025-12-12T06:46:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Love it",
+        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
+        "author": "dareyoutomove",
+        "updatedAt": "2024-10-12T09:27:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Pentesting 101",
+        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
+        "author": "Rich-Barr",
+        "updatedAt": "2023-11-01T04:42:09-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Worth a listen",
+        "content": "Great insight and advice and actually very entertaining.",
+        "author": "Chris Y Doyle",
+        "updatedAt": "2022-09-14T12:09:26-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Rock stars!",
+        "content": "This group of folks are the best of the best! Amazing talent sharing their brains with the world. I’m here for it.",
+        "author": "CupcakeHustling",
+        "updatedAt": "2022-08-10T14:26:33-07:00"
+      }
+    ],
     "submittedBy": "techspence"
   },
   {
@@ -5215,7 +5390,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 149,
-        "fetchedAt": "2026-07-08T08:41:21.648Z"
+        "fetchedAt": "2026-07-09T09:59:11.860Z"
       }
     },
     "recentReviews": [
@@ -5298,7 +5473,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 47,
-        "fetchedAt": "2026-07-08T08:41:22.120Z"
+        "fetchedAt": "2026-07-09T09:59:12.407Z"
       }
     }
   },
@@ -5361,7 +5536,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 62,
-        "fetchedAt": "2026-07-08T08:41:22.726Z"
+        "fetchedAt": "2026-07-09T09:59:12.996Z"
       }
     }
   },
@@ -5409,7 +5584,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 39,
-        "fetchedAt": "2026-07-08T08:41:23.328Z"
+        "fetchedAt": "2026-07-09T09:59:13.561Z"
       }
     },
     "recentReviews": [
@@ -5503,18 +5678,9 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 15,
-        "fetchedAt": "2026-07-08T08:41:23.780Z"
+        "fetchedAt": "2026-07-09T09:59:14.172Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "When Podcasting Is Elevated In Thought and Execution",
-        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
-        "author": "When Podcasting Is Elevated",
-        "updatedAt": "2022-06-28T14:44:42-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "unsupervised-learning",
@@ -5559,7 +5725,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 136,
-        "fetchedAt": "2026-07-08T08:41:24.352Z"
+        "fetchedAt": "2026-07-09T09:59:14.898Z"
       }
     },
     "recentReviews": [
@@ -5656,7 +5822,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-07-08T08:41:24.805Z"
+        "fetchedAt": "2026-07-09T09:59:15.431Z"
       }
     },
     "submittedBy": "BardSEC"
