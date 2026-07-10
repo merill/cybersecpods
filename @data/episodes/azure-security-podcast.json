@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-130-the-security-adoption-framework-saf",
+    "podcastId": "azure-security-podcast",
+    "title": "Episode 130: The Security Adoption Framework (SAF)",
+    "description": "<p>In this episode, Michael talks with podcast cohost Mark Simos about big updates to the Security Adoption Frame (SAF).</p><p>We also cover news about Secure Boot for Trusted Launch VMs, and the Microsoft HSM Toolkit.</p><p>https://aka.ms/azsecpod</p>",
+    "publishedAt": "2026-07-10T03:15:50.000Z",
+    "duration": 2180,
+    "audioUrl": "https://content.rss.com/episodes/8411/2975502/azsecpodcast/2026_07_10_03_12_31_002c9559-be9a-44b9-ae8b-116c93a1c3f7.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 130,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/azsecpodcast/2975502"
+  },
+  {
     "id": "episode-129-john-savills-top-of-mind",
     "podcastId": "azure-security-podcast",
     "title": "Episode 129: John Savill's Top of Mind",
