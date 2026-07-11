@@ -604,7 +604,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-07-10T09:49:05.777Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must have podcast for Defenders",
+        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
+        "author": "Rljohnson5",
+        "updatedAt": "2023-05-23T14:47:20-07:00"
+      }
+    ]
   },
   {
     "id": "bluehat-podcast",
@@ -1456,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-10T15:12:32.000Z",
-    "firstEpisodeDate": "2025-11-18T14:53:20.000Z",
+    "lastEpisodeDate": "2026-07-11T05:00:30.000Z",
+    "firstEpisodeDate": "2025-11-19T14:01:54.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2522,16 +2531,7 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-10T09:49:17.731Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Hacker History is important",
-        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
-        "author": "KingKamic",
-        "updatedAt": "2021-03-03T07:12:50-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "hacker-valley-studio",
@@ -2895,7 +2895,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-10T09:49:19.756Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
