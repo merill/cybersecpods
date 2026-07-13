@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-12T17:00:00.000Z",
+    "lastEpisodeDate": "2026-07-13T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 304,
+    "episodeCount": 305,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1811,7 +1811,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-13T09:41:43.052Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -2448,8 +2457,8 @@
     "id": "hacked",
     "applePodcastId": "1049420219",
     "title": "Hacked",
-    "description": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott. Are internet hitmen really a thing? What does someone do with a crypto wallet full of millions and a lost password? Did a Minecraft scammer really hack the president? Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
-    "summary": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott. Are internet hitmen really a thing? What does someone do with a crypto wallet full of millions and a lost password? Did a Minecraft scammer really hack the president? Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
+    "description": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott.&nbsp;Are internet hitmen really a thing?&nbsp;What does someone do with a crypto wallet full of millions and a lost password?&nbsp;Did a Minecraft scammer really hack the president?&nbsp;Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
+    "summary": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott.&nbsp;Are internet hitmen really a thing?&nbsp;What does someone do with a crypto wallet full of millions and a lost password?&nbsp;Did a Minecraft scammer really hack the president?&nbsp;Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
     "subtitle": "A podcast about people using technology in unintended ways.",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/23/da/3923da1e-7f3a-175d-dbc2-66db13cdf01b/mza_12276024828673851050.jpeg/600x600bb.jpg",
     "author": "Hacked",
@@ -5249,9 +5258,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-06T15:11:42.000Z",
+    "lastEpisodeDate": "2026-07-13T16:09:06.000Z",
     "firstEpisodeDate": "2018-06-17T00:47:00.000Z",
-    "episodeCount": 382,
+    "episodeCount": 383,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
