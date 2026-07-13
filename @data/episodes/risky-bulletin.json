@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-exploits-are-not-cyber-power",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: Exploits are not cyber power",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss just how important exploits are for cyber operations using data published in a new paper authored by two members of Ukraine’s cyber security agency.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/k6KALEsKpiA\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://arunninghacker.substack.com/p/exploits-were-never-the-point\">Exploits were never the point</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.researchgate.net/publication/405494597_Rethinking_Exploitation_in_Cyber_War_Reassessing_the_Role_of_Software_Exploits_in_Wartime\">Rethinking Exploitation in Cyber War: Reassessing the Role of Software Exploits in Wartime</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://academic.oup.com/book/44032/chapter-abstract/373134701\">Max Smeets' chapter 5 from \"No Shortcuts\": The Elements of an Offensive Cyber Capability</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-07-13T21:44:21.000Z",
+    "duration": 1808,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN174.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN174/"
+  },
+  {
     "id": "risky-bulletin-nsa-tailored-access-operations-is-back",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: NSA Tailored Access Operations is back",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS538/"
-  },
-  {
-    "id": "sponsored-sublime-security-on-zoom-attacks",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Sublime Security on Zoom attacks",
-    "description": "<p>In this Risky Business sponsor interview, Catalin Cimpanu talks with Alex Orleans, Head of Threat Intelligence at Sublime Security, about the increase in email attacks leveraging Zoom invites and other video conferencing tools.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://sublime.security/blog/key-findings-from-the-2026-sublime-email-threat-research-report/\">Key findings from the 2026 Sublime Email Threat Research Report</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://sublime.security/blog/scammers-actively-targeting-real-estate-agents-with-remote-access-attacks/\">Scammers actively targeting real estate agents with remote access attacks</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://sublime.security/blog/fake-google-meet-invitation-fake-microsoft-store-real-malware-attack/\">Fake Google Meet invitation, fake Microsoft Store, real malware attack</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"\">Alex Orleans on LinkedIn</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-03-15T19:11:05.000Z",
-    "duration": 857,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI119.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI119/"
   }
 ]
