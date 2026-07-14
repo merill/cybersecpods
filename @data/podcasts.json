@@ -1856,7 +1856,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-07-13T09:41:43.989Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -2522,16 +2531,7 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-13T09:41:48.810Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Hacker History is important",
-        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
-        "author": "KingKamic",
-        "updatedAt": "2021-03-03T07:12:50-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "hacker-valley-studio",
@@ -4061,16 +4061,7 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-13T09:42:01.528Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5309,44 +5300,7 @@
         "ratingCount": 47,
         "fetchedAt": "2026-07-13T09:42:12.468Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Insightful and educational",
-        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
-        "author": "Maocol99",
-        "updatedAt": "2025-08-14T17:21:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful, timely, and concise!",
-        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
-        "author": "LarsMarie",
-        "updatedAt": "2025-05-05T15:23:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "More OT cybersecurity and Holly rocks.",
-        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
-        "author": "tryangalway",
-        "updatedAt": "2025-03-10T22:06:15-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great Podcast for Cybersecurity Insights!",
-        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
-        "author": "yshishka",
-        "updatedAt": "2024-08-26T10:36:16-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Accessible & Actionable Resource",
-        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
-        "author": "run_amanda",
-        "updatedAt": "2024-08-19T08:29:33-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "three-buddy-problem",
