@@ -1,5 +1,22 @@
 [
   {
+    "id": "agentic-ai-needs-humans-on-the-loop-with-michael-chavira",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "Agentic AI Needs Humans on the Loop with Michael Chavira",
+    "description": "*]:flex-1 [&>div>div]:flex [&>div>div]:flex-col md:[&>div>div]:flex-row [&>div_figure]:m-0 [&>div_figure]:max-w-fit first:[&>div_p]:mt-0 last:[&>div_p]:mb-0 max-md:[&>div_p]:text-body-3 [&>p]:mb-0 [&>p]:text-body-2 wysiwyg-table:w-auto wysiwyg-table:max-w-full wysiwyg-table:inline-block wysiwyg-a:text-navy wysiwyg-table:overflow-x-auto wysiwyg-th:bg-navy wysiwyg-th:!text-white th-p:!text-white wysiwyg-th:border-r wysiwyg-th:border-white wysiwyg-th:text-h4 wysiwyg-th:p-5 wysiwyg-th:content-center wysiwyg-td:border-1 wysiwyg-td:border-solid wysiwyg-td:border-brumosa wysiwyg-td:p-sm wysiwyg-td:text-h4 wysiwyg-td:px-5 wysiwyg-td:py-10 wysiwyg-td:content-center wysiwyg-h6:text-h6 wysiwyg-strong:text-grey\"> <p class=\"\">As AI systems start acting on their own, the hardest security problem is no longer approving what a model outputs but governing the conditions under which it is allowed to act at all. Michael Chavira, co-founder of Axiologic Solutions, argues that most organizations confuse governance with security, writing policies and standing up AI councils that describe intent while leaving the enforcement layer, where a model actually touches data, underbuilt. His answer is to move humans out of the approve-every-action role and onto the loop, where they define the boundaries an agentic system runs inside and watch for it to step out. That control is only as good as the data underneath it, and for most enterprises, the data is a weak point. Chavira makes the case that AI security is ultimately data security, since a model is only as trustworthy as the data feeding it, and he walks through why shadow AI, unlabeled data and untracked workarounds quietly undermine even well-governed systems. For tools that answer the same question differently each time, he recommends harness engineering and continuous data operations as the way to secure the system rather than chase every output.</p> <p>For links and resources discussed in this episode, please visit our show notes at <a href= \"https://www.forcepoint.com/resources/podcast/agentic-ai-humans-on-the-loop\"> https://www.forcepoint.com/resources/podcast/agentic-ai-humans-on-the-loop</a></p>",
+    "publishedAt": "2026-07-14T12:30:00.000Z",
+    "duration": 2610,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E387_-_michael_chavira_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/a/6/8/8/a68808532054c79116c3140a3186d450/E387_-_michael_chavira_mixdown.jpg",
+    "episodeNumber": 387,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/resources/podcast/agentic-ai-humans-on-the-loop"
+  },
+  {
     "id": "ai-agents-arent-people-dont-give-them-the-keys-with-ido-shlomo",
     "podcastId": "to-the-point-cybersecurity",
     "title": "AI Agents Aren't People. Don't Give Them the Keys with Ido Shlomo",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/govpodcast/e67"
-  },
-  {
-    "id": "nation-state-hacks-with-bob-bigman",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "Nation State Hacks, with Bob Bigman",
-    "description": "<p>The state of the adversary. The who, the what, the why they do what they do.</p>",
-    "publishedAt": "2020-02-25T13:00:00.000Z",
-    "duration": 1687,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E066_Nation_State_Hacks_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/a/7/1/b/a71b622d026c20fd/E066_Nation_State_Hacks_mixdown.jpg",
-    "episodeNumber": 66,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e66"
   }
 ]
