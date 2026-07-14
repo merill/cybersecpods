@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-327-wcoffee-chaos-and-prodsec-aspm-consolidation-vuln-prioritization",
+    "podcastId": "absolute-appsec",
+    "title": "Episode 327 - w/Coffee, Chaos, and ProdSec - ASPM Consolidation, Vuln Prioritization",
+    "description": "In episode 327 of Absolute AppSec, co-hosts Ken Johnson and Seth Law present a highly anticipated quarterly crossover episode with Cameron and Kurt from the Coffee, Chaos, and ProdSec podcast. Sponsored by GuardSquare, the group begins with lighthearted banter about their personal footwear choices before tackling heavy architectural debates. The primary focus shifts to Application Security Posture Management (ASPM) consolidation. Cameron strongly advocates for utilizing ASPM as a distinct, single pane of glass dashboard to deduplicate vulnerabilities and streamline executive reporting by product suite. However, the hosts contrast this ideal against the messy reality of organizations dealing with a \"Frankenstein\" mix of loosely bootstrapped open-source scanning tools and competing vendor plugins.  \n        \n        The discussion deepens into prioritization strategies amid a massive, AI-driven surge in vulnerability research that threatens to double annual CVE counts. Cameron and Kurt stress the necessity of shifting away from abstract CVSS scores toward custom, runtime-informed risk appetites and impact analysis—prioritizing the hardening of high-risk corporate assets over low-reachability internal flaws. They also examine the critical line separating standard software bugs from intentionally malicious open-source packages that target developer endpoint systems. Ultimately, the panel laments that AppSec teams are effectively functioning as corporate incident responders because Security Operations Center (SOC) analysts lack product-level insight. The episode concludes with a review of automated agent statistics and a fun look ahead to the future emergence of meta OWASP top-ten risk lists.",
+    "publishedAt": "2026-07-14T18:00:00.000Z",
+    "duration": 0,
+    "audioUrl": "https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_327.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_327.mp3"
+  },
+  {
     "id": "episode-326-appsec-jobs-benchmarking-llms-open-web-standards",
     "podcastId": "absolute-appsec",
     "title": "Episode 326 - AppSec Jobs, Benchmarking LLMs, Open Web Standards",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "ai-chat-grok-cli-data-exfiltration-ai-vs-patching-distillation-wars-and-shadow-a",
+    "podcastId": "cybersecurity-defenders",
+    "title": "AI Chat: Grok CLI data exfiltration, AI vs. patching, distillation wars & shadow AI [339]",
+    "description": "<p>AI Chat with Maxime Lamothe-Brassard and Chris Luft.</p><p>A new segment on the podcast: AI news in cybersecurity that is less than 24 hours old, discussed while it is still hot. Joining Chris for these conversations is LimaCharlie founder and CEO Maxime Lamothe-Brassard.</p><p>In this episode:</p><p>• Nipun Gupta (founder of Optimus Labs) reports that xAI's Grok Build CLI packaged and uploaded an entire local Git repository — commit history, branches and .env files with API keys — to a Google Cloud bucket; wire-level analysis via mitmproxy, a quiet server-side fix, and why you should rotate keys if you used the tool.</p><p>• Fortinet's take (via Mexico Business News) on AI accelerating vulnerability discovery and exploitation: 24–48 hours from disclosure to active exploitation vs. 16 days to patch — and whether \"virtual patching\" is a real mitigation or a feat of marketing.</p><p>• The AI distillation debate: after years of arguing fair use for scraping the internet, frontier labs now object to competitors training on their model outputs — Business Insider's look at the irony, shared by Pascal Hetzscholdt (Wiley).</p><p>• Neon Cyber's survey on shadow AI rising with seniority: 14% of individual contributors use unapproved AI tools vs. 63.7% of managers and 70% of VPs and above — and why enforcement, not awareness, is the real challenge.</p><p>Stories covered:</p><p>•   / guptanipun_my-spare-laptop-ran-completely-...  </p><p>• https://mexicobusiness.news/cybersecu...</p><p>•   / pascal-hetzscholdt_quote-heres-some-delici...  </p><p>• https://neoncyber.com/blog/shadow-ai-...</p><p>Chapters:</p><p>0:00 Intro — welcome to AI Chat</p><p>0:45 Grok Build CLI uploading entire repos (Nipun Gupta / Optimus Labs)</p><p>4:57 AI is outpacing patch management — is virtual patching the answer?</p><p>12:32 The AI distillation debate: scraping irony at the frontier labs</p><p>16:29 Shadow AI use rises with seniority (Neon Cyber)</p><p>22:51 Wrap-up</p><p>The Cybersecurity Defenders Podcast — a podcast about cybersecurity and the people that keep the internet safe. New episodes drop weekly.</p><p>Subscribe wherever you listen:</p><p>• Spotify: https://open.spotify.com/show/6ep00ze...</p><p>• Apple Podcasts: https://podcasts.apple.com/us/podcast...</p><p>• YouTube:    / @limacharlieio  </p>",
+    "publishedAt": "2026-07-14T21:29:33.000Z",
+    "duration": 1398,
+    "audioUrl": "https://podcast.wistia.com/deliveries/ab4ac07e75a94092d9652aaf8817ad0ee702fcac.mp3?d=eyJtIjoxNTAzNjc1NjEsIm1kIjoxMzk3Ljc5LCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjEzNDg1MywiYiI6ImFiNGFjMDdlNzVhOTQwOTJkOTY1MmFhZjg4MTdhZDBlZTcwMmZjYWMiLCJtYiI6NTk2LCJvYiI6OTYwMDMzLjE4MDk0OTkyODF9--72661fe92be033eb9166eb5b765a8971abf07ed6db520438062274a703fc523e",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 339,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=nby21wstua"
+  },
+  {
     "id": "intel-chat-dialogflow-rogue-agent-ghost-phishing-cisa-kev-deadline-and-hallusqua",
     "podcastId": "cybersecurity-defenders",
     "title": "Intel Chat: Dialogflow Rogue Agent, ghost phishing, CISA KEV deadline & HalluSquatting [338]",
