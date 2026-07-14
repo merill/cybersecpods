@@ -357,23 +357,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/385/notes"
   },
   {
-    "id": "cirt-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "CIRT (noun) [Word Notes]",
-    "description": "<p>Please enjoy this encore of Word Notes.</p>\n<p>A team responsible for responding to and managing cybersecurity incidents involving computer systems and networks in order to minimize the damage and to restore normal operations as quickly as possible.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/cirt\">⁠https://thecyberwire.com/glossary/cirt⁠</a></p>\n<p>Audio reference link: Avery, B., 2017. 24 TV May 05 Season4 [WWW Document]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=Gq_2xPuqI-E\">⁠https://www.youtube.com/watch?v=Gq_2xPuqI-E&#38;list=PLGHedLavrFoGsea1ZCHBm9-nK5FdM3_Kd&#38;index=10.</a></p>",
-    "publishedAt": "2026-05-05T07:00:00.000Z",
-    "duration": 396,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4076944409.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/81e76492-47fb-11f1-946d-5b9945894644/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 132,
-    "seasonNumber": 3,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/132/notes"
-  },
-  {
     "id": "mythbehavior-under-investigation-omitb",
     "podcastId": "hacking-humans",
     "title": "Mythbehavior under investigation. [OMITB]",
@@ -389,6 +372,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/23/notes"
+  },
+  {
+    "id": "cirt-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "CIRT (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes.</p>\n<p>A team responsible for responding to and managing cybersecurity incidents involving computer systems and networks in order to minimize the damage and to restore normal operations as quickly as possible.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/cirt\">⁠https://thecyberwire.com/glossary/cirt⁠</a></p>\n<p>Audio reference link: Avery, B., 2017. 24 TV May 05 Season4 [WWW Document]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=Gq_2xPuqI-E\">⁠https://www.youtube.com/watch?v=Gq_2xPuqI-E&#38;list=PLGHedLavrFoGsea1ZCHBm9-nK5FdM3_Kd&#38;index=10.</a></p>",
+    "publishedAt": "2026-05-05T07:00:00.000Z",
+    "duration": 396,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4076944409.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/81e76492-47fb-11f1-946d-5b9945894644/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 132,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/132/notes"
   },
   {
     "id": "a-game-of-loans",
@@ -799,23 +799,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/372/notes"
   },
   {
-    "id": "secure-web-gateway-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Secure Web Gateway (noun) [Word Notes]",
-    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>A layer seven firewall that sits in line at the boundary between the internet and an organization's network perimeter that allows security policy enforcement and can perform certain prevention and detection tasks.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/secure-web-gateway\">⁠https://thecyberwire.com/glossary/secure-web-gateway⁠</a></p>\n<p>Audio reference link: ‌Vintage Computer Federation (2015). VCF East 9.1 - Ches’ Computer Security Adventures - Bill Cheswick. YouTube. Available at: <a href=\"https://www.youtube.com/watch?v=trR1cuBtcPs.\">⁠https://www.youtube.com/watch?v=trR1cuBtcPs.</a></p>",
-    "publishedAt": "2026-02-03T08:00:00.000Z",
-    "duration": 562,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4404359084.mp3?updated=1736193891",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/8ea0ecb4-0082-11f1-ad03-e3c7ba336422/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 120,
-    "seasonNumber": 3,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/120/notes"
-  },
-  {
     "id": "when-legit-is-the-trick-phishings-sneaky-new-moves-omitb",
     "podcastId": "hacking-humans",
     "title": "When legit is the trick: Phishing’s sneaky new moves. [OMITB]",
@@ -831,6 +814,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/20/notes"
+  },
+  {
+    "id": "secure-web-gateway-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Secure Web Gateway (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>A layer seven firewall that sits in line at the boundary between the internet and an organization's network perimeter that allows security policy enforcement and can perform certain prevention and detection tasks.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/secure-web-gateway\">⁠https://thecyberwire.com/glossary/secure-web-gateway⁠</a></p>\n<p>Audio reference link: ‌Vintage Computer Federation (2015). VCF East 9.1 - Ches’ Computer Security Adventures - Bill Cheswick. YouTube. Available at: <a href=\"https://www.youtube.com/watch?v=trR1cuBtcPs.\">⁠https://www.youtube.com/watch?v=trR1cuBtcPs.</a></p>",
+    "publishedAt": "2026-02-03T08:00:00.000Z",
+    "duration": 562,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4404359084.mp3?updated=1736193891",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/8ea0ecb4-0082-11f1-ad03-e3c7ba336422/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 120,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/120/notes"
   },
   {
     "id": "cold-weather-hot-scams",
@@ -1462,23 +1462,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/358/notes"
   },
   {
-    "id": "when-malware-goes-bump-in-the-night",
-    "podcastId": "hacking-humans",
-    "title": "When malware goes bump in the night.",
-    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠Keith Mularski⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠Qintel⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this spooky special episode, our hosts ponder which threat actor, malware, or campaign name would be the most terrifying — from the spectral stealth of <em>GhostRAT</em> silently haunting your systems, to the deceptively sweet lure of <em>ILoveYou</em> that once spread chaos across the globe. Along the way, they share some of their favorite “ghost stories” from the cyber underworld — legendary incidents and infamous operations that still haunt defenders today — and explore why these names and their real-world impacts have left such lasting scars on the digital landscape.</p>\n<p>Plus, we’ve cooked up a fun, mystery-solving video to accompany this episode — complete with spooky clues, masked sleuths, and a few laugh-out-loud moments that fans of classic cartoon detectives will appreciate. Check it out on <a href=\"https://youtu.be/SdI0r05O74I\">YouTube</a> and see if you can unmask the culprit!</p>",
-    "publishedAt": "2025-10-07T07:00:00.000Z",
-    "duration": 2978,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4837966138.mp3?updated=1759438961",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/87f0f5f2-a2e6-11f0-a236-0b97b84a2119/image/142c116f618a6142ad09813506952aa5.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 16,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/16/notes"
-  },
-  {
     "id": "identity-fabric-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "Identity Fabric (noun) [Word Notes]",
@@ -1494,6 +1477,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/102/notes"
+  },
+  {
+    "id": "when-malware-goes-bump-in-the-night",
+    "podcastId": "hacking-humans",
+    "title": "When malware goes bump in the night.",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠Keith Mularski⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠Qintel⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this spooky special episode, our hosts ponder which threat actor, malware, or campaign name would be the most terrifying — from the spectral stealth of <em>GhostRAT</em> silently haunting your systems, to the deceptively sweet lure of <em>ILoveYou</em> that once spread chaos across the globe. Along the way, they share some of their favorite “ghost stories” from the cyber underworld — legendary incidents and infamous operations that still haunt defenders today — and explore why these names and their real-world impacts have left such lasting scars on the digital landscape.</p>\n<p>Plus, we’ve cooked up a fun, mystery-solving video to accompany this episode — complete with spooky clues, masked sleuths, and a few laugh-out-loud moments that fans of classic cartoon detectives will appreciate. Check it out on <a href=\"https://youtu.be/SdI0r05O74I\">YouTube</a> and see if you can unmask the culprit!</p>",
+    "publishedAt": "2025-10-07T07:00:00.000Z",
+    "duration": 2978,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4837966138.mp3?updated=1759438961",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/87f0f5f2-a2e6-11f0-a236-0b97b84a2119/image/142c116f618a6142ad09813506952aa5.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 16,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/16/notes"
   },
   {
     "id": "lock-your-doors-and-check-your-urls",
