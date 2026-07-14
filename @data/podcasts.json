@@ -2586,16 +2586,7 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-14T08:21:25.903Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Hacker History is important",
-        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
-        "author": "KingKamic",
-        "updatedAt": "2021-03-03T07:12:50-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "hacker-valley-studio",
@@ -2632,9 +2623,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-07T14:06:47.000Z",
+    "lastEpisodeDate": "2026-07-14T15:32:29.000Z",
     "firstEpisodeDate": "2019-06-19T14:51:23.000Z",
-    "episodeCount": 430,
+    "episodeCount": 431,
     "hasVideo": false,
     "isActive": true,
     "featured": false,

@@ -1,5 +1,22 @@
 [
   {
+    "id": "we-shipped-a-tool-that-acts-like-you-meet-interceptor",
+    "podcastId": "hacker-valley-studio",
+    "title": "We Shipped a Tool That Acts Like You. Meet Interceptor.",
+    "description": "<p>Think about everything you could accomplish if you don’t have to be the one driving your browser. In this solo episode, Ron Eddings introduces Interceptor, Hacker Valley Media's first piece of software. </p>\n<p>Interceptor is an open-source Chrome extension that lets an AI agent drive your real browser, logged-in sessions and all, with no vendor lock-in. Ron shares how it works and describes the use cases that matter most to security practitioners: OSINT and recon, bug bounty operations, prompt-injection testing, and threat-intelligence automation.</p>\n<p>Ron also puts himself in the hot seat, answering the hardest questions he's gotten about the tool, including why anyone should trust an open-source tool from a podcast company over a polished product from a billion-dollar AI lab. The delegation is coming, and we would rather the security community be the ones who understand it.</p>\n<p><br>\nImpactful Moments: <br>\n00:00 - Introduction<br>\n02:35 - The Rewind: Same Origin Policy and the Web's Foundation<br>\n04:40 - Rapid-fire facts: AI agents got hands, and attacks followed<br>\n07:00 - What is Interceptor and why was it built? <br>\n10:20 - How Interceptor works: stealth, network visibility, teach and replay<br>\n13:10 - Live use-case: dynamic dashboard without writing code<br>\n17:05 - Cybersecurity use-cases: OSINT, bug bounty, prompt injection testing<br>\n21:50 - Ron answers the hard questions about Interceptor<br>\n24:10 - Why trust an open source tool from a podcast company? <br>\n25:20 - What a practitioner can do tomorrow <br>\n27:30 - Closing reflection: knocking down the vendor lock-in wall</p>\n<p> </p>\n<p>Links </p>\n<p>Download Interceptor on GitHub: https://github.com/hackervalleymedia/interceptor</p>\n<p>Connect with Ron on LinkedIn: https://www.linkedin.com/in/ronaldeddings/ </p>\n<p>– </p>\n<p>Check out our upcoming events: https://www.hackervalley.com/livestreams</p>\n<p>Love Hacker Valley Studio? Pick up some swag: https://store.hackervalley.com</p>\n<p>Become a sponsor of the show: https://hackervalley.com/work-with-us/</p>",
+    "publishedAt": "2026-07-14T15:32:29.000Z",
+    "duration": 1836,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/6wm8jb82titnvsnq/HVS26_EP433_Interceptor.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 433,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/we-shipped-a-tool-that-acts-like-you-meet-interceptor/"
+  },
+  {
     "id": "how-to-turn-cybersecurity-customers-into-lifelong-advocates-with-antu-buck",
     "podcastId": "hacker-valley-studio",
     "title": "How to Turn Cybersecurity Customers into Lifelong Advocates with Antu Buck",
