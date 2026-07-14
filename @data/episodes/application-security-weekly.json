@@ -1,5 +1,22 @@
 [
   {
+    "id": "discovering-and-securing-your-ai-agent-attack-surface-jeremy-snyder-asw-391",
+    "podcastId": "application-security-weekly",
+    "title": "Discovering & Securing Your AI Agent Attack Surface - Jeremy Snyder - ASW #391",
+    "description": "<p>While LLMs and agents are new to appsec and everyone else, a lot of AI security requirements translate to well-known API security requirements. Jeremy Snyder helps us frame the OWASP LLM Top 10 into five layers in order to help orgs understand and prioritize their attack surface. A lot of orgs don't have to deal with model-specific threats or building their own GPU architecture, but every org adopting LLMs and agents should be aware of how those agents are being invoked and the output those agents are producing. That awareness of input and output helps in identifying and mitigating prompt injection attacks, ensuring agents are working within their expected boundaries, and taming token budgets.</p> <p>Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://genai.owasp.org/llm-top-10/\">https://genai.owasp.org/llm-top-10/</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://github.com/rtk-ai/rtk\">https://github.com/rtk-ai/rtk</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html\"> https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.firetail.ai/blog/beyond-the-spectacle-rsac-2026-and-the-5-layers-of-ai-security\"> https://www.firetail.ai/blog/beyond-the-spectacle-rsac-2026-and-the-5-layers-of-ai-security</a></li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-391\">https://securityweekly.com/asw-391</a></p>",
+    "publishedAt": "2026-07-14T09:00:00.000Z",
+    "duration": 4049,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_391_1--b923eabc-93ec-481b-b200-9712afc64bbb--audio-converted--842a0eae-dff5-44a7-a6d1-43f6f626e610.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/1/f/2/c/1f2c6d4ed9b88d1116c3140a3186d450/ASW_391_Thumbnail_ASW_1920x1920-op1_781165f0-c4bf-44e8-9e0a-81e5e8f1cefc.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/discovering-securing-your-ai-agent-attack-surface-jeremy-snyder-asw-391"
+  },
+  {
     "id": "defense-in-depth-strategies-for-securing-mobile-applications-ryan-lloyd-asw-390",
     "podcastId": "application-security-weekly",
     "title": "Defense-in-depth strategies for securing mobile applications - Ryan Lloyd - ASW #390",
