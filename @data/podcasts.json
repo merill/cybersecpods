@@ -1638,7 +1638,7 @@
         "updatedAt": "2025-10-09T10:20:15-07:00"
       },
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Great Content",
         "content": "I like the content (and the music mixing) but the host has one of the most AI-generated-sounding voices and enunciation that I have ever heard. It’s not unpleasant, though.",
         "author": "JD000000000000000",
@@ -2529,7 +2529,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-07-14T08:21:25.903Z"
+        "fetchedAt": "2026-07-15T06:56:13.120Z"
       }
     },
     "recentReviews": [
@@ -4639,7 +4639,44 @@
         "ratingCount": 33,
         "fetchedAt": "2026-07-15T06:56:30.020Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great news summaries and very funny",
+        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
+        "author": "TFWas",
+        "updatedAt": "2025-07-02T05:16:53-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Reasonably okay infosec podcast",
+        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
+        "author": "[REDACTED] USER",
+        "updatedAt": "2023-11-13T18:43:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Entertaining InfoSec news",
+        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
+        "author": "Bevonomics",
+        "updatedAt": "2022-12-07T14:23:31-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Brief But Not Shallow",
+        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
+        "author": "MLC689",
+        "updatedAt": "2022-11-29T10:37:03-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Stop recommending this, I don’t want to see it",
+        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
+        "author": "Blizzard1s2d",
+        "updatedAt": "2019-06-19T20:00:01-07:00"
+      }
+    ]
   },
   {
     "id": "shadowtalk",
@@ -4863,13 +4900,6 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "Easy Listening",
-        "content": "Great way to learn more about cyber security in a story telling manner vs technical.",
-        "author": "braveday",
-        "updatedAt": "2026-07-13T05:39:57-07:00"
-      },
-      {
-        "rating": 5,
         "title": "Love this show",
         "content": "… I do miss Carole, thought her voice was just perfect, like Grahams, for presenting the news.   Hope she visits.",
         "author": "ႦυႦႦʅҽɠυɱ Ⴆʅυҽʂ",
@@ -4895,6 +4925,13 @@
         "content": "Thanks for a great podcast—great information and laughs! Thanks to Carole for the links to “Break” (break dancing) at the 2024 Paris Olympics!",
         "author": "USA Mknitter",
         "updatedAt": "2024-07-25T09:25:29-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Really?",
+        "content": "Wow. I would like the time I wasted listening to half of an episode back please. I’m sure SS appeals to someone. I’m just not sure who that would be.",
+        "author": "jd2020",
+        "updatedAt": "2024-03-04T10:50:56-07:00"
       }
     ]
   },
