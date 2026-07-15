@@ -1,5 +1,22 @@
 [
   {
+    "id": "artoken-how-attackers-are-bypassing-mfa-and-maintaining-access",
+    "podcastId": "talos-takes",
+    "title": "ARToken: How attackers are bypassing MFA and maintaining access",
+    "description": "<p>MFA and password resets aren't always enough.</p><p>That’s terrifying for security teams today. In this episode of <em>Talos Takes</em>, we dive deep into ARToken, a sophisticated phishing-as-a-service platform that steals credentials, bypasses MFA entirely, and leverages primary refresh tokens (PRTs) to maintain persistence in your environment long after a password reset. This turns a simple phishing click into a long-term breach.</p><p>It’s time to rethink your defenses. Join us as Cisco Talos Threat Researcher Michael Kelley breaks down how this new breed of automated attack works and, more importantly, how you can spot it. From hunting for suspicious device authorization grants to securing your cloud infrastructure, don't miss this critical look at the new frontier of business email compromise. </p><p>Blog: <a href='https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/'>https://blog.talosintelligence.com/artoken-inside-an-eviltokens-affiliate-panel-targeting-microsoft-365/</a></p>",
+    "publishedAt": "2026-07-15T10:00:00.000Z",
+    "duration": 1088,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19492714-artoken-how-attackers-are-bypassing-mfa-and-maintaining-access.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "from-evasion-to-detection-a-guide-to-analyzing-com-based-threats",
     "podcastId": "talos-takes",
     "title": "From evasion to detection: A guide to analyzing COM-based threats",
