@@ -1811,7 +1811,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-14T08:21:18.547Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -2577,7 +2586,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-14T08:21:25.903Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -2953,7 +2971,7 @@
     },
     "recentReviews": [
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Cyber updates and more",
         "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
         "author": "Wooyilac",
@@ -4179,9 +4197,9 @@
         "websiteUrl": "https://jbu.me/"
       }
     ],
-    "lastEpisodeDate": "2026-07-14T02:15:11.000Z",
+    "lastEpisodeDate": "2026-07-15T02:00:02.000Z",
     "firstEpisodeDate": "2016-04-01T01:40:02.000Z",
-    "episodeCount": 2474,
+    "episodeCount": 2475,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4509,8 +4527,8 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-08T02:19:20.000Z",
-    "firstEpisodeDate": "2026-05-06T01:23:05.000Z",
+    "lastEpisodeDate": "2026-07-15T02:14:03.000Z",
+    "firstEpisodeDate": "2026-05-13T02:36:18.000Z",
     "episodeCount": 10,
     "hasVideo": false,
     "isActive": true,
@@ -5837,7 +5855,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-07-14T08:21:52.315Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",

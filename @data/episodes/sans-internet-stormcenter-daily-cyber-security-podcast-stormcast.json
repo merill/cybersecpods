@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-july-15th-2026-microsoft-patches-new-msft-priv-escalati",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, July 15th, 2026: Microsoft Patches; New MSFT Priv Escalation; Progress ShareFile 0-Day; Grok Exfiltration",
+    "description": "<br/>\nMicrosoft Patch Tuesday July 2026 - The AI Acopolypse is Here<br/>\n<a href=\"https://isc.sans.edu/diary/Microsoft%20Patch%20Tuesday%20July%202026%20-%20The%20AI%20Acopolypse%20is%20Here%20/33154\">https://isc.sans.edu/diary/Microsoft%20Patch%20Tuesday%20July%202026%20-%20The%20AI%20Acopolypse%20is%20Here%20/33154</a><br/>\nLegacyHive : Windows user profile service arbitrary hive load elevation of privileges vulnerability<br/>\n<a href=\"https://git.projectnightcrawler.dev/NightmareEclipse/LegacyHive\">https://git.projectnightcrawler.dev/NightmareEclipse/LegacyHive</a><br/>\nProgress confirms ShareFile zero-day flaw behind Storage Zone shutdown<br/>\n<a href=\"https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/\">https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/</a><br/>\nxAI/Grok Exfiltrating Data and Secrets<br/>\n<a href=\"https://cereblab.com\">https://cereblab.com</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-15T02:00:02.000Z",
+    "duration": 405,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10008.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10008,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10008"
+  },
+  {
     "id": "sans-stormcast-tuesday-july-14th-2026-mcpai-related-scans-improve-router-hygiene",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, July 14th, 2026: MCP/AI Related Scans; Improve Router Hygiene; OAuth Client ID Spoofing; Veeam Vuln;",
