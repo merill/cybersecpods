@@ -1,5 +1,22 @@
 [
   {
+    "id": "srsly-risky-biz-ransomware-uses-ai-to-amp-up-negotiations",
+    "podcastId": "risky-bulletin",
+    "title": "Srsly Risky Biz: Ransomware uses AI to amp up negotiations",
+    "description": "<p>Tom Uren and James Wilson talk about different ways ransomware groups are taking advantage of AI. The relatively new FulcrumSec group uses simple techniques to breach companies and then uses AI to get more leverage over victims in its extortion negotiations.</p>\n\n<p>They also discuss the ever so many bugs being patched. This is good for organisations that patch, but it will leave a very long tail of unpatched vulnerabilities.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/xyC8ttcsKBI\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-07-16T07:26:17.000Z",
+    "duration": 1223,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB175.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SRB175/"
+  },
+  {
     "id": "between-two-nerds-exploits-are-not-cyber-power",
     "podcastId": "risky-bulletin",
     "title": "Between Two Nerds: Exploits are not cyber power",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/BTN158/"
-  },
-  {
-    "id": "risky-bulletin-meta-disrupts-mexican-cartels",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Meta disrupts Mexican cartels",
-    "description": "<p>Meta suspends Mexican cartel accounts, multiple vulnerabilities have been found in Linux AppArmour,\nInstagram will disable support for end-to-end encrypted messaging and a supply chain attack hits AppsFlyer.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://news.risky.biz/risky-bulletin-meta-disrupts-mexican-cartels/\">Risky Bulletin: Meta disrupts Mexican cartels</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-03-16T02:58:40.000Z",
-    "duration": 372,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS538.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS538/"
   }
 ]

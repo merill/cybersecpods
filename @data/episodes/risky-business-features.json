@@ -1,5 +1,22 @@
 [
   {
+    "id": "fortibleed-the-bleeding-edge-of-ai-cybercrime",
+    "podcastId": "risky-business-features",
+    "title": "Fortibleed: The bleeding edge of AI cybercrime",
+    "description": "<p>In this podcast episode SOCRadar CISO Ensar Seker and James Wilson chat about the company’s deep dive into the Fortibleed campaign. A small investigation into a curiously open directory on an unknown server expanded into the discovery of an attack that targeted 400,000 Fortinet devices.</p>\n\n<p>As Ensar says, each time the SOCRadar team pulled a single thread, it led to a tapestry of AI-enabled cybercrime. They uncovered custom initial access, persistence and packet sniffing tools, as well as direct links to the INC and Lynx ransomware operations. Most interesting though is the use of AI to design, implement and operate all aspects of the campaign across a team of 20 individual actors. Operating more like a modern software company than a traditional cybercrime gang, Fortibleed serves as our first in-depth look at the future of cybercrime.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://socradar.io/blog/fortibleed-inc-lynx-ransomware-link/\">SOCRadar Links FortiBleed Campaign to INC and Lynx Ransomware Operations</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-07-16T07:10:56.000Z",
+    "duration": 2883,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES32.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES32/"
+  },
+  {
     "id": "what-to-do-til-the-bugpocalypse-gets-here",
     "podcastId": "risky-business-features",
     "title": "What to do 'til the bugpocalypse gets here",
