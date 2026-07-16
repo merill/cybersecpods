@@ -1,5 +1,22 @@
 [
   {
+    "id": "1999-called-and-it-wants-its-exploits-back-psw-935",
+    "podcastId": "paul-s-security-weekly",
+    "title": "1999 Called and It Wants It's Exploits Back - PSW #935",
+    "description": "<p>This week, our technical segment covers a new open-source tool written by Paul (and Claude) that helps you keep your Linux systems up to date and assess supply chain risks. It's called \"fettle\" and is a pure Python implementation that gives you even more features than previously discussed! Then in the security news:</p> <ul> <li>The GodDamn Ransomware</li> <li>CMMC suspended</li> <li>Holy Microsoft Tuesday!</li> <li>Lessons learned</li> <li>Without the Internet, do we still get water?</li> <li>The forgotten shims</li> <li>More than two BIOS passwords</li> <li>Cracking firmware encryption with Claude</li> <li>1999 called, and it wants its \"Exploits\" back</li> <li>Prompt injection for defenders</li> <li>Grok has your repo</li> <li>You're not going to outpatch AI</li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/psw\">https://www.securityweekly.com/psw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/psw-935\">https://securityweekly.com/psw-935</a></p>",
+    "publishedAt": "2026-07-16T21:00:00.000Z",
+    "duration": 7909,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/pswonly/PSW_935_1--a508db48-0da0-448b-a3b9-d2e9df19930c--audio-converted--0cb57bd7-d3ee-49ff-a222-2ee4cbe503f6.mp3?dest-id=388575",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/7/8/7/a/787aa894ddda106116c3140a3186d450/PSW_935_Thumbnail_PSW_1920x1920-op1_e7874dca-97fe-45be-b23b-29a6ccb557bb.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://pswonly.libsyn.com/1999-called-and-it-wants-its-exploits-back-psw-935"
+  },
+  {
     "id": "ai-is-annoying-and-iot-devices-still-get-hacked-psw-934",
     "podcastId": "paul-s-security-weekly",
     "title": "AI Is Annoying & IoT Devices Still Get Hacked - PSW #934",
