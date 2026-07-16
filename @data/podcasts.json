@@ -2586,7 +2586,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-15T06:56:13.120Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -3655,9 +3664,9 @@
         "websiteUrl": "https://www.secureinseconds.com/"
       }
     ],
-    "lastEpisodeDate": "2026-05-18T00:00:00.000Z",
+    "lastEpisodeDate": "2026-07-16T00:19:23.000Z",
     "firstEpisodeDate": "2025-01-12T23:30:00.000Z",
-    "episodeCount": 16,
+    "episodeCount": 17,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
