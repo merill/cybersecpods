@@ -1,5 +1,22 @@
 [
   {
+    "id": "for-hackers-sharing-is-caring",
+    "podcastId": "cyberwire-daily",
+    "title": "For hackers, sharing is caring.",
+    "description": "<p>CISA warns of active SharePoint attacks. The NSA pushes coordinated vulnerability disclosure. ClickLock Stealer targets macOS. Splunk and Zoom patch critical flaws. Spirals ransomware strikes in under 24 hours. New Windows evasion techniques emerge. LabubaRAT poses as NVIDIA software. 23andMe settles over its 2023 breach. Plus, a look back at one of the most audacious data center heists ever pulled off. Our guest is Ryan Kalember, Chief Strategy Officer at Proofpoint, discussing why agentic AI is creating a new insider threat. Near, far, wherever you are…the scam must go on.</p>\n<p>Remember to leave us a 5-star rating and review in your favorite podcast app.</p>\n<p>Miss an episode? Sign-up for our daily intelligence roundup, <a href=\"https://thecyberwire.com/newsletters/daily-briefing\"><em>Daily Briefing</em></a><em>, </em>and you’ll never miss a beat<em>. </em>And be sure to follow CyberWire Daily on <a href=\"https://www.linkedin.com/company/10454826/admin/feed/posts/\"><u>LinkedIn</u></a>.</p>\n<p><strong>CyberWire Guest</strong></p>\n<p>Today we are joined by <a href=\"https://www.linkedin.com/in/kalember/\"><u>Ryan Kalember</u></a>, Chief Strategy Officer at <a href=\"https://www.proofpoint.com/us\"><u>Proofpoint</u></a>, and he is discussing why agentic AI is creating a new insider threat.</p>\n<p><strong>Selected Reading</strong></p>\n<p><a href=\"https://www.csoonline.com/article/4197775/cisa-urges-immediate-sharepoint-hardening-as-exploits-mount.html\"><u>CISA urges immediate SharePoint hardening as exploits mount</u></a> (CSO Online)</p>\n<p><a href=\"https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4546549/nsa-joins-cisa-and-others-in-releasing-the-cybersecurity-information-sheet-esta/\"><u>NSA joins CISA and Others in Releasing the Cybersecurity Information Sheet “Establishing a Coordinated Vulnerability Disclosure Program to Work with Security Researchers”</u></a> (NSA)</p>\n<p><a href=\"https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/\"><u>‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing</u></a> (SecurityWeek)</p>\n<p><a href=\"https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/\"><u>Splunk, Zoom Patch Critical Vulnerabilities</u></a> (SecurityWeek)</p>\n<p><a href=\"https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/\"><u>New Spirals ransomware encrypts victim network in under 24 hours</u></a> (Bleeping Computer)</p>\n<p><a href=\"https://businessinsights.bitdefender.com/bind-link-abuses-windows-feature-edr-evasion-technique\"><u>Bind Link Abuse: One Windows Feature, Many Ways to Blind Your EDR</u></a> (Bitdefender)</p>\n<p><a href=\"https://blackpointcyber.com/blog/labubarat-a-rust-based-remote-access-tool-masquerading-as-nvidia-software/\"><u>LabubaRAT: A Rust Based Remote Access Tool Masquerading as NVIDIA Software</u></a> (Blackpoint Cyber)</p>\n<p><a href=\"https://therecord.media/genetic-testing-settlement-data-breach\"><u>23andMe reaches $18 million settlement with states for massive breach</u></a> (The Record)</p>\n<p><a href=\"https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html\"><u>How a Gang of Thieves Pulled Off a Multimillion-Dollar Data Center Heist</u></a> (The New York Times)</p>\n<p><a href=\"https://hackread.com/fake-celine-dion-paris-tickets-facebook-ticketmaster-clones/\"><u>Fake Céline Dion Paris Tickets Sold on Facebook and Ticketmaster Clones</u></a> (Hackread)</p>\n<p><strong>Share your feedback.</strong></p>\n<p>What do you think about CyberWire Daily? Please take a few minutes to share your thoughts with us by completing our <a href=\"https://www.surveymonkey.com/r/NCFFCZJ\"><u>brief listener survey</u></a>. Thank you for helping us continue to improve our show.</p>\n<p><strong>Want to hear your company in the show?</strong></p>\n<p>N2K CyberWire helps you reach the industry’s most influential leaders and operators, while building visibility, authority, and connectivity across the cybersecurity community. Learn more at <a href=\"http://sponsor.thecyberwire.com/\"><u>sponsor.thecyberwire.com</u></a>.</p>\n<p>The CyberWire is a production of N2K Networks, your source for strategic workforce intelligence. © N2K Networks, Inc.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-07-16T20:30:00.000Z",
+    "duration": 1828,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW3758196020.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 2594,
+    "seasonNumber": 11,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.thecyberwire.com/podcasts/daily-podcast/2594/notes"
+  },
+  {
     "id": "patchapalooza-packs-a-punch",
     "podcastId": "cyberwire-daily",
     "title": "Patchapalooza packs a punch.",
@@ -289,23 +306,6 @@
     "link": "https://www.thecyberwire.com/podcasts/daily-podcast/2582/notes"
   },
   {
-    "id": "space-supply-chain-pressures-t-minus-space-cyber-briefing",
-    "podcastId": "cyberwire-daily",
-    "title": "Space supply chain pressures. [T-Minus: Space-Cyber Briefing]",
-    "description": "<p>Despite the space sector seeing greater investment and attention year-over-year, the sector still remains bound by an outdated and ineffective supply chain, especially in the United States.</p>\n<p>In this week’s episode, host Maria Varmazis sits down with <a href=\"https://www.linkedin.com/in/douganderson/\"><u>Doug Anderson</u></a>, Partner at <a href=\"https://www.pwc.com/gx/en.html\"><u>PwC</u></a>, and <a href=\"https://www.linkedin.com/in/steve09/\"><u>Steve Jordan-Tomaszewski</u></a>, Vice President of the Space Systems Division at <a href=\"https://www.aia-aerospace.org/\"><u>AIA</u></a>, to dive into PwC’s recent study looking at the sector’s supply chain limitations. During the conversation, they examine the supply chain’s base risks and bottlenecks, and what strategies can be utilized to address these concerns. </p>\n<p>\nKey sources:</p>\n<ul>\n  <li>\n<p><a href=\"https://www.pwc.com/us/en/industries/industrial-products/library/strengthening-space-supply-chain.html\"><u>Strengthening America’s space supply chain</u></a></p>\n</li>\n</ul>\n<p>Like what you heard? Be sure to subscribe to our free Signals and Space Briefing⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠, our Sunday newsletter covering the intersection of cybersecurity and space. Subscribe at: https://thecyberwire.com/newsletters/signals-and-space</p>\n<p>Is there a topic or person you’d like to hear on our show? You can send your questions and feedback to <a href=\"mailto:space@n2k.com\"><u>space@n2k.com</u></a>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠. You can also fill our our audience survey: https://www.surveymonkey.com/r/NJYCN2P</p>\n<p>T-Minus: Space-Cyber Briefing is a production of N2K CyberWire. <a href=\"https://www.n2k.com/\"><u>N2K</u></a> is your nexus for discovery and connection for people, technology, and ideas shaping the future of secure innovation. Learn how at n2k.com.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2026-06-28T05:00:00.000Z",
-    "duration": 1653,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7952399823.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/8c3a3b78-70b8-11f1-8d10-3320c3bd5176/image/637ef5fa089ca3dbceebd7bda30c7eb8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 713,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/713/notes"
-  },
-  {
     "id": "uniting-women-in-cyber-podcast-breaking-barriers-in-cybersecurity-with-cybersecu",
     "podcastId": "cyberwire-daily",
     "title": "Uniting Women in Cyber Podcast: Breaking Barriers in Cybersecurity with Cybersecurity Girl. [Special Edition]",
@@ -321,6 +321,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/special-edition/99/notes"
+  },
+  {
+    "id": "space-supply-chain-pressures-t-minus-space-cyber-briefing",
+    "podcastId": "cyberwire-daily",
+    "title": "Space supply chain pressures. [T-Minus: Space-Cyber Briefing]",
+    "description": "<p>Despite the space sector seeing greater investment and attention year-over-year, the sector still remains bound by an outdated and ineffective supply chain, especially in the United States.</p>\n<p>In this week’s episode, host Maria Varmazis sits down with <a href=\"https://www.linkedin.com/in/douganderson/\"><u>Doug Anderson</u></a>, Partner at <a href=\"https://www.pwc.com/gx/en.html\"><u>PwC</u></a>, and <a href=\"https://www.linkedin.com/in/steve09/\"><u>Steve Jordan-Tomaszewski</u></a>, Vice President of the Space Systems Division at <a href=\"https://www.aia-aerospace.org/\"><u>AIA</u></a>, to dive into PwC’s recent study looking at the sector’s supply chain limitations. During the conversation, they examine the supply chain’s base risks and bottlenecks, and what strategies can be utilized to address these concerns. </p>\n<p>\nKey sources:</p>\n<ul>\n  <li>\n<p><a href=\"https://www.pwc.com/us/en/industries/industrial-products/library/strengthening-space-supply-chain.html\"><u>Strengthening America’s space supply chain</u></a></p>\n</li>\n</ul>\n<p>Like what you heard? Be sure to subscribe to our free Signals and Space Briefing⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠, our Sunday newsletter covering the intersection of cybersecurity and space. Subscribe at: https://thecyberwire.com/newsletters/signals-and-space</p>\n<p>Is there a topic or person you’d like to hear on our show? You can send your questions and feedback to <a href=\"mailto:space@n2k.com\"><u>space@n2k.com</u></a>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠. You can also fill our our audience survey: https://www.surveymonkey.com/r/NJYCN2P</p>\n<p>T-Minus: Space-Cyber Briefing is a production of N2K CyberWire. <a href=\"https://www.n2k.com/\"><u>N2K</u></a> is your nexus for discovery and connection for people, technology, and ideas shaping the future of secure innovation. Learn how at n2k.com.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-06-28T05:00:00.000Z",
+    "duration": 1653,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7952399823.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/8c3a3b78-70b8-11f1-8d10-3320c3bd5176/image/637ef5fa089ca3dbceebd7bda30c7eb8.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 713,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/713/notes"
   },
   {
     "id": "more-bark-than-byte-research-saturday",
@@ -425,23 +442,6 @@
     "link": "https://www.thecyberwire.com/podcasts/daily-podcast/2577/notes"
   },
   {
-    "id": "vulnerability-response-built-for-humans-outpaced-by-machines-cyberwire-x",
-    "podcastId": "cyberwire-daily",
-    "title": "Vulnerability response: Built for humans, outpaced by machines. [CyberWire-X]",
-    "description": "<p>For years, security teams had time between discovery and exploitation. Time to triage. Time to validate. Time to prioritize what to fix first. AI has compressed that window. Frontier models now discover and chain vulnerabilities faster than human analysts can confirm them, and the gap between finding and fixing is shrinking in both directions. </p>\n<p>In this episode of CyberWire-X, N2K’s <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/?skipRedirect=true\">⁠Dave Bittner⁠</a> and <a href=\"https://www.linkedin.com/in/fedek/\">Federico Kirschbaum</a>, Head of <a href=\"https://xbow.com/\">XBOW</a> Security Lab, explore what it actually means to run autonomous offensive security, why validation workflows built for quarterly testing cycles struggle to keep up, and how practitioners are redefining what a tested application looks like when the pace of offense has fundamentally changed.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2026-06-21T05:00:00.000Z",
-    "duration": 1523,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6924806791.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/d3213db8-6a8a-11f1-899b-87bc58d8b9c4/image/cca6449db500549f3982c5870b5f89a9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 54,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/cyberwire-x/57/notes"
-  },
-  {
     "id": "navigating-the-gps-threat-landscape-with-brandon-karpf-t-minus-space-cyber-brief",
     "podcastId": "cyberwire-daily",
     "title": "Navigating the GPS threat landscape, with Brandon Karpf. [T-Minus: Space-Cyber Briefing]",
@@ -457,6 +457,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/712/notes"
+  },
+  {
+    "id": "vulnerability-response-built-for-humans-outpaced-by-machines-cyberwire-x",
+    "podcastId": "cyberwire-daily",
+    "title": "Vulnerability response: Built for humans, outpaced by machines. [CyberWire-X]",
+    "description": "<p>For years, security teams had time between discovery and exploitation. Time to triage. Time to validate. Time to prioritize what to fix first. AI has compressed that window. Frontier models now discover and chain vulnerabilities faster than human analysts can confirm them, and the gap between finding and fixing is shrinking in both directions. </p>\n<p>In this episode of CyberWire-X, N2K’s <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/?skipRedirect=true\">⁠Dave Bittner⁠</a> and <a href=\"https://www.linkedin.com/in/fedek/\">Federico Kirschbaum</a>, Head of <a href=\"https://xbow.com/\">XBOW</a> Security Lab, explore what it actually means to run autonomous offensive security, why validation workflows built for quarterly testing cycles struggle to keep up, and how practitioners are redefining what a tested application looks like when the pace of offense has fundamentally changed.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-06-21T05:00:00.000Z",
+    "duration": 1523,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6924806791.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/d3213db8-6a8a-11f1-899b-87bc58d8b9c4/image/cca6449db500549f3982c5870b5f89a9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 54,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/cyberwire-x/57/notes"
   },
   {
     "id": "peeling-back-banana-rat-research-saturday",
@@ -816,23 +833,6 @@
     "link": "https://www.thecyberwire.com/podcasts/daily-podcast/2563/notes"
   },
   {
-    "id": "cyberwire-daily-at-10-the-evolution-of-ransomware-special-edition",
-    "podcastId": "cyberwire-daily",
-    "title": "CyberWire Daily at 10: The evolution of ransomware. [Special Edition]",
-    "description": "<p>In this special edition of CyberWire Daily’s 10th anniversary series, N2K CyberWire's <a href=\"https://www.linkedin.com/in/varmazis\">Maria Varmazis</a> and <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4\">Dave Bittner</a> consider the tactics, trends, and turning points that shaped the threat landscape over the last decade of ransomware. </p>\n<p>Ransomware has evolved from small-scale extortion and opportunistic attacks to sprawling, sophisticated, organized crime and state-sponsored attacks. Cryptocurrency plays a pivotal role in enabling ransomware's growth by providing untraceable payment methods.</p>\n<p>Join us as we explore key incidents like WannaCry and NotPetya, the shift from street crime to organized and nation-state cyber threats, and AI's impact on the future of ransomware.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2026-05-31T05:00:00.000Z",
-    "duration": 1364,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7859488464.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/b430a36c-5b8f-11f1-8a95-dfe2986544ea/image/0216c9cea15c53e5d2c739964a38623c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 101,
-    "seasonNumber": 11,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/special-edition/98/notes"
-  },
-  {
     "id": "gps-a-backbone-for-critical-infrastructure-t-minus-space-cyber-briefing",
     "podcastId": "cyberwire-daily",
     "title": "GPS: A backbone for critical infrastructure. [T-Minus: Space-Cyber Briefing]",
@@ -848,6 +848,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/709/notes"
+  },
+  {
+    "id": "cyberwire-daily-at-10-the-evolution-of-ransomware-special-edition",
+    "podcastId": "cyberwire-daily",
+    "title": "CyberWire Daily at 10: The evolution of ransomware. [Special Edition]",
+    "description": "<p>In this special edition of CyberWire Daily’s 10th anniversary series, N2K CyberWire's <a href=\"https://www.linkedin.com/in/varmazis\">Maria Varmazis</a> and <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4\">Dave Bittner</a> consider the tactics, trends, and turning points that shaped the threat landscape over the last decade of ransomware. </p>\n<p>Ransomware has evolved from small-scale extortion and opportunistic attacks to sprawling, sophisticated, organized crime and state-sponsored attacks. Cryptocurrency plays a pivotal role in enabling ransomware's growth by providing untraceable payment methods.</p>\n<p>Join us as we explore key incidents like WannaCry and NotPetya, the shift from street crime to organized and nation-state cyber threats, and AI's impact on the future of ransomware.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-05-31T05:00:00.000Z",
+    "duration": 1364,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7859488464.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/b430a36c-5b8f-11f1-8a95-dfe2986544ea/image/0216c9cea15c53e5d2c739964a38623c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 101,
+    "seasonNumber": 11,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/special-edition/98/notes"
   },
   {
     "id": "the-skills-pay-the-bills-research-saturday",
@@ -2091,23 +2108,6 @@
     "link": "https://www.thecyberwire.com/podcasts/daily-podcast/2514/notes"
   },
   {
-    "id": "roya-gordon-becoming-a-trailblazer-research-career-notes",
-    "podcastId": "cyberwire-daily",
-    "title": "Roya Gordon: Becoming a trailblazer. [Research] [Career Notes]",
-    "description": "<p>Please enjoy this encore of Career Notes. </p>\n<p>Roya Gordon, a Security Research Evangelist at ICS cybersecurity firm Nozomi Networks, started her career as an intelligence specialist in the U.S. Navy. After her time serving, Roya spent time as a Control Systems Cybersecurity Analyst at the Idaho National Laboratory and then took the role of Cyber Threat Intelligence Manager at Accenture. She shares her story after the NSA accepted her and then quickly diverted, creating a new path for Roya to follow. She shares the jobs she went after along the way, leading up to Nozomi Networks and how she wishes to be a trailblazer for young black women everywhere. She hopes to shape young women's minds on what the cybersecurity industry is actually like, in hopes that she can be a figure people look up to. We thank Roya for sharing her story.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2026-03-22T07:00:00.000Z",
-    "duration": 693,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9386828882.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/053e5fb8-24a1-11f1-85b4-ebf5276f82c1/image/910aaf148c5fdf3b9f89208a91f19df4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 113,
-    "seasonNumber": 3,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/113/notes"
-  },
-  {
     "id": "cyberwire-daily-at-10-from-an-idea-to-the-airwaves-special-edition",
     "podcastId": "cyberwire-daily",
     "title": "CyberWire Daily at 10: From an idea to the airwaves. [Special Edition]",
@@ -2123,6 +2123,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/special-edition/94/notes"
+  },
+  {
+    "id": "roya-gordon-becoming-a-trailblazer-research-career-notes",
+    "podcastId": "cyberwire-daily",
+    "title": "Roya Gordon: Becoming a trailblazer. [Research] [Career Notes]",
+    "description": "<p>Please enjoy this encore of Career Notes. </p>\n<p>Roya Gordon, a Security Research Evangelist at ICS cybersecurity firm Nozomi Networks, started her career as an intelligence specialist in the U.S. Navy. After her time serving, Roya spent time as a Control Systems Cybersecurity Analyst at the Idaho National Laboratory and then took the role of Cyber Threat Intelligence Manager at Accenture. She shares her story after the NSA accepted her and then quickly diverted, creating a new path for Roya to follow. She shares the jobs she went after along the way, leading up to Nozomi Networks and how she wishes to be a trailblazer for young black women everywhere. She hopes to shape young women's minds on what the cybersecurity industry is actually like, in hopes that she can be a figure people look up to. We thank Roya for sharing her story.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-03-22T07:00:00.000Z",
+    "duration": 693,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9386828882.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/053e5fb8-24a1-11f1-85b4-ebf5276f82c1/image/910aaf148c5fdf3b9f89208a91f19df4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 113,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/113/notes"
   },
   {
     "id": "a-subtle-flaw-a-massive-blast-radius-research-saturday",
@@ -4131,23 +4148,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/2443/notes"
   },
   {
-    "id": "ai-in-the-grc-whats-real-whats-risky-and-whats-next-special-edition",
-    "podcastId": "cyberwire-daily",
-    "title": "AI in the GRC: What's real, what's risky and what's next. [Special Edition]",
-    "description": "<p>Join us for a timely and insightful live discussion on the evolving role of artificial intelligence in governance, risk, and compliance. Host <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">Dave Bittner</a> from <a href=\"https://www.linkedin.com/company/the-cyberwire/\">N2K | CyberWire</a> is joined by <a href=\"https://www.linkedin.com/in/kaynemcgladrey/\">Kayne McGladrey</a> from <a href=\"https://www.linkedin.com/company/hyperproof/\">Hyperproof</a>, <a href=\"https://www.linkedin.com/in/matthew-cassidy-pmp-cisa-1787b06/\">Matthew Cassidy, PMP, CISA</a> from <a href=\"https://www.linkedin.com/company/grant-thornton-us/\">Grant Thornton (US)</a>, and Alam Ali from <a href=\"https://www.linkedin.com/company/hyperproof/\">Hyperproof</a> to explore the current state of artificial intelligence in governance, risk, and compliance. The panel will discuss what AI is truly doing well today, the risks and challenges organizations need to watch for, and how AI is poised to influence the future of GRC. They will also share practical insights and real-world guidance for teams looking to adopt AI responsibly and effectively. Don’t miss this timely conversation as our experts break down what’s real, what’s risky, and what’s next in AI for GRC.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2025-11-30T08:00:00.000Z",
-    "duration": 3766,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4098610118.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/7578395e-caef-11f0-bc48-67b712467ab9/image/0216c9cea15c53e5d2c739964a38623c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 88,
-    "seasonNumber": 10,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/special-edition/88/notes"
-  },
-  {
     "id": "danielle-jablanski-finding-the-path-to-success-strategy-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "Danielle Jablanski: Finding the path to success [Strategy] [Career Notes]",
@@ -4163,6 +4163,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/97/notes"
+  },
+  {
+    "id": "ai-in-the-grc-whats-real-whats-risky-and-whats-next-special-edition",
+    "podcastId": "cyberwire-daily",
+    "title": "AI in the GRC: What's real, what's risky and what's next. [Special Edition]",
+    "description": "<p>Join us for a timely and insightful live discussion on the evolving role of artificial intelligence in governance, risk, and compliance. Host <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">Dave Bittner</a> from <a href=\"https://www.linkedin.com/company/the-cyberwire/\">N2K | CyberWire</a> is joined by <a href=\"https://www.linkedin.com/in/kaynemcgladrey/\">Kayne McGladrey</a> from <a href=\"https://www.linkedin.com/company/hyperproof/\">Hyperproof</a>, <a href=\"https://www.linkedin.com/in/matthew-cassidy-pmp-cisa-1787b06/\">Matthew Cassidy, PMP, CISA</a> from <a href=\"https://www.linkedin.com/company/grant-thornton-us/\">Grant Thornton (US)</a>, and Alam Ali from <a href=\"https://www.linkedin.com/company/hyperproof/\">Hyperproof</a> to explore the current state of artificial intelligence in governance, risk, and compliance. The panel will discuss what AI is truly doing well today, the risks and challenges organizations need to watch for, and how AI is poised to influence the future of GRC. They will also share practical insights and real-world guidance for teams looking to adopt AI responsibly and effectively. Don’t miss this timely conversation as our experts break down what’s real, what’s risky, and what’s next in AI for GRC.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2025-11-30T08:00:00.000Z",
+    "duration": 3766,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4098610118.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/7578395e-caef-11f0-bc48-67b712467ab9/image/0216c9cea15c53e5d2c739964a38623c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 88,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/special-edition/88/notes"
   },
   {
     "id": "a-new-stealer-hiding-behind-ai-hype-research-saturday",
@@ -6698,23 +6715,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/2348/notes"
   },
   {
-    "id": "click-here-to-steal-research-saturday",
-    "podcastId": "cyberwire-daily",
-    "title": "Click here to steal. [Research Saturday]",
-    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠<u>Selena Larson</u>⁠</a>, Threat Researcher at <a href=\"https://www.linkedin.com/company/proofpoint/\">⁠<u>Proofpoint</u>⁠</a>, and co-host of <a href=\"https://thecyberwire.com/podcasts/only-malware-in-the-building\">⁠<u>Only Malware in the Building</u>⁠</a>, as she discusses their work on \"Amatera Stealer - Rebranded ACR Stealer With Improved Evasion, Sophistication.\" Proofpoint researchers have identified <em>Amatera Stealer</em>, a rebranded and actively developed malware-as-a-service (MaaS) variant of the former ACR Stealer, featuring advanced evasion techniques like NTSockets for stealthy C2 communication and WoW64 Syscalls to bypass user-mode defenses. </p>\n<p>Distributed via ClearFake web injects and the ClickFix technique, Amatera leverages multilayered PowerShell loaders, blockchain-based hosting, and creative social engineering to compromise victims. With enhanced capabilities to steal browser data, crypto wallets, and other sensitive files, Amatera poses a growing threat in the wake of disruptions to competing stealers like Lumma.</p>\n<p>Complete our annual <a href=\"https://www.surveymonkey.com/r/JDYLFZ5\">⁠audience survey⁠</a> before August 31.</p>\n<p><strong>The research can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.proofpoint.com/us/blog/threat-insight/amatera-stealer-rebranded-acr-stealer-improved-evasion-sophistication\">⁠Amatera Stealer: Rebranded ACR Stealer With Improved Evasion, Sophistication</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2025-07-12T07:00:00.000Z",
-    "duration": 1511,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9740807142.mp3?updated=1752252490",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/c69d7840-1c7a-11f0-85e0-aba6a56b08cc/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 384,
-    "seasonNumber": 9,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/research-saturday/384/notes"
-  },
-  {
     "id": "mk-palmore-lead-from-where-you-stand-ciso-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "MK Palmore: Lead from where you stand. [CISO] [Career Notes]",
@@ -6730,6 +6730,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/76/notes"
+  },
+  {
+    "id": "click-here-to-steal-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "Click here to steal. [Research Saturday]",
+    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠<u>Selena Larson</u>⁠</a>, Threat Researcher at <a href=\"https://www.linkedin.com/company/proofpoint/\">⁠<u>Proofpoint</u>⁠</a>, and co-host of <a href=\"https://thecyberwire.com/podcasts/only-malware-in-the-building\">⁠<u>Only Malware in the Building</u>⁠</a>, as she discusses their work on \"Amatera Stealer - Rebranded ACR Stealer With Improved Evasion, Sophistication.\" Proofpoint researchers have identified <em>Amatera Stealer</em>, a rebranded and actively developed malware-as-a-service (MaaS) variant of the former ACR Stealer, featuring advanced evasion techniques like NTSockets for stealthy C2 communication and WoW64 Syscalls to bypass user-mode defenses. </p>\n<p>Distributed via ClearFake web injects and the ClickFix technique, Amatera leverages multilayered PowerShell loaders, blockchain-based hosting, and creative social engineering to compromise victims. With enhanced capabilities to steal browser data, crypto wallets, and other sensitive files, Amatera poses a growing threat in the wake of disruptions to competing stealers like Lumma.</p>\n<p>Complete our annual <a href=\"https://www.surveymonkey.com/r/JDYLFZ5\">⁠audience survey⁠</a> before August 31.</p>\n<p><strong>The research can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.proofpoint.com/us/blog/threat-insight/amatera-stealer-rebranded-acr-stealer-improved-evasion-sophistication\">⁠Amatera Stealer: Rebranded ACR Stealer With Improved Evasion, Sophistication</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2025-07-12T07:00:00.000Z",
+    "duration": 1511,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9740807142.mp3?updated=1752252490",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/c69d7840-1c7a-11f0-85e0-aba6a56b08cc/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 384,
+    "seasonNumber": 9,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/384/notes"
   },
   {
     "id": "behind-the-firewall-trouble-brews",
@@ -7531,23 +7548,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/2316/notes"
   },
   {
-    "id": "hugh-thompson-on-building-the-rsa-conference-afternoon-cyber-tea",
-    "podcastId": "cyberwire-daily",
-    "title": "Hugh Thompson on Building the RSA Conference [Afternoon Cyber Tea]",
-    "description": "<p><em><strong>While our team is observing Memorial Day in the United States, please enjoy this episode from the N2K CyberWire network partner, Microsoft Security. You can hear new episodes of Ann Johnson's </strong></em><a href=\"https://thecyberwire.com/podcasts/afternoon-cyber-tea\"><em><strong>Afternoon Cyber Tea</strong></em></a><em><strong> podcast every other Tuesday.</strong></em></p>\n<p><br></p>\n<p><a href=\"https://www.linkedin.com/in/hugh-thompson-ph-d-3b51bb2/\"><u>Dr. Hugh Thompson</u></a>, Executive Chairman of RSA Conference and Managing Partner at Crosspoint Capital joins Ann on this week's episode of Afternoon Cyber Tea. They discuss what goes into planning the world’s largest cybersecurity conference—from theme selection to llama-related surprises on the expo floor—and how the RSA community continues to evolve. Hugh also shares how his background in applied math led him from academia to cybersecurity, his thoughts on the human element in security, and what keeps him optimistic about the future of the industry. </p>\n<p> </p>\n<p>Resources:  </p>\n<p><a href=\"https://www.linkedin.com/in/hugh-thompson-ph-d-3b51bb2/\"><u>View Hugh Thompson on LinkedIn</u></a> <a href=\"https://www.linkedin.com/in/yonatanzunger/\"><u> </u></a> </p>\n<p><a href=\"https://www.linkedin.com/in/ann-johnsons/\"><u>View Ann Johnson on LinkedIn</u></a>   </p>\n<p>  </p>\n<p>  </p>\n<p>Related Microsoft Podcasts:  </p>\n<ul>\n  <li>\n<p><a href=\"https://msthreatintelpodcast.com/\"><u>Microsoft Threat Intelligence Podcast</u></a>  </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://bluehatpodcast.com/\"><u>The BlueHat Podcast</u></a>   </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://uncoveringhiddenrisks.com/\"><u>Uncovering Hidden Risks</u></a>  </p>\n</li>\n</ul>\n<p>      </p>\n<p>Discover and follow other Microsoft podcasts at<a href=\"https://news.microsoft.com/podcasts/\"> </a><a href=\"https://news.microsoft.com/podcasts/\"><u>microsoft.com/podcasts</u></a>  </p>\n<p>  </p>\n<p><em>Afternoon Cyber Tea with Ann Johnson is produced by Microsoft and distributed as part of N2K media network. </em></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2025-05-26T06:00:00.000Z",
-    "duration": 2254,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6704920354.mp3?updated=1747694114",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 107,
-    "seasonNumber": 8,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/afternoon-cyber-tea/107/notes"
-  },
-  {
     "id": "aws-in-orbit-automated-satellite-management-t-minus-space",
     "podcastId": "cyberwire-daily",
     "title": "AWS in Orbit: Automated Satellite Management. [T-Minus Space]",
@@ -7563,6 +7563,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://space.n2k.com/podcasts/t-minus/aws-in-orbit-21"
+  },
+  {
+    "id": "hugh-thompson-on-building-the-rsa-conference-afternoon-cyber-tea",
+    "podcastId": "cyberwire-daily",
+    "title": "Hugh Thompson on Building the RSA Conference [Afternoon Cyber Tea]",
+    "description": "<p><em><strong>While our team is observing Memorial Day in the United States, please enjoy this episode from the N2K CyberWire network partner, Microsoft Security. You can hear new episodes of Ann Johnson's </strong></em><a href=\"https://thecyberwire.com/podcasts/afternoon-cyber-tea\"><em><strong>Afternoon Cyber Tea</strong></em></a><em><strong> podcast every other Tuesday.</strong></em></p>\n<p><br></p>\n<p><a href=\"https://www.linkedin.com/in/hugh-thompson-ph-d-3b51bb2/\"><u>Dr. Hugh Thompson</u></a>, Executive Chairman of RSA Conference and Managing Partner at Crosspoint Capital joins Ann on this week's episode of Afternoon Cyber Tea. They discuss what goes into planning the world’s largest cybersecurity conference—from theme selection to llama-related surprises on the expo floor—and how the RSA community continues to evolve. Hugh also shares how his background in applied math led him from academia to cybersecurity, his thoughts on the human element in security, and what keeps him optimistic about the future of the industry. </p>\n<p> </p>\n<p>Resources:  </p>\n<p><a href=\"https://www.linkedin.com/in/hugh-thompson-ph-d-3b51bb2/\"><u>View Hugh Thompson on LinkedIn</u></a> <a href=\"https://www.linkedin.com/in/yonatanzunger/\"><u> </u></a> </p>\n<p><a href=\"https://www.linkedin.com/in/ann-johnsons/\"><u>View Ann Johnson on LinkedIn</u></a>   </p>\n<p>  </p>\n<p>  </p>\n<p>Related Microsoft Podcasts:  </p>\n<ul>\n  <li>\n<p><a href=\"https://msthreatintelpodcast.com/\"><u>Microsoft Threat Intelligence Podcast</u></a>  </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://bluehatpodcast.com/\"><u>The BlueHat Podcast</u></a>   </p>\n</li>\n</ul>\n<ul>\n  <li>\n<p><a href=\"https://uncoveringhiddenrisks.com/\"><u>Uncovering Hidden Risks</u></a>  </p>\n</li>\n</ul>\n<p>      </p>\n<p>Discover and follow other Microsoft podcasts at<a href=\"https://news.microsoft.com/podcasts/\"> </a><a href=\"https://news.microsoft.com/podcasts/\"><u>microsoft.com/podcasts</u></a>  </p>\n<p>  </p>\n<p><em>Afternoon Cyber Tea with Ann Johnson is produced by Microsoft and distributed as part of N2K media network. </em></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2025-05-26T06:00:00.000Z",
+    "duration": 2254,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6704920354.mp3?updated=1747694114",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 107,
+    "seasonNumber": 8,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/afternoon-cyber-tea/107/notes"
   },
   {
     "id": "pattie-dillon-take-the-leap-anti-fraud-career-notes",
@@ -9928,23 +9945,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/2223/notes"
   },
   {
-    "id": "the-hidden-cost-of-data-hoarding-research-saturday",
-    "podcastId": "cyberwire-daily",
-    "title": "The hidden cost of data hoarding. [Research Saturday]",
-    "description": "<p>This week, we are joined by <a href=\"https://www.linkedin.com/in/kylakcardona/\">Kyla Cardona</a> and <a href=\"https://www.linkedin.com/in/aurora-johnson-417b2911b/\">Aurora Johnson</a> from <a href=\"https://www.linkedin.com/company/spycloud/\">SpyCloud</a> discussing their research \"China’s Surveillance State Is Selling Citizen Data as a Side Hustle.\" Chinese technology companies, under CCP mandate, collect vast amounts of data on citizens, creating opportunities for corrupt insiders to steal and resell this information on dark markets. These stolen datasets, aggregated into \"Social Work Libraries\" (SGKs), mirror lower-tech versions of CCP internal security databases. </p><p>Kyla and Aurora discuss how Chinese cybercriminals use these SGKs and their implications compared to Western, European, and Russian cybercrime ecosystems. With expertise in Chinese OSINT and cybersecurity policy, both researchers bring deep insights into the geopolitical and technical dynamics of China's digital landscape.</p><p>The research can be found here:</p><ul>\n<li><a href=\"https://spycloud.com/blog/growing-chinese-threat-actor-ecosystem/\">“Pantsless Data”: Decoding Chinese Cybercrime TTPs</a></li>\n<li><a href=\"https://spycloud.com/blog/deep-dive-chinese-cybercrime-ecosystem/\">A Deep Dive Into the Intricate Chinese Cybercrime Ecosystem</a></li>\n<li><a href=\"https://www.wired.com/story/chineses-surveillance-state-is-selling-citizens-data-as-a-side-hustle/\">China’s Surveillance State Is Selling Citizen Data as a Side Hustle</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2025-01-11T08:00:00.000Z",
-    "duration": 1898,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4803393533.mp3?updated=1736544848",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 339,
-    "seasonNumber": 9,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/research-saturday/339/notes"
-  },
-  {
     "id": "michael-bishop-jr-good-bad-or-indifferent-security-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "Michael Bishop Jr.: Good, bad or indifferent. [Security] [Career Notes]",
@@ -9960,6 +9960,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/50/notes"
+  },
+  {
+    "id": "the-hidden-cost-of-data-hoarding-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "The hidden cost of data hoarding. [Research Saturday]",
+    "description": "<p>This week, we are joined by <a href=\"https://www.linkedin.com/in/kylakcardona/\">Kyla Cardona</a> and <a href=\"https://www.linkedin.com/in/aurora-johnson-417b2911b/\">Aurora Johnson</a> from <a href=\"https://www.linkedin.com/company/spycloud/\">SpyCloud</a> discussing their research \"China’s Surveillance State Is Selling Citizen Data as a Side Hustle.\" Chinese technology companies, under CCP mandate, collect vast amounts of data on citizens, creating opportunities for corrupt insiders to steal and resell this information on dark markets. These stolen datasets, aggregated into \"Social Work Libraries\" (SGKs), mirror lower-tech versions of CCP internal security databases. </p><p>Kyla and Aurora discuss how Chinese cybercriminals use these SGKs and their implications compared to Western, European, and Russian cybercrime ecosystems. With expertise in Chinese OSINT and cybersecurity policy, both researchers bring deep insights into the geopolitical and technical dynamics of China's digital landscape.</p><p>The research can be found here:</p><ul>\n<li><a href=\"https://spycloud.com/blog/growing-chinese-threat-actor-ecosystem/\">“Pantsless Data”: Decoding Chinese Cybercrime TTPs</a></li>\n<li><a href=\"https://spycloud.com/blog/deep-dive-chinese-cybercrime-ecosystem/\">A Deep Dive Into the Intricate Chinese Cybercrime Ecosystem</a></li>\n<li><a href=\"https://www.wired.com/story/chineses-surveillance-state-is-selling-citizens-data-as-a-side-hustle/\">China’s Surveillance State Is Selling Citizen Data as a Side Hustle</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2025-01-11T08:00:00.000Z",
+    "duration": 1898,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4803393533.mp3?updated=1736544848",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 339,
+    "seasonNumber": 9,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/339/notes"
   },
   {
     "id": "when-retaliation-turns-digital",
@@ -11356,23 +11373,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/2178/notes"
   },
   {
-    "id": "stephen-hamilton-getting-the-mission-to-the-next-level-military-career-notes",
-    "podcastId": "cyberwire-daily",
-    "title": "Stephen Hamilton: Getting the mission to the next level. [Military] [Career Notes]",
-    "description": "<p>Enjoy this special encore episode where we are joined by Army Cyber Institute Technical Director and Chief of Staff Colonel Stephen Hamilton, as he takes us on his computer science journey. Fascinated with computers since the second grade, Stephen chose West Point after high school to study computer science. Following graduation he moved into the signal branch as it most closely matched his interest in ham radio as no branch related directly to computing. He was pulled from the motor pool to help with another area's computing needs and then worked his way to teaching computer science at. West Point and US Cyber Command. Stephen recommends coding it first to help realize the nuances, and then code it again. We thank Stephen for sharing his story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2024-10-27T07:00:00.000Z",
-    "duration": 458,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9814666620.mp3?updated=1729873557",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/c0865b12-9245-11ef-bfd2-e3790383b150/image/910aaf148c5fdf3b9f89208a91f19df4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 39,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/39/notes"
-  },
-  {
     "id": "mission-possible-navigating-tech-adoption-in-the-dod-special-edition",
     "podcastId": "cyberwire-daily",
     "title": "Mission possible? Navigating tech adoption in the DoD. [Special Edition]",
@@ -11388,6 +11388,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/special-edition/77/notes"
+  },
+  {
+    "id": "stephen-hamilton-getting-the-mission-to-the-next-level-military-career-notes",
+    "podcastId": "cyberwire-daily",
+    "title": "Stephen Hamilton: Getting the mission to the next level. [Military] [Career Notes]",
+    "description": "<p>Enjoy this special encore episode where we are joined by Army Cyber Institute Technical Director and Chief of Staff Colonel Stephen Hamilton, as he takes us on his computer science journey. Fascinated with computers since the second grade, Stephen chose West Point after high school to study computer science. Following graduation he moved into the signal branch as it most closely matched his interest in ham radio as no branch related directly to computing. He was pulled from the motor pool to help with another area's computing needs and then worked his way to teaching computer science at. West Point and US Cyber Command. Stephen recommends coding it first to help realize the nuances, and then code it again. We thank Stephen for sharing his story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2024-10-27T07:00:00.000Z",
+    "duration": 458,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9814666620.mp3?updated=1729873557",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/c0865b12-9245-11ef-bfd2-e3790383b150/image/910aaf148c5fdf3b9f89208a91f19df4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 39,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/39/notes"
   },
   {
     "id": "llm-security-101-research-saturday",
@@ -14195,23 +14212,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/2080/notes"
   },
   {
-    "id": "solution-spotlight-on-the-2024-nice-conference-keynote-a-journey-with-no-destina",
-    "podcastId": "cyberwire-daily",
-    "title": "Solution Spotlight on the 2024 NICE Conference Keynote: A Journey with No Destination: A CISO’s Pathway to a Cybersecurity Career. [Special Edition]",
-    "description": "<p>As part of our series on the <a href=\"https://niceconference.org/\">2024 NICE Conference</a>, we turn our focus to the one of the keynote speakers of the conference. This year’s conference theme “Strengthening Ecosystems: Aligning Stakeholders to Bridge the Cybersecurity Workforce Gap” highlights the collective effort to strengthen the cybersecurity landscape. By joining forces with key partners, we can foster a more robust cybersecurity ecosystem to bridge the workforce gap. </p><p>In her keynote coming up on Tuesday, June 4th, <a href=\"https://www.linkedin.com/in/deneendefiore/\">Deneen DeFiore</a>, Chief Information Security Officer of <a href=\"https://www.united.com/en/us/fly/company/about-united.html\">United Airlines</a>, will discuss \"A Journey with No Destination: A CISO’s Pathway to a Cybersecurity Career.\" </p><p>Prior to the conference, <a href=\"https://www.linkedin.com/in/simone-petrella/\">Simone Petrella</a>, <a href=\"https://n2k.com/\">N2K</a> President, caught up with Deneen DeFiore. They discussed Deneen's history with NICE, the importance of prioritizing cyber talent and workforce issues, what stakeholders need to more effectively tackle the cyber skills and experience gap across the profession, and more. </p><p>Find out more about the <a href=\"https://doi.org/10.6028/NIST.SP.800-181r1\">The Workforce Framework for Cybersecurity (NICE Framework)</a> (NIST Special Publication 800-181, revision 1). <a href=\"https://thecyberwire.com/podcasts/special-edition/59/notes\">Listen to our podcast about the update</a>. Stay tuned for our coverage of the 2024 NICE Conference. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2024-06-03T06:00:00.000Z",
-    "duration": 1294,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8831017848.mp3?updated=1717440848",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 65,
-    "seasonNumber": 9,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/special-edition/65/notes"
-  },
-  {
     "id": "solarwinds-and-the-sec",
     "podcastId": "cyberwire-daily",
     "title": "SolarWinds and the SEC.",
@@ -14227,6 +14227,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/cso-perspectives-public/89/notes"
+  },
+  {
+    "id": "solution-spotlight-on-the-2024-nice-conference-keynote-a-journey-with-no-destina",
+    "podcastId": "cyberwire-daily",
+    "title": "Solution Spotlight on the 2024 NICE Conference Keynote: A Journey with No Destination: A CISO’s Pathway to a Cybersecurity Career. [Special Edition]",
+    "description": "<p>As part of our series on the <a href=\"https://niceconference.org/\">2024 NICE Conference</a>, we turn our focus to the one of the keynote speakers of the conference. This year’s conference theme “Strengthening Ecosystems: Aligning Stakeholders to Bridge the Cybersecurity Workforce Gap” highlights the collective effort to strengthen the cybersecurity landscape. By joining forces with key partners, we can foster a more robust cybersecurity ecosystem to bridge the workforce gap. </p><p>In her keynote coming up on Tuesday, June 4th, <a href=\"https://www.linkedin.com/in/deneendefiore/\">Deneen DeFiore</a>, Chief Information Security Officer of <a href=\"https://www.united.com/en/us/fly/company/about-united.html\">United Airlines</a>, will discuss \"A Journey with No Destination: A CISO’s Pathway to a Cybersecurity Career.\" </p><p>Prior to the conference, <a href=\"https://www.linkedin.com/in/simone-petrella/\">Simone Petrella</a>, <a href=\"https://n2k.com/\">N2K</a> President, caught up with Deneen DeFiore. They discussed Deneen's history with NICE, the importance of prioritizing cyber talent and workforce issues, what stakeholders need to more effectively tackle the cyber skills and experience gap across the profession, and more. </p><p>Find out more about the <a href=\"https://doi.org/10.6028/NIST.SP.800-181r1\">The Workforce Framework for Cybersecurity (NICE Framework)</a> (NIST Special Publication 800-181, revision 1). <a href=\"https://thecyberwire.com/podcasts/special-edition/59/notes\">Listen to our podcast about the update</a>. Stay tuned for our coverage of the 2024 NICE Conference. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2024-06-03T06:00:00.000Z",
+    "duration": 1294,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8831017848.mp3?updated=1717440848",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 65,
+    "seasonNumber": 9,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/special-edition/65/notes"
   },
   {
     "id": "solution-spotlight-on-the-2024-nice-conference-business-roundtable",
@@ -14246,23 +14263,6 @@
     "link": "https://thecyberwire.com/podcasts/special-edition/64/notes"
   },
   {
-    "id": "encore-diane-m-janosek-its-only-together-that-we-are-going-to-rise-education-car",
-    "podcastId": "cyberwire-daily",
-    "title": "Encore: Diane M. Janosek: It's only together that we are going to rise. [Education] [Career Notes]",
-    "description": "<p>Commandant for the National Security Agency's National Cryptologic School Diane M. Janosek shares the story of her career going global Diane explains how she's always been drawn to doing things that could help and raise the nation. From a position as a law clerk during law school, to the role of a judicial clerk, and joining the White House Counsel's office, Diane was exposed to many things and felt she experienced the full circle. Moving on to the Pentagon and finally, the NSA, Diane transitioned into her current role where she orchestrates the educational environment for military and civilian cyber and cryptologists worldwide for the nation. Diane encourages those who love to learn to join the multidisciplinary cybersecurity field. Our thanks to Diane for sharing her story with us. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2024-06-01T07:00:00.000Z",
-    "duration": 469,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9072714207.mp3?updated=1718395849",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 18,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/18/notes"
-  },
-  {
     "id": "1700-ips-and-counting-research-saturday",
     "podcastId": "cyberwire-daily",
     "title": "1700 IPs and counting. [Research Saturday]",
@@ -14278,6 +14278,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/research-saturday/332/notes"
+  },
+  {
+    "id": "encore-diane-m-janosek-its-only-together-that-we-are-going-to-rise-education-car",
+    "podcastId": "cyberwire-daily",
+    "title": "Encore: Diane M. Janosek: It's only together that we are going to rise. [Education] [Career Notes]",
+    "description": "<p>Commandant for the National Security Agency's National Cryptologic School Diane M. Janosek shares the story of her career going global Diane explains how she's always been drawn to doing things that could help and raise the nation. From a position as a law clerk during law school, to the role of a judicial clerk, and joining the White House Counsel's office, Diane was exposed to many things and felt she experienced the full circle. Moving on to the Pentagon and finally, the NSA, Diane transitioned into her current role where she orchestrates the educational environment for military and civilian cyber and cryptologists worldwide for the nation. Diane encourages those who love to learn to join the multidisciplinary cybersecurity field. Our thanks to Diane for sharing her story with us. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2024-06-01T07:00:00.000Z",
+    "duration": 469,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9072714207.mp3?updated=1718395849",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 18,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/18/notes"
   },
   {
     "id": "new-cybersecurity-bill-aims-to-untangle-federal-regulations",
@@ -22406,23 +22423,6 @@
     "link": "https://thecyberwire.com/podcasts/special-edition/51/notes"
   },
   {
-    "id": "two-viewpoints-on-the-national-cybersecurity-strategy-special-edition-3",
-    "podcastId": "cyberwire-daily",
-    "title": "Two viewpoints on the National Cybersecurity Strategy. [Special Edition]",
-    "description": "<p>Earlier this month, the White House released the National Cybersecurity Strategy, the first issued since 2018. The strategy refocuses roles, responsibilities, and resource allocations in the digital ecosystem, with a five pillar approach. Those pillars are: defending critical infrastructure, disrupting threat actors, shaping market forces to drive security and resilience, investing in a resilient future, and forging international partnerships.</p><p>We wanted to delve into the strategy and its intended effects further, so Dave Bittner spoke with representatives from industry and inside government. Dave first speaks with <a href=\"https://www.linkedin.com/in/adam-isles-038614b/\">Adam Isles</a>, Principal and Head of Cybersecurity Practice at The Chertoff Group, sharing industry's take on the strategy. Following that conversation, Dave had a discussion with <a href=\"https://www.linkedin.com/in/steven-m-kelly-cissp-b9a295187/\">Steve Kelly</a>, Special Assistant to the President and Senior Director for Cybersecurity and Emerging Technology at the National Security Council, for a look at the strategy from inside the White House.</p><p>Links to resources:</p><ul>\n<li>\n<a href=\"https://www.chertoffgroup.com/blog/2023-national-cybersecurity-strategy\">Point of View: 2023 National Cybersecurity Strategy</a> The Chertoff Group's blog</li>\n<li><a href=\"https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf\">National Cybersecurity Strategy 2023</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2023-03-26T07:00:00.000Z",
-    "duration": 1923,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5920022392.mp3?updated=1679681717",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 51,
-    "seasonNumber": 8,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/special-edition/51/notes"
-  },
-  {
     "id": "tanya-janca-find-a-community-who-supports-you-ceo-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "Tanya Janca: Find a community who supports you. [CEO] [Career Notes]",
@@ -22438,6 +22438,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/142/notes"
+  },
+  {
+    "id": "two-viewpoints-on-the-national-cybersecurity-strategy-special-edition-3",
+    "podcastId": "cyberwire-daily",
+    "title": "Two viewpoints on the National Cybersecurity Strategy. [Special Edition]",
+    "description": "<p>Earlier this month, the White House released the National Cybersecurity Strategy, the first issued since 2018. The strategy refocuses roles, responsibilities, and resource allocations in the digital ecosystem, with a five pillar approach. Those pillars are: defending critical infrastructure, disrupting threat actors, shaping market forces to drive security and resilience, investing in a resilient future, and forging international partnerships.</p><p>We wanted to delve into the strategy and its intended effects further, so Dave Bittner spoke with representatives from industry and inside government. Dave first speaks with <a href=\"https://www.linkedin.com/in/adam-isles-038614b/\">Adam Isles</a>, Principal and Head of Cybersecurity Practice at The Chertoff Group, sharing industry's take on the strategy. Following that conversation, Dave had a discussion with <a href=\"https://www.linkedin.com/in/steven-m-kelly-cissp-b9a295187/\">Steve Kelly</a>, Special Assistant to the President and Senior Director for Cybersecurity and Emerging Technology at the National Security Council, for a look at the strategy from inside the White House.</p><p>Links to resources:</p><ul>\n<li>\n<a href=\"https://www.chertoffgroup.com/blog/2023-national-cybersecurity-strategy\">Point of View: 2023 National Cybersecurity Strategy</a> The Chertoff Group's blog</li>\n<li><a href=\"https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf\">National Cybersecurity Strategy 2023</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2023-03-26T07:00:00.000Z",
+    "duration": 1923,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5920022392.mp3?updated=1679681717",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 51,
+    "seasonNumber": 8,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/special-edition/51/notes"
   },
   {
     "id": "popunders-are-not-the-good-kind-of-ads-research-saturday",
@@ -23375,23 +23392,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1754/notes"
   },
   {
-    "id": "shift-left-a-case-for-threat-informed-pentesting-cyberwire-x",
-    "podcastId": "cyberwire-daily",
-    "title": "“Shift Left”: A case for threat-informed pentesting. [CyberWire-X]",
-    "description": "<p>Penetration testing is a vital part of a robust security program, but the traditional pentesting model is in a rut. Assessments happen infrequently, the scope is often very broad, and the report is usually overwhelming. What if you could increase the overall ROI of your pentesting program and avoid these limitations? Every penetration test should have specific goals. Coverage of the MITRE ATT&CK framework or the OWASP Top Ten is a great start, but a pentest could provide exponential value by applying a more strategic approach.</p><p>In this episode of CyberWire-X, the CyberWire’s Rick Howard and Dave Bittner discuss what it means to \"shift left\" with your penetration testing by working on a threat-informed test plan with guests and Hash Table members Bob Turner, the Field CSO of Fortinet, Etay Maor, the Senior Director for Security Strategy at Cato Networks, and Dan DeCloss, the Founder and CEO of our episode sponsor PlexTrac. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2023-02-05T08:00:00.000Z",
-    "duration": 1559,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4422416689.mp3?updated=1674846646",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 45,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/45/notes"
-  },
-  {
     "id": "yasmin-abdi-find-your-community-security-engineer-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "Yasmin Abdi: Find your community. [Security Engineer] [Career Notes]",
@@ -23407,6 +23407,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/135/notes"
+  },
+  {
+    "id": "shift-left-a-case-for-threat-informed-pentesting-cyberwire-x",
+    "podcastId": "cyberwire-daily",
+    "title": "“Shift Left”: A case for threat-informed pentesting. [CyberWire-X]",
+    "description": "<p>Penetration testing is a vital part of a robust security program, but the traditional pentesting model is in a rut. Assessments happen infrequently, the scope is often very broad, and the report is usually overwhelming. What if you could increase the overall ROI of your pentesting program and avoid these limitations? Every penetration test should have specific goals. Coverage of the MITRE ATT&CK framework or the OWASP Top Ten is a great start, but a pentest could provide exponential value by applying a more strategic approach.</p><p>In this episode of CyberWire-X, the CyberWire’s Rick Howard and Dave Bittner discuss what it means to \"shift left\" with your penetration testing by working on a threat-informed test plan with guests and Hash Table members Bob Turner, the Field CSO of Fortinet, Etay Maor, the Senior Director for Security Strategy at Cato Networks, and Dan DeCloss, the Founder and CEO of our episode sponsor PlexTrac. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2023-02-05T08:00:00.000Z",
+    "duration": 1559,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4422416689.mp3?updated=1674846646",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 45,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/45/notes"
   },
   {
     "id": "can-ransomware-turn-machines-against-us-research-saturday",
@@ -24412,23 +24429,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1721/notes"
   },
   {
-    "id": "commercial-threat-intelligence-proves-invaluable-for-the-public-sector-cyberwire",
-    "podcastId": "cyberwire-daily",
-    "title": "Commercial threat intelligence proves invaluable for the public sector. [CyberWire-X]",
-    "description": "<p>Historically, the U.S. government has relied almost solely on its own intelligence analysis to inform strategic decisions. This has been especially true surrounding geopolitical events and nation-level cybersecurity situations.</p><p>However, the explosion of assets being connected to the internet, along with the fact that most critical infrastructure is owned by private sector organizations, means that commercially developed cyber threat intelligence is being generated at a faster pace than ever before.</p><p>In the Russia/Ukraine conflict, we saw how commercially generated satellite intelligence played a critical role in alerting the public and ensuring our allies were ready for an invasion. At LookingGlass, we believe commercial threat intelligence can provide similar anticipatory insight – and that it can be shared more easily and quickly than intelligence generated solely by the U.S. government.</p><p>Ultimately, the public and private sectors need to work together to protect the interests of the American people. Currently, both private industry and academia are targeted by foreign adversaries, just as are government agencies. This means that commercial entities also have access to adversary tactics, techniques, and procedures (TTPs) and indicators of compromise, and they have that access from a different perspective, which is valuable intelligence for the government.</p><p>On this episode of CyberWire-X, host Rick Howard, the CyberWire’s CISO, Chief Analyst and Senior Fellow, speaks with Hash Table member Wayne Moore, CISO at Simply Business, and host Dave Bittner speaks with Bryan Ware, CEO at episode sponsor LookingGlass Cyber Solutions. They’ll discuss why the U.S. government needs commercial cyber threat intelligence now more than ever before and how both the public and private sectors will benefit from closer, trusted cyber partnerships. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2022-12-11T08:00:00.000Z",
-    "duration": 1898,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6735952766.mp3?updated=1670367194",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 42,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/42/notes"
-  },
-  {
     "id": "jameeka-aaron-sometimes-you-just-have-to-follow-two-paths-ciso-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "Jameeka Aaron: Sometimes you just have to follow two paths. [CISO] [Career Notes]",
@@ -24444,6 +24444,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/129/notes"
+  },
+  {
+    "id": "commercial-threat-intelligence-proves-invaluable-for-the-public-sector-cyberwire",
+    "podcastId": "cyberwire-daily",
+    "title": "Commercial threat intelligence proves invaluable for the public sector. [CyberWire-X]",
+    "description": "<p>Historically, the U.S. government has relied almost solely on its own intelligence analysis to inform strategic decisions. This has been especially true surrounding geopolitical events and nation-level cybersecurity situations.</p><p>However, the explosion of assets being connected to the internet, along with the fact that most critical infrastructure is owned by private sector organizations, means that commercially developed cyber threat intelligence is being generated at a faster pace than ever before.</p><p>In the Russia/Ukraine conflict, we saw how commercially generated satellite intelligence played a critical role in alerting the public and ensuring our allies were ready for an invasion. At LookingGlass, we believe commercial threat intelligence can provide similar anticipatory insight – and that it can be shared more easily and quickly than intelligence generated solely by the U.S. government.</p><p>Ultimately, the public and private sectors need to work together to protect the interests of the American people. Currently, both private industry and academia are targeted by foreign adversaries, just as are government agencies. This means that commercial entities also have access to adversary tactics, techniques, and procedures (TTPs) and indicators of compromise, and they have that access from a different perspective, which is valuable intelligence for the government.</p><p>On this episode of CyberWire-X, host Rick Howard, the CyberWire’s CISO, Chief Analyst and Senior Fellow, speaks with Hash Table member Wayne Moore, CISO at Simply Business, and host Dave Bittner speaks with Bryan Ware, CEO at episode sponsor LookingGlass Cyber Solutions. They’ll discuss why the U.S. government needs commercial cyber threat intelligence now more than ever before and how both the public and private sectors will benefit from closer, trusted cyber partnerships. </p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2022-12-11T08:00:00.000Z",
+    "duration": 1898,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6735952766.mp3?updated=1670367194",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 42,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/42/notes"
   },
   {
     "id": "cybersecurity-during-the-world-cup-research-saturday",
@@ -25449,23 +25466,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1684/notes"
   },
   {
-    "id": "cyber-confidence-knowing-what-you-have-and-where-it-is-cyberwire-x",
-    "podcastId": "cyberwire-daily",
-    "title": "Cyber confidence: Knowing what you have and where it is. [CyberWire-X]",
-    "description": "<p>Between multi-cloud deployments, more employees working remotely, and increasing use of SaaS applications, the number of entry points for attackers to infiltrate your systems has exploded. But gaining visibility into all these possible attack vectors is time-consuming and often incomplete or just a snapshot in time.</p><p>If the first rule of cyber is to “know what you have,” how can cyber professionals get a comprehensive, current picture of their assets? How can they feel confident that they understand which assets may be more vulnerable and prioritize defenses accordingly?</p><p>In the first half of this episode of Cyberwire-X, the CyberWire's CSO, Chief Analyst, and Senior Fellow, Rick Howard, is joined by Hash Table member Jaclyn Miller, the Head of InfoSec & IT at DispatchHealth. In the second half of the episode, Cody Pierce, Chief Product Officer at episode sponsor LookingGlass Cyber Solutions, talks with Dave Bittner. Listen to the discussions about answering the foundational cyber questions (What do I have? Is it protected?), why context is critical, and how an adversarial perspective helps you be a better defender.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2022-10-16T07:00:00.000Z",
-    "duration": 1714,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6036198059.mp3?updated=1665775958",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 40,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/40/notes"
-  },
-  {
     "id": "amanda-adams-pivoting-into-the-tech-world-vp-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "Amanda Adams: Pivoting into the tech world. [VP] [Career Notes]",
@@ -25481,6 +25481,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/121/notes"
+  },
+  {
+    "id": "cyber-confidence-knowing-what-you-have-and-where-it-is-cyberwire-x",
+    "podcastId": "cyberwire-daily",
+    "title": "Cyber confidence: Knowing what you have and where it is. [CyberWire-X]",
+    "description": "<p>Between multi-cloud deployments, more employees working remotely, and increasing use of SaaS applications, the number of entry points for attackers to infiltrate your systems has exploded. But gaining visibility into all these possible attack vectors is time-consuming and often incomplete or just a snapshot in time.</p><p>If the first rule of cyber is to “know what you have,” how can cyber professionals get a comprehensive, current picture of their assets? How can they feel confident that they understand which assets may be more vulnerable and prioritize defenses accordingly?</p><p>In the first half of this episode of Cyberwire-X, the CyberWire's CSO, Chief Analyst, and Senior Fellow, Rick Howard, is joined by Hash Table member Jaclyn Miller, the Head of InfoSec & IT at DispatchHealth. In the second half of the episode, Cody Pierce, Chief Product Officer at episode sponsor LookingGlass Cyber Solutions, talks with Dave Bittner. Listen to the discussions about answering the foundational cyber questions (What do I have? Is it protected?), why context is critical, and how an adversarial perspective helps you be a better defender.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2022-10-16T07:00:00.000Z",
+    "duration": 1714,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6036198059.mp3?updated=1665775958",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 40,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/40/notes"
   },
   {
     "id": "noberus-ransomware-evolving-tactics-research-saturday",
@@ -26724,23 +26741,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1641/notes"
   },
   {
-    "id": "christian-lees-its-not-always-textbook-cto-career-notes-2",
-    "podcastId": "cyberwire-daily",
-    "title": "Christian Lees: it's not always textbook. [CTO] [Career Notes]",
-    "description": "<p>Christian Lees, CTO at Resecurity, shares his story and insight on coming into the cybersecurity world. He considers himself a late bloomer because he did not go to college until he was 23. He wasn’t sure of what he wanted to do, and a family friend gave him a computer and the rest was history, he says. He fell in love with computers and started working at different companies trying to get ahead. He says it's not always textbook, and sometimes you just need to cut your teeth on something to get where you're going. Throughout his journey, he was constantly questioning whether he made the right decision, and in the end he says you have to be willing to \"define friction points in it, you may join security field, not knowing what you're gonna do, but by being that curious person and breaking things and putting it back together, you'll find the right way and just never stop being curious.\" We thank Christian for sharing his story.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2022-08-14T07:00:00.000Z",
-    "duration": 488,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW2618835265.mp3?updated=1661444197",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 112,
-    "seasonNumber": 3,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/112/notes"
-  },
-  {
     "id": "red-teamers-perspective-on-demotivating-attackers-cyberwire-x",
     "podcastId": "cyberwire-daily",
     "title": "Red teamer's perspective on demotivating attackers. [CyberWire-X]",
@@ -26756,6 +26756,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/36/notes"
+  },
+  {
+    "id": "christian-lees-its-not-always-textbook-cto-career-notes-2",
+    "podcastId": "cyberwire-daily",
+    "title": "Christian Lees: it's not always textbook. [CTO] [Career Notes]",
+    "description": "<p>Christian Lees, CTO at Resecurity, shares his story and insight on coming into the cybersecurity world. He considers himself a late bloomer because he did not go to college until he was 23. He wasn’t sure of what he wanted to do, and a family friend gave him a computer and the rest was history, he says. He fell in love with computers and started working at different companies trying to get ahead. He says it's not always textbook, and sometimes you just need to cut your teeth on something to get where you're going. Throughout his journey, he was constantly questioning whether he made the right decision, and in the end he says you have to be willing to \"define friction points in it, you may join security field, not knowing what you're gonna do, but by being that curious person and breaking things and putting it back together, you'll find the right way and just never stop being curious.\" We thank Christian for sharing his story.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2022-08-14T07:00:00.000Z",
+    "duration": 488,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW2618835265.mp3?updated=1661444197",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 112,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/112/notes"
   },
   {
     "id": "fake-job-ads-and-how-to-spot-them-research-saturday",
@@ -28084,23 +28101,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1593/notes"
   },
   {
-    "id": "defining-the-intruders-dilemma-cyberwire-x",
-    "podcastId": "cyberwire-daily",
-    "title": "Defining the intruder’s dilemma. [CyberWire-X]",
-    "description": "<p>For this Cyberwire-X episode, we are talking about the failure of perimeter defense as an architecture where, since the 1990s when it was invented, the plan was to keep everything out. That model never really worked that well since we had to poke holes in the perimeter to allow employees, contractors, and partners to do legitimate business with us. Those same holes could be exploited by the bad guys, too. The question is, what are we doing instead? What is the security architecture, the strategy, and the tactics that we are all using today that is more secure than perimeter defense? In the first part of the show, Rick Howard, the CyberWire’s CSO, Chief Analyst, and Senior Fellow, talks with Jerry Archer, the Sallie Mae CSO and CyberWire Hash Table member, and, in the second half of the show, the CyberWire's podcast host Dave Bittner talks with Mike Ernst, episode sponsor ExtraHop’s Vice President of Sales Engineering, to discuss Software Defined Perimeter and intrusion kill chain prevention strategy.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2022-06-05T07:00:00.000Z",
-    "duration": 1975,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9048855325.mp3?updated=1653669937",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 32,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/32/notes"
-  },
-  {
     "id": "laura-hoffner-setting-your-sights-high-intelligence-career-notes-2",
     "podcastId": "cyberwire-daily",
     "title": "Laura Hoffner: Setting your sights high. [Intelligence] [Career Notes]",
@@ -28116,6 +28116,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/103/notes"
+  },
+  {
+    "id": "defining-the-intruders-dilemma-cyberwire-x",
+    "podcastId": "cyberwire-daily",
+    "title": "Defining the intruder’s dilemma. [CyberWire-X]",
+    "description": "<p>For this Cyberwire-X episode, we are talking about the failure of perimeter defense as an architecture where, since the 1990s when it was invented, the plan was to keep everything out. That model never really worked that well since we had to poke holes in the perimeter to allow employees, contractors, and partners to do legitimate business with us. Those same holes could be exploited by the bad guys, too. The question is, what are we doing instead? What is the security architecture, the strategy, and the tactics that we are all using today that is more secure than perimeter defense? In the first part of the show, Rick Howard, the CyberWire’s CSO, Chief Analyst, and Senior Fellow, talks with Jerry Archer, the Sallie Mae CSO and CyberWire Hash Table member, and, in the second half of the show, the CyberWire's podcast host Dave Bittner talks with Mike Ernst, episode sponsor ExtraHop’s Vice President of Sales Engineering, to discuss Software Defined Perimeter and intrusion kill chain prevention strategy.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2022-06-05T07:00:00.000Z",
+    "duration": 1975,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW9048855325.mp3?updated=1653669937",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 32,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/32/notes"
   },
   {
     "id": "lemonducks-evading-detection-research-saturday",
@@ -28509,23 +28526,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1579/notes"
   },
   {
-    "id": "eric-escobar-collaboration-is-key-pen-tester-career-notes-2",
-    "podcastId": "cyberwire-daily",
-    "title": "Eric Escobar: Collaboration is key. [Pen tester] [Career Notes]",
-    "description": "<p>Principal consultant and pen tester at Secureworks, Eric Escobar, shares his career path translating his childhood favorite Legos to civil engineering and pivoting to cybersecurity. Eric was always headed toward engineering and got both his bachelor and master degrees in civil engineering. Upon breaking into a network with a friend, he was bitten by the cybersecurity bug. Making the switch to the red team and basically becoming a bankrobber for hire, Eric tests the security of many companies' networks. He feels that curiosity is an essential trait for cybersecurity and collaboration is key as no one person knows everything. He advises those interested in cybersecurity to just start. We thank Eric for sharing his story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2022-05-15T07:00:00.000Z",
-    "duration": 417,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6441087542.mp3?updated=1652477381",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 100,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/100/notes"
-  },
-  {
     "id": "the-current-state-of-zero-trust-cyberwire-x",
     "podcastId": "cyberwire-daily",
     "title": "The current state of zero trust. [CyberWire-X]",
@@ -28541,6 +28541,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/31/notes"
+  },
+  {
+    "id": "eric-escobar-collaboration-is-key-pen-tester-career-notes-2",
+    "podcastId": "cyberwire-daily",
+    "title": "Eric Escobar: Collaboration is key. [Pen tester] [Career Notes]",
+    "description": "<p>Principal consultant and pen tester at Secureworks, Eric Escobar, shares his career path translating his childhood favorite Legos to civil engineering and pivoting to cybersecurity. Eric was always headed toward engineering and got both his bachelor and master degrees in civil engineering. Upon breaking into a network with a friend, he was bitten by the cybersecurity bug. Making the switch to the red team and basically becoming a bankrobber for hire, Eric tests the security of many companies' networks. He feels that curiosity is an essential trait for cybersecurity and collaboration is key as no one person knows everything. He advises those interested in cybersecurity to just start. We thank Eric for sharing his story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2022-05-15T07:00:00.000Z",
+    "duration": 417,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6441087542.mp3?updated=1652477381",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 100,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/100/notes"
   },
   {
     "id": "vulnerabilities-in-iot-devices-research-saturday",
@@ -29053,23 +29070,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1559/notes"
   },
   {
-    "id": "cyberwire-live-hack-the-port-2022-fireside-chat-special-edition",
-    "podcastId": "cyberwire-daily",
-    "title": "CyberWire Live: Hack the Port 2022 Fireside chat. [Special Edition]",
-    "description": "<p>At the Hack the Port 2022 event, the CyberWire held a CyberWire Live event. CyberWire Daily Podcast host Dave Bittner was joined by Roya Gordon, OT/IoT Security Research Evangelist at Nozomi Networks, and Christian Lees, CTO at Resecurity. During this fireside chat format session, Dave and our guests discussed ICS, OT cybersecurity, the role of security research and demos, supply chain compromise, and IT/OT security trends among other things. Thanks to the team at MISI/DreamPort for this opportunity.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2022-04-17T07:00:00.000Z",
-    "duration": 2370,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6862102996.mp3?updated=1650051179",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 43,
-    "seasonNumber": 7,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/special-edition/43/notes"
-  },
-  {
     "id": "satya-gupta-rising-to-your-contribution-cto-career-notes-2",
     "podcastId": "cyberwire-daily",
     "title": "Satya Gupta: Rising to your contribution. [CTO] [Career Notes]",
@@ -29085,6 +29085,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/96/notes"
+  },
+  {
+    "id": "cyberwire-live-hack-the-port-2022-fireside-chat-special-edition",
+    "podcastId": "cyberwire-daily",
+    "title": "CyberWire Live: Hack the Port 2022 Fireside chat. [Special Edition]",
+    "description": "<p>At the Hack the Port 2022 event, the CyberWire held a CyberWire Live event. CyberWire Daily Podcast host Dave Bittner was joined by Roya Gordon, OT/IoT Security Research Evangelist at Nozomi Networks, and Christian Lees, CTO at Resecurity. During this fireside chat format session, Dave and our guests discussed ICS, OT cybersecurity, the role of security research and demos, supply chain compromise, and IT/OT security trends among other things. Thanks to the team at MISI/DreamPort for this opportunity.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2022-04-17T07:00:00.000Z",
+    "duration": 2370,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW6862102996.mp3?updated=1650051179",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 43,
+    "seasonNumber": 7,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/special-edition/43/notes"
   },
   {
     "id": "a-fight-to-defend-taiwan-financial-institutions-research-saturday",
@@ -29308,23 +29325,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1549/notes"
   },
   {
-    "id": "living-security-the-current-state-of-xdr-cyberwire-x",
-    "podcastId": "cyberwire-daily",
-    "title": "Living security: the current state of XDR. [CyberWire-X]",
-    "description": "<p>In this CyberWire-X episode, host Rick Howard, the CyberWire's CSO, Chief Analyst and Senior Fellow, explores the state of XDR. Joining Rick on this episode are Ted Wagner, SAP National Security Services CISO and CyberWire Hash Table member, and from episode sponsor Trellix are Bryan Palma, the Trellix Chief Executive Officer, and John Fokker, the Trellix Head of Cyber Investigations. Listen as Rick and guests discuss XDR, SASE, SIEM, and SOAR.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2022-04-03T07:00:00.000Z",
-    "duration": 1768,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW3562977988.mp3?updated=1648762671",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 28,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/28/notes"
-  },
-  {
     "id": "michael-debolt-from-acting-to-cyber-intelligence-career-notes-2",
     "podcastId": "cyberwire-daily",
     "title": "Michael DeBolt: From acting to cyber. [Intelligence] [Career Notes]",
@@ -29340,6 +29340,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/94/notes"
+  },
+  {
+    "id": "living-security-the-current-state-of-xdr-cyberwire-x",
+    "podcastId": "cyberwire-daily",
+    "title": "Living security: the current state of XDR. [CyberWire-X]",
+    "description": "<p>In this CyberWire-X episode, host Rick Howard, the CyberWire's CSO, Chief Analyst and Senior Fellow, explores the state of XDR. Joining Rick on this episode are Ted Wagner, SAP National Security Services CISO and CyberWire Hash Table member, and from episode sponsor Trellix are Bryan Palma, the Trellix Chief Executive Officer, and John Fokker, the Trellix Head of Cyber Investigations. Listen as Rick and guests discuss XDR, SASE, SIEM, and SOAR.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2022-04-03T07:00:00.000Z",
+    "duration": 1768,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW3562977988.mp3?updated=1648762671",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 28,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/28/notes"
   },
   {
     "id": "a-popular-malware-scheme-and-pay-per-install-services-research-saturday",
@@ -31042,23 +31059,6 @@
     "link": "https://thecyberwire.com/podcasts/career-notes/60/notes"
   },
   {
-    "id": "the-cyberwire-the-12-days-of-malware",
-    "podcastId": "cyberwire-daily",
-    "title": "The CyberWire: The 12 Days of Malware.",
-    "description": "<p>Merry Christmas and Happy Holidays from the CyberWire and our friends! Enjoy our rendition of the 12 Days of Malware created by Dave Bittner and performed by Dave and friends: Rachel Tobac, Jayson Street, Ron Eddings & Chris Cochran, Ray [Redacted], Dinah Davis, Camille Stewart, Rick Howard, Michelle Dennedy, Jack Rhysider, Johannes Ullrich, and Charity Wright. Ba dum bum bum. Sing along if you are game! Check out <a href=\"https://cms.megaphone.fm/organizations/cd9023bc-9a2c-11ea-bbcb-a7f75b26f845/podcasts/f648c30a-dcde-11ea-aec8-7b76c1eb0a95/episodes/2406c22e-635c-11ec-aff6-db28c974e98c/thecyberwire.com/stories/f765b7d394aa4c16840fd96d405c2ee7/the-cyberwire-the-12-days-of-malware\">our video</a> for the full effect!</p><p><br></p><p><strong>The 12 Days of Malware lyrics</strong></p><p><em>On the first day of Christmas, my malware gave to me:</em></p><p><em>A keylogger logging my keys.</em></p><p><br></p><p><em>On the second day of Christmas, my malware gave to me:</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the third day of Christmas, my malware gave to me:</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the fourth day of Christmas, my malware gave to me:</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the fifth day of Christmas, my malware gave to me:</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the sixth day of Christmas, my malware gave to me:</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the seventh day of Christmas, my malware gave to me:</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the eighth day of Christmas, my malware gave to me:</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the ninth day of Christmas, my malware gave to me:</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the tenth day of Christmas, my malware gave to me:</em></p><p><em>10 Darknet markets...</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days! (Bah-dum-dum-dum!)</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the eleventh day of Christmas, my malware gave to me:</em></p><p><em>11 Phishers phishing...</em></p><p><em>10 Darknet markets...</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days! (Bah-dum-dum-dum!)</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the twelfth day of Christmas, my malware gave to me:</em></p><p><em>12 Hackers hacking...</em></p><p><em>11 Phishers phishing...</em></p><p><em>10 Darknet markets...</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2021-12-25T08:00:00.000Z",
-    "duration": 448,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW3567293798.mp3?updated=1640203827",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/stories/f765b7d394aa4c16840fd96d405c2ee7/the-cyberwire-the-12-days-of-malware"
-  },
-  {
     "id": "cyberwire-pro-research-briefing-from-12212021",
     "podcastId": "cyberwire-daily",
     "title": "CyberWire Pro Research Briefing from 12/21/2021.",
@@ -31074,6 +31074,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": null
+  },
+  {
+    "id": "the-cyberwire-the-12-days-of-malware",
+    "podcastId": "cyberwire-daily",
+    "title": "The CyberWire: The 12 Days of Malware.",
+    "description": "<p>Merry Christmas and Happy Holidays from the CyberWire and our friends! Enjoy our rendition of the 12 Days of Malware created by Dave Bittner and performed by Dave and friends: Rachel Tobac, Jayson Street, Ron Eddings & Chris Cochran, Ray [Redacted], Dinah Davis, Camille Stewart, Rick Howard, Michelle Dennedy, Jack Rhysider, Johannes Ullrich, and Charity Wright. Ba dum bum bum. Sing along if you are game! Check out <a href=\"https://cms.megaphone.fm/organizations/cd9023bc-9a2c-11ea-bbcb-a7f75b26f845/podcasts/f648c30a-dcde-11ea-aec8-7b76c1eb0a95/episodes/2406c22e-635c-11ec-aff6-db28c974e98c/thecyberwire.com/stories/f765b7d394aa4c16840fd96d405c2ee7/the-cyberwire-the-12-days-of-malware\">our video</a> for the full effect!</p><p><br></p><p><strong>The 12 Days of Malware lyrics</strong></p><p><em>On the first day of Christmas, my malware gave to me:</em></p><p><em>A keylogger logging my keys.</em></p><p><br></p><p><em>On the second day of Christmas, my malware gave to me:</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the third day of Christmas, my malware gave to me:</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the fourth day of Christmas, my malware gave to me:</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the fifth day of Christmas, my malware gave to me:</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the sixth day of Christmas, my malware gave to me:</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the seventh day of Christmas, my malware gave to me:</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the eighth day of Christmas, my malware gave to me:</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the ninth day of Christmas, my malware gave to me:</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the tenth day of Christmas, my malware gave to me:</em></p><p><em>10 Darknet markets...</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days! (Bah-dum-dum-dum!)</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the eleventh day of Christmas, my malware gave to me:</em></p><p><em>11 Phishers phishing...</em></p><p><em>10 Darknet markets...</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days! (Bah-dum-dum-dum!)</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p><br></p><p><em>On the twelfth day of Christmas, my malware gave to me:</em></p><p><em>12 Hackers hacking...</em></p><p><em>11 Phishers phishing...</em></p><p><em>10 Darknet markets...</em></p><p><em>9 Rootkits rooting...</em></p><p><em>8 Worms a wiping...</em></p><p><em>7 Scripts a scraping...</em></p><p><em>6 Passwords spraying...</em></p><p><em>5 Zero Days!</em></p><p><em>4 Crypto scams...</em></p><p><em>3 Web shells...</em></p><p><em>2 Trojan Apps...</em></p><p><em>And a keylogger logging my keys.</em></p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2021-12-25T08:00:00.000Z",
+    "duration": 448,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW3567293798.mp3?updated=1640203827",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/stories/f765b7d394aa4c16840fd96d405c2ee7/the-cyberwire-the-12-days-of-malware"
   },
   {
     "id": "cyberwire-pro-interview-selects-hatem-naguib-of-barracuda-networks",
@@ -31790,23 +31807,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1459/notes"
   },
   {
-    "id": "swati-shekhar-challenges-increase-your-risk-appetite-engineering-career-notes-2",
-    "podcastId": "cyberwire-daily",
-    "title": "Swati Shekhar: Challenges increase your risk appetite. [Engineering] [Career Notes]",
-    "description": "<p>Ground Labs' Head of Engineering, Swati Shekhar, shares her circuitous route from and back to engineering. Always being interested in leveraging the tools available to solve problems, Swati talks about how she found her place in engineering. She mentions how she had her first real experience with a computer when she was 17 in her first year at college. Aside from being one of 30 young women in a sea of 500 young men there, Swati described it as a \"good culture shock because anything that takes you out of your comfort zone actually makes you learn and grow.\" She notes that challenges experienced in life increase your risk appetite so significantly. Swati advises those looking to make a job change to be certain of what is attracting them and to be yourself. We thank Swati for sharing her story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2021-11-14T08:00:00.000Z",
-    "duration": 559,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8827180824.mp3?updated=1636492810",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 75,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/75/notes"
-  },
-  {
     "id": "the-real-costs-of-ransomware-in-2021-2022-and-beyond-cyberwire-x",
     "podcastId": "cyberwire-daily",
     "title": "The real costs of ransomware in 2021, 2022, and beyond. [CyberWire-X]",
@@ -31822,6 +31822,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/21/notes"
+  },
+  {
+    "id": "swati-shekhar-challenges-increase-your-risk-appetite-engineering-career-notes-2",
+    "podcastId": "cyberwire-daily",
+    "title": "Swati Shekhar: Challenges increase your risk appetite. [Engineering] [Career Notes]",
+    "description": "<p>Ground Labs' Head of Engineering, Swati Shekhar, shares her circuitous route from and back to engineering. Always being interested in leveraging the tools available to solve problems, Swati talks about how she found her place in engineering. She mentions how she had her first real experience with a computer when she was 17 in her first year at college. Aside from being one of 30 young women in a sea of 500 young men there, Swati described it as a \"good culture shock because anything that takes you out of your comfort zone actually makes you learn and grow.\" She notes that challenges experienced in life increase your risk appetite so significantly. Swati advises those looking to make a job change to be certain of what is attracting them and to be yourself. We thank Swati for sharing her story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2021-11-14T08:00:00.000Z",
+    "duration": 559,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8827180824.mp3?updated=1636492810",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 75,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/75/notes"
   },
   {
     "id": "a-glimpse-into-teamtnt-research-saturday",
@@ -33660,23 +33677,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1387/notes"
   },
   {
-    "id": "andrew-hammond-understanding-the-plot-historian-and-curator-career-notes-2",
-    "podcastId": "cyberwire-daily",
-    "title": "Andrew Hammond: Understanding the plot. [Historian and Curator] [Career Notes]",
-    "description": "<p>Historian and Curator at the International Spy Museum. Dr. Andrew Hammond, shares how he came to share the history of espionage and intelligence as a career. Starting out in the Royal Air Force when 9/11 happened, Andrew found himself trying to understand what was going on in the world. Studying history and international relations gave him some perspective and led him on his career path which included an introduction to museum industry at the 9/11 Museum. After a stint in academia in the UK, Andrew found his way back to the US and eventually ended up at the International Spy Museum in Washington, DC. He said one of the \"greatest parts of the job being able to engage with the artifacts\" and share their stories. We thank Andrew for sharing his story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2021-08-01T07:00:00.000Z",
-    "duration": 381,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5139313309.mp3?updated=1627494174",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 60,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/60/notes"
-  },
-  {
     "id": "behavioral-transparency-the-patterns-within-cyberwire-x",
     "podcastId": "cyberwire-daily",
     "title": "Behavioral transparency – the patterns within. [CyberWire-X]",
@@ -33692,6 +33692,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/17/notes"
+  },
+  {
+    "id": "andrew-hammond-understanding-the-plot-historian-and-curator-career-notes-2",
+    "podcastId": "cyberwire-daily",
+    "title": "Andrew Hammond: Understanding the plot. [Historian and Curator] [Career Notes]",
+    "description": "<p>Historian and Curator at the International Spy Museum. Dr. Andrew Hammond, shares how he came to share the history of espionage and intelligence as a career. Starting out in the Royal Air Force when 9/11 happened, Andrew found himself trying to understand what was going on in the world. Studying history and international relations gave him some perspective and led him on his career path which included an introduction to museum industry at the 9/11 Museum. After a stint in academia in the UK, Andrew found his way back to the US and eventually ended up at the International Spy Museum in Washington, DC. He said one of the \"greatest parts of the job being able to engage with the artifacts\" and share their stories. We thank Andrew for sharing his story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2021-08-01T07:00:00.000Z",
+    "duration": 381,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5139313309.mp3?updated=1627494174",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 60,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/60/notes"
   },
   {
     "id": "chinas-influence-grows-through-digital-silk-road-initiative-research-saturday",
@@ -35156,23 +35173,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1329/notes"
   },
   {
-    "id": "street-cred-increasing-trust-in-passwordless-authentication-cyberwire-x",
-    "podcastId": "cyberwire-daily",
-    "title": "Street cred: increasing trust in passwordless authentication. [CyberWire-X]",
-    "description": "<p>Good security gets out of the way of users while getting in the way of adversaries. Passwords fail on both accounts. Users feel the pain of adhering to complex password policies. Adversaries simply copy, break, or brute-force their way in. Why, then, have we spent decades with passwords as the primary factor for authentication?From the very first theft of cleartext passwords to the very latest bypass of a second-factor, time and again improvements in defenses are met with improved attacks. The industry needs to trust passwordless authentication.What holds us back from getting rid of passwords? Trust.</p><p>In this episode of CyberWire-X, guests will discuss a framework of technical controls to ensure only trusted sessions authenticate, regardless of faults or failures in any one factor. We will share a path forward for increasing trust in passwordless authentication. Nikk Gilbert of CISO of Cherokee Nation Businesses and retired CSO Gary McAlum share their insights with Rick Howard, and Advisory CISO of Duo Security at Cisco Wolfgang Goerlich from sponsor Duo Security offers his thoughts with Dave Bittner.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2021-05-09T07:00:00.000Z",
-    "duration": 1734,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5321882554.mp3?updated=1620153980",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 13,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/13/notes"
-  },
-  {
     "id": "yatia-tia-hopkins-grit-and-right-place-right-time-solutions-architecture-career--2",
     "podcastId": "cyberwire-daily",
     "title": "Yatia (Tia) Hopkins: Grit and right place, right time. [Solutions Architecture] [Career Notes]",
@@ -35188,6 +35188,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/47/notes"
+  },
+  {
+    "id": "street-cred-increasing-trust-in-passwordless-authentication-cyberwire-x",
+    "podcastId": "cyberwire-daily",
+    "title": "Street cred: increasing trust in passwordless authentication. [CyberWire-X]",
+    "description": "<p>Good security gets out of the way of users while getting in the way of adversaries. Passwords fail on both accounts. Users feel the pain of adhering to complex password policies. Adversaries simply copy, break, or brute-force their way in. Why, then, have we spent decades with passwords as the primary factor for authentication?From the very first theft of cleartext passwords to the very latest bypass of a second-factor, time and again improvements in defenses are met with improved attacks. The industry needs to trust passwordless authentication.What holds us back from getting rid of passwords? Trust.</p><p>In this episode of CyberWire-X, guests will discuss a framework of technical controls to ensure only trusted sessions authenticate, regardless of faults or failures in any one factor. We will share a path forward for increasing trust in passwordless authentication. Nikk Gilbert of CISO of Cherokee Nation Businesses and retired CSO Gary McAlum share their insights with Rick Howard, and Advisory CISO of Duo Security at Cisco Wolfgang Goerlich from sponsor Duo Security offers his thoughts with Dave Bittner.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2021-05-09T07:00:00.000Z",
+    "duration": 1734,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5321882554.mp3?updated=1620153980",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 13,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/13/notes"
   },
   {
     "id": "supernova-activity-and-its-possible-connection-to-spiral-threat-group-research-s",
@@ -35411,23 +35428,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1319/notes"
   },
   {
-    "id": "marcelle-lee-cyber-sleuth-detecting-emerging-threats-research-career-notes-2",
-    "podcastId": "cyberwire-daily",
-    "title": "Marcelle Lee: Cyber sleuth detecting emerging threats. [Research] [Career Notes]",
-    "description": "<p>Senior security researcher from Secureworks Marcelle Lee shares her career journey into cybersecurity and how she helps solve hard problems in her daily work. Marcelle came into cybersecurity not through any traditional path. She describes her route from a different field and starting in cyber at her local community college through a grant program. Marcelle took full advantage of the opportunities she had and grew her career from there. She recommends finding your specialty, but continue to build other skills. As a woman in the field, she is a strong proponent of diversity and encouraging others to find what excites them. And, we thank Marcelle for sharing her story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2021-04-25T07:00:00.000Z",
-    "duration": 370,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW2808575766.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 46,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/career-notes/46/notes"
-  },
-  {
     "id": "channeling-the-data-avalanche-cyberwire-x",
     "podcastId": "cyberwire-daily",
     "title": "Channeling the data avalanche. [CyberWire-X]",
@@ -35443,6 +35443,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.thecyberwire.com/podcasts/cyberwire-x/12/notes"
+  },
+  {
+    "id": "marcelle-lee-cyber-sleuth-detecting-emerging-threats-research-career-notes-2",
+    "podcastId": "cyberwire-daily",
+    "title": "Marcelle Lee: Cyber sleuth detecting emerging threats. [Research] [Career Notes]",
+    "description": "<p>Senior security researcher from Secureworks Marcelle Lee shares her career journey into cybersecurity and how she helps solve hard problems in her daily work. Marcelle came into cybersecurity not through any traditional path. She describes her route from a different field and starting in cyber at her local community college through a grant program. Marcelle took full advantage of the opportunities she had and grew her career from there. She recommends finding your specialty, but continue to build other skills. As a woman in the field, she is a strong proponent of diversity and encouraging others to find what excites them. And, we thank Marcelle for sharing her story with us.</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2021-04-25T07:00:00.000Z",
+    "duration": 370,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW2808575766.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 46,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/career-notes/46/notes"
   },
   {
     "id": "bulletproof-hosting-bph-and-how-it-powers-cybercrime-research-saturday",
@@ -38403,23 +38420,6 @@
     "link": "https://thecyberwire.com/podcasts/daily-podcast/1206/notes"
   },
   {
-    "id": "david-sanger-on-the-hbo-documentary-based-off-his-book-the-perfect-weapon-specia",
-    "podcastId": "cyberwire-daily",
-    "title": "David Sanger on the HBO documentary based off his book, \"The Perfect Weapon\". [Special Edition]",
-    "description": "<p>On this Special Edition, our extended conversation with author and <em>New York Times </em>national security correspondent David E. Sanger. <em>The Perfect Weapon </em>explores the rise of cyber conflict as the primary way nations now compete with and sabotage one another. ‌</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
-    "publishedAt": "2020-11-01T08:00:00.000Z",
-    "duration": 1620,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8264312606.mp3?updated=1662646042",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 38,
-    "seasonNumber": 5,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/special-edition/38/notes"
-  },
-  {
     "id": "carole-theriault-constantly-learning-new-things-media-career-notes",
     "podcastId": "cyberwire-daily",
     "title": "Carole Theriault: Constantly learning new things. [Media] [Career Notes]",
@@ -38435,6 +38435,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/career-notes/22/notes"
+  },
+  {
+    "id": "david-sanger-on-the-hbo-documentary-based-off-his-book-the-perfect-weapon-specia",
+    "podcastId": "cyberwire-daily",
+    "title": "David Sanger on the HBO documentary based off his book, \"The Perfect Weapon\". [Special Edition]",
+    "description": "<p>On this Special Edition, our extended conversation with author and <em>New York Times </em>national security correspondent David E. Sanger. <em>The Perfect Weapon </em>explores the rise of cyber conflict as the primary way nations now compete with and sabotage one another. ‌</p><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2020-11-01T08:00:00.000Z",
+    "duration": 1620,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8264312606.mp3?updated=1662646042",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 38,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/special-edition/38/notes"
   },
   {
     "id": "leveraging-for-a-bigger-objective-research-saturday",
