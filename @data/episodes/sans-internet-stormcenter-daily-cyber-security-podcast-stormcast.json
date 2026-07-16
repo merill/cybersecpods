@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-july-16th-2026-dshield-siem-update-msft-patches-vs-intel",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, July 16th, 2026: DShield SIEM Update; MSFT Patches vs. Intel IPF; Zoom Patch; Forgotten UEFI Shims",
+    "description": "<br/>\nDShield SIEM Update<br/>\n<a href=\"https://isc.sans.edu/diary/Recent%20DShield%20SIEM%20Update/33156\">https://isc.sans.edu/diary/Recent%20DShield%20SIEM%20Update/33156</a><br/>\nMicrosoft Patch Tuesday vs. Dell Intel Innovation Platform Framework (IPF) drivers<br/>\n<a href=\"https://support.microsoft.com/en-us/servicing/os/windows-11/2026/07/july-14-2026-kb5101650-os-builds-26200-8875-and-26100-8875\">https://support.microsoft.com/en-us/servicing/os/windows-11/2026/07/july-14-2026-kb5101650-os-builds-26200-8875-and-26100-8875</a><br/>\nZoom Account Takeover Patch<br/>\n<a href=\"https://www.zoom.com/en/trust/security-bulletin/zsb-26014/\">https://www.zoom.com/en/trust/security-bulletin/zsb-26014/</a><br/>\nForgotten UEFI shims undermining Secure Boot<br/>\n<a href=\"https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/\">https://www.welivesecurity.com/en/eset-research/forgotten-uefi-shims-undermining-secure-boot/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-16T02:40:10.000Z",
+    "duration": 245,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10010.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10010,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10010"
+  },
+  {
     "id": "sans-stormcast-wednesday-july-15th-2026-microsoft-patches-new-msft-priv-escalati",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, July 15th, 2026: Microsoft Patches; New MSFT Priv Escalation; Progress ShareFile 0-Day; Grok Exfiltration",
