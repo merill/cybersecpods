@@ -1811,7 +1811,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-16T07:00:02.857Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
