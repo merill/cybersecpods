@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-july-17th-2026-windows-hello-for-business-nginx-vuln-7-zip",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, July 17th, 2026: Windows Hello for Business; NGINX Vuln; 7-zip vuln",
+    "description": "<br/>\nGerman Federal Information Security Office Analyzes Windows Hello for Business<br/>\n  <a href=\"https://www.heise.de/en/news/BSI-dissects-Windows-Hello-Where-Microsoft-s-login-reaches-its-limits-11366125.html\">https://www.heise.de/en/news/BSI-dissects-Windows-Hello-Where-Microsoft-s-login-reaches-its-limits-11366125.html</a><br/>\n  <a href=\"https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/Windows_dissected/AP1_Windows-Hello-for-Business.pdf?__blob=publicationFile&v=7\">https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/Windows_dissected/AP1_Windows-Hello-for-Business.pdf?__blob=publicationFile&v=7</a><br/>\nNGINX Vulnerability<br/>\n<a href=\"https://my.f5.com/manage/s/article/K000162097\">https://my.f5.com/manage/s/article/K000162097</a><br/>\n7-Zip XZ Decompression CVE-2026-14266<br/>\n<a href=\"https://www.zerodayinitiative.com/advisories/ZDI-26-444/\">https://www.zerodayinitiative.com/advisories/ZDI-26-444/</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-17T02:00:02.000Z",
+    "duration": 335,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10012.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10012,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10012"
+  },
+  {
     "id": "sans-stormcast-thursday-july-16th-2026-dshield-siem-update-msft-patches-vs-intel",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, July 16th, 2026: DShield SIEM Update; MSFT Patches vs. Intel IPF; Zoom Patch; Forgotten UEFI Shims",
