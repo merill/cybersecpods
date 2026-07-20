@@ -2959,16 +2959,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-20T07:18:51.637Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -4200,7 +4191,44 @@
         "ratingCount": 678,
         "fetchedAt": "2026-07-20T07:19:02.660Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "In IT?  Do you have 5 minutes?",
+        "content": "Concise, Effective, Timely\n \nThe perfect podcast, Johannes is amazing.  This must take him hours every day to research.  The effort is much appreciated!",
+        "author": "Gump4487245",
+        "updatedAt": "2026-05-20T04:48:52-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Best in Show!",
+        "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
+        "author": "1Flatlander",
+        "updatedAt": "2026-05-06T07:22:39-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "High quality info in a short amount of time. Listen very closely to what he puts out",
+        "content": "Johannes continues to point out trends and indicators I might otherwise have missed.\n\nI’ve seen a lot of crazy scenarios play out based on data he’s gathered and provided.\n\nListen to a few episodes to hear what I mean.\n\nHis podcast also serves as a convenient reminder for Patch Tuesday and iOS updates.\n\nYet another great podcast the sociable Dave Bittner has led me to.",
+        "author": "TFWas",
+        "updatedAt": "2026-03-18T15:59:48-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Required Professional Daily Use",
+        "content": "This is a requirement for my team as they start their day. The information is a great way to start the brain thinking into what is going on and what new things should we be looking for. We discuss it and volunteer topics for research and further discovery. 11/10 -highly recommended",
+        "author": "PowerBob",
+        "updatedAt": "2025-12-16T17:08:12-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Your Daily Cyber Drive-Thru",
+        "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
+        "author": "JayJonahJameson",
+        "updatedAt": "2025-12-16T03:32:20-07:00"
+      }
+    ]
   },
   {
     "id": "secure-the-job",
@@ -4749,44 +4777,7 @@
         "ratingCount": 33,
         "fetchedAt": "2026-07-20T07:19:08.837Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great news summaries and very funny",
-        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
-        "author": "TFWas",
-        "updatedAt": "2025-07-02T05:16:53-07:00"
-      },
-      {
-        "rating": 2,
-        "title": "Reasonably okay infosec podcast",
-        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
-        "author": "[REDACTED] USER",
-        "updatedAt": "2023-11-13T18:43:38-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Entertaining InfoSec news",
-        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
-        "author": "Bevonomics",
-        "updatedAt": "2022-12-07T14:23:31-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Brief But Not Shallow",
-        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
-        "author": "MLC689",
-        "updatedAt": "2022-11-29T10:37:03-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "Stop recommending this, I don’t want to see it",
-        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
-        "author": "Blizzard1s2d",
-        "updatedAt": "2019-06-19T20:00:01-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "shadowtalk",
