@@ -1286,9 +1286,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-20T07:00:00.000Z",
+    "lastEpisodeDate": "2026-07-21T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1792,
+    "episodeCount": 1793,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1802,7 +1802,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-21T07:02:35.860Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -2886,7 +2895,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-21T07:02:45.219Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
