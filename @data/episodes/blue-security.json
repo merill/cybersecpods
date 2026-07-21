@@ -1,5 +1,22 @@
 [
   {
+    "id": "identity-update-passkeys-by-default-phone-transfers-physical-key-security",
+    "podcastId": "blue-security",
+    "title": "Identity Update: Passkeys by Default, Phone Transfers, Physical Key Security",
+    "description": "<p><strong>Summary</strong></p><p>In this episode of the Blue Security Podcast, hosts Andy Jaw and Adam Brewer discuss the upcoming transition to passkeys as the default method for multi-factor authentication (MFA) in Microsoft Entra ID. They explore the implications of this change, the importance of moving away from SMS and voice authentication, and best practices for organizations to prepare for this shift. The conversation also covers the challenges of transferring MFA codes and passkeys when upgrading phones, and introduces the YubiKey Locker, a new tool that enhances security by automatically locking devices when the YubiKey is removed. The hosts emphasize the need for organizations to modernize their identity infrastructure and adopt more secure authentication methods.----------------------------------------------------</p><p>YouTube Video Link: <a href=\"https://youtu.be/eXqW3FAY_hE\" target=\"_blank\" rel=\"noopener noreferer\">https://youtu.be/eXqW3FAY_hE</a></p><p>----------------------------------------------------</p><p>Documentation: </p><p>https://www.microsoft.com/en-us/security/blog/2026/07/13/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/</p><p>https://learn.microsoft.com/en-us/entra/identity/authentication/how-to-transfer-authenticator-new-phone</p><p>https://support.okta.com/help/s/article/migrating-all-existing-mfa-codes-to-okta-verify?language=en_US</p><p>https://www.sciber.io/sciber-blog/sciber-launches-yubikey-locker-to-defend-against-physical-attacks/</p><p>----------------------------------------------------</p><p>Contact Us:</p><p>Website: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bluesecuritypod.com</p><p>Bluesky: https://bsky.app/profile/bluesecuritypod.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/company/bluesecpod</p><p>YouTube: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/c/BlueSecurityPodcast</p><p>-----------------------------------------------------------</p><p>Andy Jaw</p><p>Bluesky: https://bsky.app/profile/ajawzero.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/andyjaw/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠andy@bluesecuritypod.com⁠</p><p>----------------------------------------------------</p><p>Adam Brewer</p><p>Twitter: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://twitter.com/ajbrewer</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/adamjbrewer/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠adam@bluesecuritypod.com</p>",
+    "publishedAt": "2026-07-21T12:00:00.000Z",
+    "duration": 2098,
+    "audioUrl": "https://anchor.fm/s/37babf1c/podcast/play/123103190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2Ff7b25faa-484f-57e6-2195-9f2b9a744eb6.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9249855/9249855-1600984785589-140b457fbd8fe.jpg",
+    "episodeNumber": 44,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/blue-security-podcast/episodes/Identity-Update-Passkeys-by-Default--Phone-Transfers--Physical-Key-Security-e3mbagm"
+  },
+  {
     "id": "north-korean-it-worker-scam",
     "podcastId": "blue-security",
     "title": "North Korean IT Worker Scam",

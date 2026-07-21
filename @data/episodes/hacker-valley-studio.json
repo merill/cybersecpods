@@ -1,5 +1,22 @@
 [
   {
+    "id": "what-ai-agents-should-own-in-your-soc-and-what-happens-if-you-wait-with-tim-leeh",
+    "podcastId": "hacker-valley-studio",
+    "title": "What AI Agents Should Own in Your SOC, And What Happens If You Wait with Tim Leehealey",
+    "description": "<p>What happens when the adversary moves at machine speed, and your SOC is still responding at human speed? Why does nearly every security team say AI should handle L1 work, while 64% of organizations still have zero agents in production? And how long until the \"coworker\" resolving your ticket in Slack turns out not to be human at all?</p>\n<p>Tim Leehealey, VP of Strategy and Operations at Strike 48, joins us this week to talk about what it actually takes to get AI agents out of the demo and into production. Tim agenticized his own company's IT, watched it blow up, and came out the other side with lessons from Fortune 100 SOCs running agents at serious scale. </p>\n<p>He shares where AI actually belongs in the alert pipeline, the objections holding teams back, and a blunt warning for any leader still waiting on the sidelines in 2027. If AI in the SOC is on your roadmap before the end of this year, start here.</p>\n<p> </p>\n<p>Impactful Moments</p>\n<p>00:00 - Introduction<br>\n01:55 - Busting a myth: AI will replace analysts<br>\n04:45 - Introducing Tim Leehealey <br>\n05:30 - The Strike48 survey: 84% say hand L1 to AI<br>\n08:00 - Fear the low-and-slow attacker, not the loud one<br>\n13:00 - Getting breached without agents in 2027<br>\n15:00 - When Tim's own rollout blew up<br>\n19:00 - Micro agents inside deterministic workflows<br>\n21:25 - Skills advice for L1 analysts<br>\n26:00 - The next 18 months of agentic adoption<br>\n28:00 - Jim Bob in your Slack is an agent<br>\n21:30 - Ron's take: transparency is the trust unlock</p>\nLinks\n<p>Connect with Tim Leehealey on LinkedIn: <a href='https://www.linkedin.com/in/tim-leehealey-b8b04321'>https://www.linkedin.com/in/tim-leehealey-b8b04321</a> </p>\n<p>Learn more about Strike48: <a href='https://strike48.com'>https://strike48.com</a></p>\n<p>Check out the 2026 State of Agentic Security report here: <a href='https://hubs.ly/Q04p49S20'>https://hubs.ly/Q04p49S20</a></p>\n<p>Go deeper on Strike 48's technology:<a href='https://labs.strike48.com'> https://labs.strike48.com</a></p>\n<p>– </p>\n<p>Check out our upcoming events:<a href='https://www.hackervalley.com/livestreams'> https://www.hackervalley.com/livestreams</a> </p>\n<p>Love Hacker Valley Studio? Pick up some swag:<a href='https://store.hackervalley.com'> https://store.hackervalley.com</a> </p>\n<p>Become a sponsor of the show:<a href='https://hackervalley.com/work-with-us/'> https://hackervalley.com/work-with-us/</a></p>",
+    "publishedAt": "2026-07-21T14:00:00.000Z",
+    "duration": 2158,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/ennmkxrbs47mp9f4/HVS26_EP434_STRIKE48.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 434,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/what-ai-agents-should-own-in-your-soc-and-what-happens-if-you-wait-with-tim-leehealey/"
+  },
+  {
     "id": "we-shipped-a-tool-that-acts-like-you-meet-interceptor",
     "podcastId": "hacker-valley-studio",
     "title": "We Shipped a Tool That Acts Like You. Meet Interceptor.",

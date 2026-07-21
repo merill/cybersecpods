@@ -389,9 +389,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-14T09:00:00.000Z",
+    "lastEpisodeDate": "2026-07-21T09:00:00.000Z",
     "firstEpisodeDate": "2018-01-08T14:20:38.000Z",
-    "episodeCount": 405,
+    "episodeCount": 406,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -592,9 +592,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-07-14T12:00:00.000Z",
+    "lastEpisodeDate": "2026-07-21T12:00:00.000Z",
     "firstEpisodeDate": "2020-09-21T00:58:14.000Z",
-    "episodeCount": 322,
+    "episodeCount": 323,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-21T13:53:18.000Z",
-    "firstEpisodeDate": "2025-11-26T16:25:49.000Z",
+    "lastEpisodeDate": "2026-07-21T14:03:47.000Z",
+    "firstEpisodeDate": "2025-11-29T06:00:59.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2586,7 +2586,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-21T07:02:42.494Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -2623,9 +2632,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-14T15:32:29.000Z",
+    "lastEpisodeDate": "2026-07-21T14:00:00.000Z",
     "firstEpisodeDate": "2019-06-19T14:51:23.000Z",
-    "episodeCount": 431,
+    "episodeCount": 432,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2813,16 +2822,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-21T07:02:44.099Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must-Listen for Identity Pros",
-        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
-        "author": "Ilse ☺️",
-        "updatedAt": "2026-02-27T06:06:05-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "identity-at-the-center",

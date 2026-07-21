@@ -1,5 +1,22 @@
 [
   {
+    "id": "macos-security-design-features-flaws-and-futures-patrick-wardle-asw-392",
+    "podcastId": "application-security-weekly",
+    "title": "MacOS Security Design Features, Flaws, And Futures - Patrick Wardle - ASW #392",
+    "description": "<p>Appsec often frames usability and security as at odds with each other. Apple's software has famously emphasized the importance of usability while also creating a solid security foundation. Patrick Wardle talks about how he's seen malware shift from Windows to macOS, how Apple's aggressive stance on deprecation benefits security, and the areas of the OS where he still sees plenty of opportunity for more security research. We discuss how developers make defensible design choices, why privacy needs security, and some security principles that any app developer should keep in mind regardless of their programming language or operating system.</p> <p>Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://objective-see.org/blog/blog_0x86.html\">https://objective-see.org/blog/blog_0x86.html</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://objective-see.org/products/lulu.html\">https://objective-see.org/products/lulu.html</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://objectivebythesea.org/v9/index.html\">https://objectivebythesea.org/v9/index.html</a></li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-392\">https://securityweekly.com/asw-392</a></p>",
+    "publishedAt": "2026-07-21T09:00:00.000Z",
+    "duration": 4326,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_392_1--dd54e5ec-1c44-4b95-a180-6783e400a446--audio-converted--7f99787d-5369-4d3b-ab57-177186e2cb91.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/b/b/3/1/bb310123c3016ae316c3140a3186d450/ASW_392_Thumbnail_ASW_1920x1920-op1_9dd8304b-9670-4993-9e73-ee8d6e5cc2f5.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/macos-security-design-features-flaws-and-futures-patrick-wardle-asw-392"
+  },
+  {
     "id": "discovering-and-securing-your-ai-agent-attack-surface-jeremy-snyder-asw-391",
     "podcastId": "application-security-weekly",
     "title": "Discovering & Securing Your AI Agent Attack Surface - Jeremy Snyder - ASW #391",
