@@ -203,9 +203,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-14T18:00:00.000Z",
+    "lastEpisodeDate": "2026-07-21T18:00:00.000Z",
     "firstEpisodeDate": "2018-01-10T04:00:00.000Z",
-    "episodeCount": 327,
+    "episodeCount": 328,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-21T14:03:47.000Z",
-    "firstEpisodeDate": "2025-11-29T06:00:59.000Z",
+    "lastEpisodeDate": "2026-07-21T18:07:06.000Z",
+    "firstEpisodeDate": "2025-12-01T20:05:59.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2968,16 +2968,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-21T07:02:45.219Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -5855,7 +5846,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-07-21T07:03:06.298Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",

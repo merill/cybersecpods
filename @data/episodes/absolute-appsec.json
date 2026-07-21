@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-328-wordpress-rce-vuln-prioritization-ai-memory-exfiltration",
+    "podcastId": "absolute-appsec",
+    "title": "Episode 328 - Wordpress RCE, Vuln Prioritization, AI memory exfiltration",
+    "description": "In episode 328 of Absolute AppSec, sponsored by GuardSquare (guardsquare.com), Seth and Ken start by highlighting a newly disclosed, pre-authentication WordPress core Remote Code Execution (RCE) vulnerability (\"WP2Shell\"). The core discussion centers on Alex Gaynor's article regarding the influx of AI-assisted vulnerability disclosures. Gaynor and the hosts argue that attempting to fix bugs case-by-case is a \"fool's errand\"; instead, engineering teams must eradicate entire vulnerability classes through systemic, framework-level safe functions (such as parameterized queries) and automated CI/CD guardrails. They dive into the complexities of bug prioritization—debating reachability analysis, runtime verification, and business asset criticality—while noting that metrics and measurement remain among the lowest-scoring activities in OWASP SAMM assessments. Later, Ken and Seth examine a \"Memory Heist\" attack on Claude AI where indirect prompt injection tricked the assistant into exfiltrating user memory and corporate details letter-by-letter through web navigation. They conclude that because transformer models were originally designed for next-token prediction rather than secure system boundaries, defending LLM architectures behaves more like stopping social engineering than traditional software fuzzing.",
+    "publishedAt": "2026-07-21T18:00:00.000Z",
+    "duration": 0,
+    "audioUrl": "https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_328.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://absolute-appsec-eps.s3.us-west-1.amazonaws.com/episodes/Absolute_AppSec_Ep_328.mp3"
+  },
+  {
     "id": "episode-327-wcoffee-chaos-and-prodsec-aspm-consolidation-vuln-prioritization",
     "podcastId": "absolute-appsec",
     "title": "Episode 327 - w/Coffee, Chaos, and ProdSec - ASPM Consolidation, Vuln Prioritization",
