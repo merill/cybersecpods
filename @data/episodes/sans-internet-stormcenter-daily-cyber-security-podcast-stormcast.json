@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-july-21st-2026-more-wordpress-details-hollowgraph-msft-ca",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, July 21st, 2026: More Wordpress Details; HOLLOWGRAPH MSFT Calendar Abuse; Gitea Vulnerability",
+    "description": "<br/>\nWordPress Exploitation Underway (CVE-2026-63030)<br/>\n<a href=\"https://isc.sans.edu/diary/WordPress%20Exploitation%20Underway%20%28CVE-2026-63030%29/33168\">https://isc.sans.edu/diary/WordPress%20Exploitation%20Underway%20%28CVE-2026-63030%29/33168</a><br/>\nHOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels<br/>\n<a href=\"https://www.group-ib.com/blog/hollowgraph-microsoft-365/\">https://www.group-ib.com/blog/hollowgraph-microsoft-365/</a><br/>\nGitea Vulnerablity CVE-2026-58443<br/>\n<a href=\"https://github.com/go-gitea/gitea/security/advisories/GHSA-xxjv-752h-3vp2\">https://github.com/go-gitea/gitea/security/advisories/GHSA-xxjv-752h-3vp2</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-21T02:00:02.000Z",
+    "duration": 516,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10016.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10016,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10016"
+  },
+  {
     "id": "sans-stormcast-monday-july-20th-2026-hikvision-scans-lg-spyware-huggingface-hack",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, July 20th, 2026: Hikvision Scans; LG Spyware; Huggingface Hack; Wordpress Core RCE",
