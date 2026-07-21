@@ -1,5 +1,22 @@
 [
   {
+    "id": "stealc-exposed-tracking-emulating-and-disrupting-a-top-info-stealer",
+    "podcastId": "discarded",
+    "title": "StealC Exposed: Tracking, Emulating, and Disrupting a Top Info Stealer",
+    "description": "<p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2445401/fan_mail/new\">Send us fan mail!</a></p><p><b>Hello to all our Cyber Pals!</b></p><p><b>Host Selena Larson is joined by Golo Mühr, Malware Reverse Engineer, X-Force Threat Intelligence and Kyle Cucci (Staff Threat Researcher, Proofpoint) to break down the joint research that helped power a major Operation Endgame disruption. </b></p><p><b>Coordinated by Europol, the operation hit 66 domains and 296 servers tied to StealC and its close cousin Amadey, and led to the seizure of more than 25.6 million unique credentials stolen from over 385,000 compromised sites.</b></p><p><br/></p><p><b>In this episode, Golo and Kyle take us inside the investigation:</b></p><ul><li><b>How they built a custom StealC emulator to impersonate infected bots, talk to live C2 servers, and pull down real second-stage payloads</b></li><li><b>The tangled relationship between StealC and Amity, and how shared panels and configs let researchers cluster affiliates together</b></li><li><b>Why StealC sometimes delivers... more StealC (spoiler: probably not a masterplan)</b></li><li><b>A juicy case of \"no honor among thieves\" — evidence that one affiliate exploited a panel vulnerability to steal from other affiliates</b></li><li><b>The one confirmed instance of StealC delivering LockBit Black ransomware, caught in the wild via emulation</b></li><li><b>Why info stealers have become so attractive to threat actors compared to ransomware — lower risk, easier monetization, less law enforcement heat (until now)</b></li><li><b>What \"success\" actually looks like in a takedown, and why Kyle's proposed \"pyramid of pain\" for disruptions puts arrests at the top and infrastructure takedowns at the base</b></li></ul><p><b>Plus: fake software downloads, sketchy YouTube game-crack links, public-private collaboration with law enforcement, and a well-earned shoutout to Proofpoint's Isaac for calling this threat over a decade ago.</b></p><p><b>Tune in for a deep dive into how threat intel teams track, emulate, and ultimately help dismantle one of the internet's most active credential-theft operations.</b></p><p><br/></p><p><b>Resources Mentioned:</b></p><p><br/></p><p><b>https://www.proofpoint.com/us/blog/threat-insight/stealc-you-later-proofpoint-and-ibm-x-force-support-operation-endgame</b></p><p><br/></p><p><a href='https://www.proofpoint.com/us/blog/threat-insight/threat-actors-deliver-malware-youtube-video-game-cracks'><b>https://www.proofpoint.com/us/blog/threat-insight/threat-actors-deliver-malware-youtube-video-game-cracks</b></a></p><p><b><br/></b><br/></p><p><b>For more information about Proofpoint, </b><a href='https://www.proofpoint.com/us/podcasts'><b>check out our website</b></a><b>.</b></p><p><b> </b></p><p><br/></p><p><b>Subscribe & Follow:</b></p><p><b>Stay ahead of emerging threats, and subscribe! Happy hunting!</b></p><p><br/></p>",
+    "publishedAt": "2026-07-21T08:00:00.000Z",
+    "duration": 2139,
+    "audioUrl": "https://www.buzzsprout.com/2445401/episodes/19510827-stealc-exposed-tracking-emulating-and-disrupting-a-top-info-stealer.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 106,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "omitb-trusting-the-wrong-package",
     "podcastId": "discarded",
     "title": "OMITB: Trusting the wrong package.",

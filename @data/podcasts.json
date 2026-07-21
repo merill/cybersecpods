@@ -1802,16 +1802,7 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-21T07:02:35.860Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Jack is awesome",
-        "content": "Congrats on launch of Spanish version.",
-        "author": "Gotchayeah",
-        "updatedAt": "2025-05-22T18:24:35-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decipher-security-podcast",
@@ -2126,9 +2117,9 @@
         "linkedinUrl": "https://www.linkedin.com/in/selenalarson/"
       }
     ],
-    "lastEpisodeDate": "2026-07-07T19:00:00.000Z",
+    "lastEpisodeDate": "2026-07-21T08:00:00.000Z",
     "firstEpisodeDate": "2022-03-02T19:07:00.000Z",
-    "episodeCount": 107,
+    "episodeCount": 108,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2529,7 +2520,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-07-20T07:18:48.817Z"
+        "fetchedAt": "2026-07-21T07:02:42.494Z"
       }
     }
   },
@@ -2746,9 +2737,9 @@
         "linkedinUrl": "https://www.linkedin.com/in/seandeuby/"
       }
     ],
-    "lastEpisodeDate": "2026-07-07T09:00:24.000Z",
+    "lastEpisodeDate": "2026-07-21T09:00:27.000Z",
     "firstEpisodeDate": "2020-04-16T14:49:18.000Z",
-    "episodeCount": 98,
+    "episodeCount": 99,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4070,7 +4061,16 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-21T07:02:53.012Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
