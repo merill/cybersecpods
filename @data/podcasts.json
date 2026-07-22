@@ -2886,16 +2886,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-22T07:03:46.131Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -4061,7 +4052,16 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-22T07:03:55.625Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
