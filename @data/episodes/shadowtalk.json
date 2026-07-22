@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-largest-patch-tuesday-ever-622-cves-a-1380percent-phishing-surge-and-the-two",
+    "podcastId": "shadowtalk",
+    "title": "The Largest Patch Tuesday Ever: 622 CVEs, a 1,380% Phishing Surge, and the Two-Front War on Initial Access",
+    "description": "<p>Defenders aren't losing ground on one front, they're losing it on two at once. The largest Patch Tuesday in history just dropped alongside a 1,380% surge in phishing, and threat actors aren't waiting for you to catch up.</p><p>Join hosts <b>Alexandra Moore</b> and <b>John Dilgen</b> as they break down: </p><ul><li>How new extortion group Helix and ClickFix are weaponizing identity compromise at scale </li><li>Why 622 vulnerabilities in a single week signals a permanent shift in the discovery rate</li><li>Practical defenses for both fronts without doubling your team</li></ul><p> <b>Two questions your organization should be asking right now:</b></p><ul><li>Have you audited which accounts in your environment are permitted to authenticate via device code grants and restricted the ones that don't need it?</li><li>Does your IR runbook hunt for additional compromised accounts, or does it stop at the one sending extortion demands?</li></ul><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Alexandra Moore: </b>Manager of Threat Intelligence at ReliaQuest, where she leads intelligence analysis and customer dissemination to help organizations understand and respond to emerging cyber threats. Prior to this, she established and scaled monitoring across Russian-language cybercriminal platforms at Digital Shadows, building collection and analytical coverage to support digital risk protection capabilities.</p>",
+    "publishedAt": "2026-07-22T15:00:00.000Z",
+    "duration": 1682,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19532862-the-largest-patch-tuesday-ever-622-cves-a-1-380-phishing-surge-and-the-two-front-war-on-initial-access.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "fortibleed-70000-compromised-devices-and-the-credential-economy-powering-every-b",
     "podcastId": "shadowtalk",
     "title": "FortiBleed, 70,000 Compromised Devices, and the Credential Economy Powering Every Breach",
