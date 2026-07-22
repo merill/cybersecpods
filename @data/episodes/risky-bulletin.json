@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-rogue-openai-models-were-behind-the-hugging-face-breach",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Rogue OpenAI models were behind the Hugging Face breach",
+    "description": "<p>Rogue OpenAI models were behind last week’s Hugging Face breach, the Linux kernel discloses 442 vulnerabilities as the AI bugpocalypse settles in, France becomes the first EU country to pass a social media age limit, and Germany takes down the Kratos phishing service.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-linux-kernel-discloses-442-cves-as-ai-bugpocalypse-settles-in/\">Risky Bulletin: Linux kernel discloses 442 CVEs as AI bugpocalypse settles in</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-07-22T06:22:01.000Z",
+    "duration": 410,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS590.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS590/"
+  },
+  {
     "id": "between-two-nerds-what-china-gets-wrong-about-russias-cyber-war-in-ukraine",
     "podcastId": "risky-bulletin",
     "title": "Between Two Nerds: What China gets wrong about Russia's cyber war in Ukraine",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWSSI120/"
-  },
-  {
-    "id": "risky-bulletin-second-ios-hacking-framework-found-in-the-wild",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Second iOS hacking framework found in the wild",
-    "description": "<p>A second iOS hacking framework has been found in the wild, Belgium launches its own government communications app, AWS kills S3 bucketsquatting and a cyberattack cripples car breathalyzers.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-aws-kills-bucketsquatting/\">Risky Bulletin: AWS kills bucketsquatting</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-03-20T02:12:16.000Z",
-    "duration": 421,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS540.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS540/"
   }
 ]
