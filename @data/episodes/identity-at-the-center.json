@@ -1,5 +1,22 @@
 [
   {
+    "id": "436-sponsor-spotlight-p0-security",
+    "podcastId": "identity-at-the-center",
+    "title": "#436 - Sponsor Spotlight - P0 Security",
+    "description": "<p>In this Sponsor Spotlight episode, Jeff Steadman flies solo and welcomes Greg Danyi, co-founder and CTO of P0 Security, to the show. Greg walks through P0's approach to runtime access control, covering how it applies to humans, non-human identities, and AI agents alike. The conversation digs into the difference between authentication and authorization, why zero standing privilege is more achievable now than before agentic adoption took hold, and how dynamic, evidence-based policies can reduce reliance on manual approvals. Greg also shares real examples, including row-level access control for data lakes and a CRM mishap that shows how easily agents can misinterpret intent. The episode closes with a look at where enterprise AI agent governance may be headed over the next few years, plus a lighter conversation about explaining IAM to a 10-year-old. This episode is made possible through the generous support of P0 Security as part of IDAC's nonprofit Sponsor Spotlight series. Learn more at p0.dev/idac.</p><p><br></p><p><br></p><p>Connect with Greg (Gergely): https://www.linkedin.com/in/gergely-danyi/</p><p>Learn more about P0: https://p0.dev/idac/</p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p>00:00 - Introduction and sponsor acknowledgment</p><p>01:13 - Greg Danyi's path into IAM</p><p>02:18 - What P0 Security solves for</p><p>03:21 - Where P0 fits versus PAM and IGA</p><p>04:46 - Agentic identity as a driver of adoption</p><p>05:27 - MCP servers and unpredictable agent actions</p><p>07:10 - Defining runtime access control</p><p>08:50 - How authentication and authorization work together</p><p>09:07 - Standing access versus expressed intent</p><p>10:16 - Zero standing privilege in practice</p><p>12:27 - Agentic identity as a distinct identity class</p><p>19:24 - Automated evidence for approvals</p><p>20:42 - Walking through a support agent example</p><p>22:13 - Row-level access control for data lakes</p><p>23:35 - Dynamic roles explained</p><p>29:55 - CRUD risks and underestimated concerns</p><p>31:32 - Human intent and giving agents clear direction</p><p>36:32 - Where enterprise AI agent governance is headed</p><p>39:36 - Advice for CIOs and CISOs getting started</p><p>41:15 - Explaining IAM to a 10-year-old</p><p>42:29 - Board games, dice, and calculated risk</p><p>44:00 - Closing thoughts and where to learn more</p><p><br></p><p><br></p><p>Keywords: IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Greg Danyi, P0 Security, runtime access control, agentic identity, zero standing privilege, non-human identity, authentication, authorization, IAM podcast</p><p><br></p>",
+    "publishedAt": "2026-07-22T09:00:00.000Z",
+    "duration": 2760,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/122677239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2Fd7c029aa-c774-d112-0f64-8b3170ebf01f.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 436,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/436---Sponsor-Spotlight---P0-Security-e3luahn"
+  },
+  {
     "id": "435-majority-rules-idac-live-at-identiverse-2026",
     "podcastId": "identity-at-the-center",
     "title": "#435 - Majority Rules: IDAC Live at Identiverse 2026",
