@@ -1802,7 +1802,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-23T07:01:38.545Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -2520,7 +2529,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-07-22T07:03:42.411Z"
+        "fetchedAt": "2026-07-23T07:01:48.503Z"
       }
     }
   },
@@ -2660,13 +2669,6 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "Hilarious and very informative",
-        "content": "I still have a lot to catch up on, but check out the early Jun 2025 episodes about the chickens and various life stuff. I could not stop laughing.",
-        "author": "TFWas",
-        "updatedAt": "2026-07-11T05:24:11-07:00"
-      },
-      {
-        "rating": 5,
         "title": "This is one not to miss.",
         "content": "This podcast is an interesting mix of personalities and security related humor.",
         "author": "Takoateli",
@@ -2692,6 +2694,13 @@
         "content": "I love the hosts, their rapport, sense of humor, and knowledge. \n\nEven my non-techie significant other enjoys listening to this podcast with me. \n\nThank you!",
         "author": "0xbeepBoop",
         "updatedAt": "2025-02-25T11:02:51-07:00"
+      },
+      {
+        "rating": 3,
+        "title": "Excellent podcast, but………",
+        "content": "This is a great podcast. I would highly recommend this for someone beginning their cybersecurity learning or those that want to keep up to date. The only issue is the political left leaning is annoying. I listen to educate myself and learn what is going on in the world pertaining to cybersecurity. Not to listen to political left leaning talking points or snide remarks. This distracts from the great content that they produce. One of my college professors in my government class always had the best classes. He never took sides, never told us where he stood. And the class was enjoyable because he just taught the subject matter and the focus was on learning, not pushing a political agenda or letting people know where he stood. This did not alienate anyone, and kept the focus on discussing relevant topics and learning. I think more respect and integrity comes from refraining from political remarks, and just focusing on what makes the podcast great the material and subject matter.",
+        "author": "Slygator456",
+        "updatedAt": "2025-02-19T09:18:50-07:00"
       }
     ]
   },
