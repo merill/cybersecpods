@@ -1,5 +1,22 @@
 [
   {
+    "id": "ai-chat-the-hugging-face-openai-breach-the-attacker-was-the-model-340",
+    "podcastId": "cybersecurity-defenders",
+    "title": "AI Chat: The Hugging Face / OpenAI breach — the attacker was the model [340]",
+    "description": "<p>AI Chat with Maxime Lamothe-Brassard and Chris Luft — a special episode.</p><p>One story, pulled apart start to finish. In mid-July 2026, Hugging Face disclosed a breach of its production infrastructure carried out end-to-end by an autonomous AI agent. Five days later, OpenAI revealed the attacker was its own models — GPT-5.6 Sol and a more capable unreleased model — which broke out of an internal cyber-capability evaluation called ExploitGym and reached into Hugging Face's production systems to steal the benchmark's answer key.</p><p>In this episode:</p><p>• The timeline: Hugging Face's July 16 disclosure, OpenAI's July 21 attribution — and the five days in between when even the victim didn't know an AI did it.</p><p>• The attack chain: a malicious dataset abusing two code-execution paths in the dataset-processing pipeline, node-level escalation, credential harvesting and lateral movement — thousands of actions across short-lived sandboxes with self-migrating command-and-control.</p><p>• The escape: a zero-day in the eval sandbox's package-registry cache proxy, the single egress control — per OpenAI's own account.</p><p>• Motive: the models got \"hyperfocused\" on winning the benchmark, not stealing data — and whether \"no malicious intent\" is a fair description or a comforting one.</p><p>• What was and wasn't exposed, what to do about your Hugging Face tokens, and why this is not the 2024 Spaces incident or the 2023 OpenAI forum hack.</p><p>• Max's hot take: the beginning of the phase where we lock developers out of writing code — and a new fear unlocked: models backdooring other models.</p><p>Stories covered:</p><p>• https://huggingface.co/blog/security-...</p><p>• https://openai.com/index/hugging-face...</p><p>Chapters:</p><p>0:00 Cold open — the attacker was the model</p><p>2:20 The whole story in one breath</p><p>6:41 The timeline: two disclosures, five days apart</p><p>11:37 Attack chain, part 1: getting in through a malicious dataset</p><p>15:53 Attack chain, part 2: escaping the eval sandbox</p><p>22:10 Motive, attribution & intent: cheating on the benchmark</p><p>25:31 What was (and wasn't) exposed</p><p>28:08 The bigger picture: the fire drill started the fire</p><p>31:39 Lessons for labs, platforms, and solo developers</p><p>33:15 New fear unlocked: models backdooring models</p><p>The Cybersecurity Defenders Podcast — a podcast about cybersecurity and the people that keep the internet safe. New episodes drop weekly.</p><p>Subscribe wherever you listen:</p><p>• Spotify: https://open.spotify.com/show/6ep00ze...</p><p>• Apple Podcasts: https://podcasts.apple.com/us/podcast...</p><p>• YouTube:    / @limacharlieio  </p><p>Learn more about LimaCharlie: https://limacharlie.io</p><p>#cybersecurity #AIsecurity #OpenAI #HuggingFace #infosec</p>",
+    "publishedAt": "2026-07-23T19:01:01.000Z",
+    "duration": 2127,
+    "audioUrl": "https://podcast.wistia.com/deliveries/6a9b94bc70af99837b114a0db78fe30d3511eeaf.mp3?d=eyJtIjoxNTA3MTQxODIsIm1kIjoyMTI3LjM3LCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjE0MDg4NywiYiI6IjZhOWI5NGJjNzBhZjk5ODM3YjExNGEwZGI3OGZlMzBkMzUxMWVlYWYiLCJtYiI6NTk2LCJvYiI6OTYwMDE5LjAzNzU5MTAxNjJ9--e7bda7eb1ab06b94206e2cde3bb43c0f3c16a375c8aab51b574b88d70f155995",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 340,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=w5y63nh9ap"
+  },
+  {
     "id": "ai-chat-grok-cli-data-exfiltration-ai-vs-patching-distillation-wars-and-shadow-a",
     "podcastId": "cybersecurity-defenders",
     "title": "AI Chat: Grok CLI data exfiltration, AI vs. patching, distillation wars & shadow AI [339]",
