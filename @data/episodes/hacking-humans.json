@@ -238,23 +238,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/389/notes"
   },
   {
-    "id": "trusting-the-wrong-package-only-malware-in-the-building",
-    "podcastId": "hacking-humans",
-    "title": "Trusting the wrong package. [Only Malware in the Building]",
-    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠Qintel⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. This week, our hosts dive into the evolving threat of software supply chain attacks and the growing risks facing the open-source ecosystem. As developers increasingly rely on third-party packages and AI-powered coding tools, attackers are finding new ways to abuse trusted software to reach a wider range of targets. The discussion explores why these attacks are becoming more common, what recent incidents reveal about the state of software security, and what organizations can do to better protect themselves.</p>\n<p><strong>Sources:  </strong><a href=\"https://cyberscoop.com/supply-chain-attack-shai-hulud-npm/\">⁠</a></p>\n<p><a href=\"https://cyberscoop.com/supply-chain-attack-shai-hulud-npm/\">Shai-Hulud worm returns stronger and more automated than ever before</a><a href=\"https://cyberscoop.com/mini-shai-hulud-supply-chain-malware-attack/\">⁠</a></p>\n<p><a href=\"https://cyberscoop.com/mini-shai-hulud-supply-chain-malware-attack/\">‘Mini Shai-Hulud’ malware compromises hundreds of open-source packages in sprawling supply-chain attack</a><a href=\"https://cms.thecyberwire.com/%C2%A0%E2%81%A0https://www.sans.org/blog/what-we-learned-axios-npm-supply-chain-compromise-emergency-briefing\">⁠</a></p>\n<p><a href=\"https://www.sans.org/blog/what-we-learned-axios-npm-supply-chain-compromise-emergency-briefing\">What We Learned: Axios NPM Supply Chain Compromise Emergency Briefing</a></p>\n<p><a href=\"https://www.trendmicro.com/en_us/research/26/c/inside-litellm-supply-chain-compromise.html\">Your AI Gateway Was a Backdoor: Inside the LiteLLM Supply Chain Compromise</a></p>",
-    "publishedAt": "2026-06-02T07:00:00.000Z",
-    "duration": 2814,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9588818426.mp3?updated=1748875078",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/6e07f14a-5dee-11f1-bfbb-130a82016e12/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 24,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/24/notes"
-  },
-  {
     "id": "gdpr-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "GDPR (noun) [Word Notes]",
@@ -270,6 +253,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/136/notes"
+  },
+  {
+    "id": "trusting-the-wrong-package-only-malware-in-the-building",
+    "podcastId": "hacking-humans",
+    "title": "Trusting the wrong package. [Only Malware in the Building]",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠Qintel⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. This week, our hosts dive into the evolving threat of software supply chain attacks and the growing risks facing the open-source ecosystem. As developers increasingly rely on third-party packages and AI-powered coding tools, attackers are finding new ways to abuse trusted software to reach a wider range of targets. The discussion explores why these attacks are becoming more common, what recent incidents reveal about the state of software security, and what organizations can do to better protect themselves.</p>\n<p><strong>Sources:  </strong><a href=\"https://cyberscoop.com/supply-chain-attack-shai-hulud-npm/\">⁠</a></p>\n<p><a href=\"https://cyberscoop.com/supply-chain-attack-shai-hulud-npm/\">Shai-Hulud worm returns stronger and more automated than ever before</a><a href=\"https://cyberscoop.com/mini-shai-hulud-supply-chain-malware-attack/\">⁠</a></p>\n<p><a href=\"https://cyberscoop.com/mini-shai-hulud-supply-chain-malware-attack/\">‘Mini Shai-Hulud’ malware compromises hundreds of open-source packages in sprawling supply-chain attack</a><a href=\"https://cms.thecyberwire.com/%C2%A0%E2%81%A0https://www.sans.org/blog/what-we-learned-axios-npm-supply-chain-compromise-emergency-briefing\">⁠</a></p>\n<p><a href=\"https://www.sans.org/blog/what-we-learned-axios-npm-supply-chain-compromise-emergency-briefing\">What We Learned: Axios NPM Supply Chain Compromise Emergency Briefing</a></p>\n<p><a href=\"https://www.trendmicro.com/en_us/research/26/c/inside-litellm-supply-chain-compromise.html\">Your AI Gateway Was a Backdoor: Inside the LiteLLM Supply Chain Compromise</a></p>",
+    "publishedAt": "2026-06-02T07:00:00.000Z",
+    "duration": 2814,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9588818426.mp3?updated=1748875078",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/6e07f14a-5dee-11f1-bfbb-130a82016e12/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 24,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/24/notes"
   },
   {
     "id": "graduation-day-grifts",
@@ -391,23 +391,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/385/notes"
   },
   {
-    "id": "cirt-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "CIRT (noun) [Word Notes]",
-    "description": "<p>Please enjoy this encore of Word Notes.</p>\n<p>A team responsible for responding to and managing cybersecurity incidents involving computer systems and networks in order to minimize the damage and to restore normal operations as quickly as possible.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/cirt\">⁠https://thecyberwire.com/glossary/cirt⁠</a></p>\n<p>Audio reference link: Avery, B., 2017. 24 TV May 05 Season4 [WWW Document]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=Gq_2xPuqI-E\">⁠https://www.youtube.com/watch?v=Gq_2xPuqI-E&#38;list=PLGHedLavrFoGsea1ZCHBm9-nK5FdM3_Kd&#38;index=10.</a></p>",
-    "publishedAt": "2026-05-05T07:00:00.000Z",
-    "duration": 396,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4076944409.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/81e76492-47fb-11f1-946d-5b9945894644/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 132,
-    "seasonNumber": 3,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/132/notes"
-  },
-  {
     "id": "mythbehavior-under-investigation-omitb",
     "podcastId": "hacking-humans",
     "title": "Mythbehavior under investigation. [OMITB]",
@@ -423,6 +406,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/23/notes"
+  },
+  {
+    "id": "cirt-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "CIRT (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes.</p>\n<p>A team responsible for responding to and managing cybersecurity incidents involving computer systems and networks in order to minimize the damage and to restore normal operations as quickly as possible.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/cirt\">⁠https://thecyberwire.com/glossary/cirt⁠</a></p>\n<p>Audio reference link: Avery, B., 2017. 24 TV May 05 Season4 [WWW Document]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=Gq_2xPuqI-E\">⁠https://www.youtube.com/watch?v=Gq_2xPuqI-E&#38;list=PLGHedLavrFoGsea1ZCHBm9-nK5FdM3_Kd&#38;index=10.</a></p>",
+    "publishedAt": "2026-05-05T07:00:00.000Z",
+    "duration": 396,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4076944409.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/81e76492-47fb-11f1-946d-5b9945894644/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 132,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/132/notes"
   },
   {
     "id": "a-game-of-loans",
@@ -544,23 +544,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/381/notes"
   },
   {
-    "id": "advanced-encryption-standard-aes-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "Advanced Encryption Standard (AES) (noun) [Word Notes]",
-    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>A U.S. Government specification for data encryption using an asymmetric key algorithm.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/advanced-encryption-standard\">⁠https://thecyberwire.com/glossary/advanced-encryption-standard⁠</a></p>\n<p>Audio reference link: papadoc73. <a href=\"https://www.youtube.com/watch?v=CvFH_6DNRCY\">⁠“Claude Debussy: Clair De Lune.”⁠</a> <em>YouTube</em>, YouTube, 6 Oct. 2008. </p>",
-    "publishedAt": "2026-04-07T07:00:00.000Z",
-    "duration": 517,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1076812107.mp3?updated=1736193894",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/8c27b0de-31fc-11f1-810f-73b2dc891b89/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 128,
-    "seasonNumber": 3,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/128/notes"
-  },
-  {
     "id": "whos-logging-in-omitb",
     "podcastId": "hacking-humans",
     "title": "Who’s logging in? [OMITB]",
@@ -576,6 +559,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/22/notes"
+  },
+  {
+    "id": "advanced-encryption-standard-aes-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "Advanced Encryption Standard (AES) (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>A U.S. Government specification for data encryption using an asymmetric key algorithm.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/advanced-encryption-standard\">⁠https://thecyberwire.com/glossary/advanced-encryption-standard⁠</a></p>\n<p>Audio reference link: papadoc73. <a href=\"https://www.youtube.com/watch?v=CvFH_6DNRCY\">⁠“Claude Debussy: Clair De Lune.”⁠</a> <em>YouTube</em>, YouTube, 6 Oct. 2008. </p>",
+    "publishedAt": "2026-04-07T07:00:00.000Z",
+    "duration": 517,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1076812107.mp3?updated=1736193894",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/8c27b0de-31fc-11f1-810f-73b2dc891b89/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 128,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/128/notes"
   },
   {
     "id": "the-fine-print-of-fraud",
@@ -1173,23 +1173,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/365/notes"
   },
   {
-    "id": "yippee-ki-yay-cybercriminals-omitb",
-    "podcastId": "hacking-humans",
-    "title": "Yippee-ki-yay, cybercriminals! [OMITB]",
-    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Wrap yourself in a warm blanket, pour your favorite mug of tea, and join us each month as we unwrap the season’s juiciest cyber mysteries.  Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠Qintel⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, we explore Remote access, real cargo: cybercriminals targeting trucking and logistics. From clever schemes to protect shipments to the tools cybercriminals use, our guests discuss how organizations can safeguard physical goods in an increasingly connected world—because even during the season of hustle and bustle, the threats don’t take a holiday.</p>",
-    "publishedAt": "2025-12-02T08:00:00.000Z",
-    "duration": 2418,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4431243378.mp3?updated=1764608822",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/688b1458-d140-11f0-853e-5f9ca9811b89/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 18,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/18/notes"
-  },
-  {
     "id": "anti-cheat-software-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "Anti-cheat software (noun) [Word Notes]",
@@ -1205,6 +1188,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/111/notes"
+  },
+  {
+    "id": "yippee-ki-yay-cybercriminals-omitb",
+    "podcastId": "hacking-humans",
+    "title": "Yippee-ki-yay, cybercriminals! [OMITB]",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Wrap yourself in a warm blanket, pour your favorite mug of tea, and join us each month as we unwrap the season’s juiciest cyber mysteries.  Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠Qintel⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, we explore Remote access, real cargo: cybercriminals targeting trucking and logistics. From clever schemes to protect shipments to the tools cybercriminals use, our guests discuss how organizations can safeguard physical goods in an increasingly connected world—because even during the season of hustle and bustle, the threats don’t take a holiday.</p>",
+    "publishedAt": "2025-12-02T08:00:00.000Z",
+    "duration": 2418,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4431243378.mp3?updated=1764608822",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/688b1458-d140-11f0-853e-5f9ca9811b89/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 18,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/18/notes"
   },
   {
     "id": "nice-to-meet-you-im-a-scammer",
@@ -1683,23 +1683,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/353/notes"
   },
   {
-    "id": "hot-sauce-and-hot-takes-an-only-malware-in-the-building-special-omitb",
-    "podcastId": "hacking-humans",
-    "title": "Hot sauce and hot takes: An Only Malware in the Building special. [OMITB]",
-    "description": "<p>Welcome in! You’ve entered, <em>Only Malware in the Building</em> — but this time, it’s not just another episode. This is a special edition you won’t want to miss.</p>\n<p>For the first time, our hosts are together <em>in-studio</em> — and they’re turning up the heat. Literally. Join ⁠⁠⁠⁠⁠<a href=\"https://www.linkedin.com/in/selenalarson/\">⁠Selena Larson⁠⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠⁠DISCARDED⁠</a>, along with <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠⁠Qintel⁠⁠⁠⁠⁠</a>⁠⁠⁠⁠, as they take on a fiery hot wings challenge while answering personal questions about themselves, their careers, and the stories that shaped them. Think you’ve seen them tackle malware mysteries before? Wait until you see them sweat. </p>\n<p>This one’s too good for audio alone — you’ll want to watch the full <a href=\"https://youtu.be/HDgLBxEKx28\">⁠video⁠</a> edition to catch every spicy reaction, every laugh, and maybe even a few tears.</p>\n<p>So grab your milk, get ready to feel the burn, and come join us for this special hot take on <em>Only Malware in the Building.</em></p>",
-    "publishedAt": "2025-09-02T07:00:00.000Z",
-    "duration": 2197,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1297959431.mp3?updated=1756494533",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/aa258880-850a-11f0-8430-c724c8a3617c/image/c9e03c2780f2971756311ea6bbed3d9a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 15,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/15/notes"
-  },
-  {
     "id": "devops-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "DevOps (noun) [Word Notes]",
@@ -1715,6 +1698,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/98/notes"
+  },
+  {
+    "id": "hot-sauce-and-hot-takes-an-only-malware-in-the-building-special-omitb",
+    "podcastId": "hacking-humans",
+    "title": "Hot sauce and hot takes: An Only Malware in the Building special. [OMITB]",
+    "description": "<p>Welcome in! You’ve entered, <em>Only Malware in the Building</em> — but this time, it’s not just another episode. This is a special edition you won’t want to miss.</p>\n<p>For the first time, our hosts are together <em>in-studio</em> — and they’re turning up the heat. Literally. Join ⁠⁠⁠⁠⁠<a href=\"https://www.linkedin.com/in/selenalarson/\">⁠Selena Larson⁠⁠⁠⁠⁠⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠⁠DISCARDED⁠</a>, along with <a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠⁠N2K Networks⁠⁠⁠⁠⁠⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠⁠Qintel⁠⁠⁠⁠⁠</a>⁠⁠⁠⁠, as they take on a fiery hot wings challenge while answering personal questions about themselves, their careers, and the stories that shaped them. Think you’ve seen them tackle malware mysteries before? Wait until you see them sweat. </p>\n<p>This one’s too good for audio alone — you’ll want to watch the full <a href=\"https://youtu.be/HDgLBxEKx28\">⁠video⁠</a> edition to catch every spicy reaction, every laugh, and maybe even a few tears.</p>\n<p>So grab your milk, get ready to feel the burn, and come join us for this special hot take on <em>Only Malware in the Building.</em></p>",
+    "publishedAt": "2025-09-02T07:00:00.000Z",
+    "duration": 2197,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1297959431.mp3?updated=1756494533",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/aa258880-850a-11f0-8430-c724c8a3617c/image/c9e03c2780f2971756311ea6bbed3d9a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 15,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/15/notes"
   },
   {
     "id": "social-engineering-served-sunny-side-up",
@@ -2023,23 +2023,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/344/notes"
   },
   {
-    "id": "bsimm-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "BSIMM (noun) [Word Notes]",
-    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>A descriptive model that provides a baseline of observed software security initiatives and activities from a collection of volunteer software development shops. </p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/bsimm\">⁠https://thecyberwire.com/glossary/bsimm⁠</a></p>\n<p>Audio reference link: “<a href=\"https://www.youtube.com/watch?v=GnlFrXPb4Qw\">⁠OWASP AppSecUSA 2014 - Keynote: Gary McGraw - BSIMM: A Decade of Software Security⁠</a>.” YouTube Video. YouTube, September 19, 2014. </p>",
-    "publishedAt": "2025-07-01T07:00:00.000Z",
-    "duration": 369,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4707040411.mp3?updated=1751052036",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/d26aaa48-538a-11f0-9bf9-33118e745bdf/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 89,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/89/notes"
-  },
-  {
     "id": "the-rmm-protocol-remote-risky-and-ready-to-strike-only-malware-in-the-building",
     "podcastId": "hacking-humans",
     "title": "The RMM protocol: Remote, risky, and ready to strike. [Only Malware in the Building]",
@@ -2055,6 +2038,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/12/notes"
+  },
+  {
+    "id": "bsimm-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "BSIMM (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>A descriptive model that provides a baseline of observed software security initiatives and activities from a collection of volunteer software development shops. </p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/bsimm\">⁠https://thecyberwire.com/glossary/bsimm⁠</a></p>\n<p>Audio reference link: “<a href=\"https://www.youtube.com/watch?v=GnlFrXPb4Qw\">⁠OWASP AppSecUSA 2014 - Keynote: Gary McGraw - BSIMM: A Decade of Software Security⁠</a>.” YouTube Video. YouTube, September 19, 2014. </p>",
+    "publishedAt": "2025-07-01T07:00:00.000Z",
+    "duration": 369,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW4707040411.mp3?updated=1751052036",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/d26aaa48-538a-11f0-9bf9-33118e745bdf/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 89,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/89/notes"
   },
   {
     "id": "the-many-faces-of-fraud",
@@ -2312,23 +2312,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/337/notes"
   },
   {
-    "id": "the-rmm-protocol-remote-risky-and-ready-to-strike-omitb",
-    "podcastId": "hacking-humans",
-    "title": "The RMM protocol: Remote, risky, and ready to strike. [OMITB]",
-    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠Selena Larson⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠Proofpoint⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠DISCARDED⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by <a href=\"https://www.n2k.com/\">⁠N2K Networks⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠Dave Bittner⁠</a> and our newest co-host, <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">Keith Mularski</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">Quintel</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, our hosts discuss the growing trend of cybercriminals using legitimate remote monitoring and management (RMM) tools in email campaigns as a first-stage payload. They explore how these tools are being leveraged for data theft, financial fraud, and lateral movement within networks. With the decline of traditional malware delivery methods, including loaders and botnets, the shift toward RMMs marks a significant change in attack strategies. Tune in to learn more about this evolving threat landscape and how to stay ahead of these tactics.</p>",
-    "publishedAt": "2025-05-06T07:00:00.000Z",
-    "duration": 2380,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW7217003203.mp3?updated=1747074465",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/201ffa52-2a84-11f0-9fc6-07801a437e51/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 12,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/12/notes"
-  },
-  {
     "id": "owasp-broken-access-control-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "OWASP broken access control (noun) [Word Notes]",
@@ -2344,6 +2327,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/82/notes"
+  },
+  {
+    "id": "the-rmm-protocol-remote-risky-and-ready-to-strike-omitb",
+    "podcastId": "hacking-humans",
+    "title": "The RMM protocol: Remote, risky, and ready to strike. [OMITB]",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">⁠Selena Larson⁠</a>, <a href=\"https://www.proofpoint.com/\">⁠Proofpoint⁠</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠DISCARDED⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by <a href=\"https://www.n2k.com/\">⁠N2K Networks⁠</a> <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠Dave Bittner⁠</a> and our newest co-host, <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">Keith Mularski</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">Quintel</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, our hosts discuss the growing trend of cybercriminals using legitimate remote monitoring and management (RMM) tools in email campaigns as a first-stage payload. They explore how these tools are being leveraged for data theft, financial fraud, and lateral movement within networks. With the decline of traditional malware delivery methods, including loaders and botnets, the shift toward RMMs marks a significant change in attack strategies. Tune in to learn more about this evolving threat landscape and how to stay ahead of these tactics.</p>",
+    "publishedAt": "2025-05-06T07:00:00.000Z",
+    "duration": 2380,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW7217003203.mp3?updated=1747074465",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/201ffa52-2a84-11f0-9fc6-07801a437e51/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 12,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/12/notes"
   },
   {
     "id": "the-prince-the-pretender-and-the-psa",
@@ -2652,23 +2652,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/328/notes"
   },
   {
-    "id": "zero-trust-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "zero trust (noun) [Word Notes]",
-    "description": "<p>Please enjoy this encore of Word Notes. </p><p>A security philosophy that assumes adversaries have already penetrated the digital environment and tries to reduce the potential impact by limiting access by people, devices, and software to only the resources essential to perform their function and nothing more. </p>",
-    "publishedAt": "2025-03-04T08:00:00.000Z",
-    "duration": 542,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW8084417772.mp3?updated=1741034464",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/c99e7342-f870-11ef-9988-43a0b0f522df/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 73,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/73/notes"
-  },
-  {
     "id": "the-new-malware-on-the-block-only-malware-in-the-building",
     "podcastId": "hacking-humans",
     "title": "The new malware on the block. [Only Malware in the Building]",
@@ -2684,6 +2667,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/10/notes"
+  },
+  {
+    "id": "zero-trust-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "zero trust (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes. </p><p>A security philosophy that assumes adversaries have already penetrated the digital environment and tries to reduce the potential impact by limiting access by people, devices, and software to only the resources essential to perform their function and nothing more. </p>",
+    "publishedAt": "2025-03-04T08:00:00.000Z",
+    "duration": 542,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW8084417772.mp3?updated=1741034464",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/c99e7342-f870-11ef-9988-43a0b0f522df/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 73,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/73/notes"
   },
   {
     "id": "live-from-orlando-its-hacking-humans",
@@ -2958,23 +2958,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/320/notes"
   },
   {
-    "id": "common-vulnerabilities-and-exposures-cve-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "common vulnerabilities and exposures (CVE) (noun) [Word Notes]",
-    "description": "<p>A public list sponsored by the US government and designed to uniquely identify, without the need to manually cross- reference, all the known software vulnerabilities in the world. </p>",
-    "publishedAt": "2025-01-07T08:00:00.000Z",
-    "duration": 433,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW6353260542.mp3?updated=1736196217",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 65,
-    "seasonNumber": 2,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/65/notes"
-  },
-  {
     "id": "malware-metamorphosis-2024-reflections-and-2025-predictions-only-malware-in-the-",
     "podcastId": "hacking-humans",
     "title": "Malware metamorphosis: 2024 reflections and 2025 predictions. [Only Malware in the building]",
@@ -2990,6 +2973,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/8/notes"
+  },
+  {
+    "id": "common-vulnerabilities-and-exposures-cve-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "common vulnerabilities and exposures (CVE) (noun) [Word Notes]",
+    "description": "<p>A public list sponsored by the US government and designed to uniquely identify, without the need to manually cross- reference, all the known software vulnerabilities in the world. </p>",
+    "publishedAt": "2025-01-07T08:00:00.000Z",
+    "duration": 433,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW6353260542.mp3?updated=1736196217",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 65,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/65/notes"
   },
   {
     "id": "the-intersection-of-hackers-scammers-and-false-collaborations",
@@ -3298,23 +3298,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/313/notes"
   },
   {
-    "id": "whispers-in-the-wires-a-closer-look-at-the-new-age-of-intrusion-omitb",
-    "podcastId": "hacking-humans",
-    "title": "Whispers in the wires: A closer look at the new age of intrusion. [OMITB]",
-    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">Selena Larson</a>, <a href=\"https://www.proofpoint.com/\">Proofpoint</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">DISCARDED</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by <a href=\"https://www.n2k.com/\">N2K</a> Networks <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">Dave Bittner</a> and <a href=\"https://www.linkedin.com/in/rickhoward/\">Rick Howard</a> to uncover the stories behind notable cyberattacks. </p><p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, we talk about how threat actors are shifting tactics across the landscape, focusing more on advanced social engineering and refined initial access strategies than on sophisticated malware. </p><p>We’ll dive into Proofpoint's latest <a href=\"https://www.proofpoint.com/us/blog/threat-insight/security-brief-actor-uses-compromised-accounts-customized-social-engineering\">blog</a> detailing a transport sector breach that, while involving relatively standard malware, showcases this growing trend of nuanced techniques and toolsets.</p>",
-    "publishedAt": "2024-11-05T08:00:00.000Z",
-    "duration": 2350,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW8205716381.mp3?updated=1730750749",
-    "videoUrl": null,
-    "imageUrl": "https://megaphone.imgix.net/podcasts/fd2b62ae-9ae4-11ef-950f-cbef6c04f373/image/d9f0cdb0dcdd515f0dfd92da4cc68fb2.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-    "episodeNumber": 6,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/6/notes"
-  },
-  {
     "id": "red-teaming-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "red teaming (noun) [Word Notes]",
@@ -3330,6 +3313,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/56/notes"
+  },
+  {
+    "id": "whispers-in-the-wires-a-closer-look-at-the-new-age-of-intrusion-omitb",
+    "podcastId": "hacking-humans",
+    "title": "Whispers in the wires: A closer look at the new age of intrusion. [OMITB]",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is <a href=\"https://www.linkedin.com/in/selenalarson/\">Selena Larson</a>, <a href=\"https://www.proofpoint.com/\">Proofpoint</a> intelligence analyst and host of their podcast <a href=\"https://www.proofpoint.com/us/podcasts/discarded\">DISCARDED</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by <a href=\"https://www.n2k.com/\">N2K</a> Networks <a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">Dave Bittner</a> and <a href=\"https://www.linkedin.com/in/rickhoward/\">Rick Howard</a> to uncover the stories behind notable cyberattacks. </p><p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. On this episode, we talk about how threat actors are shifting tactics across the landscape, focusing more on advanced social engineering and refined initial access strategies than on sophisticated malware. </p><p>We’ll dive into Proofpoint's latest <a href=\"https://www.proofpoint.com/us/blog/threat-insight/security-brief-actor-uses-compromised-accounts-customized-social-engineering\">blog</a> detailing a transport sector breach that, while involving relatively standard malware, showcases this growing trend of nuanced techniques and toolsets.</p>",
+    "publishedAt": "2024-11-05T08:00:00.000Z",
+    "duration": 2350,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW8205716381.mp3?updated=1730750749",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/fd2b62ae-9ae4-11ef-950f-cbef6c04f373/image/d9f0cdb0dcdd515f0dfd92da4cc68fb2.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 6,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/6/notes"
   },
   {
     "id": "the-malware-mash-2",
@@ -3536,23 +3536,6 @@
     "link": "https://thecyberwire.com/podcasts/cso-perspectives-public/5573/notes"
   },
   {
-    "id": "non-fungible-tokens-nft-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "non-fungible tokens (NFT) (noun) [Word Notes]",
-    "description": "<p>Enjoy this encore of Word Notes.</p><p>Digital assets that are cryptographically protected on a blockchain and contain unique identification codes and metadata that makes them one of a kind.</p>",
-    "publishedAt": "2024-10-01T07:00:00.000Z",
-    "duration": 334,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1121002856.mp3?updated=1727711696",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 54,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "bonus",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/51/notes"
-  },
-  {
     "id": "the-dark-arts-of-cyber-only-malware-in-the-building",
     "podcastId": "hacking-humans",
     "title": "The Dark Arts of cyber. [Only Malware in the Building]",
@@ -3568,6 +3551,23 @@
     "episodeType": "bonus",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/5/notes"
+  },
+  {
+    "id": "non-fungible-tokens-nft-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "non-fungible tokens (NFT) (noun) [Word Notes]",
+    "description": "<p>Enjoy this encore of Word Notes.</p><p>Digital assets that are cryptographically protected on a blockchain and contain unique identification codes and metadata that makes them one of a kind.</p>",
+    "publishedAt": "2024-10-01T07:00:00.000Z",
+    "duration": 334,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1121002856.mp3?updated=1727711696",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 54,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/51/notes"
   },
   {
     "id": "the-devil-is-in-the-details",
@@ -7208,23 +7208,6 @@
     "link": "https://thecyberwire.com/podcasts/word-notes/121/notes"
   },
   {
-    "id": "protecting-your-identity",
-    "podcastId": "hacking-humans",
-    "title": "Protecting your identity.",
-    "description": "<p>Jameeka Green Aaron, CISO, Customer Identity at Okta, sits down with Dave to speak about their State of Secure Identity report. Dave and Joe share some listener follow up from Richard, who writes in to share his thoughts on the discussion of the phishing kit targeting WordPress sites in a previous episode, and also writes in about last episode’s discussion on how companies were turning on employees who are overworked with two remote jobs and shares how Equifax was one of these companies. Dave's story follows typosquatting, which is when a scammer registers a website that is very similar to the real one, but will have a typo in it (ex: amozon, homdepot, gougle) and how a large typosquatting campaign is delivering tech support scams. Joe's story follows a South Bay man who had the misfortune of accepting hundreds of open house offers, but the houses weren't for sale. Our catch of the day comes from listener Chris who writes in that he's never gotten a phishing email on his work email or personal email, but that he received his first phish from PayPal, which seemed to me a notification at first glance rather than a message telling him there is fraudulent activity happening in his account.</p><p>Links to stories:</p><ul>\n<li><a href=\"https://www.malwarebytes.com/blog/threat-intelligence/large-typosquatting-campaign-delivers-tech-support-scams\">Large typosquatting campaign delivers tech support scams</a></li>\n<li><a href=\"https://www.latimes.com/california/story/2022-10-26/prison-sentence-multimillion-dollar-scam-fake-open-houses\">A South Bay man accepted hundreds of offers from open houses. But the homes weren’t for sale</a></li>\n</ul><p><br></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
-    "publishedAt": "2022-11-03T05:00:00.000Z",
-    "duration": 3094,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1005841703.mp3?updated=1667600067",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 219,
-    "seasonNumber": 5,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/hacking-humans/219/notes"
-  },
-  {
     "id": "whats-your-problem-trailer",
     "podcastId": "hacking-humans",
     "title": "What's Your Problem trailer.",
@@ -7240,6 +7223,23 @@
     "episodeType": "trailer",
     "appleEpisodeId": null,
     "link": null
+  },
+  {
+    "id": "protecting-your-identity",
+    "podcastId": "hacking-humans",
+    "title": "Protecting your identity.",
+    "description": "<p>Jameeka Green Aaron, CISO, Customer Identity at Okta, sits down with Dave to speak about their State of Secure Identity report. Dave and Joe share some listener follow up from Richard, who writes in to share his thoughts on the discussion of the phishing kit targeting WordPress sites in a previous episode, and also writes in about last episode’s discussion on how companies were turning on employees who are overworked with two remote jobs and shares how Equifax was one of these companies. Dave's story follows typosquatting, which is when a scammer registers a website that is very similar to the real one, but will have a typo in it (ex: amozon, homdepot, gougle) and how a large typosquatting campaign is delivering tech support scams. Joe's story follows a South Bay man who had the misfortune of accepting hundreds of open house offers, but the houses weren't for sale. Our catch of the day comes from listener Chris who writes in that he's never gotten a phishing email on his work email or personal email, but that he received his first phish from PayPal, which seemed to me a notification at first glance rather than a message telling him there is fraudulent activity happening in his account.</p><p>Links to stories:</p><ul>\n<li><a href=\"https://www.malwarebytes.com/blog/threat-intelligence/large-typosquatting-campaign-delivers-tech-support-scams\">Large typosquatting campaign delivers tech support scams</a></li>\n<li><a href=\"https://www.latimes.com/california/story/2022-10-26/prison-sentence-multimillion-dollar-scam-fake-open-houses\">A South Bay man accepted hundreds of offers from open houses. But the homes weren’t for sale</a></li>\n</ul><p><br></p><p>Have a Catch of the Day you'd like to share? Email it to us at <a href=\"mailto:hackinghumans@thecyberwire.com\">hackinghumans@thecyberwire.com</a> or hit us up on <a href=\"https://twitter.com/HackingHumansCW\">Twitter</a>.</p>",
+    "publishedAt": "2022-11-03T05:00:00.000Z",
+    "duration": 3094,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1005841703.mp3?updated=1667600067",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 219,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/hacking-humans/219/notes"
   },
   {
     "id": "secure-web-gateway-noun-word-notes-2",
@@ -10761,23 +10761,6 @@
     "link": "https://thecyberwire.com/podcasts/hacking-humans/5/notes"
   },
   {
-    "id": "tactics-techniques-and-procedures-ttps-noun-word-notes",
-    "podcastId": "hacking-humans",
-    "title": "tactics, techniques and procedures (TTPs) (noun) [Word Notes]",
-    "description": "<p>A set of behaviors that precisely describes a cyber adversary attack campaign.</p>",
-    "publishedAt": "2020-12-22T08:00:00.000Z",
-    "duration": 403,
-    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1542562394.mp3?updated=1608663287",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 24,
-    "seasonNumber": 1,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://thecyberwire.com/podcasts/word-notes/24/notes"
-  },
-  {
     "id": "rootkit-noun-word-notes",
     "podcastId": "hacking-humans",
     "title": "rootkit (noun) [Word Notes]",
@@ -10793,6 +10776,23 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://thecyberwire.com/podcasts/word-notes/25/notes"
+  },
+  {
+    "id": "tactics-techniques-and-procedures-ttps-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "tactics, techniques and procedures (TTPs) (noun) [Word Notes]",
+    "description": "<p>A set of behaviors that precisely describes a cyber adversary attack campaign.</p>",
+    "publishedAt": "2020-12-22T08:00:00.000Z",
+    "duration": 403,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1542562394.mp3?updated=1608663287",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 24,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/24/notes"
   },
   {
     "id": "phishing-lures-that-may-be-in-your-inbox-soon-and-how-to-deal-left-of-bang",
