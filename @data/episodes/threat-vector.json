@@ -1,5 +1,22 @@
 [
   {
+    "id": "encore-dont-leave-them-to-their-own-devices",
+    "podcastId": "threat-vector",
+    "title": "Encore: Don't Leave Them to Their Own Devices",
+    "description": "<p><em><strong>Enjoy this encore episode of Threat Vector by Palo Alto Networks.   </strong></em></p>\n<p>In this episode of Threat Vector, host<a href=\"https://www.linkedin.com/in/davidrmoulton/\">⁠ <u>David Moulton</u>⁠</a> speaks with<a href=\"https://www.linkedin.com/in/asherdavila/\">⁠ <u>Asher Davila</u>⁠</a>, Principal Security Researcher at Palo Alto Networks, about the newly released <strong>2025 Device Security Enterprise Threat Report</strong>. This data-rich report reveals that over 21% of connected enterprise devices have known vulnerabilities, and nearly 40% of devices registered in Active Directory lack proper EDR/XDR coverage. Even more concerning, 32.5% of all network-connected assets are unmanaged, creating a massive blind spot for defenders. Asher breaks down why understanding both managed and unmanaged device exposure is essential to securing modern environments. From weak segmentation to credential-based threats and lifecycle risks, this conversation delivers critical insights for security leaders seeking to gain control of their expanding device landscape.</p>\n<p>Read the <a href=\"https://www.paloaltonetworks.com/resources/infographics/device-security-threat-2025\">⁠<u>2025 Device Security Threat Report.</u>⁠</a></p>\n<p><strong>Join the conversation on our social media channels:</strong></p>\n<ul>\n  <li><strong>Website</strong>:<a href=\"https://www.paloaltonetworks.com/unit42\">⁠⁠&nbsp;<u>⁠⁠⁠⁠https://www.paloaltonetworks.com/</u>⁠⁠</a></li>\n  <li><strong>Threat Research:</strong><a href=\"https://unit42.paloaltonetworks.com/\">⁠⁠<strong>&nbsp;</strong><u>⁠⁠⁠⁠https://unit42.paloaltonetworks.com/⁠⁠⁠⁠</u>⁠⁠</a></li>\n  <li><strong>Facebook:</strong><a href=\"https://www.facebook.com/LifeatPaloAltoNetworks/\">⁠⁠<strong>&nbsp;</strong><u>⁠⁠⁠⁠https://www.facebook.com/LifeatPaloAltoNetworks/⁠⁠⁠⁠</u>⁠⁠</a></li>\n  <li><strong>LinkedIn:</strong><a href=\"https://www.linkedin.com/company/unit42/\">⁠⁠<strong>&nbsp;</strong><u>⁠⁠⁠⁠https://www.linkedin.com/company/unit42/⁠⁠⁠⁠</u>⁠⁠</a></li>\n  <li><strong>YouTube:</strong><a href=\"https://www.youtube.com/channel/UCvJQO11qoCHYwZ4Ah4Jf-Tw\">⁠⁠<strong>&nbsp;</strong>⁠⁠</a><a href=\"https://www.youtube.com/paloaltonetworks\">⁠<u>@paloaltonetworks</u>⁠</a></li>\n  <li><strong>Twitter:</strong><a href=\"https://twitter.com/PaloAltoNtwks\">⁠⁠<strong>&nbsp;</strong><u>⁠⁠⁠⁠</u>⁠⁠</a><a href=\"https://twitter.com/PaloAltoNtwks%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0\">⁠⁠<u>https://twitter.com/PaloAltoNtwks⁠⁠⁠⁠</u>⁠</a></li>\n</ul>\n<p><strong>About Threat Vector</strong></p>\n<p>Threat Vector by Palo Alto Networks is your premier podcast for security thought leadership. Join us as we explore pressing cybersecurity threats, robust protection strategies, and the latest industry trends.</p>\n<p>The podcast features in-depth discussions with industry leaders, Palo Alto Networks experts, and customers, providing crucial insights for security decision-makers.</p>\n<p>Whether you're looking to stay ahead of the curve with innovative solutions or understand the evolving cybersecurity landscape, Threat Vector equips you with the knowledge needed to safeguard your organization.</p>\n<p><strong>Palo Alto Networks</strong></p>\n<p>Palo Alto Networks enables your team to prevent successful cyberattacks with an automated approach that delivers consistent security across the cloud, network, and mobile.<a href=\"http://paloaltonetworks.com/\">⁠⁠&nbsp;<u>⁠http://paloaltonetworks.com.</u></a></p>",
+    "publishedAt": "2026-07-23T06:00:00.000Z",
+    "duration": 2269,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/e083fe/traffic.megaphone.fm/CYBW4723569073.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/b0ae59c8-c56c-11f0-ac9a-37cfad9c2c53/image/ca950ed6e9fbfe1adb3ad442ebeeee7d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 91,
+    "seasonNumber": 7,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/threat-vector/91/notes"
+  },
+  {
     "id": "encore-securing-the-ai-supply-chain",
     "podcastId": "threat-vector",
     "title": "Encore: Securing the AI Supply Chain",
