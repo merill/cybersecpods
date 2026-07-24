@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-189-or-owasp-top-10-part-3-software-supply-chain-failures-from-solarwind",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Episode 189 | OWASP Top 10 Part 3: Software Supply Chain Failures — From SolarWinds to Vibe Coding",
+    "description": "<p>Almost no one writes an application from scratch anymore, and that's exactly the problem. In Part 3 of our OWASP Top 10 series, Brad Causey and Jordan Natter break down A03: Software Supply Chain Failures, the category that climbed to #3 and topped OWASP's own community survey as the vulnerability organizations worry about most. If your team pulls in third-party libraries, buys SaaS, or lets anyone \"vibe code\" a project, this episode is for you.</p><p>Brad and Jordan cover both sides of supply chain risk: the trusted third-party applications you deploy (SolarWinds being the case that put this category on the map) and the open-source components you pull into your own code without always knowing what's inside. They explain why AI and vibe coding are accelerating the problem, why jQuery is the modern-day Flash, and why \"just upgrade the package\" is rarely that simple.</p><p>From there it gets practical:</p><ul><li>What a Software Bill of Materials (SBOM) is and why you need one</li><li>Transitive dependencies — the packages hiding beneath your packages</li><li>Building security checks into your CI/CD pipeline and shifting left</li><li>Why a flaw caught in static analysis can cost ~$200, while the same flaw found in a pen test can cost $20,000+</li><li>Why a pen test should validate your controls, not be your first line of defense</li><li>How SecurIT360's Project Lantern and ChainGarde automate SBOM analysis against known and actively-exploited vulnerabilities</li><li>A playbook for vetting vendors, writing accountability into contracts, and holding third parties responsible for actually fixing findings</li></ul><p>The takeaway: whether you're writing software or buying it, you need a way to inventory your components, check them against known vulnerabilities, and hold your vendors accountable — and most of it you can do with tools and teams you already have.</p><p>Part 1 — Broken Access Control, IDOR & CORS: <a href='https://youtu.be/BwYJ-kZ3XaY'>https://youtu.be/BwYJ-kZ3XaY</a></p><p>Part 2 — Security Misconfigurations: <a href='https://youtu.be/Po8H140BijE'>https://youtu.be/Po8H140BijE</a></p><p>Need a web app pen test? <a href='https://securit360.com'>SecurIT360 | Cybersecurity From Every Angle</a> </p><p>More content: <a href='https://offsec.blog'>https://offsec.blog</a></p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-07-24T10:00:00.000Z",
+    "duration": 1661,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19540160-episode-189-owasp-top-10-part-3-software-supply-chain-failures-from-solarwinds-to-vibe-coding.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 189,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "guaranteed-way-to-catch-threat-actors-or-ep-188",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Guaranteed way to catch threat actors | Ep 188",
