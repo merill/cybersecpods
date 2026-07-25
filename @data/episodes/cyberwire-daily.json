@@ -1,5 +1,22 @@
 [
   {
+    "id": "cold-lures-hot-targets-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "Cold lures, hot targets. [Research Saturday]",
+    "description": "<p>This week, we are joined by <a href=\"https://www.linkedin.com/in/ondrej-kubovi%C4%8D-84a3a359/\">Ondrej Kubovič</a>, Security Awareness Specialist from <a href=\"https://www.linkedin.com/company/eset/\">ESET</a>, discussing their work on \"FrostyNeighbor: Fresh mischief and digital shenanigans.\" Ondrej walks us through ESET's latest research into FrostyNeighbor, a long-running Belarus-aligned cyberespionage group that has continued to target Ukrainian government organizations with increasingly sophisticated spearphishing campaigns. </p>\n<p>We discuss how the group uses malicious PDF lures, server-side victim validation, and an updated JavaScript-based malware chain to selectively deploy espionage tools, demonstrating its ongoing efforts to evade detection while compromising high-value targets across Eastern Europe.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.silentpush.com/blog/drivesurge/\">⁠</a><a href=\"https://www.welivesecurity.com/en/eset-research/frostyneighbor-fresh-mischief-digital-shenanigans/\">FrostyNeighbor: Fresh mischief and digital shenanigans</a></li>\n</ul>",
+    "publishedAt": "2026-07-25T07:00:00.000Z",
+    "duration": 1023,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8901898338.mp3?updated=1743778764",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/6b051ebe-8783-11f1-9350-9facc1e73265/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 434,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/434/notes"
+  },
+  {
     "id": "laundry-bear-gets-the-spin-cycle",
     "podcastId": "cyberwire-daily",
     "title": "Laundry Bear gets the spin cycle.",
