@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-how-ai-is-putting-pressure-on-edr",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: How AI is putting pressure on EDR",
+    "description": "<p>In this sponsored interview James Wilson chats with Airlock Digital co-founders David Cottingham and Daniel Schell about how attackers are using LLMs to enumerate EDR detections.</p>\n\n<p>LLMs dramatically reduce the time and specialist labour needed to extract rulesets out of EDR products. What once might have taken months of manual reversing can now be accelerated by “burning tokens”. The takeaway is that defenders increasingly need to assume attackers have visibility into how their endpoint security products work.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"\"></a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-07-26T22:39:34.000Z",
+    "duration": 1078,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI137.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI137/"
+  },
+  {
     "id": "risky-bulletin-western-cyber-agencies-warn-of-russian-hacks-of-zimbra-servers",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Western cyber agencies warn of Russian hacks of Zimbra servers",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS542/"
-  },
-  {
-    "id": "between-two-nerds-its-raining-ios-exploit-kits",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: Its raining iOS exploit kits!",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss how Google just keeps on finding iOS exploit kits. Is iPhone security busted? And why are Russian state hackers after crypto?</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/0R-XMJnDw-I\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit\">Google on Coruna</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cloud.google.com/blog/topics/threat-intelligence/darksword-ios-exploit-chain\">Google on DarkSword</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://iverify.io/blog/darksword-ios-exploit-kit-explained\">iVerify on DarkSword</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.lookout.com/threat-intelligence/article/darksword\">Lookout on DarkSword</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/RBFEATURES5/\">Coruna deep dive</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-03-23T08:08:21.000Z",
-    "duration": 1420,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN159.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN159/"
   }
 ]
