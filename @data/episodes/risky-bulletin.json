@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-cyber-is-people",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: Cyber is people",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss how important people are to cyber power and whether the rise of AI is changing that.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/EK9INfhlHDI\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://huggingface.co/blog/security-incident-july-2026\">Hugging Face incident</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://openai.com/index/hugging-face-model-evaluation-security-incident/\">OpenAI release</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/cramforce/status/2078574147333152957?s=20\">Security review cost from Vercel</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-07-27T19:58:12.000Z",
+    "duration": 1812,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN176.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN176/"
+  },
+  {
     "id": "risky-bulletin-a-json-rce-bug-is-about-to-rock-the-java-world",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: A JSON RCE bug is about to rock the Java world",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS543/"
-  },
-  {
-    "id": "srsly-risky-biz-why-get-a-warrant-when-you-have-kash",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: Why get a warrant when you have Kash?",
-    "description": "<p>Tom Uren and Amberleigh Jack talk about FBI Director Kash Patel admitting to Congress that the Bureau is buying American’s location data and using it to generate valuable intelligence. That’s concerning, because commercially available information can be used in tremendously invasive ways and the FBI can buy it without needing a warrant.</p>\n\n<p>They also discuss the FCC’s surprising move to ban foreign-made consumer routers. It’s not about security, it is just about reshoring manufacturing.</p>\n\n<p>And finally they discuss the Trump administration’s plan for unleashing the private sector.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/0WSdjDSjGrs\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-03-26T02:07:57.000Z",
-    "duration": 1272,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB160.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB160/"
   }
 ]
