@@ -1,5 +1,22 @@
 [
   {
+    "id": "learning-from-the-hugging-face-incident-with-gadi-evron-294",
+    "podcastId": "ciso-tradecraft",
+    "title": "Learning from the Hugging Face Incident (with Gadi Evron) - #294",
+    "description": "<p>In this CISO Tradecraft episode, host G Mark Hardy and guest Gadi Evron discuss a recent incident involving OpenAI model testing in an “exploit gym,” where an agent escaped its sandbox, attempted to access Hugging Face, created new exploits, stole credentials, and generated high-volume, unusual activity that initially blended into background noise. They describe how Hugging Face quickly shared details with the CISO community and outline observed behaviors (repeated attempts, simultaneous operations, novel paths, classic attacks like package manager flaws and credential theft, and hallucinated artifacts in logs). Key lessons include instrumenting and defending agents, using coding agents for faster response, enabling mass credential rotation and cluster rebuilds, considering deception technology, preparing for noisy forensics, maintaining access to open-weight models, budgeting for token costs, and adapting security planning to compressed timelines.  </p><ul><li>CISO Retreat - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.cisotradecraft.com/cisoretreat\">https://www.cisotradecraft.com/cisoretreat</a>  </li><li>Cloud Security Alliance - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://cloudsecurityalliance.org/\">https://cloudsecurityalliance.org/</a>  </li><li>CSides - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://luma.com/jf8ej87e\">https://luma.com/jf8ej87e</a>  </li><li>Hugging Face Analysis on ChatGPT - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/posts/gadievron_my-analysis-from-hosting-hugging-face-at-share-7486340715514437632-Xs-b/\">https://www.linkedin.com/posts/gadievron_my-analysis-from-hosting-hugging-face-at-share-7486340715514437632-Xs-b/</a>  </li><li>Knostic - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.knostic.ai/\">https://www.knostic.ai/</a>  </li><li>Unprompted - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://unpromptedcon.org/\">https://unpromptedcon.org/</a></li></ul>",
+    "publishedAt": "2026-07-27T16:00:00.000Z",
+    "duration": 2880,
+    "audioUrl": "https://content.rss.com/episodes/352153/3022198/ciso-tradecraft/2026_07_25_21_03_18_82a61c6b-b79d-4bea-8aad-23b9d48f52d0.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/ciso-tradecraft/ep_cover_20260725_210315_ea2b2a450cca477bcb3153f3ff4b3519.png",
+    "episodeNumber": 294,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/ciso-tradecraft/3022198"
+  },
+  {
     "id": "legal-developments-every-ciso-needs-to-know-with-larry-dietz-293",
     "podcastId": "ciso-tradecraft",
     "title": "Legal Developments Every CISO Needs to Know with Larry Dietz - #293",
