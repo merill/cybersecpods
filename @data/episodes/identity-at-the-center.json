@@ -1,5 +1,22 @@
 [
   {
+    "id": "437-identiverse-2026-pam-dingle",
+    "podcastId": "identity-at-the-center",
+    "title": "#437 - Identiverse 2026 - Pam Dingle",
+    "description": "<p>Live from the IDAC booth at Identiverse 2026, Jeff and Jim sit down with Pam Dingle, Director of Identity Standards at Microsoft, to unpack agentic identity. Pam breaks down assistive versus autonomous agents, walks through where standards like SPIFFE and OAuth hold up, and explains the difference between delegation, impersonation, and partition. The conversation also covers credential discovery risk, shared signals and revocation, what enterprises should prioritize now, and the value of hallway conversations at Identiverse.</p><p><br></p><p><br></p><p>Connect with Pam: https://www.linkedin.com/in/pameladingle/</p><p><br></p><p>OAuth Actor Profile for Delegation: https://www.ietf.org/archive/id/draft-mcguinness-oauth-actor-profile-00.html</p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p>Timestamps:</p><p>00:00 Intro and Identiverse 2026 vibes</p><p>04:01 Defining agentic identity</p><p>07:06 Has the earth really shifted</p><p>11:38 An old problem thats been bejeweled</p><p>15:13 From Nulli Secundus to Microsoft</p><p>16:00 How standards are holding up</p><p>19:27 Client ID metadata and just in time trust</p><p>21:41 Shared signals and the revocation problem</p><p>24:43 Deploying agentic identity at scale</p><p>28:11 Registries at scale</p><p>29:04 Delegation authorization and attenuation</p><p>32:33 Delegation vs impersonation vs partition</p><p>36:03 The one thing you can fix right now</p><p>37:56 Favorite hallway conversation</p><p>42:29 The solar system of hallway conversations</p><p>45:51 Remembering Kim Cameron</p><p>48:00 New voices to watch</p><p>52:08 Wrap up and thank you</p><p><br></p><p><br></p><p>Keywords: IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Pam Dingle, Pamela Dingle, Microsoft, Identiverse 2026, agentic identity, agentic AI, non-human identity, delegation, impersonation, SPIFFE, OAuth, identity standards, IAM, digital identity, workload identity</p><p><br></p>",
+    "publishedAt": "2026-07-27T09:00:00.000Z",
+    "duration": 3331,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/122702870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2Fd182cc00-07ae-bc5e-703d-e0bda9e2a3c6.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 437,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/437---Identiverse-2026---Pam-Dingle-e3lv3im"
+  },
+  {
     "id": "436-sponsor-spotlight-p0-security",
     "podcastId": "identity-at-the-center",
     "title": "#436 - Sponsor Spotlight - P0 Security",
