@@ -1,5 +1,22 @@
 [
   {
+    "id": "lattice-cryptography-with-mark-schultz-wu",
+    "podcastId": "security-cryptography-whatever",
+    "title": "Lattice Cryptography with Mark Schultz-Wu",
+    "description": "<p>We invited Mark Schultz-Wu on the podcast to talk about the history of lattice cryptography. When lattices are explained in plain english, they are actually quite simple! I don't think any of us have ever seen Deirdre so happy. If you're watching the video version, there's a section that's 6.1 minutes long with no cuts and consists just of Deirdre vigorously agreeing with what Mark is saying while smiling. What a time to be alive.</p><p>Anyway, we are hosting another happy hour in Vegas between Black Hat and DEF CON! It's sponsored by <a href='https://goteleport.com/'>Teleport</a>! Thank you to Teleport, and dear readers, you should go check them out. Check out our socials or the podcast site to register.</p><p>Transcript: https://securitycryptographywhatever.com/2026/07/27/lattices-with-mark-schultz-wu/</p><p>Links:</p><ul><li>Mark's IETF Post <a href='https://mailarchive.ietf.org/arch/msg/tls/HznE1IcCjstEjhh4M1p59qX1JlQ/'>https://mailarchive.ietf.org/arch/msg/tls/HznE1IcCjstEjhh4M1p59qX1JlQ/</a></li><li>NTRU <a href='https://en.wikipedia.org/wiki/NTRU'>https://en.wikipedia.org/wiki/NTRU</a></li><li>The original lattices are hard paper <a href='https://www.scirp.org/reference/referencespapers?referenceid=3401227'>https://www.scirp.org/reference/referencespapers?referenceid=3401227</a></li><li>The original LWE for cryptography paper <a href='https://arxiv.org/abs/2401.03703'>https://arxiv.org/abs/2401.03703</a></li><li>Entropic LWE <a href='https://eprint.iacr.org/2020/119'>https://eprint.iacr.org/2020/119</a></li><li>Dilithium round 3 submission: <a href='https://pq-crystals.org/dilithium/data/dilithium-specification-round3.pdf'>https://pq-crystals.org/dilithium/data/dilithium-specification-round3.pdf</a></li><li>Recent attacks on Classic McEliece: <a href='https://eprint.iacr.org/2024/1694'>https://eprint.iacr.org/2024/1694</a></li><li>Lectures on post-quantum cryptography from Alfred Menezes (an originator of elliptic curve cryptography) <a href='https://www.youtube.com/@cryptography101-alfred'>https://www.youtube.com/@cryptography101-alfred</a></li><li>Falcon <a href='https://csrc.nist.gov/csrc/media/Presentations/2024/falcon/images-media/prest-falcon-pqc2024.pdf'>https://csrc.nist.gov/csrc/media/Presentations/2024/falcon/images-media/prest-falcon-pqc2024.pdf</a></li><li>Regev: <a href='https://cims.nyu.edu/~regev/#research'>https://cims.nyu.edu/~regev/#research</a></li><li>Tightness in Proofs: <a href='https://eprint.iacr.org/2016/360.pdf'>https://eprint.iacr.org/2016/360.pdf</a><br/><br/><br/><br/></li></ul><p><br/>\"Security Cryptography Whatever\" is hosted by <a href='https://twitter.com/durumcrustulum'>Deirdre Connolly</a> (@durumcrustulum), <a href='https://twitter.com/tqbf'>Thomas Ptacek</a> (@tqbf), and <a href='https://twitter.com/dadrian'>David Adrian</a> (@dadrian)</p>",
+    "publishedAt": "2026-07-27T07:00:00.000Z",
+    "duration": 4629,
+    "audioUrl": "https://www.buzzsprout.com/1822302/episodes/19546410-lattice-cryptography-with-mark-schultz-wu.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 8,
+    "seasonNumber": 5,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "trumps-golden-post-quantum-eos",
     "podcastId": "security-cryptography-whatever",
     "title": "Trump's Golden Post-Quantum EO(s)",
