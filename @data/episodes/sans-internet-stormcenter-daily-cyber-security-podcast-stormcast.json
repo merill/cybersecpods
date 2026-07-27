@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-july-27th-2026-esafenet-cdg-scans-dns-poisoning-macos-gate",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, July 27th, 2026: ESAFENET CDG Scans; DNS Poisoning; macOS Gatekeeper bypass; GitHub and PyPi updates",
+    "description": "<br/>\nScans for ESAFENET CDG 3 Document Management System Weak Logins<br/>\n<a href=\"https://isc.sans.edu/diary/Scans%20for%20ESAFENET%20CDG%203%20Document%20Management%20System%20Weak%20Logins/33184\">https://isc.sans.edu/diary/Scans%20for%20ESAFENET%20CDG%203%20Document%20Management%20System%20Weak%20Logins/33184</a><br/>\nDNS Poisoning Tactics Expand to Hospitality Wi-Fi<br/>\n<a href=\"https://reliaquest.com/blog/threat-spotlight-dns-poisoning-tactics-expand-to-hospitality/\">https://reliaquest.com/blog/threat-spotlight-dns-poisoning-tactics-expand-to-hospitality/</a><br/>\nSilent Replacement of Trusted macOS App Executables<br/>\n<a href=\"https://mysk.blog/2026/07/23/macos-overwrite-app-executables/\">https://mysk.blog/2026/07/23/macos-overwrite-app-executables/</a><br/>\nGitHub and PyPi Defense updates<br/>\n<a href=\"https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/\">https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/</a><br/>\n<a href=\"https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/\">https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/</a><br/>\n<a href=\"https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/\">https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-27T02:00:02.000Z",
+    "duration": 429,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10024.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10024,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10024"
+  },
+  {
     "id": "sans-stormcast-friday-july-24th-2026-openai-vs-huggingface-zimbra-exploited-note",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, July 24th, 2026: OpenAI vs. Huggingface; Zimbra Exploited; Notepad++ Abuse; Browser as C2",
