@@ -1670,6 +1670,56 @@
     ]
   },
   {
+    "id": "daily-defsec-brief",
+    "applePodcastId": "6788003131",
+    "title": "Daily DefSec Brief",
+    "description": "<p>A daily podcast covering the important cyber security news that IT and security teams need to know.</p>",
+    "summary": "<p>A daily podcast covering the important cyber security news that IT and security teams need to know.</p>",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/09/68/63096837-fedd-93c8-f9e7-6f54193e3042/mza_9622140720398025204.png/600x600bb.jpg",
+    "author": "Jerry Bell",
+    "language": "en",
+    "categories": [
+      "Technology",
+      "News",
+      "Tech News"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://defsecbrief.riverside.com/",
+    "rssUrl": "https://api.riverside.com/hosting/oUoHi93O.rss",
+    "copyright": "2026 Jerry Bell",
+    "spotifyUrl": "https://open.spotify.com/show/033KO35fs1a8PYCbmnzGLN",
+    "youtubeUrl": "https://www.youtube.com/playlist?list=PLTJTKgmDqJtY",
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id6788003131",
+    "pocketCastsUrl": "https://pca.st/itunes/6788003131",
+    "overcastUrl": "https://overcast.fm/itunes6788003131",
+    "castroUrl": "https://castro.fm/itunes/6788003131",
+    "tags": [
+      "blue-team",
+      "vulnerability-management",
+      "soc",
+      "threat-intel"
+    ],
+    "cadence": "daily",
+    "format": "news-brief",
+    "authors": [],
+    "lastEpisodeDate": "2026-07-27T11:56:33.000Z",
+    "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
+    "episodeCount": 17,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 1,
+        "fetchedAt": "2026-07-27T21:40:16.606Z"
+      }
+    }
+  },
+  {
     "id": "darknet-diaries",
     "applePodcastId": "1296350485",
     "title": "Darknet Diaries",
@@ -5258,9 +5308,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-20T20:31:03.000Z",
+    "lastEpisodeDate": "2026-07-27T20:51:42.000Z",
     "firstEpisodeDate": "2018-06-17T00:47:00.000Z",
-    "episodeCount": 384,
+    "episodeCount": 385,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5301,6 +5351,109 @@
         "updatedAt": "2018-08-20T09:00:27-07:00"
       }
     ]
+  },
+  {
+    "id": "the-awareness-angle",
+    "applePodcastId": "1784126196",
+    "title": "The Awareness Angle: Cyber Security Awareness and Human Risk",
+    "description": "The Awareness Angle is a weekly cybersecurity podcast that makes cyber security make sense for everyday people.\n\nEvery week, Ant and Luke break down the biggest cyber security news, including data breaches, phishing scams, AI fraud, and the sneaky ways people get hacked, in plain English with no jargon.\n\nBut this isn’t just another tech podcast. We focus on the human side of cyber security. How scams actually work, why people fall for them, and what you can do to stay safer online.\n\nWhether you’re worried about identity theft, online fraud, or just want to understand what’s going on in the world of cyber security, you’ll get practical tips, real-world examples, and relatable stories every week.\n\nNew episodes every week. Subscribe so you never miss one.",
+    "summary": "The Awareness Angle is a weekly cybersecurity podcast that makes cyber security make sense for everyday people.\n\nEvery week, Ant and Luke break down the biggest cyber security news, including data breaches, phishing scams, AI fraud, and the sneaky ways people get hacked, in plain English with no jargon.\n\nBut this isn’t just another tech podcast. We focus on the human side of cyber security. How scams actually work, why people fall for them, and what you can do to stay safer online.\n\nWhether you’re worried about identity theft, online fraud, or just want to understand what’s going on in the world of cyber security, you’ll get practical tips, real-world examples, and relatable stories every week.\n\nNew episodes every week. Subscribe so you never miss one.",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/fc/a4/e6fca495-e564-bdf0-ef69-9ed70bc291c0/mza_12867800111086270150.jpg/600x600bb.jpg",
+    "author": "Risky Creative - Cyber Security for Humans",
+    "language": "en-gb",
+    "categories": [
+      "News",
+      "Tech News"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://wwe.riskycreative.com",
+    "rssUrl": "https://anchor.fm/s/fe8b2730/podcast/rss",
+    "copyright": "Risky Creative - Cyber Security for Humans",
+    "spotifyUrl": "https://open.spotify.com/show/7rwzcRsKrXbASFBfiXoCZ6",
+    "youtubeUrl": "https://youtube.com/@riskycreative",
+    "twitterUrl": null,
+    "linkedinUrl": null,
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id1784126196",
+    "pocketCastsUrl": "https://pca.st/itunes/1784126196",
+    "overcastUrl": "https://overcast.fm/itunes1784126196",
+    "castroUrl": "https://castro.fm/itunes/1784126196",
+    "tags": [
+      "awareness-training",
+      "news"
+    ],
+    "cadence": "weekly",
+    "format": "news-brief",
+    "authors": [
+      {
+        "name": "Ant Davis",
+        "linkedinUrl": "https://www.linkedin.com/in/antdaviscyber",
+        "websiteUrl": "https://www.antdavis.com"
+      }
+    ],
+    "lastEpisodeDate": "2026-07-27T05:00:00.000Z",
+    "firstEpisodeDate": "2024-11-25T06:00:00.000Z",
+    "episodeCount": 98,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 0,
+        "ratingCount": 0,
+        "fetchedAt": "2026-07-27T21:40:31.078Z"
+      }
+    }
+  },
+  {
+    "id": "the-blind-spot",
+    "applePodcastId": "6783155093",
+    "title": "The Blind Spot",
+    "description": "<p><b>The Blind Spot</b><br /><i>Hosted by Jason Lee, Managing Director at Z Cyber</i><br /></p><p>Security teams aren't short on findings. The hard part is turning those findings into decisions the business can actually act on, fund, and own.</p><p>The Blind Spot is a cybersecurity podcast built around what happens after risk becomes visible. Not the audit checklist. Not the scan results. The judgment calls, translation gaps, and remediation work that determine whether risk actually changes.<br /></p><p>Each episode is a practitioner conversation with CISOs, executives, board advisors, operators, and risk leaders working at the intersection of cybersecurity, business decisions, and accountability. We cover boardroom communication, AI governance, healthcare security, cyber insurance, and what it actually takes to go from assessment to action.<br /><br />Every episode closes the same way: \"What is the one thing you wish the other side of the conversation understood?\"<br /><br />New episodes every two weeks.<br /></p><p>More from the show: <a rel=\"noopener noreferrer nofollow\" href=\"https://www.ztekcyber.com/resources/the-blind-spot\" target=\"_blank\">https://www.ztekcyber.com/resources/the-blind-spot</a><br />Apply to be a guest: <a rel=\"noopener noreferrer nofollow\" href=\"https://www.ztekcyber.com/resources/the-blind-spot/apply\" target=\"_blank\">https://www.ztekcyber.com/resources/the-blind-spot/apply</a><br />About Z Cyber: <a rel=\"noopener noreferrer nofollow\" href=\"https://www.ztekcyber.com\" target=\"_blank\">https://www.ztekcyber.com</a><br /></p><p>A podcast by Z Cyber, a cybersecurity operating partner.<br /></p>",
+    "summary": "<p><b>The Blind Spot</b><br /><i>Hosted by Jason Lee, Managing Director at Z Cyber</i><br /></p><p>Security teams aren't short on findings. The hard part is turning those findings into decisions the business can actually act on, fund, and own.</p><p>The Blind Spot is a cybersecurity podcast built around what happens after risk becomes visible. Not the audit checklist. Not the scan results. The judgment calls, translation gaps, and remediation work that determine whether risk actually changes.<br /></p><p>Each episode is a practitioner conversation with CISOs, executives, board advisors, operators, and risk leaders working at the intersection of cybersecurity, business decisions, and accountability. We cover boardroom communication, AI governance, healthcare security, cyber insurance, and what it actually takes to go from assessment to action.<br /><br />Every episode closes the same way: \"What is the one thing you wish the other side of the conversation understood?\"<br /><br />New episodes every two weeks.<br /></p><p>More from the show: <a rel=\"noopener noreferrer nofollow\" href=\"https://www.ztekcyber.com/resources/the-blind-spot\" target=\"_blank\">https://www.ztekcyber.com/resources/the-blind-spot</a><br />Apply to be a guest: <a rel=\"noopener noreferrer nofollow\" href=\"https://www.ztekcyber.com/resources/the-blind-spot/apply\" target=\"_blank\">https://www.ztekcyber.com/resources/the-blind-spot/apply</a><br />About Z Cyber: <a rel=\"noopener noreferrer nofollow\" href=\"https://www.ztekcyber.com\" target=\"_blank\">https://www.ztekcyber.com</a><br /></p><p>A podcast by Z Cyber, a cybersecurity operating partner.<br /></p>",
+    "subtitle": "",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b7/0d/05/b70d05dc-bdc6-5107-70b7-44556c6a1c0f/mza_9696920444083872326.png/600x600bb.jpg",
+    "author": "Z Cyber",
+    "language": "en",
+    "categories": [
+      "Business",
+      "Technology"
+    ],
+    "explicit": false,
+    "websiteUrl": "https://www.ztekcyber.com/resources/the-blind-spot",
+    "rssUrl": "https://api.riverside.com/hosting/rPvI1VPJ.rss",
+    "copyright": "2026 Z Cyber",
+    "spotifyUrl": "https://open.spotify.com/show/033D5NvlFu52SOUPy4ygnB",
+    "youtubeUrl": "https://www.youtube.com/@ZtekCyber",
+    "twitterUrl": "https://x.com/ZtekCyber",
+    "linkedinUrl": "https://www.linkedin.com/company/ztek-cybersecurity",
+    "applePodcastUrl": "https://podcasts.apple.com/podcast/id6783155093",
+    "pocketCastsUrl": "https://pca.st/itunes/6783155093",
+    "overcastUrl": "https://overcast.fm/itunes6783155093",
+    "castroUrl": "https://castro.fm/itunes/6783155093",
+    "tags": [
+      "governance-risk-compliance",
+      "leadership",
+      "ai-security",
+      "interviews",
+      "career"
+    ],
+    "cadence": "biweekly",
+    "format": "interview",
+    "authors": [],
+    "lastEpisodeDate": "2026-07-22T04:56:47.000Z",
+    "firstEpisodeDate": "2026-06-23T01:02:31.000Z",
+    "episodeCount": 3,
+    "hasVideo": false,
+    "isActive": true,
+    "featured": false,
+    "ratings": {
+      "apple": {
+        "averageRating": 5,
+        "ratingCount": 1,
+        "fetchedAt": "2026-07-27T21:40:31.112Z"
+      }
+    }
   },
   {
     "id": "the-cyber-threat-perspective",
