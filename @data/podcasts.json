@@ -1715,7 +1715,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-07-27T22:37:22.096Z"
+        "fetchedAt": "2026-07-27T23:38:20.112Z"
       }
     }
   },
@@ -1924,7 +1924,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-07-27T07:23:01.482Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -5392,7 +5401,7 @@
       "apple": {
         "averageRating": 0,
         "ratingCount": 0,
-        "fetchedAt": "2026-07-27T22:37:33.308Z"
+        "fetchedAt": "2026-07-27T23:38:34.551Z"
       }
     }
   },
@@ -5442,7 +5451,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-07-27T22:37:33.105Z"
+        "fetchedAt": "2026-07-27T23:38:34.229Z"
       }
     }
   },
