@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-july-28th-2026-spring-boot-scans-vbulletin-vulnerability-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, July 28th, 2026: Spring Boot Scans; VBulletin Vulnerability; MSFT Defender for Linux; MongoDB Update",
+    "description": "<br/>\nJava Spring Boot \"heapdump\" scans<br/>\n<a href=\"https://isc.sans.edu/diary/Java%20Spring%20Boot%20%22heapdump%22%20scans/33188\">https://isc.sans.edu/diary/Java%20Spring%20Boot%20%22heapdump%22%20scans/33188</a><br/>\nVBULLETIN RUNTIME TEMPLATE RUNMATHS PREAUTH RCE<br/>\n<a href=\"https://ssd-disclosure.com/vbulletin-runtime-template-runmaths-preauth-rce/\">https://ssd-disclosure.com/vbulletin-runtime-template-runmaths-preauth-rce/</a><br/>\nMicrosoft Defender for Linux Update may disable restart<br/>\n<a href=\"https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-releases#issues-have-been-found-with-versions-101260420000101260420009\">https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-endpoint-releases#issues-have-been-found-with-versions-101260420000101260420009</a><br/>\nMongoDB Updates CVE-2026-13072<br/>\n<a href=\"https://github.com/advisories/GHSA-wvx7-gr2m-7rf5\">https://github.com/advisories/GHSA-wvx7-gr2m-7rf5</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-28T02:00:02.000Z",
+    "duration": 327,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10026.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10026,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10026"
+  },
+  {
     "id": "sans-stormcast-monday-july-27th-2026-esafenet-cdg-scans-dns-poisoning-macos-gate",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, July 27th, 2026: ESAFENET CDG Scans; DNS Poisoning; macOS Gatekeeper bypass; GitHub and PyPi updates",
