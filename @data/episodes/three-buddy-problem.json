@@ -1,5 +1,22 @@
 [
   {
+    "id": "validins-kenneth-kinion-on-what-separates-useful-threat-intel-from-noise",
+    "podcastId": "three-buddy-problem",
+    "title": "Validin's Kenneth Kinion on What Separates Useful Threat Intel From Noise",
+    "description": "<p><strong>Security Conversations</strong>: Kenneth Kinion, founder and CEO of Validin, joins Ryan Naraine on the show to unpack what \"internet intelligence\" really means for the analysts and responders chasing malicious infrastructure.</p>\n\n<p>We trace his path from Georgia Tech through Microsoft and Amazon to the frustrations that led to the creation of Validin, the competition from big AI, the value of AI-powered tools to speed up infrastructure hunting, and why defenders keep falling further behind fast-moving attackers.</p>\n\n<p><strong>Timestamps:</strong> <br>\n0:00 – Intro: What does Validin do?<br>\n0:51 – Who uses Validin: CTI teams, SOCs, incident responders<br>\n2:19 – Atlanta and Georgia Tech's cybersecurity pipeline <br>\n5:31 – Lessons from Microsoft and Amazon: waterfall vs. agile<br>\n8:29 – Filling gaps in passive DNS data<br>\n9:57 – Misunderstood things about threat intelligence<br>\n14:17 – The value of \"cyber paleontology\"<br>\n16:00 – What makes one data set better than another?<br>\n19:39 – How Validin works: from one suspicious domain to a full pivot<br>\n21:27 – AI as existential threat or force multiplier for Validin<br>\n26:55 – Dual-use AI: are defenders losing ground to attackers?<br>\n31:11 – Closing: the next hard problem Validin wants to solve</p><p>Links:</p><ul><li><a title=\"Transcript\" rel=\"nofollow\" href=\"https://docs.google.com/document/d/1rxpkHu2c1BwAkw0XFpfA5RDgcf6Za0Fzq8UPE8w_SKE/edit?tab=t.0\">Transcript\n</a></li><li><a title=\"Kenneth Kinion | LinkedIn\" rel=\"nofollow\" href=\"https://www.linkedin.com/in/kinion/\">Kenneth Kinion | LinkedIn\n</a></li><li><a title=\"Validin (Threat Hunting, DNS Enrichment)\" rel=\"nofollow\" href=\"https://www.validin.com/\">Validin (Threat Hunting, DNS Enrichment)\n</a></li><li><a title=\"Advanced Search & YARA Improvements | Validin\" rel=\"nofollow\" href=\"https://www.validin.com/blog/advanced_search_yara_improvements/\">Advanced Search & YARA Improvements | Validin\n</a></li><li><a title=\"Contagious Interview: DPRK Threat Actors Reveal Plans\" rel=\"nofollow\" href=\"https://www.sentinelone.com/labs/contagious-interview-threat-actors-scout-cyber-intel-platforms-reveal-plans-and-ops/\">Contagious Interview: DPRK Threat Actors Reveal Plans\n</a></li><li><a title=\"LABScon 2026\" rel=\"nofollow\" href=\"https://www.labscon.io/\">LABScon 2026\n</a></li></ul>",
+    "publishedAt": "2026-07-28T17:00:00.000Z",
+    "duration": 2078,
+    "audioUrl": "https://aphid.fireside.fm/d/1437767933/5f0c01ff-49f1-4c51-a8f8-f14c0d9bc72e/3ff7018f-de4a-4b78-8b39-a0bdc080605a.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/5/5f0c01ff-49f1-4c51-a8f8-f14c0d9bc72e/episodes/3/3ff7018f-de4a-4b78-8b39-a0bdc080605a/cover.jpg?v=1",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://securityconversations.fireside.fm/validin-kenneth-kinion-useful-threat-intel-noise"
+  },
+  {
     "id": "openais-models-breached-hugging-face-reward-hacking-ethics-benchmarking-fast16",
     "podcastId": "three-buddy-problem",
     "title": "OpenAI's models breached Hugging Face, reward hacking ethics, benchmarking fast16",
