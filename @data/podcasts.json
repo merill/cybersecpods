@@ -604,16 +604,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-07-28T07:03:32.789Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must have podcast for Defenders",
-        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
-        "author": "Rljohnson5",
-        "updatedAt": "2023-05-23T14:47:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "bluehat-podcast",
@@ -1618,9 +1609,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-27T20:30:00.000Z",
+    "lastEpisodeDate": "2026-07-28T20:30:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3705,
+    "episodeCount": 3706,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
