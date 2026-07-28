@@ -1,5 +1,22 @@
 [
   {
+    "id": "inside-the-owasp-agent-security-regression-harness-project-mert-satilmaz-asw-393",
+    "podcastId": "application-security-weekly",
+    "title": "Inside the OWASP Agent Security Regression Harness Project - Mert Satilmaz - ASW #393",
+    "description": "<p>Orgs need to be able to use agents, MCPs, and LLMs in ways that don't lead to unexpected actions and undesirable outcomes. The OWASP Agent Security Regression Harness project is an approach for defining customizable scenarios and testing whether those systems fail against known security threats. Mert Saltimaz talks about the background of the project, how orgs can use it as they bring more LLMs into their environment, and how the project intends to grow. Importantly, we also talk about the security controls and designs that orgs can build around the systems and data that models interact with in addition to evaluating the security of the agents and agent harnesses themselves.</p> <p>Segment Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://github.com/OWASP/Agent-Security-Regression-Harness\">https://github.com/OWASP/Agent-Security-Regression-Harness</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://youtu.be/6DWs5EwbFQ0?si=r0IJ_F0SZnkPzzYg\">https://youtu.be/6DWs5EwbFQ0?si=r0IJ_F0SZnkPzzYg</a> -- \"What Trading Systems Taught Me About Breaking (And Defending) Infrastructure\"</li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-393\">https://securityweekly.com/asw-393</a></p>",
+    "publishedAt": "2026-07-28T09:00:00.000Z",
+    "duration": 4195,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_393_1--63928861-c181-43b5-b39c-b0374d62d61a--audio-converted--3f8728c1-8b3e-4db3-bc67-7209557ceb71.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/7/5/9/9/75990ebc038caf86d959afa2a1bf1c87/as393_Thumbnail_ASW_1920x1920-op1_82a22135-7fa4-4d32-be47-94963cd50057.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/inside-the-owasp-agent-security-regression-harness-project-mert-satilmaz-asw-393"
+  },
+  {
     "id": "macos-security-design-features-flaws-and-futures-patrick-wardle-asw-392",
     "podcastId": "application-security-weekly",
     "title": "MacOS Security Design Features, Flaws, And Futures - Patrick Wardle - ASW #392",

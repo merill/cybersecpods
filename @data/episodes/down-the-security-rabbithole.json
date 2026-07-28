@@ -1,5 +1,22 @@
 [
   {
+    "id": "dtsr-episode-716-what-if-context-replaced-alerts-entirely",
+    "podcastId": "down-the-security-rabbithole",
+    "title": "DtSR Episode 716 - What if Context Replaced Alerts Entirely",
+    "description": "<p><b>Guests: </b><a href='https://www.linkedin.com/in/jason-vest/'>Jason Vest</a> & <a href='https://www.linkedin.com/in/josh-neil/'>Josh Neil</a></p><p><b>TL;DR: </b>Alert fatigue is still a problem; detection isn't generationally better - but we have all this AI. So what gives?</p><p><b>Description</b></p><p>Alert fatigue is not just a workload problem; it is a product design problem. We dig into a provocative claim sparked by a LinkedIn post: today’s “AI SOC triage” can be a band-aid if it only cleans up alerts after the fact instead of improving threat detection where it starts, in raw telemetry and early signal extraction.<br/><br/>We’re joined by Jason Vest (CTO at Binary Defense) and Josh (a statistician with experience from Los Alamos, the Department of Energy, and leading the Microsoft Defender for Endpoint data science team). Together we unpack why rules and detection engineering still matter: they encode what we know is bad, but rigid rule matches and atomic alerts can also trap teams in an endless false positive vs. false negative trade-off. Josh goes as far as to argue that alerts should “die in a fire,” pushing us to think in terms of attack stories and enterprise-wide context, not isolated hits.<br/><br/>From there we explore what actually scales: when anomaly detection works, why “model everything” breaks down, and how trigger-based just-in-time modeling can build lightweight models on demand, score the nearby context, then disappear. We also talk about moving from alerts to “situations,” using agentic AI to gather more context across identity, endpoint, and network, plus what transparency should look like for model validation and community standards.<br/><br/>Subscribe, share this with your SOC team, and leave a review. Where do you think detection should evolve next: better rules, better models, or a world without alerts?</p><p><b>YouTube Video: </b><a href='https://youtube.com/live/GYjePXCiKM0'>https://youtube.com/live/GYjePXCiKM0</a></p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2153215/fan_mail/new\">Have something to say? Let's hear it.</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/2153215/support\">Support the show</a></p><p><em>>>> Please consider clicking the link above to support the show!</em><br/>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=<br/><b>YouTube home:</b> <a href='https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq'>https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq</a><br/><b>LinkedIn Page:</b> <a href='https://www.linkedin.com/company/down-the-security-rabbithole-podcast/'>https://www.linkedin.com/company/down-the-security-rabbithole-podcast/</a><br/><b>X/Twitter:</b> <a href='https://twitter.com/dtsr_podcast'>https://twitter.com/dtsr_podcast</a></p>",
+    "publishedAt": "2026-07-28T10:00:00.000Z",
+    "duration": 1967,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2153215/episodes/19560867-dtsr-episode-716-what-if-context-replaced-alerts-entirely.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 716,
+    "seasonNumber": 16,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "dtsr-episode-715-reducing-the-toil-of-the-soc-analyst",
     "podcastId": "down-the-security-rabbithole",
     "title": "DtSR Episode 715 - Reducing The Toil of the SOC Analyst",
