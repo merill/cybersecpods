@@ -1705,9 +1705,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-27T11:56:33.000Z",
+    "lastEpisodeDate": "2026-07-28T11:46:52.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 17,
+    "episodeCount": 18,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2636,7 +2636,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-28T07:03:50.645Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -3009,16 +3018,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-28T07:03:54.649Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -4250,7 +4250,44 @@
         "ratingCount": 678,
         "fetchedAt": "2026-07-28T07:04:05.973Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "In IT?  Do you have 5 minutes?",
+        "content": "Concise, Effective, Timely\n \nThe perfect podcast, Johannes is amazing.  This must take him hours every day to research.  The effort is much appreciated!",
+        "author": "Gump4487245",
+        "updatedAt": "2026-05-20T04:48:52-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Best in Show!",
+        "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
+        "author": "1Flatlander",
+        "updatedAt": "2026-05-06T07:22:39-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "High quality info in a short amount of time. Listen very closely to what he puts out",
+        "content": "Johannes continues to point out trends and indicators I might otherwise have missed.\n\nI’ve seen a lot of crazy scenarios play out based on data he’s gathered and provided.\n\nListen to a few episodes to hear what I mean.\n\nHis podcast also serves as a convenient reminder for Patch Tuesday and iOS updates.\n\nYet another great podcast the sociable Dave Bittner has led me to.",
+        "author": "TFWas",
+        "updatedAt": "2026-03-18T15:59:48-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Required Professional Daily Use",
+        "content": "This is a requirement for my team as they start their day. The information is a great way to start the brain thinking into what is going on and what new things should we be looking for. We discuss it and volunteer topics for research and further discovery. 11/10 -highly recommended",
+        "author": "PowerBob",
+        "updatedAt": "2025-12-16T17:08:12-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Your Daily Cyber Drive-Thru",
+        "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
+        "author": "JayJonahJameson",
+        "updatedAt": "2025-12-16T03:32:20-07:00"
+      }
+    ]
   },
   {
     "id": "secure-the-job",
@@ -4367,44 +4404,7 @@
         "ratingCount": 79,
         "fetchedAt": "2026-07-28T07:04:06.883Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Love this podcast!!",
-        "content": "Never a null moment!",
-        "author": "sr_98_sr",
-        "updatedAt": "2025-03-12T04:16:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Gold",
-        "content": "Amusing and informative and poetic!",
-        "author": "eahiv",
-        "updatedAt": "2024-05-27T17:14:36-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "good at cryptography",
-        "content": "also good at making me laugh",
-        "author": "cydyio",
-        "updatedAt": "2024-04-15T18:05:27-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Wonderfully accessible!",
-        "content": "Each episode is a great discussion into a large field",
-        "author": "Bob on Ross",
-        "updatedAt": "2024-03-03T19:32:17-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Found my new favorite podcast!",
-        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
-        "author": "Ragnaroekk",
-        "updatedAt": "2023-05-06T12:26:55-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-insider-conversations",
@@ -5962,7 +5962,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-07-28T07:04:20.258Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",
