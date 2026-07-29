@@ -1,5 +1,22 @@
 [
   {
+    "id": "q2-talos-ir-trends-phishing-and-authentication-abuse-spike",
+    "podcastId": "talos-takes",
+    "title": "Q2 Talos IR Trends: Phishing and authentication abuse spike",
+    "description": "<p>In this episode, Amy and analyst Lexi DiScola unpack the trends Talos IR saw on the frontlines in Q2 2026. From creative phishing lures that slip past email gateways to the weaponization of legitimate remote management tools, we explore why traditional defenses are falling short and the practical things you can do to reclaim the advantage.</p><p>What configuration changes and visibility gaps  could be the difference between a minor incident and a full-scale breach? How can you harden your environment with limited resources? Tune into this episode to stay one step ahead of an evolving threat landscape.</p><p>Talos IR Quarterly Trends Report: <a href='https://blog.talosintelligence.com/ir-trends-q2-2026'>https://blog.talosintelligence.com/ir-trends-q2-2026</a></p><p>Find Talos at Black Hat: <a href='https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/'>https://blog.talosintelligence.com/preview-cisco-talos-at-black-hat-usa-2026/</a></p>",
+    "publishedAt": "2026-07-29T09:00:00.000Z",
+    "duration": 950,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19557796-q2-talos-ir-trends-phishing-and-authentication-abuse-spike.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "artoken-how-attackers-are-bypassing-mfa-and-maintaining-access",
     "podcastId": "talos-takes",
     "title": "ARToken: How attackers are bypassing MFA and maintaining access",
