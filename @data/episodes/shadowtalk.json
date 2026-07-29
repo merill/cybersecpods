@@ -1,5 +1,22 @@
 [
   {
+    "id": "compromised-hotel-gateways-fake-microsoft-domains-and-the-apt28-adjacent-campaig",
+    "podcastId": "shadowtalk",
+    "title": "Compromised Hotel Gateways, Fake Microsoft Domains, and the APT28-Adjacent Campaign That Bypasses MFA Without a Phishing Click",
+    "description": "<p>An employee connects to hotel Wi-Fi, receives a familiar Microsoft 365 sign-in prompt, and authenticates. No phishing email. No malicious link. No suspicious attachment. Yet an attacker walks away with a valid, MFA-satisfied session token.</p><p> Join hosts <b>Alexandra Moore</b> and <b>John Dilgen</b> as they break down:</p><ul><li>How compromised hotel and conference-center Wi-Fi gateways silently redirect Microsoft authentication traffic</li><li>Why hardcoded DNS, opportunistic encrypted DNS, and MFA may not stop the attack</li><li>How device-code phishing and WPAD abuse expand the campaign’s reach</li><li>Practical defenses—including always-on, full-tunnel VPN, strict-mode encrypted DNS, and Conditional Access controls</li></ul><p> <b>Two questions your organization should be asking right now:</b></p><ul><li>Does your always-on VPN tunnel <b>all DNS and authentication traffic</b>, or do split-tunneling exceptions leave traveling employees exposed?</li><li>Who is permitted to authenticate through the <b>device-code flow</b>, and does each exception have a legitimate business justification?</li></ul><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Alexandra Moore: </b>Manager of Threat Intelligence at ReliaQuest, where she leads intelligence analysis and customer dissemination to help organizations understand and respond to emerging cyber threats. Prior to this, she established and scaled monitoring across Russian-language cybercriminal platforms at Digital Shadows, building collection and analytical coverage to support digital risk protection capabilities.</p>",
+    "publishedAt": "2026-07-29T18:00:00.000Z",
+    "duration": 1885,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19571269-compromised-hotel-gateways-fake-microsoft-domains-and-the-apt28-adjacent-campaign-that-bypasses-mfa-without-a-phishing-click.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "the-largest-patch-tuesday-ever-622-cves-a-1380percent-phishing-surge-and-the-two",
     "podcastId": "shadowtalk",
     "title": "The Largest Patch Tuesday Ever: 622 CVEs, a 1,380% Phishing Surge, and the Two-Front War on Initial Access",
