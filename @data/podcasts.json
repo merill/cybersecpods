@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-27T17:00:00.000Z",
+    "lastEpisodeDate": "2026-07-29T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 303,
+    "episodeCount": 304,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -3018,7 +3018,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-29T07:06:05.254Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
