@@ -592,9 +592,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-07-21T12:00:00.000Z",
+    "lastEpisodeDate": "2026-07-28T22:29:17.000Z",
     "firstEpisodeDate": "2020-09-21T00:58:14.000Z",
-    "episodeCount": 323,
+    "episodeCount": 324,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1075,9 +1075,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-09T20:09:31.000Z",
+    "lastEpisodeDate": "2026-07-28T18:00:00.000Z",
     "firstEpisodeDate": "2019-11-28T22:18:29.000Z",
-    "episodeCount": 354,
+    "episodeCount": 355,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4193,16 +4193,7 @@
         "ratingCount": 13,
         "fetchedAt": "2026-07-28T07:04:04.937Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4247,9 +4238,9 @@
         "websiteUrl": "https://jbu.me/"
       }
     ],
-    "lastEpisodeDate": "2026-07-28T02:00:02.000Z",
+    "lastEpisodeDate": "2026-07-29T02:00:02.000Z",
     "firstEpisodeDate": "2016-04-01T01:40:02.000Z",
-    "episodeCount": 2484,
+    "episodeCount": 2485,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5515,43 +5506,6 @@
         "fetchedAt": "2026-07-28T07:04:17.119Z"
       }
     },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great information and presentation",
-        "content": "Highly recommend if you are a network defender.",
-        "author": "Rygorr",
-        "updatedAt": "2026-07-17T14:09:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great cybersecurity podcast!",
-        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
-        "author": "Dave McCollough",
-        "updatedAt": "2025-12-12T06:46:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Love it",
-        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
-        "author": "dareyoutomove",
-        "updatedAt": "2024-10-12T09:27:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Pentesting 101",
-        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
-        "author": "Rich-Barr",
-        "updatedAt": "2023-11-01T04:42:09-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Worth a listen",
-        "content": "Great insight and advice and actually very entertaining.",
-        "author": "Chris Y Doyle",
-        "updatedAt": "2022-09-14T12:09:26-07:00"
-      }
-    ],
     "submittedBy": "techspence"
   },
   {
