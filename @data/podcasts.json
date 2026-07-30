@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-30T14:04:03.000Z",
-    "firstEpisodeDate": "2025-12-11T20:44:17.000Z",
+    "lastEpisodeDate": "2026-07-30T15:42:38.000Z",
+    "firstEpisodeDate": "2025-12-12T14:52:57.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2887,8 +2887,8 @@
     "id": "identity-at-the-center",
     "applePodcastId": "1471899975",
     "title": "Identity at the Center",
-    "description": "Identity at the Center is a weekly podcast all about identity security in the context of identity and access management (IAM). With decades of real-world IAM experience, hosts Jim McDonald and Jeff Steadman bring you conversations with news, topics, and guests from the identity management industry. Do you know who has access to what?",
-    "summary": "Identity at the Center is a weekly podcast all about identity security in the context of identity and access management (IAM). With decades of real-world IAM experience, hosts Jim McDonald and Jeff Steadman bring you conversations with news, topics, and guests from the identity management industry. Do you know who has access to what?",
+    "description": "Identity at the Center is a weekly podcast all about identity security in the context of identity and access management (IAM). With decades of real-world IAM experience, hosts Jim McDonald and Jeff Steadman bring you conversations with news, topics, and guests from the identity management industry. Do you know who has access to what?\n\nVisit us on the web at idacpodcast.com",
+    "summary": "Identity at the Center is a weekly podcast all about identity security in the context of identity and access management (IAM). With decades of real-world IAM experience, hosts Jim McDonald and Jeff Steadman bring you conversations with news, topics, and guests from the identity management industry. Do you know who has access to what?\n\nVisit us on the web at idacpodcast.com",
     "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/57/a8/a6/57a8a6db-8f6a-a195-8e02-c0cc9d9fb402/mza_683858072472225989.jpg/600x600bb.jpg",
     "author": "Identity at the Center",
@@ -4845,44 +4845,7 @@
         "ratingCount": 33,
         "fetchedAt": "2026-07-30T07:04:30.430Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great news summaries and very funny",
-        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
-        "author": "TFWas",
-        "updatedAt": "2025-07-02T05:16:53-07:00"
-      },
-      {
-        "rating": 2,
-        "title": "Reasonably okay infosec podcast",
-        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
-        "author": "[REDACTED] USER",
-        "updatedAt": "2023-11-13T18:43:38-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Entertaining InfoSec news",
-        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
-        "author": "Bevonomics",
-        "updatedAt": "2022-12-07T14:23:31-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Brief But Not Shallow",
-        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
-        "author": "MLC689",
-        "updatedAt": "2022-11-29T10:37:03-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "Stop recommending this, I don’t want to see it",
-        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
-        "author": "Blizzard1s2d",
-        "updatedAt": "2019-06-19T20:00:01-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "shadowtalk",
@@ -6008,7 +5971,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-07-30T07:04:39.420Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",
