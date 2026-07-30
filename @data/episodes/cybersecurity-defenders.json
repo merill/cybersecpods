@@ -1,5 +1,22 @@
 [
   {
+    "id": "intel-chat-hugging-face-ai-agent-breach-wp2shell-suno-and-paidwork-leaks-aws-bah",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Intel Chat: Hugging Face AI-agent breach, WP2Shell, Suno & Paidwork leaks, AWS Bahrain strike [342]",
+    "description": "<p>Intel Chat with Matt Bromiley and Chris Luft.</p><p>Matt and Chris break down four stories from the week in threat intel:</p><p>• Hugging Face's security incident disclosure: an intrusion conducted end-to-end by an autonomous AI agent system — a malicious dataset exploiting two code-execution paths, thousands of actions across short-lived sandboxes, self-migrating C2 — and why the forensics had to run on the open-weight GLM 5.2 model after hosted frontier models refused to analyze real attack artifacts.</p><p>• WP2Shell: attackers chaining CVE-2026-60137 (WordPress Core SQL injection) with CVE-2026-63030 (Batch REST API logic flaw) for unauthenticated remote code execution on default WordPress installs — found by Searchlight Cyber using GPT-5.6 Sol Ultra in about ten hours, with tens of thousands of exploitation attempts following disclosure.</p><p>• Data breaches at AI music generator Suno (55.3M unique email addresses, plus partial Stripe payment records) and gig-work platform Paidwork (23.3M addresses, password hashes and banking data), per Have I Been Pwned.</p><p>• Iranian state media claims the IRGC destroyed AWS's Bahrain data center (ME-SOUTH-1) with cruise missiles — and what data centers becoming military targets means for cloud resilience.</p><p>Plus: Google Threat Intelligence Group retires APT/FIN nomenclature for new threat-actor names, and where to find Chris and Matt at Black Hat.</p><p>Stories covered:</p><p>• https://huggingface.co/blog/security-incident-july-2026</p><p>• https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover</p><p>• https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/</p><p>• https://www.tomshardware.com/tech-industry/data-centers/amazon-data-center-in-bahrain-struck-and-destroyed-by-iranian-cruise-missiles-state-media-claims-attacks-launched-against-aws-site-in-response-to-alleged-us-strikes-on-an-under-construction-nuclear-plant</p><p>Chapters:</p><p>0:00 Intro & Black Hat plans</p><p>2:07 Hugging Face's AI-agent breach disclosure</p><p>12:39 WP2Shell: WordPress exploit chain</p><p>20:59 Suno & Paidwork data breaches</p><p>24:17 IRGC strikes on AWS Bahrain</p><p>28:27 Google Threat Intel's new actor names</p><p>29:29 Black Hat swag hunt & wrap-up</p><p>The Cybersecurity Defenders Podcast — a podcast about cybersecurity and the people that keep the internet safe. New episodes drop weekly.</p><p>Subscribe wherever you listen:</p><p>• Spotify: https://open.spotify.com/show/6ep00zeY3S8ffZ4o0UeSps</p><p>• Apple Podcasts: https://podcasts.apple.com/us/podcast/the-cybersecurity-defenders-podcast/id1649981740</p><p>• YouTube: https://www.youtube.com/@limacharlieio</p><p>Learn more about LimaCharlie: https://limacharlie.io</p><p>#cybersecurity #infosec #threatintel #AIsecurity #databreach</p>",
+    "publishedAt": "2026-07-30T20:34:30.000Z",
+    "duration": 1814,
+    "audioUrl": "https://podcast.wistia.com/deliveries/de56c4170aa5935b657020419e4000b85d164435.mp3?d=eyJtIjoxNTA5NzkyNDUsIm1kIjoxODE0LjM0LCJhIjoid2lzdGlhLXByb2R1Y3Rpb25fMTc5NzQ5OCIsImMiOjEwMDgxMSwiZSI6MjE0NDgxOSwiYiI6ImRlNTZjNDE3MGFhNTkzNWI2NTcwMjA0MTllNDAwMGI4NWQxNjQ0MzUiLCJtYiI6ODA1LCJvYiI6MTQ0MDAzNy4yMzY2ODExMDcyfQ%3D%3D--fbc2b57ee769e95149060dcb75a63fe85f13668d5e5865c2390035acb676f1fb",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 342,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "http://limacharlie.io?wchannelid=1bbncmrkw3&wmediaid=2ti0736fd2"
+  },
+  {
     "id": "building-trustworthy-ai-with-rob-van-der-veer-341",
     "podcastId": "cybersecurity-defenders",
     "title": "Building trustworthy AI with Rob van der Veer [341]",
