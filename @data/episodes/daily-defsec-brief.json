@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-july-30-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for July 30 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Cisco Secure Firewall Management Center hardcoded password added to CISA KEV — CVE-2026-20316 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n2. Cisco Secure FMC authentication bypass — hot fixes released — CVE-2026-20079 — Cisco PSIRT — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-onprem-fmc-authbypass-5JPp45V2\n3. Three critical VMware flaws: vCenter auth bypass, RCE, and ESXi VM escape — CVE-2026-59309, CVE-2026-59310, CVE-2026-47876 — The Hacker News — https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html\n4. Critical unauthenticated file-read in Rails Active Storage (affects TeamCity) — CVE-2026-66066 — The Hacker News — https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html\n5. SonicWall VPN and firewall accounts hit by credential-stuffing spree — CyberScoop — https://cyberscoop.com/sonicwall-credential-attacks-vpn-firewall/\n6. Long-lived Microsoft Secure Boot bypass via old signed shims — Schneier on Security — https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html\n7. Chrome 151 patches 370 flaws, including seven critical — SecurityWeek — https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/\n8. Firefox JIT flaw compromises browser on a single page visit, also hit Tor Browser — CVE-2026-10702, CVE-2026-43499 — The Hacker News — https://thehackernews.com/2026/07/researchers-show-single-malicious.html\n9. Node.js patches 11 flaws, including two high-severity HTTP/2 memory issues — CVE-2026-56846, CVE-2026-56847 — Cyber Security News — https://cybersecuritynews.com/node-js-fixes-11-security-flaws/\n10. GitLab fixes 13 flaws, including a Workhorse info-disclosure bug — CVE-2026-6267, CVE-2026-12436, CVE-2026-15975 — Cyber Security News — https://cybersecuritynews.com/gitlab-fixes-13-security-flaws/\n11. Chaos ransomware deployed after two-minute Microsoft Teams vishing calls — Cyber Security News — https://cybersecuritynews.com/a-two-minute-microsoft-teams-call/\n12. Okta details Work Panel vishing platform for helpdesk account takeovers — Cyber Security News — https://cybersecuritynews.com/cybercrime-platform-turns-helpdesk-calls/\n13. Amazon ties debug/chalk and axios npm hijacks to North Korea's Sapphire Sleet — The Hacker News — https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html\n14. Copilot for Word prompt-injection worm self-replicates across documents — Simon Willison — https://simonwillison.net/2026/Jul/29/ai-worming-through-word/\n15. Linux cryptomining campaign weaponizes PAM to hide XMRig activity — Cyber Security News — https://cybersecuritynews.com/linux-cryptomining-campaign/\n16. Critical RufRoot flaw in Ruflo AI orchestration allows unauth RCE — CVE-2026-59726 — The Hacker News — https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html</code></pre>",
+    "publishedAt": "2026-07-30T11:33:01.000Z",
+    "duration": 305,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/d152a8692b32813fe3ef840fbe95174ef3d8b2e33f236f432bbe9a3b24588c30/eyJlcGlzb2RlSWQiOiI1MTE5ZTU4Mi0zMzdiLTQ3YWUtODhhMS0wMjQ0ZDE1MDFjNTAiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE2YjM1Zjk4ZWI2OWY1MmM5Zjg4ODRhL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTctMzBfXzEzLTMxLTUubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-july-29-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for July 29 2026 - Daily DefSec Brief",
