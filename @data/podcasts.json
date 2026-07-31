@@ -1166,13 +1166,6 @@
     },
     "recentReviews": [
       {
-        "rating": 4,
-        "title": "Good",
-        "content": "Enjoy, but music in the background is annoying..",
-        "author": "Bobazon889",
-        "updatedAt": "2026-05-28T13:07:55-07:00"
-      },
-      {
         "rating": 5,
         "title": "My favorite cybersecurity podcast",
         "content": "Love these guys.  They make having natural conversations look easy.",
@@ -1199,6 +1192,13 @@
         "content": "Love the interview style, research and plain language your team uses. Fun and interesting. The interviews of experts are smooth and professional and your storytelling is great!",
         "author": "Zackmn",
         "updatedAt": "2023-12-29T17:15:14-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Greatest cyber show",
+        "content": "We all enjoy this at the club. We laugh along and are shocked by the findings. Who knew there was so much on the dark web! Love it!",
+        "author": "XavierGate34",
+        "updatedAt": "2023-12-28T20:10:47-07:00"
       }
     ]
   },
@@ -1852,16 +1852,7 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-31T07:10:22.336Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Jack is awesome",
-        "content": "Congrats on launch of Spanish version.",
-        "author": "Gotchayeah",
-        "updatedAt": "2025-05-22T18:24:35-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decipher-security-podcast",
@@ -4285,7 +4276,44 @@
         "ratingCount": 79,
         "fetchedAt": "2026-07-31T07:10:41.384Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
@@ -4696,13 +4724,6 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "Awesome insights",
-        "content": "This show always delivers relevant and practical topics to cybersecurity practitioners. They always summarize very practical recommendations",
-        "author": "Maocol99",
-        "updatedAt": "2026-07-24T14:37:37-07:00"
-      },
-      {
-        "rating": 5,
         "title": "For Practitioners By Practitioners",
         "content": "I enjoy how the hosts don’t just repot the news. Listening to a thoughtful discussion of top threats and analysis of what it means to my business is the best 30 minutes of my week.",
         "author": "Cyber Practitioner",
@@ -4728,6 +4749,13 @@
         "content": "I love being able to get my weekly cybersecurity news in addition to a more detailed analysis from Digital Shadows’ analysts, engineers, etc. As someone new to the cybersecurity industry, this podcast has helped me learn a ton about the industry.",
         "author": "anymonos",
         "updatedAt": "2018-07-02T13:51:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Easy to listen to",
+        "content": "I really enjoy the background and analysis in this podcast.  It’s quite punny which makes it easy to listen to.",
+        "author": "Jdbjdnd",
+        "updatedAt": "2018-01-16T14:53:46-07:00"
       }
     ]
   },
