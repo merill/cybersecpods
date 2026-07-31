@@ -1295,9 +1295,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-31T07:00:00.000Z",
+    "lastEpisodeDate": "2026-07-31T19:59:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1802,
+    "episodeCount": 1803,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2510,11 +2510,13 @@
     "description": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott.&nbsp;Are internet hitmen really a thing?&nbsp;What does someone do with a crypto wallet full of millions and a lost password?&nbsp;Did a Minecraft scammer really hack the president?&nbsp;Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
     "summary": "Strange tales of hacking, tech, internet grifters, AI, and security with Jordan & Scott.&nbsp;Are internet hitmen really a thing?&nbsp;What does someone do with a crypto wallet full of millions and a lost password?&nbsp;Did a Minecraft scammer really hack the president?&nbsp;Hacked is a technology show about people hacking things together and apart, with your old pals Jordan Bloemen and Scott Francis Winder. Get at us via get@hackedpodcast.com.",
     "subtitle": "A podcast about people using technology in unintended ways.",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/39/23/da/3923da1e-7f3a-175d-dbc2-66db13cdf01b/mza_12276024828673851050.jpeg/600x600bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/56/95/a9/5695a926-d458-6989-66ff-771b0a97709a/mza_9421401877585416019.jpeg/600x600bb.jpg",
     "author": "Hacked",
     "language": "en",
     "categories": [
-      "Technology"
+      "Technology",
+      "True Crime",
+      "Business"
     ],
     "explicit": false,
     "websiteUrl": "https://www.hackedpodcast.com",
@@ -4413,7 +4415,44 @@
         "ratingCount": 79,
         "fetchedAt": "2026-07-31T07:10:41.384Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
