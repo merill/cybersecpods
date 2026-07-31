@@ -2636,7 +2636,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-07-31T07:10:28.601Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -2997,9 +3006,9 @@
         "websiteUrl": "https://www.samsclass.info/contact.html"
       }
     ],
-    "lastEpisodeDate": "2026-07-28T16:36:53.000Z",
+    "lastEpisodeDate": "2026-07-31T18:20:39.000Z",
     "firstEpisodeDate": "2021-02-13T00:10:16.000Z",
-    "episodeCount": 545,
+    "episodeCount": 546,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4184,7 +4193,16 @@
         "ratingCount": 14,
         "fetchedAt": "2026-07-31T07:10:39.335Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
