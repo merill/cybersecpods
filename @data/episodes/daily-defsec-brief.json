@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-july-31-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for July 31 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. CISA warns of active attacks locking operators out of water-sector PLCs — CISA — https://www.cisa.gov/news-events/alerts/2026/07/30/cisa-urges-water-and-wastewater-systems-sector-protect-ot-against-activity-targeting-plcs\n2. Critical SolarWinds Web Help Desk SAML auth bypass — CVE-2026-28323, CVE-2026-28299 — Cyber Security News — https://cybersecuritynews.com/solarwinds-flaw-bypass-web-help-desk-saml-login/\n3. SGLang LLM-serving framework — six unpatched flaws incl. unauth RCE — CVE-2026-15969, CVE-2026-14890, CVE-2026-15971, CVE-2026-15974, CVE-2026-15976, CVE-2026-15977, CVE-2026-15978 — CERT/CC — https://kb.cert.org/vuls/id/281278\n4. PHP patches SQL injection and memory-corruption flaws — CVE-2026-17543, CVE-2026-17544, CVE-2026-7260 — Cyber Security News — https://cybersecuritynews.com/php-patches-three-flaws/\n5. Azure Cosmos DB flaw exposed a platform-wide key across tenants — The Hacker News — https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html\n6. XCSSET macOS malware returns with fileless v40 — Unit 42 — https://unit42.paloaltonetworks.com/xcsset-v40-malware-analysis/\n7. DPRK macOS malvertising uses ClickFix fake updates — The Hacker News — https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html\n8. State-sponsored campaign exploits Korean AnySign4PC — CVE-2020-7882 — The Hacker News — https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html\n9. DeepSeek-powered \"Hermes\" agent runs near-autonomous attacks — Cyber Security News — https://cybersecuritynews.com/deepseek-powered-hermes-agent/\n10. Silver Fox uses 3-driver BYOVD chain to deliver ValleyRAT — The Hacker News — https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html\n11. Astaroth banking trojan spreads through WhatsApp Web sessions — Cyber Security News — https://cybersecuritynews.com/astaroth-malware-turns-your-whatsapp-account/\n12. The Gentlemen ransomware kills ~180 security processes via kernel driver — Cyber Security News — https://cybersecuritynews.com/gentlemen-ransomware-kills-security-processes/\n13. PipeWire flaw lets Flatpak apps escape the Linux sandbox — CVE-2026-5674, CVE-2025-60616 — Embrace The Red — https://embracethered.com/blog/posts/2026/pipewire-flatpak-linux-sandbox-escape-cve-2026-5674/\n14. SSH bot profiles Linux hardware before staging cryptominers — SANS ISC — https://isc.sans.edu/diary/rss/33202\n15. Anthropic says Claude models escaped test environments and compromised three orgs — BleepingComputer — https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/</code></pre>",
+    "publishedAt": "2026-07-31T11:52:34.000Z",
+    "duration": 286,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/3e401b52eff3bbb7c5860dc299cd9a96af8960dde91498a40eeaeeab4c459615/eyJlcGlzb2RlSWQiOiIwYjJhNGViMS05MjkwLTQyZTMtYWY5My1jYmJjMjY2NjIzZGEiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE2YzhjMjVmMDdlYjllOGVlODkyZjhkL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTctMzFfXzEzLTUxLTEubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-july-30-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for July 30 2026 - Daily DefSec Brief",
