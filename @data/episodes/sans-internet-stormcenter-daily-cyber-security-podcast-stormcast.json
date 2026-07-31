@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-july-31st-2026-pre-botnet-recon-cisco-backdoor-exploited-i",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, July 31st, 2026: Pre Botnet Recon; Cisco Backdoor Exploited; Inconsistent Group Chats",
+    "description": "<br/>\nReconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner<br/>\n<a href=\"https://isc.sans.edu/diary/Reconnaissance%20First%3A%20An%20SSH%20Bot%20That%20Sizes%20Up%20Your%20Hardware%20Before%20Deploying%20a%20Miner%20%5BGuest%20Diary%5D/33198\">https://isc.sans.edu/diary/Reconnaissance%20First%3A%20An%20SSH%20Bot%20That%20Sizes%20Up%20Your%20Hardware%20Before%20Deploying%20a%20Miner%20%5BGuest%20Diary%5D/33198</a><br/>\nCisco Secure Firewall Management Center Software Static Credential Vulnerability Exploited CVE-2026-20316<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh</a><br/>\nInconsistent Group Chats<br/>\n<a href=\"https://www.usenix.org/conference/usenixsecurity26/presentation/gegenhuber\">https://www.usenix.org/conference/usenixsecurity26/presentation/gegenhuber</a><br/>\n<a href=\"https://www.heise.de/en/news/Encrypted-but-wrong-Group-chats-vulnerable-to-manipulated-content-11384112.html\">https://www.heise.de/en/news/Encrypted-but-wrong-Group-chats-vulnerable-to-manipulated-content-11384112.html</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-07-31T02:00:02.000Z",
+    "duration": 350,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10032.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10032,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10032"
+  },
+  {
     "id": "sans-stormcast-thursday-july-30th-2026-apple-patches-ipmi-admin-pw-hash-leak-vmw",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, July 30th, 2026: Apple Patches; IPMI Admin PW Hash Leak; VMWare Patches; OpenWRT Patch",
