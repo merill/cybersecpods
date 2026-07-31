@@ -1861,7 +1861,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-07-31T07:10:22.336Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -3009,16 +3018,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-07-31T07:10:31.330Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -4184,16 +4184,7 @@
         "ratingCount": 14,
         "fetchedAt": "2026-07-31T07:10:39.335Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4824,9 +4815,9 @@
     "cadence": "weekly",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-28T21:00:00.000Z",
+    "lastEpisodeDate": "2026-07-31T21:00:00.000Z",
     "firstEpisodeDate": "2016-04-28T20:28:38.000Z",
-    "episodeCount": 823,
+    "episodeCount": 824,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
