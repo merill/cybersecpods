@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-drivers-seat-to-ransomware-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "The driver's seat to ransomware. [Research Saturday]",
+    "description": "<p>This week, we are joined by <a href=\"https://www.linkedin.com/in/malwaretech/\">Marcus Hutchins</a>, Principal Threat Researcher at <a href=\"https://expel.com/\">Expel</a>, sharing their work on \"Not very gentlemanly: Analyzing a zero-day exploit used by The Gentlemen ransomware to disable targets’ EDRs.\" Researchers examine how the Gentlemen ransomware group used a previously unknown zero-day vulnerability in a legacy Windows driver to disable endpoint detection and response (EDR) tools before deploying ransomware. The report details the group's advanced bring-your-own-vulnerable-driver (BYOVD) techniques, which bypass multiple Windows security protections to gain kernel-level access and terminate protected security software. It also outlines defensive measures organizations can take, including enabling Windows Defender Application Control (WDAC), virtualization-based security (VBS), and vulnerable driver blocklists to reduce the risk of similar attacks.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://expel.com/blog/not-very-gentlemanly-analyzing-a-zero-day-exploit-used-by-the-gentlemen-ransomware-to-disable-targets-edrs/\">Not very gentlemanly: Analyzing a zero-day exploit used by The Gentlemen ransomware to disable targets’ EDRs</a></li>\n</ul>",
+    "publishedAt": "2026-08-01T07:00:00.000Z",
+    "duration": 1432,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5586095340.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/0522b4ae-8cff-11f1-9ca0-6320bbf79aad/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 435,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/435/notes"
+  },
+  {
     "id": "claude-outside-the-lines",
     "podcastId": "cyberwire-daily",
     "title": "Claude outside the lines.",
