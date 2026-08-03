@@ -914,9 +914,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-07-27T16:00:00.000Z",
+    "lastEpisodeDate": "2026-08-03T12:30:00.000Z",
     "firstEpisodeDate": "2020-10-30T11:04:52.000Z",
-    "episodeCount": 294,
+    "episodeCount": 295,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1705,9 +1705,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-07-31T11:52:34.000Z",
+    "lastEpisodeDate": "2026-08-03T12:46:05.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 21,
+    "episodeCount": 22,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4752,44 +4752,7 @@
         "ratingCount": 16,
         "fetchedAt": "2026-08-03T07:22:33.072Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 2,
-        "title": "Just ok",
-        "content": "The one with Roland was really good the others have been hit and miss.",
-        "author": "cisoNYC",
-        "updatedAt": "2022-01-04T02:29:33-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "A must listen for all security leaders",
-        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
-        "author": "nicfill",
-        "updatedAt": "2021-05-18T10:06:29-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great new cybersecurity podcast!",
-        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
-        "author": "Frogstar5",
-        "updatedAt": "2021-05-13T14:40:00-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Excellent show",
-        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
-        "author": "Meatball_army_2021",
-        "updatedAt": "2021-05-13T14:24:25-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Depth of Knowledge shines through",
-        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
-        "author": "GottaRun21",
-        "updatedAt": "2021-05-13T14:16:19-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-weekly-news-audio",
@@ -5384,9 +5347,9 @@
         "websiteUrl": "https://www.antdavis.com"
       }
     ],
-    "lastEpisodeDate": "2026-07-27T05:00:00.000Z",
+    "lastEpisodeDate": "2026-08-03T05:00:00.000Z",
     "firstEpisodeDate": "2024-11-25T06:00:00.000Z",
-    "episodeCount": 98,
+    "episodeCount": 99,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5508,43 +5471,6 @@
         "fetchedAt": "2026-08-03T07:22:39.568Z"
       }
     },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great information and presentation",
-        "content": "Highly recommend if you are a network defender.",
-        "author": "Rygorr",
-        "updatedAt": "2026-07-17T14:09:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great cybersecurity podcast!",
-        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
-        "author": "Dave McCollough",
-        "updatedAt": "2025-12-12T06:46:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Love it",
-        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
-        "author": "dareyoutomove",
-        "updatedAt": "2024-10-12T09:27:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Pentesting 101",
-        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
-        "author": "Rich-Barr",
-        "updatedAt": "2023-11-01T04:42:09-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Worth a listen",
-        "content": "Great insight and advice and actually very entertaining.",
-        "author": "Chris Y Doyle",
-        "updatedAt": "2022-09-14T12:09:26-07:00"
-      }
-    ],
     "submittedBy": "techspence"
   },
   {

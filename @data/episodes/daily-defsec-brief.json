@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-3-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 3 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. N-able N-central auth bypass under active exploitation (incomplete first fix) — CVE-2026-18556, CVE-2026-18577 — The Hacker News — https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html\n2. SonicWall SMA1000 zero-click root chain driving INC ransomware — CVE-2026-15409, CVE-2026-15410 — SecurityWeek — https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/\n3. Russian APT compromising public Wi-Fi / SOHO gateways for M365 credential theft — SecurityWeek — https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/\n4. Thermo Fisher patches DNA-file tampering flaw in forensic ID software — CVE-2026-17583 — The Hacker News — https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html\n5. Hugging Face Diffusers flaws (FaceHugger) bypass trust_remote_code for RCE — CVE-2026-44513, CVE-2026-44827, CVE-2026-45804 — The Hacker News — https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html\n6. Passkey attack class lets endpoint malware steal synced private keys — Unit 42 — https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/\n7. XCSSET v40 abuses Chrome DevTools Protocol to steal cookies and run commands — Cyber Security News — https://cybersecuritynews.com/xcsset-v40-abuses-chrome-devtools/\n8. MacSync stealer delivered via fake Claude install guide and Terminal paste — Cyber Security News — https://cybersecuritynews.com/macsync-uses-fake-claude-guide/\n9. Chinese actor uses leaked DarkSword kit to deliver GHOSTBLADE on iOS — The Hacker News — https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html\n10. COLDCARD wallet RNG flaw linked to $88.6M Bitcoin theft — BleepingComputer — https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/\n11. CrowdStrike: AI-driven detections now outpace human-triggered ones — CyberScoop — https://cyberscoop.com/crowdstrike-annual-threat-hunting-report-2026/\n12. Elastic Defend expands vulnerable-driver coverage to 800+ for BYOVD defense — Help Net Security — https://www.helpnetsecurity.com/2026/08/03/elastic-defend-vulnerable-driver-detection/\n13. PNLD breach exposes UK police and government contact details on dark web — The Hacker News — https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html\n14. Brinks Home confirms Salesforce data breach after ShinyHunters claim — DataBreaches.net — https://databreaches.net/2026/08/02/brinks-home-confirms-data-breach-following-shinyhunters-claim/\n15. OpenAI details ChatGPT-assisted scam network run from Cambodia — Help Net Security — https://www.helpnetsecurity.com/2026/08/03/openai-disrupts-chatgpt-scam-operation/</code></pre>",
+    "publishedAt": "2026-08-03T12:46:05.000Z",
+    "duration": 304,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/5ba1d977a64d74a0195385c6881ea43233a2a4800283f6d6a1fb838cae031d08/eyJlcGlzb2RlSWQiOiJkMzZmYTVhMi0xNTUyLTRjNWYtYWQ5Ni1lMWMwOGZhMTdmY2EiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE3MDhjZmViN2I0NzNkMjk0NDFkMTMxL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtM19fMTQtNDMtNDIubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-july-31-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for July 31 2026 - Daily DefSec Brief",
