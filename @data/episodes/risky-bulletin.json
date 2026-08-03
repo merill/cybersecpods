@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-the-intrusion-signals-hiding-in-plain-sight",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: The intrusion signals hiding in plain sight",
+    "description": "<p>In this sponsored interview James Wilson chats with Permiso CTO Ian Ahl about detecting ShinyHunters-style attackers as they move through cloud and SaaS environments.</p>\n\n<p>Ian explains how ordinary-looking events such as a password reset, a new MFA device, unusual searches and a first-time AWS role assumption can combine to reveal an intrusion. Permiso’s platform connects these signals across identity providers, cloud platforms and SaaS applications. They also discuss how AI is helping attackers move from initial access to extortion in just four hours.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-08-03T00:22:38.000Z",
+    "duration": 936,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI138.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI138/"
+  },
+  {
     "id": "risky-bulletin-crime-stoppers-puts-bounty-on-inc-ransomware-group",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Crime Stoppers puts bounty on INC ransomware group",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS545/"
-  },
-  {
-    "id": "between-two-nerds-more-secure-but-less-safe",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: More secure but less safe",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about hacking and scams. While hacking is disappearing as a threat for most people, it is a new golden age for scammers. Even Tom has been scammed!</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/QBlv7wWPzXs\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.hachettebookgroup.com/titles/matt-potter/we-are-all-targets/9780306925733/?lens=grand-central-publishing\">We Are All Targets, How Renegade Hackers Invented Cyber War and Unleashed an Age of Global Chaos</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/smilingerik/status/1961439631653617983?s=61\">The $1.25 million scam</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-03-30T19:57:38.000Z",
-    "duration": 1586,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN160.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN160/"
   }
 ]

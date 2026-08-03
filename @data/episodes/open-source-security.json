@@ -1,5 +1,22 @@
 [
   {
+    "id": "vulnchecks-state-of-exploitation-report-with-patrick-garrity",
+    "podcastId": "open-source-security",
+    "title": "VulnCheck's State of Exploitation Report with Patrick Garrity",
+    "description": "<p dir=\"auto\">Josh chats with Patrick Garrity about the VulnCheck State of Exploitation 1H-2026 report. Patrick explains the current trends we are seeing around vulnerabilities right now. While the number of CVEs is way up, the number of actually exploited vulnerabilities isn't growing year over year. This tells us there is a lot of FUD and hype. We also ask where are all the vulnerabilities that project Glasswing found. They should be going public by now, but we're not seeing that play out in the data.</p> <p dir=\"auto\">The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-08-vulncheck-state-of-exploitation\" rel= \"nofollow\">https://opensourcesecurity.io/2026/2026-08-vulncheck-state-of-exploitation</a></p> <p> </p>",
+    "publishedAt": "2026-08-03T00:00:00.000Z",
+    "duration": 2205,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-08-vulncheck-state-of-exploitation.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/d/6/2/8/d628612f9eeabaff16c3140a3186d450/square-ledger.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/vulnchecks-state-of-exploitation-report-with-patrick-garrity"
+  },
+  {
     "id": "securing-critical-infrastructure-with-josh-corman",
     "podcastId": "open-source-security",
     "title": "Securing critical infrastructure with Josh Corman",
