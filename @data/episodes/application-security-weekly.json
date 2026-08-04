@@ -1,5 +1,22 @@
 [
   {
+    "id": "prompting-for-patches-that-fix-vulns-without-adding-new-ones-keith-hoodlet-asw-3",
+    "podcastId": "application-security-weekly",
+    "title": "Prompting for Patches That Fix Vulns Without Adding New Ones - Keith Hoodlet - ASW #394",
+    "description": "<p>There's already an increase in volume of security flaws found by LLMs. And orgs are already turning to LLMs to write code. So, what happens when orgs lean on LLMs to create patches for those security flaws? Keith Hoodlet gives an exclusive early look at his team's recent research into the success, quality, and failures of LLM-generated security patches. Notably, they saw scenarios across a spectrum from robust, effective patches to patches that changed the software's behavior to patches that introduced new vulns to patches that didn't even fix the original vuln while also introducing a new vuln.</p> <p>The research considers factors like quality and correctness of prompts, complexity of the target software, programming language, and expertise required to understand what a robust patch should look like. If you're going to spend tokens on fixing security flaws, you want a feedback loop that fixes them correctly -- not an infinite loop of new flaws creeping in with every LLM iteration.</p> <p>Watch for this research, its toolset, and data to be released on Thursday August 6th during Black Hat.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-394\">https://securityweekly.com/asw-394</a></p>",
+    "publishedAt": "2026-08-04T09:00:00.000Z",
+    "duration": 3815,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_394_1--befad5cc-9d50-4650-a46d-2475b8908916--audio-converted--8cc7db00-d2aa-407d-9b8e-f186d4099621.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/b/4/7/6/b47639c96dffebae16c3140a3186d450/ASW_394_Thumbnail_ASW_1920x1920-op1_59e1ae7d-a206-4be8-b385-782755092b8a.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/prompting-for-patches-that-fix-vulns-without-adding-new-ones-keith-hoodlet-asw-394"
+  },
+  {
     "id": "inside-the-owasp-agent-security-regression-harness-project-mert-satilmaz-asw-393",
     "podcastId": "application-security-weekly",
     "title": "Inside the OWASP Agent Security Regression Harness Project - Mert Satilmaz - ASW #393",
