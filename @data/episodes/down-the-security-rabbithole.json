@@ -1,5 +1,22 @@
 [
   {
+    "id": "dtsr-episode-717-your-ui-is-bullshit",
+    "podcastId": "down-the-security-rabbithole",
+    "title": "DtSR Episode 717 - Your UI is Bullshit",
+    "description": "<p><b>Guests: </b><a href='https://www.linkedin.com/in/mfarnum/'><b>Michael Farnum</b></a><b>, </b><a href='https://www.linkedin.com/in/svanryder/'><b>Sam Van Ryder</b></a></p><p><b>TL;DR: </b>Most cybersecurity dashboards don’t fail because they’re ugly. They fail because they don’t change what we do next.</p><p><b>Description</b></p><p>In Episode 717, Rafal sits down with Michael Farnum (Cybersec Community) and Sam (Dragos, a long-time OT and industrial cybersecurity practitioner) to talk about the uncomfortable truth behind security UI/UX: much of what shows up in the GUI is pure noise. We dig into the split between “pretty but useless” interfaces and tools that are practical but painful, then map out what a real practitioner-focused dashboard should deliver: contextual metrics, clear workflows, and data that drives action inside a SOC, an MDR, or an enterprise security team.<br/><br/>From SIEM and EDR lessons to product management realities, we unpack why companies miss the mark when marketing drives the roadmap or when engineering builds for engineers only. We also get candid about the analyst ecosystem, the difference between grounded practitioner feedback and “ivory tower” trend-chasing, and how that can steer executives toward tools that are hard to operationalize.<br/><br/>Then we move into AI and CTEM, continuous threat exposure management, and why the win isn’t a flashier interface. The win is faster telemetry correlation, so we can answer the questions that matter: is this vulnerability reachable in our environment, is it exploitable, and what should we prioritize right now? We also touch on modern “interfaces” like APIs and MCP, where the UX becomes how efficiently you can get results, even when the user is another machine.<br/><br/>If you care about security tools that actually work under pressure, hit play, subscribe, share the episode with a teammate, and leave a review with your biggest UI pet peeve.</p><p><b>YouTube Video: </b><a href='https://youtube.com/live/ts2rU1-j4EI'>https://youtube.com/live/ts2rU1-j4EI</a></p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2153215/fan_mail/new\">Have something to say? Let's hear it.</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/2153215/support\">Support the show</a></p><p><em>>>> Please consider clicking the link above to support the show!</em><br/>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=<br/><b>YouTube home:</b> <a href='https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq'>https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq</a><br/><b>LinkedIn Page:</b> <a href='https://www.linkedin.com/company/down-the-security-rabbithole-podcast/'>https://www.linkedin.com/company/down-the-security-rabbithole-podcast/</a><br/><b>X/Twitter:</b> <a href='https://twitter.com/dtsr_podcast'>https://twitter.com/dtsr_podcast</a></p>",
+    "publishedAt": "2026-08-04T10:00:00.000Z",
+    "duration": 2425,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2153215/episodes/19582712-dtsr-episode-717-your-ui-is-bullshit.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "dtsr-episode-716-what-if-context-replaced-alerts-entirely",
     "podcastId": "down-the-security-rabbithole",
     "title": "DtSR Episode 716 - What if Context Replaced Alerts Entirely",
