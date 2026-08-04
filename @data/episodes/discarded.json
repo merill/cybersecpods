@@ -1,5 +1,22 @@
 [
   {
+    "id": "half-click-full-compromise-inside-russias-ta458-and-ta488-espionage-playbook",
+    "podcastId": "discarded",
+    "title": "Half-Click, Full Compromise: Inside Russia's TA458 and TA488 Espionage Playbook",
+    "description": "<p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2445401/fan_mail/new\">Send us fan mail!</a></p><p><b>Hello to all our cyber roosters!</b></p><p><b>Host Selena Larson is joined by co-host Sarah Sabatka and returning guest Greg Lesnewich, Principal Threat Researcher at Proofpoint, to unpack two new reports on Russian aligned espionage actors abusing “half-click” exploits, which are vulnerabilities that compromise a target the moment they open an email in a vulnerable webmail viewer, no link or attachment required.</b></p><p><b>Greg breaks down the two distinct actors covered in Proofpoint's research: TA458, a mature, well-resourced group active across multiple webmail platforms (Zimbra, MDaemon, Roundcube, SOGo, and Horde) primarily targeting Ukraine, Eastern Europe, and militaries/ministries of foreign affairs; and TA488 (aka Void Blizzard, aka Laundry Bear), a comparatively scrappier contractor operation that leaned on a single Zimbra zero-day dubbed “ZimReaper” to steal credentials, full mailboxes, and up to 90 days of email history from Ukrainian government and U.S. targets.</b></p><p><b>The conversation covers how the half-click technique works under the hood (stored cross-site scripting via mishandled JavaScript event handlers in webmail HTML), how it differs from traditional phishing, the evidence pointing to a possible link between TA458 and GRU Unit 20728, why TA488's contractor status may explain its skittishness (burning down infrastructure after being outed) versus TA458's higher risk tolerance (including repeatedly firing exploits at targets that weren't even running vulnerable software), and what defenders running Zimbra, Roundcube, or similar platforms can actually do about it.</b></p><p><b>Resources Mentioned:</b></p><p><a href='https://www.proofpoint.com/us/blog/threat-insight/ta458-roundpress-exploits'>https://www.proofpoint.com/us/blog/threat-insight/ta458-roundpress-exploits</a></p><p><a href='https://www.proofpoint.com/us/blog/threat-insight/ta488-targets-zimbra-mailservers-half-click-exploits'>https://www.proofpoint.com/us/blog/threat-insight/ta488-targets-zimbra-mailservers-half-click-exploits</a></p><p><b>For more information about Proofpoint,</b><a href='https://www.proofpoint.com/us/podcasts'><b> check out our website</b></a><b>.</b></p><p><b>Subscribe & Follow:</b></p><p><b>Stay ahead of emerging threats, and subscribe! Happy hunting!</b></p><p><br/><br/></p>",
+    "publishedAt": "2026-08-04T08:00:00.000Z",
+    "duration": 2866,
+    "audioUrl": "https://www.buzzsprout.com/2445401/episodes/19594512-half-click-full-compromise-inside-russia-s-ta458-and-ta488-espionage-playbook.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 107,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "stealc-exposed-tracking-emulating-and-disrupting-a-top-info-stealer",
     "podcastId": "discarded",
     "title": "StealC Exposed: Tracking, Emulating, and Disrupting a Top Info Stealer",
