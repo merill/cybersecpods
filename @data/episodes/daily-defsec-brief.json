@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-4-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 4 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Critical unauthenticated RCEs in Adobe Campaign Classic — CVE-2026-48317, -48323, -48326, -48330, -48331, -48333, -48399 — Cyber Security News — https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/\n2. Cisco Secure Firewall Management Center auth bypass to root — CVE-2026-20079 — Cisco PSIRT — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-onprem-fmc-authbypass-5JPp45V2\n3. Check Point Security Management auth bypass / full takeover — CVE-2026-18574 — Cyber Security News — https://cybersecuritynews.com/check-point-authentication-bypass-flaw/\n4. Apache NiFi authorization-bypass flaws — CVE-2026-62354, -68979, -68980, -68981 — Cyber Security News — https://cybersecuritynews.com/apache-nifi-vulnerabilities/\n5. Critical cPanel/WHM SQL-as-root flaw — CVE-2026-58048 — Cyber Security News — https://cybersecuritynews.com/cpanel-vulnerability/\n6. LiteLLM AI gateway hijack, key theft, tool-call injection — CVE-2026-42271 (EPSS 0.83) — Embrace The Red — https://embracethered.com/blog/posts/2026/hijacking-litellm-for-fun-and-profit/\n7. Google ADK-python agent-to-agent prompt injection / PR tampering — SecurityWeek — https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/ · Cyber Security News — https://cybersecuritynews.com/ai-agent-against-its-own-ci-cd-pipeline/\n8. DOUBLECUP loader-as-a-service, ClickFix, cached PNGs — The Hacker News — https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html\n9. Pass-ta-key attacks on Google-synced passkeys — The Hacker News — https://thehackernews.com/2026/08/google-password-manager-attacks-could.html\n10. 18 malicious npm packages deliver cross-platform RAT (Alibaba tooling) — The Hacker News — https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html\n11. Fake AI-tool GitHub clones deliver SmartLoader (TroyDens) — Cyber Security News — https://cybersecuritynews.com/fake-ai-tool-campaign/\n12. BINDCLOAK Windows backdoor steals tokens for privileged execution — Cyber Security News — https://cybersecuritynews.com/bindcloak-steals-windows-tokens/\n13. Fake IRS \"Digital Asset Compliance Portal\" letters phish crypto holders — Graham Cluley / Bitdefender — https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-irs-letters-cryptocurrency\n14. Device code phishing up 15x, vishing doubled in H1 2026 — Dark Reading — https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles</code></pre>",
+    "publishedAt": "2026-08-04T13:15:11.000Z",
+    "duration": 285,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/1622326ec21a60cb048e97289db90713a9d3fdf9864616b90cbda33a19c64fce/eyJlcGlzb2RlSWQiOiJkODg2OWE1NS1mMTNiLTQzMzAtYTRhYi05MGM3MmFkM2Q3N2IiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE3MWUzYjBhN2I3YzIwMTgzNmYwNjFkL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtNF9fMTUtNS01Mi5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-3-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 3 2026 - Daily DefSec Brief",
