@@ -1,5 +1,22 @@
 [
   {
+    "id": "i-pay-you-dollar200-a-month-when-threat-actors-argue-with-ai",
+    "podcastId": "beers-with-talos",
+    "title": "\"I Pay You $200 a Month!\" - When Threat Actors Argue With AI",
+    "description": "<p>Cybercriminals are increasingly relying on AI, but in doing so, they're creating an entirely new source of threat intelligence.</p><p>This week, Talos researcher Arnaud Zobec joins Hazel, Bill, Joe and Dave to discuss what happens when attackers leave behind AI prompt logs, agent configurations and other unexpected artifacts. From jailbreak attempts to agentic workflows and accidental infrastructure leaks, the team discusses what these artifacts reveal about attacker behavior, and where/how AI is changing offensive operations and campaigns. Here's the link to that blog <a href='https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/'>https://blog.talosintelligence.com/keep-going-bro-youve-got-this-a-data-driven-look-at-how-adversaries-are-weaponizing-ai/</a></p><p>Also in this episode: our listener question tackles the surprising bad actor developments in over the past year, plus a bonus question on walk-on songs officially makes us a music podcast. Bill puts Hazel through her paces with an old school SOC question in 'Make Hazel a hacker'. And Dave leaves everyone with chills.</p>",
+    "publishedAt": "2026-08-05T09:00:00.000Z",
+    "duration": 3747,
+    "audioUrl": "https://www.buzzsprout.com/2033817/episodes/19599147-i-pay-you-200-a-month-when-threat-actors-argue-with-ai.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "keeping-up-with-the-cybercriminals",
     "podcastId": "beers-with-talos",
     "title": "Keeping Up With the Cybercriminals",
