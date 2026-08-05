@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-5-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 5 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Langflow unauthenticated RCE now on CISA KEV — CVE-2026-9198 — SecurityWeek — https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/\n2. Apache Tomcat EncryptInterceptor bypass added to KEV — CVE-2026-34486 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n3. ChainDrop npm worm self-propagates across hundreds of packages — Microsoft — https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/\n4. N-able N-central auth bypass on KEV, 3-day fed clock — CVE-2026-18556 — The Register — https://www.theregister.com/security/2026/08/04/feds-get-3-days-to-patch-n-able-god-mode-flaw-under-active-exploit/5282894\n5. Veeam ONE 13 unauthenticated RCE at CVSS 10.0 — CVE-2026-64633 (+ -58074, -58075, -64630, -64631, -64634) — Cyber Security News — https://cybersecuritynews.com/multiple-veeam-one-vulnerabilities/\n6. TP-Link Omada ZTP flaws breach SMB networks — CVE-2025-7850, -7851, -9289, -9293, -15544, -15627, -15631 — BleepingComputer — https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/\n7. 1-click RCE in Cursor, VS Code and Google Antigravity via Git commit links — Cyber Security News — https://cybersecuritynews.com/1-click-rce-vulnerability-in-code-editors/\n8. QuickFox VPN supply-chain attack drops Mustang Panda's FDMTP backdoor — The Hacker News — https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html\n9. 77 Open VSX \"evil twin\" extensions exfiltrate developer and CI data — The Hacker News — https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html\n10. SMOKE#SCREEN and BoA lures push ScreenConnect for persistent access — The Hacker News — https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html\n11. Greatness PhaaS adds device-code phishing to bypass MFA — The Hacker News — https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html\n12. 7-Zip strips Mark-of-the-Web, files dodge SmartScreen — Cyber Security News — https://cybersecuritynews.com/7-zip-mark-of-the-web-bypass/\n13. EtherRAT spreads via remote scheduled tasks in Gentlemen ransomware intrusion — Cyber Security News — https://cybersecuritynews.com/remote-scheduled-tasks-etherrat/\n14. XCSSET v40 spreads through compromised Xcode projects and Git repos — BleepingComputer — https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/\n15. Malware increasingly skips DNS, going direct-to-IP for C2 — Unit 42 — https://unit42.paloaltonetworks.com/malware-bypass-dns-direct-to-ip/\n16. Copilot and email AI assistants weaponized for BEC and account takeover — Cyber Security News — https://cybersecuritynews.com/hackers-weaponize-microsoft-copilot/</code></pre>",
+    "publishedAt": "2026-08-05T12:29:00.000Z",
+    "duration": 330,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/1fac2b502cb2b857d00cb35ee3791d5e49d83b702b9d29f2e3ca47cae70e0912/eyJlcGlzb2RlSWQiOiJlZjA1MDUxZS03MDExLTQxOWItOTEwOC1mYzMyNjZmMDc4OWQiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE3MzI5YjM2ZDBkZjI4YzY2ZWFhM2VmL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtNV9fMTQtMTYtNTEubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-4-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 4 2026 - Daily DefSec Brief",
