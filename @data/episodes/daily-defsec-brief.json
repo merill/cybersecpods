@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-6-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 6 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. JetBrains TeamCity deserialization RCE added to CISA KEV — CVE-2026-63077 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n2. Zbtlink Chinese routers ship a factory backdoor (ENDLESSDOORS) with unauth root shell — The Hacker News / VulnCheck — https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html\n3. Critical Cisco IMC bug gives root via web interface, public PoC out — CVE-2026-20200, CVE-2026-20272 — Help Net Security — https://www.helpnetsecurity.com/2026/08/06/cisco-imc-cve-2026-20200-public-poc-exploit/\n4. Attackers compile khunt toolkit inside Oracle to reach Windows SYSTEM — The Hacker News / Huntress — https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html\n5. keyv/cacheable npm compromise — don't revoke the stolen token first — SANS ISC — https://isc.sans.edu/diary/rss/33218 · Cyber Security News — https://cybersecuritynews.com/new-npm-supply-chain-attack/\n6. Paperclip AI control plane unauth RCE — CVE-2026-41679 (also GHSA-x8hx-rhr2-9rf7) — SecurityWeek — https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/\n7. Agent frameworks from AWS, Google, Vercel let attackers trigger tools with no model turn — CVE-2026-18236, CVE-2026-18830, CVE-2026-64650, CVE-2026-64651 — The Hacker News — https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html\n8. Cisco Secure FMC static-credential flaw, hot fixes out — CVE-2026-20316 — Cisco PSIRT — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-fmc-static-cred-BET3Cjh\n9. Pre-auth RCE in Bonita and OFBiz enterprise Java servers — CVE-2026-31986 — Help Net Security — https://www.helpnetsecurity.com/2026/08/05/pre-auth-rce-java-bonita-ofbiz-cve-2026-31986/\n10. OVSwrap Linux kernel flaw gives local users root via Open vSwitch — CVE-2026-64531 — The Hacker News — https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html\n11. macOS ClickFix campaign adds browser fingerprinting to hide AMOS lures — Microsoft — https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/ · The Hacker News — https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html\n12. Kali365 device-code phishing abuses real Microsoft login against US firms — The Hacker News — https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html\n13. NullReceiver: npm packages hide C2 IP in empty Ethereum transfers — The Hacker News — https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html\n14. Apple iCloud Private Relay WebKit flaws leak users' real IP — Cyber Security News — https://cybersecuritynews.com/apple-icloud-private-relay/\n15. AI browsers vulnerable to zero-click agent hijacking via hidden instructions — Dark Reading — https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking\n16. Poison Claude gray-market AI access exposes every prompt to the operator — The Hacker News — https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html · Help Net Security — https://www.helpnetsecurity.com/2026/08/06/ai-model-access-fraud-gray-market/</code></pre>",
+    "publishedAt": "2026-08-06T12:19:20.000Z",
+    "duration": 298,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/8e76d18819855fcf6d6dce83170aba9331e14353151c2d435d25db4a12f69a32/eyJlcGlzb2RlSWQiOiIwMDNmZmQ5ZS0yNmUwLTQ2ZTMtODFiOS00YTg0YjdiYjkwMGMiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE3NDdiODdhM2E5OWNmOTM3MjdhYjFkL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtNl9fMTQtMTgtMTUubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-5-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 5 2026 - Daily DefSec Brief",
