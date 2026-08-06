@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-crowdstrike-settings-that-actually-stop-us-or-ep-191",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "The CrowdStrike Settings That Actually Stop Us | Ep 191",
+    "description": "<p>Two pen testers have spent thousands of hours inside client networks, and the most common failure they see isn't a missing security product — it's an EDR nobody ever tuned.<br/><br/>In this episode, Spencer and Tyler open up the CrowdStrike Falcon console and walk through the specific settings that decide whether your team catches an attack or never sees it. They start with the story that kicked the whole thing off: Tyler running a pen test where every AMSI bypass gets blocked and detections fire left and right, while Spencer runs nearly identical tooling against the same product at another client and the SOC sees nothing all week. Same CrowdStrike. Same version. Different checkboxes.<br/><br/>From there it's a tactical walkthrough of Endpoint Security → Prevention Policies and the settings worth your attention: Enhanced Exploitation Visibility, which unlocks command-line and PowerShell telemetry that Microsoft disables by default; Enhanced DLL Load Visibility for side-loading attacks; WSL2 Visibility, which closes a sandbox threat actors have been using to run Kali tooling under the radar; memory scanning for in-memory C# tradecraft; Office malicious macro removal; file system containment for ransomware over SMB; vulnerable driver protection, the direct mitigation for BYOVD attacks and EDR killers; and cloud-based anomalous process execution for living-off-the-land binaries.<br/><br/>They also cover custom IOA rule groups for blocking unauthorized RMM tools, centralized firewall policy management, device policies for USB control, and a warning on exclusions — especially wildcard paths, which Tyler calls a threat actor's best dream.<br/><br/>The takeaway is simple: you're paying real money for EDR, and default configurations aren't giving you what you paid for. Open your console, work through the settings, test them against an IT pilot group, and enable what fits your environment.<br/><br/>TOPICS COVERED<br/><br/>- Why EDR vendors ship deficient defaults on purpose<br/>- Enhanced Exploitation Visibility and the telemetry gap in PowerShell attacks<br/>- DLL side-loading, WSL2 abuse, and vulnerable driver attacks<br/>- Memory scanning and in-memory tooling detection<br/>- Blocking RMM tools with custom IOA rule groups<br/>- Exclusion hygiene and the wildcard path problem<br/>- Device policies, USB blocking, and insider threat<br/><br/>Sentinel One and Defender for Endpoint are next — let us know what else you want covered.<br/><br/>Blog: https://offsec.blog<br/>Work with us on an internal pen test: https://securit360.com</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-08-06T09:00:00.000Z",
+    "duration": 2281,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19605317-the-crowdstrike-settings-that-actually-stop-us-ep-191.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 191,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "episode-190-or-owasp-top-10-part-4-cryptographic-failures",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Episode 190 | OWASP Top 10 Part 4: Cryptographic Failures",
