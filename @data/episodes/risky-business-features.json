@@ -1,5 +1,22 @@
 [
   {
+    "id": "how-private-llm-inference-actually-works",
+    "podcastId": "risky-business-features",
+    "title": "How private LLM inference actually works",
+    "description": "<p>In this podcast episode James Wilson chats with Tinfoil co-founder Tanya Verma about how you can run a powerful LLM in the cloud without the inference provider seeing your prompts.</p>\n\n<p>Tanya talks James through how private inference works, from trusted execution environments and hardware attestation, to TLS termination and GPU isolation. Customers can verify the exact code and model processing their data, while Tinfoil and its infrastructure providers remain locked out.</p>\n\n<p>That’s clever engineering… but who really needs it? Is private inference only useful if you’re doing something bad, or will it become a privacy baseline like TLS? James and Tanya discuss the costs and trade-offs, and how open weights make private inference more transparent and trustworthy.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-08-07T06:29:55.000Z",
+    "duration": 5029,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES34.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES34/"
+  },
+  {
     "id": "benchmarks-borders-and-the-true-cost-of-ai-regulation",
     "podcastId": "risky-business-features",
     "title": "Benchmarks, borders and the true cost of AI regulation",
