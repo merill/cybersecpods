@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-august-7th-2026-fast-ssh-attacks-dell-bios-passwd-weakness",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, August 7th, 2026: Fast SSH Attacks; Dell BIOS Passwd Weakness; Crypto Wallet Vuln; Benchmarking LLMs for Threat Intel (@sans_edu)",
+    "description": "<br/>\n22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink [Guest Diary]<br/>\n<a href=\"https://isc.sans.edu/diary/22+Seconds+to+Compromise+How+Automated+SSH+Actors+Move+From+Login+to+Persistence+Before+You+Can+Blink+Guest+Diary/33220\">https://isc.sans.edu/diary/22+Seconds+to+Compromise+How+Automated+SSH+Actors+Move+From+Login+to+Persistence+Before+You+Can+Blink+Guest+Diary/33220</a><br/>\nDell BIOS Passwords: Weak XOR Encryption Allows Recovery from SPI Flash (CVE-2026-40639)<br/>\n<a href=\"https://blog.amberwolf.com/blog/2026/july/dell-bios-passwords-weak-xor-encryption-allows-recovery-from-spi-flash-cve-2026-40639/\">https://blog.amberwolf.com/blog/2026/july/dell-bios-passwords-weak-xor-encryption-allows-recovery-from-spi-flash-cve-2026-40639/</a><br/>\nIll Bloom: Crypto Wallet Vulnerability<br/>\n<a href=\"https://illbloom.org\">https://illbloom.org</a><br/>\nBenchmarking Free-Tier Large Language Models as Cognitive Aids for Operationalizing Unstructured Cyber Threat Intelligence<br/>\n<a href=\"https://www.sans.edu/cyber-research/benchmarking-free-tier-large-language-models-cognitive-aids-operationalizing-unstructured-cyber-threat-intelligence\">https://www.sans.edu/cyber-research/benchmarking-free-tier-large-language-models-cognitive-aids-operationalizing-unstructured-cyber-threat-intelligence</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-07T02:00:02.000Z",
+    "duration": 989,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10042.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10042,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10042"
+  },
+  {
     "id": "sans-stormcast-thursday-august-6th-2026-keyvcachable-worm-ir-apple-private-relay",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, August 6th, 2026: keyv/cachable Worm IR; Apple Private Relay Leak; COLDCARD Phish",
