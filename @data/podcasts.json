@@ -604,16 +604,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-08T07:04:45.583Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must have podcast for Defenders",
-        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
-        "author": "Rljohnson5",
-        "updatedAt": "2023-05-23T14:47:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "bluehat-podcast",
@@ -1160,9 +1151,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-06T16:00:00.000Z",
+    "lastEpisodeDate": "2026-08-08T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 310,
+    "episodeCount": 311,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4272,6 +4263,13 @@
     "recentReviews": [
       {
         "rating": 5,
+        "title": "In IT?  Do you have 5 minutes?",
+        "content": "Actionable, Concise, Timely\n   \nThe perfect podcast, Johannes is amazing.  This 5 minute podcast must take him hours every day to research.  The effort is much appreciated!",
+        "author": "Gump4487245",
+        "updatedAt": "2026-08-07T04:35:39-07:00"
+      },
+      {
+        "rating": 5,
         "title": "Best in Show!",
         "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
         "author": "1Flatlander",
@@ -4297,13 +4295,6 @@
         "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
         "author": "JayJonahJameson",
         "updatedAt": "2025-12-16T03:32:20-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great content",
-        "content": "I don’t always get to listen to this daily but I’m careful to go back at the end of the week to catch up.",
-        "author": "Ceszombie",
-        "updatedAt": "2025-12-13T13:30:15-07:00"
       }
     ]
   },
@@ -4854,44 +4845,7 @@
         "ratingCount": 33,
         "fetchedAt": "2026-08-08T07:05:18.240Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great news summaries and very funny",
-        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
-        "author": "TFWas",
-        "updatedAt": "2025-07-02T05:16:53-07:00"
-      },
-      {
-        "rating": 2,
-        "title": "Reasonably okay infosec podcast",
-        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
-        "author": "[REDACTED] USER",
-        "updatedAt": "2023-11-13T18:43:38-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Entertaining InfoSec news",
-        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
-        "author": "Bevonomics",
-        "updatedAt": "2022-12-07T14:23:31-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Brief But Not Shallow",
-        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
-        "author": "MLC689",
-        "updatedAt": "2022-11-29T10:37:03-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "Stop recommending this, I don’t want to see it",
-        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
-        "author": "Blizzard1s2d",
-        "updatedAt": "2019-06-19T20:00:01-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "shadowtalk",
@@ -5524,43 +5478,6 @@
         "fetchedAt": "2026-08-08T07:05:23.024Z"
       }
     },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great information and presentation",
-        "content": "Highly recommend if you are a network defender.",
-        "author": "Rygorr",
-        "updatedAt": "2026-07-17T14:09:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great cybersecurity podcast!",
-        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
-        "author": "Dave McCollough",
-        "updatedAt": "2025-12-12T06:46:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Love it",
-        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
-        "author": "dareyoutomove",
-        "updatedAt": "2024-10-12T09:27:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Pentesting 101",
-        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
-        "author": "Rich-Barr",
-        "updatedAt": "2023-11-01T04:42:09-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Worth a listen",
-        "content": "Great insight and advice and actually very entertaining.",
-        "author": "Chris Y Doyle",
-        "updatedAt": "2022-09-14T12:09:26-07:00"
-      }
-    ],
     "submittedBy": "techspence"
   },
   {
