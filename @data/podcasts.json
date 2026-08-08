@@ -1852,16 +1852,7 @@
         "ratingCount": 2,
         "fetchedAt": "2026-08-08T07:04:54.173Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Jack is awesome",
-        "content": "Congrats on launch of Spanish version.",
-        "author": "Gotchayeah",
-        "updatedAt": "2025-05-22T18:24:35-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decipher-security-podcast",
@@ -2188,44 +2179,7 @@
         "ratingCount": 56,
         "fetchedAt": "2026-08-08T07:04:57.427Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Love this pod!",
-        "content": "Selena and Crista dives into intriguing topics that are often overlooked, serving up fresh insights in a compelling manner. It feels like a refreshing conversation with a wise friend, always leaving you eager for the next episode.\n\nFrom Bona and Team Capsho",
-        "author": "Bona and Team Capsho",
-        "updatedAt": "2023-08-30T14:42:38-07:00"
-      },
-      {
-        "rating": 4,
-        "title": "Great  Podcast",
-        "content": "Very good podcast Brian a lot from listening to it.",
-        "author": "JonDvid",
-        "updatedAt": "2023-06-11T05:06:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Cyber! Cyber! Cyber!",
-        "content": "This is the best podcast by CTI practitioners diving into detail about current threats. This podcast would win a fight against other similar podcasts. Let’s have a podcast fight club. Oops this pod is already the champ.",
-        "author": "GPSWKEKT1640",
-        "updatedAt": "2023-05-02T21:00:47-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top Notch",
-        "content": "Timely and informative content!",
-        "author": "ASVPGLES",
-        "updatedAt": "2023-01-24T11:06:13-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top Cyber Threat Podcast",
-        "content": "This podcast has some of the smartest people I’ve ever heard talk about computers. True thought leaders that are titans in the industry bringing the hottest cyber threats to your ears. Highly recommend.",
-        "author": "JM123456789123456789",
-        "updatedAt": "2022-03-10T09:38:13-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "down-the-security-rabbithole",
@@ -2847,7 +2801,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-08-08T07:05:03.452Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -5492,7 +5455,44 @@
         "ratingCount": 47,
         "fetchedAt": "2026-08-08T07:05:24.884Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful and educational",
+        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
+        "author": "Maocol99",
+        "updatedAt": "2025-08-14T17:21:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful, timely, and concise!",
+        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
+        "author": "LarsMarie",
+        "updatedAt": "2025-05-05T15:23:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "More OT cybersecurity and Holly rocks.",
+        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
+        "author": "tryangalway",
+        "updatedAt": "2025-03-10T22:06:15-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great Podcast for Cybersecurity Insights!",
+        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
+        "author": "yshishka",
+        "updatedAt": "2024-08-26T10:36:16-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Accessible & Actionable Resource",
+        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
+        "author": "run_amanda",
+        "updatedAt": "2024-08-19T08:29:33-07:00"
+      }
+    ]
   },
   {
     "id": "three-buddy-problem",
