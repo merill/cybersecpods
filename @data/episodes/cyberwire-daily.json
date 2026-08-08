@@ -1,5 +1,22 @@
 [
   {
+    "id": "a-little-help-from-your-search-engine-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "A little help from your search engine. [Research Saturday]",
+    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/brianhussey/\">Brian Hussey</a>, SVP of Howler Cell Threat Services at <a href=\"https://www.cyderes.com/\">Cyderes</a>, discussing their work on \"Bad Ads, Worse Binaries: Fake Claude Code Installer Drops Infostealer.\" Howler Cell identified an SEO poisoning campaign targeting people searching for Claude Code installation guides, using a fake Anthropic page and a ClickFix lure to trick victims into running a malicious MSHTA command. </p>\n<p>The attack uses a six-stage, largely fileless chain that employs an MP3/HTA polyglot, PowerShell obfuscation, AMSI bypasses, per-victim infrastructure, and in-memory execution to evade detection. The final payload is a .NET infostealer that steals credentials, while Anthropic and the legitimate Claude Code installation process were not compromised.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.cyderes.com/howler-cell/fake-claude-code-installer-infostealer\">Bad Ads, Worse Binaries: Fake Claude Code Installer Drops Infostealer</a></li>\n</ul>",
+    "publishedAt": "2026-08-08T07:00:00.000Z",
+    "duration": 1188,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5075997292.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/533b4f90-927a-11f1-84f2-13e67cd1ed4a/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 436,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/436/notes"
+  },
+  {
     "id": "ring-around-the-ransom",
     "podcastId": "cyberwire-daily",
     "title": "Ring around the ransom.",
