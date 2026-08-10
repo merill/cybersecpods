@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-august-10th-2026-linux-shell-forensics-criticial-macos-pat",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, August 10th, 2026: Linux Shell Forensics; Criticial MacOS Patch; More N-Central Hotfixes; Exploited Metabase Vuln;",
+    "description": "<br/>\nLinux Shell Forensic: Let s Dive Into Atuin!<br/>\n<a href=\"https://isc.sans.edu/diary/Linux+Shell+Forensic+Lets+Dive+Into+Atuin/33226\">https://isc.sans.edu/diary/Linux+Shell+Forensic+Lets+Dive+Into+Atuin/33226</a><br/>\nApple Patches macOS Screen Sharing Vulnerability<br/>\n<a href=\"https://support.apple.com/en-us/148170\">https://support.apple.com/en-us/148170</a><br/>\nMore N-Able N-Central Issues<br/>\n<a href=\"https://www.n-able.com/blog/n-central-security-update-august-6-2026\">https://www.n-able.com/blog/n-central-security-update-august-6-2026</a><br/>\nMetabase Unauthenticated SQL injection<br/>\n<a href=\"https://github.com/metabase/metabase/security/advisories/GHSA-vwf4-m7j8-wcjf\">https://github.com/metabase/metabase/security/advisories/GHSA-vwf4-m7j8-wcjf</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-10T02:00:02.000Z",
+    "duration": 483,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10044.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10044,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10044"
+  },
+  {
     "id": "sans-stormcast-friday-august-7th-2026-fast-ssh-attacks-dell-bios-passwd-weakness",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, August 7th, 2026: Fast SSH Attacks; Dell BIOS Passwd Weakness; Crypto Wallet Vuln; Benchmarking LLMs for Threat Intel (@sans_edu)",
