@@ -1500,7 +1500,7 @@
     "description": "An accessible but technical podcast about cybersecurity and the people who keep the internet safe. The podcast is built as a series of segments: we will be looking back at the last couple of weeks in cybersecurity news, talking to different people in the industry about areas of their expertise, we're going to break apart some of the TTPs being used by adversaries, and we will even cover a little bit of hacker history.",
     "summary": "An accessible but technical podcast about cybersecurity and the people who keep the internet safe. The podcast is built as a series of segments: we will be looking back at the last couple of weeks in cybersecurity news, talking to different people in the industry about areas of their expertise, we're going to break apart some of the TTPs being used by adversaries, and we will even cover a little bit of hacker history.",
     "subtitle": "An accessible but technical podcast about cybersecurity and the people who keep the internet safe.",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c0/8c/a4/c08ca492-c6ce-8694-e3a0-55f3ea73d52a/mza_1914757216067912275.png/600x600bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/67/06/7d/67067d4e-f606-6846-79aa-93987cd859b6/mza_15553625404681535315.jpg/600x600bb.jpg",
     "author": "LimaCharlie",
     "language": "en-us",
     "categories": [
@@ -1510,7 +1510,7 @@
     ],
     "explicit": false,
     "websiteUrl": "http://limacharlie.io",
-    "rssUrl": "https://fast.wistia.com/channels/1bbncmrkw3/rss",
+    "rssUrl": "https://feeds.transistor.fm/the-cybersecurity-defenders-podcast",
     "copyright": "© 2023 LimaCharlie",
     "spotifyUrl": null,
     "youtubeUrl": null,
@@ -2945,16 +2945,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-08-10T07:55:54.460Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -4120,23 +4111,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-10T07:56:03.853Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent",
-        "content": "Great analysis really, very thoughtful",
-        "author": "SecEnthused",
-        "updatedAt": "2026-08-04T16:30:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
