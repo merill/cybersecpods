@@ -389,9 +389,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-04T09:00:00.000Z",
+    "lastEpisodeDate": "2026-08-11T09:00:00.000Z",
     "firstEpisodeDate": "2018-01-08T14:20:38.000Z",
-    "episodeCount": 408,
+    "episodeCount": 409,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1850,16 +1850,7 @@
         "ratingCount": 2,
         "fetchedAt": "2026-08-11T07:19:38.324Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Jack is awesome",
-        "content": "Congrats on launch of Spanish version.",
-        "author": "Gotchayeah",
-        "updatedAt": "2025-05-22T18:24:35-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decipher-security-podcast",
@@ -4111,23 +4102,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-11T07:19:58.625Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent",
-        "content": "Great analysis really, very thoughtful",
-        "author": "SecEnthused",
-        "updatedAt": "2026-08-04T16:30:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5532,44 +5507,7 @@
         "ratingCount": 64,
         "fetchedAt": "2026-08-11T07:20:12.439Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 1,
-        "title": "So much potential",
-        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
-        "author": "Yeahyeahblahblah",
-        "updatedAt": "2026-06-06T04:49:02-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful",
-        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
-        "author": "Laughedoutloud",
-        "updatedAt": "2025-12-27T07:09:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Oo",
-        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
-        "author": "\\x4A\\x4D",
-        "updatedAt": "2025-05-20T13:02:20-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "1X",
-        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
-        "author": "mjg5772",
-        "updatedAt": "2025-05-17T20:32:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Security and more",
-        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
-        "author": "Chris Mc.38",
-        "updatedAt": "2024-12-15T10:04:10-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "to-the-point-cybersecurity",
