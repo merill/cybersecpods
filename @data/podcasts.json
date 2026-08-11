@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-11T13:22:41.000Z",
-    "firstEpisodeDate": "2025-12-20T06:00:43.000Z",
+    "lastEpisodeDate": "2026-08-11T13:45:27.000Z",
+    "firstEpisodeDate": "2025-12-22T14:46:21.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2872,16 +2872,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-08-11T07:19:47.936Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must-Listen for Identity Pros",
-        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
-        "author": "Ilse ☺️",
-        "updatedAt": "2026-02-27T06:06:05-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "identity-at-the-center",
