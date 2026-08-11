@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-11-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 11 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Gunra ransomware exploits Fortinet and Schneider Electric flaws — joint FBI/CISA/South Korea advisory — CVE-2024-55591, CVE-2025-24472, CVE-2024-5559 (verify) — The Hacker News — https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html\n2. Metabase SQL-injection zero-day exploited in the wild — no CVE assigned — SecurityWeek — https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\n3. SonicWall SMA1000 flaws added to CISA KEV, used in ransomware — CVE-2026-15409, CVE-2026-15410 — Cyber Security News — https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/\n4. Attackers scanning exposed VMware vCenter after auth-bypass disclosed — CVE-2026-59309, CVE-2026-47876, CVE-2026-59310 — Cyber Security News — https://cybersecuritynews.com/hackers-scan-vmware-vcenter-vulnerabilities/\n5. Windows 11 USB Plug-and-Play auto-install chained to SYSTEM — The Hacker News — https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html\n6. OpenAI ships GPT-5.6-Cyber with a lower refusal rate for exploit work — Help Net Security — https://www.helpnetsecurity.com/2026/08/11/openai-gpt-5-6-cyber-model/ · SecurityWeek — https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/\n7. StormEncryptor deployed by former Medusa affiliate via N-central flaw — CVE-2026-18577 (bypass of CVE-2026-18556) — BleepingComputer — https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/\n8. Malicious MCP servers split instructions to make AI agents exfiltrate secrets — The Hacker News — https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html\n9. Ghostjacking — poisoned logs and alerts hijack AI coding agents — Cyber Security News — https://cybersecuritynews.com/ghostjacking-attack/ · SecurityWeek — https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/\n10. LiteLLM supply-chain compromise via poisoned Trivy scanner — Cyber Security News — https://cybersecuritynews.com/litellm-supply-chain-attack/\n11. OpenSSH 10.5 fixes locked ssh-agent exposing local-only keys — Help Net Security — https://www.helpnetsecurity.com/2026/08/11/openssh-10-5-ssh-agent-flaw/\n12. TrueConf server flaws exploited to swap client installers with PhantomCore — CVE-2026-3502; KLCERT-26-057, KLCERT-26-058 — The Hacker News — https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html\n13. OpenCart extension installer directory-traversal allows web-shell upload — CVE-2026-18412 — CERT/CC — https://kb.cert.org/vuls/id/614868\n14. Mozilla rotates Firefox GPG signing subkey after GitHub exposure — SecurityWeek — https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/\n15. AI tool finds 84 flaws in 4G/5G core software, 23 still unfixed — CVE-2026-8233 (one of set) — Help Net Security — https://www.helpnetsecurity.com/2026/08/11/5g-core-network-vulnerabilities-research/\n16. Valve notifies Steam hardware buyers of breach at shipping partner CEVA — Help Net Security — https://www.helpnetsecurity.com/2026/08/10/valve-data-breach-ceva-logistics-steam-hardware/\n</code></pre>",
+    "publishedAt": "2026-08-11T12:20:14.000Z",
+    "duration": 315,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/79a4de1c38326417d5a56cf8e16a988c77f71e70c23a4559398c9e9fba6ce151/eyJlcGlzb2RlSWQiOiI0MDMyMTJlYi1jMjM2LTQ1ODctYTg3ZS03ZjQ1YjkzZTNjMDAiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE3YjEyN2FkOGVmZmRiYmQzYmU5NzgwL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtMTFfXzE0LTE1LTU0Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-10-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 10 2026 - Daily DefSec Brief",
