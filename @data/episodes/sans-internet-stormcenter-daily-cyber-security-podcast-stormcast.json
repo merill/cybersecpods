@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-august-11th-2026-solana-attacks-ai-generated-patches-gunr",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, August 11th, 2026: Solana Attacks; AI Generated Patches; Gunra Ransomware; Neo4J/GraphQL Patch",
+    "description": "<br/>\nScans for Solana (Surfpool?) Endpoints<br/>\n<a href=\"https://isc.sans.edu/diary/Scans%20for%20Solana%20%28Surfpool%3F%29%20Endpoints/33230\">https://isc.sans.edu/diary/Scans%20for%20Solana%20%28Surfpool%3F%29%20Endpoints/33230</a><br/>\nWhy AI-generated vulnerability patches still require expert human review<br/>\n<a href=\"https://1password.com/blog/why-ai-generated-patches-still-require-human-review?_sp=15ec2845-9e6c-4d15-8ac5-fe9bc1fe4c08.1786396502013\">https://1password.com/blog/why-ai-generated-patches-still-require-human-review?_sp=15ec2845-9e6c-4d15-8ac5-fe9bc1fe4c08.1786396502013</a><br/>\nGunra Ransomware<br/>\n<a href=\"https://www.cisa.gov/sites/default/files/2026-08/aa26-222a-stopransomware-gunra-ransomware_508c.pdf\">https://www.cisa.gov/sites/default/files/2026-08/aa26-222a-stopransomware-gunra-ransomware_508c.pdf</a><br/>\nNeo4J/GraphQL Vulnerability CVE-2026-5423<br/>\n<a href=\"https://github.com/neo4j/graphql/security/advisories/GHSA-fcpg-3fw5-vc65\">https://github.com/neo4j/graphql/security/advisories/GHSA-fcpg-3fw5-vc65</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-11T02:00:03.000Z",
+    "duration": 381,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10046.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10046,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10046"
+  },
+  {
     "id": "sans-stormcast-monday-august-10th-2026-linux-shell-forensics-criticial-macos-pat",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, August 10th, 2026: Linux Shell Forensics; Criticial MacOS Patch; More N-Central Hotfixes; Exploited Metabase Vuln;",
