@@ -592,9 +592,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-08-04T12:00:00.000Z",
+    "lastEpisodeDate": "2026-08-11T12:00:00.000Z",
     "firstEpisodeDate": "2020-09-21T00:58:14.000Z",
-    "episodeCount": 325,
+    "episodeCount": 326,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1922,7 +1922,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-08-11T07:19:39.564Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -2183,9 +2192,9 @@
         "linkedinUrl": "https://www.linkedin.com/in/selenalarson/"
       }
     ],
-    "lastEpisodeDate": "2026-08-04T08:00:00.000Z",
+    "lastEpisodeDate": "2026-08-11T18:00:00.000Z",
     "firstEpisodeDate": "2022-03-02T19:07:00.000Z",
-    "episodeCount": 109,
+    "episodeCount": 110,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
