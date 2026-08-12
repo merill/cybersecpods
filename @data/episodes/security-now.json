@@ -1,5 +1,22 @@
 [
   {
+    "id": "sn-1091-the-post-blackhat-state-of-ai-when-ai-writes-malware",
+    "podcastId": "security-now",
+    "title": "SN 1091: The Post BlackHat State of AI - When AI Writes Malware",
+    "description": "<p>AI agents are breaking free from their test environments, outsmarting their creators and breaching real-world networks in ways that no one predicted. Discover how these agentic models are changing the game for both cyber offense and defense.</p><ul> \n<li>Anthropic's agentic AI also broke free and hacked others.</li> \n<li>We know much (much!) more about the OpenAI breakout.</li> \n<li>OpenAI posts that they're pausing \"Astra\" - even internally.</li> \n<li>What was that about AI recently cracking (or denting) cryptography.</li> \n<li>Bruce Schneier brilliantly equates AI agents to capricious genies.</li> \n<li>Apple doesn't react so well to the new deluge of security reports.</li> \n<li>Chrome 149 + 150 updates together fix 1,072 bugs. Yikes.</li> \n<li>psSense's creator is working to finish its nfSensei, its successor</li></ul> \n<p>Show Notes - <a href=\"https://www.grc.com/sn/SN-1091-Notes.pdf\">https://www.grc.com/sn/SN-1091-Notes.pdf</a></p> \n<p><strong>Hosts:</strong> <a href=\"https://twit.tv/people/steve-gibson\">Steve Gibson</a> and <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p>Download or subscribe to <em>Security Now</em> at <a href=\"https://twit.tv/shows/security-now\">https://twit.tv/shows/security-now</a>.</p> \n<p>You can submit a question to <em>Security Now</em> at the <a href=\"https://www.grc.com/feedback.htm\" target=\"_blank\">GRC Feedback Page</a>.</p> \n<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href=\"https://www.grc.com/securitynow.htm\" target=\"_blank\">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href=\"https://www.grc.com/sr/spinrite.htm\" target=\"_blank\">Spinrite 6</a>.</p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://hoxhunt.com/securitynow\" target=\"_blank\" rel=\"sponsored\">hoxhunt.com/securitynow</a></li>\n<li><a href=\"http://guardsquare.com\" target=\"_blank\" rel=\"sponsored\">guardsquare.com</a></li>\n<li><a href=\"http://threatlocker.com/twit\" target=\"_blank\" rel=\"sponsored\">threatlocker.com/twit</a></li>\n<li><a href=\"https://www.box.com/ai?utm_source=youtube&utm_medium=paidinfluencer&utm_theme=icm&utm_campaign=FY27_Q1_TWiT\" target=\"_blank\" rel=\"sponsored\">box.com/AI</a></li>\n</ul></p>",
+    "publishedAt": "2026-08-12T02:36:32.000Z",
+    "duration": 10272,
+    "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/megaphone/sn_1091/ARML1975583473.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/08/862522/hero/SN1091_thumbnail.jpg",
+    "episodeNumber": 1091,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://twit.tv/shows/security-now/episodes/1091"
+  },
+  {
     "id": "sn-1090-black-hat-the-hidden-flaws-in-ai-security-nobody-saw-coming",
     "podcastId": "security-now",
     "title": "SN 1090: Black Hat - The Hidden Flaws in AI Security Nobody Saw Coming",
@@ -151,22 +168,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://twit.tv/shows/security-now/episodes/1082"
-  },
-  {
-    "id": "sn-1081-ai-captured-the-flag-personal-ai-productivity-superpower-or-privacy-thre",
-    "podcastId": "security-now",
-    "title": "SN 1081: AI Captured the Flag - Personal AI: Productivity Superpower or Privacy Threat?",
-    "description": "<p>AI vulnerability discovery just upended the legendary Capture the Flag competitions, leaving top hackers sidelined while algorithms dominate the scoreboard. Hear why one seasoned researcher says the entire game is over for humans.</p><ul> \n<li>As expected, UnFiOS devices are under attack.</li> \n<li>CISA commands federal agencies to update Drupal.</li> \n<li>Can the largest botnet ever, be killed.</li> \n<li>Defender endpoint can cutoff a PC from the network.</li> \n<li>Charter Communications big account leak.</li> \n<li>Chrome moves device-bound session cookies from beta.</li> \n<li>Anthropic to release Mythos shortly.</li> \n<li>cURL and Daniel Stenberg.</li> \n<li>IBM & RedHat commit to fixing open source with AI.</li> \n<li>LOTS of terrific listener feedback this week.</li> \n<li>AI spells the end of a terrific source of training</li></ul> \n<p>Show Notes - <a href=\"https://www.grc.com/sn/SN-1081-Notes.pdf\">https://www.grc.com/sn/SN-1081-Notes.pdf</a></p> \n<p><strong>Hosts:</strong> <a href=\"https://twit.tv/people/steve-gibson\">Steve Gibson</a> and <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p>Download or subscribe to <em>Security Now</em> at <a href=\"https://twit.tv/shows/security-now\">https://twit.tv/shows/security-now</a>.</p> \n<p>You can submit a question to <em>Security Now</em> at the <a href=\"https://www.grc.com/feedback.htm\" target=\"_blank\">GRC Feedback Page</a>.</p> \n<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href=\"https://www.grc.com/securitynow.htm\" target=\"_blank\">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href=\"https://www.grc.com/sr/spinrite.htm\" target=\"_blank\">Spinrite 6</a>.</p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://bitwarden.com/twit\" target=\"_blank\" rel=\"sponsored\">bitwarden.com/twit</a></li>\n<li><a href=\"http://hoxhunt.com/securitynow\" target=\"_blank\" rel=\"sponsored\">hoxhunt.com/securitynow</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"https://material.security\" target=\"_blank\" rel=\"sponsored\">material.security</a></li>\n<li><a href=\"http://meter.com/securitynow\" target=\"_blank\" rel=\"sponsored\">meter.com/securitynow</a></li>\n</ul></p>",
-    "publishedAt": "2026-06-03T03:08:50.000Z",
-    "duration": 11991,
-    "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/megaphone/sn_1081/ARML3119278289.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/06/861619/hero/SN1081_thumbnail.jpg",
-    "episodeNumber": 1081,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://twit.tv/shows/security-now/episodes/1081"
   }
 ]
