@@ -1,5 +1,22 @@
 [
   {
+    "id": "dont-scan-that-qr-code-phishing-and-cloud-native-threats",
+    "podcastId": "talos-takes",
+    "title": "Don't scan that! QR code phishing and cloud-native threats",
+    "description": "<p>What happens when a  QR code leads to a major security incident? In this episode, Amy sits down with Senior Incident Response Consultant Terryn Valikodath to break down a recent, high-stakes breach at an Australian medical center. Attackers are ditching traditional malware for \"cloud-native\" tactics — using personalized QR code phishing to bypass corporate defenses and operate entirely within the cloud.</p><p>Beyond the technical details, Amy and Terryn chat about the pressure of defending environments where patient care is on the line and why a blameless culture is a great defense. Take a listen for some practical, down-to-earth advice on how to audit your own logs and keep your team prepared for when things go sideways.</p><p>Talos IR Trends Q2 2026: <a href='https://blog.talosintelligence.com/ir-trends-q2-2026/'>https://blog.talosintelligence.com/ir-trends-q2-2026/</a></p><p><br/></p>",
+    "publishedAt": "2026-08-12T09:00:00.000Z",
+    "duration": 1345,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19625475-don-t-scan-that-qr-code-phishing-and-cloud-native-threats.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "q2-talos-ir-trends-phishing-and-authentication-abuse-spike",
     "podcastId": "talos-takes",
     "title": "Q2 Talos IR Trends: Phishing and authentication abuse spike",
