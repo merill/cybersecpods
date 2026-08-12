@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-12-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 12 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Windows WinSock use-after-free zero-day exploited by Lazarus — CVE-2026-68820 — SecurityWeek — https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/\n2. Cisco ASA/FTD VPN flaw exploited to crash firewalls — CVE-2026-20349 — BleepingComputer — https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/\n3. Microsoft Defender 'ShieldBreak' PoC bypasses patch for SYSTEM — CVE-2026-50656 — BleepingComputer — https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/\n4. SharePoint RCE chain fully disclosed — CVE-2026-63520, CVE-2026-55040 — Rapid7 — https://www.rapid7.com/blog/post/etr-cve-2026-63520-microsoft-sharepoint-remote-code-execution-fixed\n5. SAP Commerce Cloud max-severity RCE — CVE-2026-58231 — The Hacker News — https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html\n6. Adobe ColdFusion and Campaign Classic critical RCE flaws — CVE-2026-48362, CVE-2026-48273, CVE-2026-71384 — SecurityWeek — https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/\n7. Zoom annotation zero-click RCE between participants — CVE-2026-53413, CVE-2026-53414, CVE-2026-53415 — The Hacker News — https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html\n8. SonicWall critical RCE in discontinued GMS platform — CVE-2026-66147, CVE-2026-66145 — SecurityWeek — https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/\n9. Ivanti EPM remotely exploitable flaws — CVE-2026-18129, CVE-2026-18125, CVE-2026-18127 — SecurityWeek — https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/\n10. Sandworm subgroup pushes trojanized WireGuard VPN via fake interviews — BleepingComputer — https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/\n11. ClickFix abuses signed IBM SPSS IDE to deploy CNCMachineRMS RAT — Cyber Security News — https://cybersecuritynews.com/clickfix-attack-ibm-spss-ide/\n12. CAV3RN espionage framework hides C2 behind Google Apps Script — Cyber Security News — https://cybersecuritynews.com/cav3rn-uses-google-apps-script/\n13. Malicious SIM card runs attacker code inside cellular IoT modems — CVE-2021-31698, CVE-2025-48618, CVE-2026-57550 — The Hacker News — https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html\n14. Microsoft patches high-severity Outlook RCE — CVE-2026-70329 — Cyber Security News — https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/</code></pre>",
+    "publishedAt": "2026-08-12T12:36:39.000Z",
+    "duration": 245,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/0f40edeec9fb758e1bea50b774f687dea179a1367536b2a4f40ef3b076336fc0/eyJlcGlzb2RlSWQiOiI1NmNmYmM3ZS1mNTdjLTQwYjUtOWQ2Ny1lZjA0ZDllMGI5OWQiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE3YzY4NGZlNzI2NDNlMzE5YzQ1NWU1L2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtMTJfXzE0LTM0LTIzLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-11-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 11 2026 - Daily DefSec Brief",
