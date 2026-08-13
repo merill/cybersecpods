@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-august-13th-2026-process-accounting-shieldbreak-sharepoi",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, August 13th, 2026: Process Accounting; ShieldBreak; SharePoint JWT Vuln PoC; AI regulation",
+    "description": "<br/>\nLinux Kernel Process Accounting<br/>\n<a href=\"https://isc.sans.edu/diary/Linux%20Kernel%20Process%20Accounting/33240\">https://isc.sans.edu/diary/Linux%20Kernel%20Process%20Accounting/33240</a><br/>\nShieldBreak - Windows Defender 0day vulnerability<br/>\n<a href=\"https://git.projectnightcrawler.dev/NightmareEclipse/ShieldBreak/src/branch/main\">https://git.projectnightcrawler.dev/NightmareEclipse/ShieldBreak/src/branch/main</a><br/>\nMicrosoft SharePoint JWT Token Authentication Bypass (CVE-2026-55040)<br/>\n<a href=\"https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-jwt-token-authentication-bypass-cve-2026-55040/\">https://www.rapid7.com/blog/post/ra-microsoft-sharepoint-jwt-token-authentication-bypass-cve-2026-55040/</a><br/>\nCalifornia law puts digital fingerprints on AI fakes<br/>\n<a href=\"https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content\">https://digital-strategy.ec.europa.eu/en/policies/eu-icons-labelling-ai-generated-content</a><br/>\n<a href=\"https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\">https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-13T02:00:02.000Z",
+    "duration": 426,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10050.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10050,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10050"
+  },
+  {
     "id": "sans-stormcast-wednesday-august-12th-2026-microsoft-patch-tuesday-zoom-vulnerabi",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, August 12th, 2026: Microsoft Patch Tuesday; Zoom Vulnerabilities; Mozilla Revokes Key; Rogue Inflight Wifi",
