@@ -1,5 +1,22 @@
 [
   {
+    "id": "srsly-risky-biz-data-extortion-is-booming-hooray",
+    "podcastId": "risky-bulletin",
+    "title": "Srsly Risky Biz: Data extortion is booming. Hooray!",
+    "description": "<p>Tom Uren and James Wilson talk about the cybercrime ecosystem shifting towards data theft extortion, stealing sensitive data and extracting ransoms from victims by threatening to leak it. For organisations whose reputation is very important to them, data leaks are a bigger threat than having their files locked up.</p>\n\n<p>They also discuss how the rise of AI makes it worth reinvigorating CISA’s Secure by Design initiative.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-08-13T09:40:16.000Z",
+    "duration": 1848,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB179.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SRB179/"
+  },
+  {
     "id": "risky-bulletin-russian-hackers-jump-on-the-fake-job-interview-train",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Russian hackers jump on the fake job interview train",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS550/"
-  },
-  {
-    "id": "sponsored-corelight-agentic-triage-helps-defenders-stay-ahead",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Corelight Agentic Triage helps defenders stay ahead",
-    "description": "<p>In this sponsored interview, Corelight’s Senior Director of Product Management, Dave Getman, tells James Wilson how Corelight Agentic Triage helps defenders stay ahead of AI-powered attacks.</p>\n\n<p>Corelight makes NDR hardware that runs a heavily optimised version of the Zeek network monitoring tool. Corelight Agentic Triage integrates with EDR and other data sources, and helps defenders make sense of all the data that NDR can generate.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-04-12T19:44:35.000Z",
-    "duration": 979,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI123.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI123/"
   }
 ]
