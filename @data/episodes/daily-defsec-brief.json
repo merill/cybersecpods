@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-13-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 13 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. VMware vCenter path-traversal RCE now APT-exploited — CVE-2026-59310 — SecurityWeek — https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/\n2. Fortinet FortiWeb auth bypass (any-password login) — CVE-2026-26035, CVE-2026-49975, CVE-2026-70465, CVE-2026-70468 — SecurityWeek — https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/\n3. City-Forum campaign reads Salesforce/ServiceNow portals as guest (block 158.220.87.79) — BleepingComputer — https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/\n4. WordPress Imagick RCE via crafted upload — CVE-2026-65640 — Cyber Security News — https://cybersecuritynews.com/wordpress-imagick-rce-vulnerability/\n5. Akira reboots Windows into Safe Mode to bypass EDR — Cyber Security News — https://cybersecuritynews.com/akira-uses-windows-safe-mode/\n6. LiteLLM supply-chain breach: 153GB of CI/CD secrets, 2,488 firms — Help Net Security — https://www.helpnetsecurity.com/2026/08/13/litellm-breach-stolen-credentials-leak/\n7. JWR phishing framework, live operator-steered checkout scams — Cisco Talos — https://blog.talosintelligence.com/dissecting-the-jwr-phishing-framework/\n8. Phantom Stealer hides next stage in PNG files — Cyber Security News — https://cybersecuritynews.com/phantom-stealer-inside-png/\n9. 737 fake Chrome VPN extensions route traffic through one proxy — The Hacker News — https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html\n10. Reasoning-API flaw lets a weaker model decode hidden reasoning — The Hacker News — https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html\n11. Intel and AMD ship August patches for 80+ vulnerabilities — SecurityWeek — https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/\n</code></pre>",
+    "publishedAt": "2026-08-13T12:42:17.000Z",
+    "duration": 246,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/c30d5fc03144387b0841783d1abbb2c62c73b9a56cf6c3780917ec035d3f0cc4/eyJlcGlzb2RlSWQiOiJmNTQyNzA2YS1hMDdlLTQyZDgtOTE1OC0wOGE1ZjU5ZjI5NmMiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE3ZGJiMmYyY2JjYTlhODRiNWU1NTk4L2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtMTNfXzE0LTQwLTE0Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-12-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 12 2026 - Daily DefSec Brief",

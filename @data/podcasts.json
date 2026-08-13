@@ -1465,7 +1465,7 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-12T14:00:09.000Z",
+    "lastEpisodeDate": "2026-08-13T13:39:22.000Z",
     "firstEpisodeDate": "2025-12-22T19:41:00.000Z",
     "episodeCount": 500,
     "hasVideo": false,
@@ -1703,9 +1703,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-08-12T12:36:39.000Z",
+    "lastEpisodeDate": "2026-08-13T12:42:17.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 29,
+    "episodeCount": 30,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2634,7 +2634,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-08-12T07:43:11.858Z"
+        "fetchedAt": "2026-08-13T07:45:23.200Z"
       }
     },
     "recentReviews": [
@@ -4193,7 +4193,23 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-13T07:45:35.000Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4750,44 +4766,7 @@
         "ratingCount": 16,
         "fetchedAt": "2026-08-13T07:45:39.243Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 2,
-        "title": "Just ok",
-        "content": "The one with Roland was really good the others have been hit and miss.",
-        "author": "cisoNYC",
-        "updatedAt": "2022-01-04T02:29:33-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "A must listen for all security leaders",
-        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
-        "author": "nicfill",
-        "updatedAt": "2021-05-18T10:06:29-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great new cybersecurity podcast!",
-        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
-        "author": "Frogstar5",
-        "updatedAt": "2021-05-13T14:40:00-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Excellent show",
-        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
-        "author": "Meatball_army_2021",
-        "updatedAt": "2021-05-13T14:24:25-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Depth of Knowledge shines through",
-        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
-        "author": "GottaRun21",
-        "updatedAt": "2021-05-13T14:16:19-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-weekly-news-audio",
