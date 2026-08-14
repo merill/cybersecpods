@@ -1,5 +1,22 @@
 [
   {
+    "id": "soap-box-zero-trustish-networks",
+    "podcastId": "risky-business",
+    "title": "Soap Box: Zero Trust(ish) Networks",
+    "description": "<p>In this Soap Box edition of the Risky Business podcast host Patrick Gray chats with Adam Pointon, CEO of Knocknoc, about the failure of Zero Trust as a comprehensive architecture.</p>\n\n<p>Most networks look like they were designed in 1999, and most Zero Trust products look like they were designed for 2049.</p>\n\n<p>Instead, Patrick and Adam pitch something in the middle: Zero Trust(ish) networks, where Zero Trust principles are applied selectively where possible.</p>\n\n<p>Instead of trying to re-architect entire networks, maybe it’s time we learned to apply Zero Trust principles selectively against risky assets. It’s a better approach than the status quo, which involves liberal use of the “risk accepted” stamp.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/H2OoGsDtuSI\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-08-14T02:23:43.000Z",
+    "duration": 1744,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX110.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SOAPBOX110/"
+  },
+  {
     "id": "risky-business-848-openai-comes-clean",
     "podcastId": "risky-business",
     "title": "Risky Business #848 -- OpenAI comes clean",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB780/"
-  },
-  {
-    "id": "risky-biz-soap-box-run-your-own-open-source-idp-with-authentik",
-    "podcastId": "risky-business",
-    "title": "Risky Biz Soap Box: Run your own open source IDP with Authentik",
-    "description": "<p>In this SoapBox edition of the show Patrick Gray chats to Fletcher Heisler, the CEO of open-source identity provider Authentik.</p>\n\n<p>The whole idea of Authentik is you can take control of an essential IT and security function: identity. Because Authentik is open source it’s extremely flexible, and if you’re running it yourself, you get to decide where your IDP should sit in your architecture. You can run it on prem if you’re an emergency call centre or you’re operating an airgapped network, or you can spin it up in your cloud environment if you’re a typical enterprise.</p>\n\n<p>Fletcher talks through the reasons Authentik users are decoupling themselves from the major SaaS Identity Providers, and the flexibility that comes from being able to assemble exactly what you need.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/lvyZF2zBliQ\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2025-02-14T00:24:24.000Z",
-    "duration": 2282,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/soapbox93.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/soapbox93/"
   }
 ]
