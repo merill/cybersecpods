@@ -1465,8 +1465,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-13T19:09:34.000Z",
-    "firstEpisodeDate": "2025-12-23T14:25:16.000Z",
+    "lastEpisodeDate": "2026-08-14T13:36:54.000Z",
+    "firstEpisodeDate": "2025-12-23T14:34:13.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -1703,9 +1703,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-08-13T12:42:17.000Z",
+    "lastEpisodeDate": "2026-08-14T13:08:37.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 30,
+    "episodeCount": 31,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4193,23 +4193,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-14T07:42:55.772Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent",
-        "content": "Great analysis really, very thoughtful",
-        "author": "SecEnthused",
-        "updatedAt": "2026-08-04T16:30:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5509,9 +5493,9 @@
         "websiteUrl": "https://offsec.blog"
       }
     ],
-    "lastEpisodeDate": "2026-08-06T09:00:00.000Z",
+    "lastEpisodeDate": "2026-08-14T12:00:00.000Z",
     "firstEpisodeDate": "2022-04-27T17:00:00.000Z",
-    "episodeCount": 229,
+    "episodeCount": 230,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
