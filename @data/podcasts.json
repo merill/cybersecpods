@@ -1616,9 +1616,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-08-13T20:30:00.000Z",
+    "lastEpisodeDate": "2026-08-14T20:30:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3723,
+    "episodeCount": 3724,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1859,16 +1859,7 @@
         "ratingCount": 2,
         "fetchedAt": "2026-08-14T07:42:33.131Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Jack is awesome",
-        "content": "Congrats on launch of Spanish version.",
-        "author": "Gotchayeah",
-        "updatedAt": "2025-05-22T18:24:35-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "decipher-security-podcast",
@@ -4766,7 +4757,44 @@
         "ratingCount": 16,
         "fetchedAt": "2026-08-14T07:42:59.667Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 2,
+        "title": "Just ok",
+        "content": "The one with Roland was really good the others have been hit and miss.",
+        "author": "cisoNYC",
+        "updatedAt": "2022-01-04T02:29:33-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "A must listen for all security leaders",
+        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
+        "author": "nicfill",
+        "updatedAt": "2021-05-18T10:06:29-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great new cybersecurity podcast!",
+        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
+        "author": "Frogstar5",
+        "updatedAt": "2021-05-13T14:40:00-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Excellent show",
+        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
+        "author": "Meatball_army_2021",
+        "updatedAt": "2021-05-13T14:24:25-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Depth of Knowledge shines through",
+        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
+        "author": "GottaRun21",
+        "updatedAt": "2021-05-13T14:16:19-07:00"
+      }
+    ]
   },
   {
     "id": "security-weekly-news-audio",
@@ -6022,9 +6050,9 @@
     "cadence": "weekly",
     "format": "solo",
     "authors": [],
-    "lastEpisodeDate": "2026-07-09T23:30:01.000Z",
+    "lastEpisodeDate": "2026-08-14T20:38:57.000Z",
     "firstEpisodeDate": "2015-01-14T14:55:22.000Z",
-    "episodeCount": 545,
+    "episodeCount": 546,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
