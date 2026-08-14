@@ -17,9 +17,9 @@
     "link": "https://rss.com/podcasts/ciso-tradecraft/3055620"
   },
   {
-    "id": "is-ai-leaking-your-companys-trade-secrets-with-lee-kim-295",
+    "id": "is-ai-leaking-your-companys-trade-secrets-or-lee-kim-295",
     "podcastId": "ciso-tradecraft",
-    "title": "Is AI Leaking Your Company's Trade Secrets? (with Lee Kim) - #295",
+    "title": "Is AI Leaking Your Company's Trade Secrets | Lee Kim - #295",
     "description": "<p>What Every CISO Needs to Know Before AI Leaks Your Company's Crown Jewels  Your AI policy won't save you if your trade secrets walk out the door. In this episode of CISO Tradecraft, attorney and technologist Lee Kim explains the legal blind spots most security leaders miss, from AI prompt retention and vendor contracts to insider risk, shadow AI, and protecting your organization's most valuable intellectual property. If you're deploying AI without thinking like a lawyer, this conversation could save you millions.</p><p></p><p>Lee Kim's LinkedIn - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/in/leekim/\">https://www.linkedin.com/in/leekim/</a></p>",
     "publishedAt": "2026-08-03T12:30:00.000Z",
     "duration": 2704,
@@ -34,9 +34,9 @@
     "link": "https://rss.com/podcasts/ciso-tradecraft/3038038"
   },
   {
-    "id": "learning-from-the-hugging-face-incident-with-gadi-evron-294",
+    "id": "learning-from-the-hugging-face-incident-or-gadi-evron-294",
     "podcastId": "ciso-tradecraft",
-    "title": "Learning from the Hugging Face Incident (with Gadi Evron) - #294",
+    "title": "Learning from the Hugging Face Incident | Gadi Evron - #294",
     "description": "<p>In this CISO Tradecraft episode, host G Mark Hardy and guest Gadi Evron discuss a recent incident involving OpenAI model testing in an “exploit gym,” where an agent escaped its sandbox, attempted to access Hugging Face, created new exploits, stole credentials, and generated high-volume, unusual activity that initially blended into background noise. They describe how Hugging Face quickly shared details with the CISO community and outline observed behaviors (repeated attempts, simultaneous operations, novel paths, classic attacks like package manager flaws and credential theft, and hallucinated artifacts in logs). Key lessons include instrumenting and defending agents, using coding agents for faster response, enabling mass credential rotation and cluster rebuilds, considering deception technology, preparing for noisy forensics, maintaining access to open-weight models, budgeting for token costs, and adapting security planning to compressed timelines.  </p><ul><li>CISO Retreat - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.cisotradecraft.com/cisoretreat\">https://www.cisotradecraft.com/cisoretreat</a>  </li><li>Cloud Security Alliance - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://cloudsecurityalliance.org/\">https://cloudsecurityalliance.org/</a>  </li><li>CSides - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://luma.com/jf8ej87e\">https://luma.com/jf8ej87e</a>  </li><li>Hugging Face Analysis on ChatGPT - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.linkedin.com/posts/gadievron_my-analysis-from-hosting-hugging-face-at-share-7486340715514437632-Xs-b/\">https://www.linkedin.com/posts/gadievron_my-analysis-from-hosting-hugging-face-at-share-7486340715514437632-Xs-b/</a>  </li><li>Knostic - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.knostic.ai/\">https://www.knostic.ai/</a>  </li><li>Unprompted - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://unpromptedcon.org/\">https://unpromptedcon.org/</a></li></ul>",
     "publishedAt": "2026-07-27T16:00:00.000Z",
     "duration": 2880,
@@ -51,9 +51,9 @@
     "link": "https://rss.com/podcasts/ciso-tradecraft/3022198"
   },
   {
-    "id": "legal-developments-every-ciso-needs-to-know-with-larry-dietz-293",
+    "id": "legal-developments-every-ciso-needs-to-know-or-larry-dietz-293",
     "podcastId": "ciso-tradecraft",
-    "title": "Legal Developments Every CISO Needs to Know with Larry Dietz - #293",
+    "title": "Legal Developments Every CISO Needs to Know | Larry Dietz - #293",
     "description": "<p><strong>Three major legal changes. One question every CISO should be asking: <em>Is your cybersecurity program ready?</em></strong></p><p>Congress let a key FISA surveillance authority expire. The Supreme Court raised the bar on geofence warrants. The Department of Defense paused mandatory CMMC Level 2 certifications.</p><p>At first glance, these seem like unrelated legal headlines. In reality, they all point to the same challenge: cybersecurity leaders must understand how changing laws affect data access, privacy, compliance, and personal liability.</p><p>In this episode of <strong>CISO Tradecraft</strong>, host <strong>G. Mark Hardy</strong> sits down with attorney and cybersecurity expert <strong>Larry Dietz</strong> to break down what these legal developments actually mean for CISOs, not from a political perspective, but from a practical leadership perspective.</p><p>You'll learn:</p><ul><li>Why the FISA Section 702 debate still matters to private-sector CISOs</li><li>How the Supreme Court's geofence warrant decision could impact data retention and privacy programs</li><li>What the CMMC certification delay really means for defense contractors</li><li>Why self-attestation can create legal risk</li><li>How GDPR principles can strengthen your cybersecurity governance</li><li>What every CISO should negotiate before accepting the top security job</li></ul><p>If you're responsible for protecting data, managing compliance, or advising executive leadership, this episode will help you separate headlines from real business risk.</p><p><strong>Subscribe</strong> for weekly insights that help cybersecurity leaders become more effective.</p>",
     "publishedAt": "2026-07-20T18:20:13.000Z",
     "duration": 2462,
@@ -102,9 +102,9 @@
     "link": "https://rss.com/podcasts/ciso-tradecraft/2962708"
   },
   {
-    "id": "harvest-now-decrypt-later-with-marcus-sachs-290",
+    "id": "harvest-now-decrypt-later-or-marcus-sachs-290",
     "podcastId": "ciso-tradecraft",
-    "title": "Harvest Now, Decrypt Later (with Marcus Sachs) - #290",
+    "title": "Harvest Now, Decrypt Later | Marcus Sachs - #290",
     "description": "<p>Nation-state adversaries are vacuuming up encrypted traffic today, waiting for quantum computers to decrypt it tomorrow. This attack strategy, \"Harvest Now, Decrypt Later,\" isn't theoretical. It's happening right now.</p><p>G Mark Hardy sits down with Marcus Sachs (former White House cyber advisor, CSO of NERC, now SVP and Chief Engineer at CIS) to break down two executive orders just signed by the White House on post-quantum cryptography and what every security leader needs to do before the clock runs out.</p><p><strong>What you'll learn:</strong></p><ul><li>Why TLS, VPNs, and PKI are your most urgent exposure</li><li>The Harvest Now, Decrypt Later threat model and what it means for your data retention policies</li><li>How to build a Cryptographic Bill of Materials (CBOM)</li><li>What cryptographic agility means and why hard-coded crypto is a ticking time bomb</li><li>Lessons from Y2K that apply directly to the quantum migration</li></ul><p>You can't name a date certain. But your adversaries are already running the clock.</p><p>Links, NIST resources, and both executive orders in the show notes.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography\">https://www.nist.gov/cybersecurity-and-privacy/what-post-quantum-cryptography</a></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.nist.gov/pqc\">https://www.nist.gov/pqc</a></p>",
     "publishedAt": "2026-06-29T12:30:00.000Z",
     "duration": 2514,

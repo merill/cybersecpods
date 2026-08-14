@@ -1,5 +1,22 @@
 [
   {
+    "id": "intel-chat-ai-patches-fail-litellm-supply-chain-claude-eval-incidents-and-dprk-n",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Intel Chat: AI patches fail, LiteLLM supply chain, Claude eval incidents & DPRK npm [345]",
+    "description": "<p>Intel Chat with Matt Bromiley and Chris Luft.</p><p>• AI-generated patches fix vulnerabilities about half the time. 1Password's Off-By-1 team tested ChatGPT-5.5 and Opus 4.8 against six vulnerabilities: across 6,080 generated patches only 46% fixed the underlying flaw, and some that did were narrow enough to be bypassed. Separate Veracode research found a 56% security pass rate across 100+ models, with 44% of AI-generated code carrying detectable OWASP Top 10 issues. Matt's pushback: what is the HUMAN success rate for comparison, and why is nobody publishing that number?<br>• LiteLLM supply chain attack. CloudSEK reports 2,500+ organizations and 434,000 CI/CD pipelines potentially exposed. LiteLLM was not the initial target: the compromise came in through Aqua Security's Trivy scanner and spread when LiteLLM's CI automatically installed it, ending with malicious versions 1.82.7 and 1.82.8 on PyPI. They were live for roughly 40 minutes, which automated dependency resolution and cached layers were more than enough to propagate.<br>• Anthropic's models reached real systems during evaluations. Reviewing 141,006 evaluation runs, Anthropic found three incidents where Claude models gained unauthorized access to real organizations during capture-the-flag exercises, after a misunderstanding with an evaluation partner left the environments internet-connected. One model published a malicious package to the real PyPI, where it ran on 15 real systems. Matt argues this is a lab test rather than a threat report, and asks what defenders are supposed to do with it.<br>• North Korea behind the npm compromises. Amazon Threat Intelligence links the typo-crypto, debug, chalk and axios incidents to the same DPRK actor tracked as SAPPHIRE SLEET, STARDUST CHOLLIMA and BlueNoroff. Wiz found roughly one in ten cloud environments touched by the debug and chalk incident within two hours. The technique has shifted: malicious functionality is now split across several innocuous-looking packages that only do anything once combined, plus slopsquatting and prompt injection aimed at AI code scanners.</p><p>Stories covered:<br>• https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time<br>• https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/<br>• https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals<br>• https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/</p><p>Chapters:<br>0:00 Back from Black Hat<br>3:31 AI-generated patches fix vulnerabilities about half the time<br>6:23 What is the human success rate?<br>10:53 LiteLLM supply chain attack<br>13:03 Pin your dependencies<br>15:59 Anthropic models reached real systems during evals<br>22:12 This is a lab test, not a threat report<br>27:06 North Korea behind the debug, chalk and axios compromises<br>30:59 Malware assembled from harmless-looking parts<br>33:27 Clever people on the other side of the fence</p><p>The Cybersecurity Defenders Podcast — a podcast about cybersecurity and the people that keep the internet safe. New episodes drop weekly.</p><p>Subscribe wherever you listen:<br>• Spotify: https://open.spotify.com/show/6ep00zeY3S8ffZ4o0UeSps<br>• Apple Podcasts: https://podcasts.apple.com/us/podcast/the-cybersecurity-defenders-podcast/id1649981740<br>• YouTube: https://www.youtube.com/@limacharlieio</p><p>Learn more about LimaCharlie: https://limacharlie.io</p><p>#cybersecurity #infosec #AIsecurity #supplychainsecurity #threatintel</p>",
+    "publishedAt": "2026-08-14T21:39:35.000Z",
+    "duration": 2053,
+    "audioUrl": "https://media.transistor.fm/8f51bb28/9bea7fcd.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 345,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://share.transistor.fm/s/8f51bb28"
+  },
+  {
     "id": "proving-the-value-of-security-operations-with-christopher-crowley-344",
     "podcastId": "cybersecurity-defenders",
     "title": "Proving the value of security operations with Christopher Crowley [344]",
