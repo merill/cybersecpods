@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-what-npm-12-fixes-and-what-it-doesnt",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: What npm 12 fixes… and what it doesn’t",
+    "description": "<p>In this Risky Business sponsored interview, Casey Ellis chats with Socket founder Feross Aboukhadijeh about npm 12’s move to disable install scripts by default. Attackers are already shifting payloads into package source code, and Feross explains why teams need to understand what third-party code actually does before allowing it into their environments.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-08-16T19:08:45.000Z",
+    "duration": 1074,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI140.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI140/"
+  },
+  {
     "id": "risky-bulletin-us-will-let-private-companies-carry-out-offensive-cyber-ops",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: US will let private companies carry out offensive cyber ops",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS551/"
-  },
-  {
-    "id": "between-two-nerds-how-ai-will-upset-state-cyber-competition",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: How AI will upset state cyber competition",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss how the rise of AI, which is very good at vulnerability and exploit development, will change the cyber security industry and competition between states.</p>\n\n<p>This episode is also available on <a href=\"https://www.youtube.com/watch?v=lJ13y4xId6c\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://x.com/thegrugq/status/2041793104102224038?s=20\">The Grugq on X: People are freaking out about an impending flood of 0days</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/RBFEATURES9/\">Patrick Gray with former NSA and CIA cyber leaders</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-04-13T20:29:03.000Z",
-    "duration": 1792,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN162.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN162/"
   }
 ]
