@@ -1,5 +1,22 @@
 [
   {
+    "id": "check-points-shahar-tal-on-exploiting-ai-agent-frameworks",
+    "podcastId": "nexus-claroty",
+    "title": "Check Point's Shahar Tal on Exploiting AI Agent Frameworks",
+    "description": "<p>Check Point Head of Agentic Security Innovation Shahar Tal joins the Nexus Podcast to discuss research he and colleague Yarden Porat conducted that uncovered a dozen vulnerabilities in popular AI agent frameworks such as LangChain, LangGraph, CrewAI, AutoGen, Microsoft Agent Framework, and Google ADK. The vulnerabilities allow an attacker to exploit the inherent trust given to AI agents and can pave the way to remote code execution and other malicious outcomes. </p><p><a href='https://nexusconnect.io/podcasts'>Subscribe and listen to the Nexus Podcast here</a>. </p><p><br/></p>",
+    "publishedAt": "2026-08-16T04:00:00.000Z",
+    "duration": 1748,
+    "audioUrl": "https://www.buzzsprout.com/1475533/episodes/19642644-check-point-s-shahar-tal-on-exploiting-ai-agent-frameworks.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 138,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "ellen-boehm-on-post-quantum-readiness-in-critical-infrastructure",
     "podcastId": "nexus-claroty",
     "title": "Ellen Boehm on Post-Quantum Readiness in Critical Infrastructure",
