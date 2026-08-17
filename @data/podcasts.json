@@ -2299,9 +2299,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-10T09:00:00.000Z",
+    "lastEpisodeDate": "2026-08-17T09:00:00.000Z",
     "firstEpisodeDate": "2016-05-06T16:12:39.000Z",
-    "episodeCount": 489,
+    "episodeCount": 490,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2799,7 +2799,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-08-17T07:08:48.866Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -2832,9 +2841,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-10T09:00:00.000Z",
+    "lastEpisodeDate": "2026-08-17T09:00:00.000Z",
     "firstEpisodeDate": "2019-07-02T19:56:42.000Z",
-    "episodeCount": 440,
+    "episodeCount": 441,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4634,7 +4643,44 @@
         "ratingCount": 33,
         "fetchedAt": "2026-08-17T07:09:11.140Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great news summaries and very funny",
+        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
+        "author": "TFWas",
+        "updatedAt": "2025-07-02T05:16:53-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Reasonably okay infosec podcast",
+        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
+        "author": "[REDACTED] USER",
+        "updatedAt": "2023-11-13T18:43:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Entertaining InfoSec news",
+        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
+        "author": "Bevonomics",
+        "updatedAt": "2022-12-07T14:23:31-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Brief But Not Shallow",
+        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
+        "author": "MLC689",
+        "updatedAt": "2022-11-29T10:37:03-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Stop recommending this, I don’t want to see it",
+        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
+        "author": "Blizzard1s2d",
+        "updatedAt": "2019-06-19T20:00:01-07:00"
+      }
+    ]
   },
   {
     "id": "shadowtalk",
@@ -5444,44 +5490,7 @@
         "ratingCount": 47,
         "fetchedAt": "2026-08-17T07:09:16.890Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Insightful and educational",
-        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
-        "author": "Maocol99",
-        "updatedAt": "2025-08-14T17:21:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful, timely, and concise!",
-        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
-        "author": "LarsMarie",
-        "updatedAt": "2025-05-05T15:23:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "More OT cybersecurity and Holly rocks.",
-        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
-        "author": "tryangalway",
-        "updatedAt": "2025-03-10T22:06:15-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great Podcast for Cybersecurity Insights!",
-        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
-        "author": "yshishka",
-        "updatedAt": "2024-08-26T10:36:16-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Accessible & Actionable Resource",
-        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
-        "author": "run_amanda",
-        "updatedAt": "2024-08-19T08:29:33-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "three-buddy-problem",
