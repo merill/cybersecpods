@@ -1,5 +1,22 @@
 [
   {
+    "id": "james-kettle-on-inventing-new-attack-techniques-with-llms",
+    "podcastId": "risky-business-features",
+    "title": "James Kettle on inventing new attack techniques with LLMs",
+    "description": "<p>In this podcast episode, James Wilson chats with PortSwigger’s Director of Research James Kettle about using an LLM to develop genuinely new attack techniques.</p>\n\n<p>Kettle has built what he calls the HTTP Terminator, an autonomous research system that generates and tests tens of thousands of potentially new HTTP desync techniques. The Terminator, which makes use of Kettle’s own research methodology, has already come up with new desync methods that James hadn’t thought of before.</p>\n\n<p>Kettle and Wilson discuss how to develop and evaluate machine-generated ideas without drowning in false positives, and why the most powerful part of the process is the discovery cascade, where one unexpected result becomes the seed for another.</p>\n\n<p>The upshot is AI can conduct genuinely novel security research, but don’t expect to one-shot your way to an army of robot hackers.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://portswigger.net/research/can-ai-do-novel-security-research#introduction\">Can AI do novel security research? Meet the HTTP Terminator | PortSwigger Research</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://portswigger.net/research/http1-must-die\">HTTP/1.1 must die: the desync endgame</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-08-17T07:28:40.000Z",
+    "duration": 4655,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES35.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES35/"
+  },
+  {
     "id": "how-private-llm-inference-actually-works",
     "podcastId": "risky-business-features",
     "title": "How private LLM inference actually works",

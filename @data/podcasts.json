@@ -4090,9 +4090,9 @@
         "name": "James Wilson"
       }
     ],
-    "lastEpisodeDate": "2026-08-07T06:29:55.000Z",
+    "lastEpisodeDate": "2026-08-17T07:28:40.000Z",
     "firstEpisodeDate": "2026-02-17T02:20:42.000Z",
-    "episodeCount": 34,
+    "episodeCount": 35,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4159,44 +4159,7 @@
         "ratingCount": 678,
         "fetchedAt": "2026-08-17T07:09:05.074Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "In IT?  Do you have 5 minutes?",
-        "content": "Actionable, Concise, Timely\n   \nThe perfect podcast, Johannes is amazing.  This 5 minute podcast must take him hours every day to research.  The effort is much appreciated!",
-        "author": "Gump4487245",
-        "updatedAt": "2026-08-07T04:35:39-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Best in Show!",
-        "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
-        "author": "1Flatlander",
-        "updatedAt": "2026-05-06T07:22:39-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "High quality info in a short amount of time. Listen very closely to what he puts out",
-        "content": "Johannes continues to point out trends and indicators I might otherwise have missed.\n\nI’ve seen a lot of crazy scenarios play out based on data he’s gathered and provided.\n\nListen to a few episodes to hear what I mean.\n\nHis podcast also serves as a convenient reminder for Patch Tuesday and iOS updates.\n\nYet another great podcast the sociable Dave Bittner has led me to.",
-        "author": "TFWas",
-        "updatedAt": "2026-03-18T15:59:48-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Required Professional Daily Use",
-        "content": "This is a requirement for my team as they start their day. The information is a great way to start the brain thinking into what is going on and what new things should we be looking for. We discuss it and volunteer topics for research and further discovery. 11/10 -highly recommended",
-        "author": "PowerBob",
-        "updatedAt": "2025-12-16T17:08:12-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Your Daily Cyber Drive-Thru",
-        "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
-        "author": "JayJonahJameson",
-        "updatedAt": "2025-12-16T03:32:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "secure-the-job",
@@ -5304,43 +5267,6 @@
         "fetchedAt": "2026-08-17T07:09:15.354Z"
       }
     },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great information and presentation",
-        "content": "Highly recommend if you are a network defender.",
-        "author": "Rygorr",
-        "updatedAt": "2026-07-17T14:09:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great cybersecurity podcast!",
-        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
-        "author": "Dave McCollough",
-        "updatedAt": "2025-12-12T06:46:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Love it",
-        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
-        "author": "dareyoutomove",
-        "updatedAt": "2024-10-12T09:27:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Pentesting 101",
-        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
-        "author": "Rich-Barr",
-        "updatedAt": "2023-11-01T04:42:09-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Worth a listen",
-        "content": "Great insight and advice and actually very entertaining.",
-        "author": "Chris Y Doyle",
-        "updatedAt": "2022-09-14T12:09:26-07:00"
-      }
-    ],
     "submittedBy": "techspence"
   },
   {
@@ -5518,7 +5444,44 @@
         "ratingCount": 47,
         "fetchedAt": "2026-08-17T07:09:16.890Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful and educational",
+        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
+        "author": "Maocol99",
+        "updatedAt": "2025-08-14T17:21:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful, timely, and concise!",
+        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
+        "author": "LarsMarie",
+        "updatedAt": "2025-05-05T15:23:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "More OT cybersecurity and Holly rocks.",
+        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
+        "author": "tryangalway",
+        "updatedAt": "2025-03-10T22:06:15-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great Podcast for Cybersecurity Insights!",
+        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
+        "author": "yshishka",
+        "updatedAt": "2024-08-26T10:36:16-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Accessible & Actionable Resource",
+        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
+        "author": "run_amanda",
+        "updatedAt": "2024-08-19T08:29:33-07:00"
+      }
+    ]
   },
   {
     "id": "three-buddy-problem",
