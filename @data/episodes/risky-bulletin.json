@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-the-eye-of-sauron",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: The eye of Sauron",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss The Offense Death Cycle, a paper looking at how to take advantage of a defender’s ability to control a network to discover intruders.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/6wxeh8ACGRY\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.jstor.org/stable/48872897\">The Offense Death Cycle: Proactive Environmental Control as a Method of Persistent Cyber Defense</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/BTN174\">Between Two Nerds: Exploits are not cyber power</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-08-17T19:57:14.000Z",
+    "duration": 1926,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN179.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN179/"
+  },
+  {
     "id": "risky-bulletin-the-eu-publishes-its-upcoming-cybersecurity-standards",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: The EU publishes its upcoming cybersecurity standards",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS552/"
-  },
-  {
-    "id": "srsly-risky-biz-time-to-ban-sale-of-precise-geolocation-data",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: Time to ban sale of precise geolocation data",
-    "description": "<p>Tom Uren and Amberleigh Jack talk about a new Citizen Lab report into Webloc, a tool to identify and track mobile devices. It demonstrates how the collection and sale of mobile phone geolocation data presents privacy and national security risks.</p>\n\n<p>They also discuss a deep-dive into how a single hacker was able to breach nine Mexican government agencies in just weeks using AI assistants. They enabled the attacker to move much faster.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/7PTGaf0rZBU\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://citizenlab.ca/research/analysis-of-penlinks-ad-based-geolocation-surveillance-tech/\">Citizen Lab's Webloc report</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report\">Gambit's Mexican hack analysis</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-04-16T04:18:11.000Z",
-    "duration": 1248,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB163.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB163/"
   }
 ]
