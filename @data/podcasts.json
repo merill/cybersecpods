@@ -389,9 +389,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-11T09:00:00.000Z",
+    "lastEpisodeDate": "2026-08-18T09:00:00.000Z",
     "firstEpisodeDate": "2018-01-08T14:20:38.000Z",
-    "episodeCount": 409,
+    "episodeCount": 410,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -604,7 +604,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-18T06:55:42.420Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must have podcast for Defenders",
+        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
+        "author": "Rljohnson5",
+        "updatedAt": "2023-05-23T14:47:20-07:00"
+      }
+    ]
   },
   {
     "id": "bluehat-podcast",
@@ -2787,9 +2796,9 @@
         "linkedinUrl": "https://www.linkedin.com/in/seandeuby/"
       }
     ],
-    "lastEpisodeDate": "2026-08-04T09:00:33.000Z",
+    "lastEpisodeDate": "2026-08-18T09:00:33.000Z",
     "firstEpisodeDate": "2020-04-16T14:49:18.000Z",
-    "episodeCount": 100,
+    "episodeCount": 101,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4102,23 +4111,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-18T06:56:10.492Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent",
-        "content": "Great analysis really, very thoughtful",
-        "author": "SecEnthused",
-        "updatedAt": "2026-08-04T16:30:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4292,7 +4285,44 @@
         "ratingCount": 78,
         "fetchedAt": "2026-08-18T06:56:13.087Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
@@ -5665,16 +5695,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-18T06:56:26.097Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "When Podcasting Is Elevated In Thought and Execution",
-        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
-        "author": "When Podcasting Is Elevated",
-        "updatedAt": "2022-06-28T14:44:42-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "unsupervised-learning",
