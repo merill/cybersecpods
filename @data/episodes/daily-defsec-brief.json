@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-18-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 18 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Windows Task Host privesc actively exploited by ransomware gangs — CVE-2025-60710 — BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/\n2. Ray unauthenticated RCE via DNS rebinding, actively exploited — CVE-2025-62593 — The Hacker News — https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html\n3. GitLab GraphQL flaw lets unauth attackers delete public projects — CVE-2026-19478, CVE-2026-19650 — SecurityWeek — https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/\n4. Certighost: low-priv AD user coerces Enterprise CA into issuing a cert — CVE-2026-54121 — BleepingComputer — https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/\n5. Unisoc modem chain gives Android kernel access via VoLTE video call — CVE-2022-20210, CVE-2025-31718 — The Hacker News — https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html\n6. Claude Code drives nearly every stage of a ransomware intrusion — Cyber Security News — https://cybersecuritynews.com/claude-code-helps-ransomware-operator/\n7. C2Looper: Rust backdoor delivered via ClickFix, GitHub C2 — Zscaler — https://www.zscaler.com/blogs/security-research/c2looper-new-backdoor-likely-tied-ransomware-github-c2\n8. Cavern C2 uses DNS A-records and Google Apps Script — The Hacker News — https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html\n9. Storm-0501 hijacks Azure tenants for cloud-native ransomware — Tenable — https://www.tenable.com/blog/detecting-cloud-ransomware-in-azure-with-tenable-ones-cloud-detection-and-response\n10. Attackers use AI to identify high-value files worth stealing — Help Net Security — https://www.helpnetsecurity.com/2026/08/18/gambit-security-ai-cyberattack-tools-report/\n11. Microsoft removes WMIC LOLBin from Windows 11 24H2/25H2 — BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/\n12. Operation ASTERIX: crypto-fraud kit built with AI coding assistants — Rapid7 — https://www.rapid7.com/blog/post/tr-operation-asterix-crypto-fraud-vishing-phishing\n13. Windows Server 2022 hits end of mainstream support Oct 13, 2026 — BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/</code></pre>",
+    "publishedAt": "2026-08-18T12:11:58.000Z",
+    "duration": 241,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/0c862577d8f279934ff2fcd3e756220ed6a95e3060672b5c91580e6cb4ec98eb/eyJlcGlzb2RlSWQiOiI1YTczNGNiNi05NmI5LTRjNzEtOTQ2OC0xZjgyNDZiNWZjYTQiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE4NDRiOTFmZDBiOWE3YWM0Mjc4NDIwL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtMThfXzE0LTktNTMubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-17-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 17 2026 - Daily DefSec Brief",

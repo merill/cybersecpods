@@ -1,5 +1,22 @@
 [
   {
+    "id": "unleash-ai-or-block-it-the-answer-is-both-with-steven-walchek",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "Unleash AI or Block It? The Answer Is Both with Steven Walchek",
+    "description": "<p data-pm-slice=\"1 1 []\">Every CIO and CISO adopting AI faces the same trap. Loosen the guardrails and let employees use the tools they want, and put your sensitive data at risk. Block it and lock everything down, and watch shadow AI use grow.</p> <p data-pm-slice=\"1 1 []\"><a href= \"https://www.linkedin.com/in/swalchek/\" target=\"_blank\" rel= \"noopener\">Steven Walchek</a>, co-founder and CEO of <a href= \"https://www.liminal.ai\" target=\"_blank\" rel=\"noopener\">Liminal</a> and a former innovation leader at AWS and FIS, joins Rachael Lyon and Jonathan Knepher to argue the answer is not one or the other but both. The conversation covers the real regulatory exposure facing mid-market companies, why the public versus private LLM question echoes the old cloud versus on-prem debate, and the security tradeoffs of running open-source models on your own infrastructure. It closes on a candid look at how AI is reshaping developer work and the careers Steven is steering his own kids toward. For links and resources discussed in this episode, please visit our show notes at https://www.forcepoint.com/resources/podcast/enterprise-ai-security-steven-walchek</p>",
+    "publishedAt": "2026-08-18T12:30:00.000Z",
+    "duration": 3147,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E388_-_steven_walchek_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/7/6/a/b/76abfb3548088d40d959afa2a1bf1c87/E388_-_steven_walchek_mixdown.jpg",
+    "episodeNumber": 388,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/resources/podcast/enterprise-ai-security-steven-walchek"
+  },
+  {
     "id": "agentic-ai-needs-humans-on-the-loop-with-michael-chavira",
     "podcastId": "to-the-point-cybersecurity",
     "title": "Agentic AI Needs Humans on the Loop with Michael Chavira",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/resources/podcasts/e68"
-  },
-  {
-    "id": "a-more-holistic-approach-to-enhancing-cybersecurity-with-randy-sandone",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "A More Holistic Approach to Enhancing Cybersecurity, with Randy Sandone",
-    "description": "<p>Randall (Randy) Sandone, CCISO, CIRI Executive Director a Department of Homeland Security Center of Excellence discusses how CIRI is helping improve the security and resilience of our Nation's critical infrastructure. For links and resources discussed in this episode, please visit our show notes at <a href= \"https://www.forcepoint.com/govpodcast/e67\">https://www.forcepoint.com/govpodcast/e67</a></p>",
-    "publishedAt": "2020-03-03T13:00:00.000Z",
-    "duration": 1640,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E067_Holistic_Cybersecurity_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/f/a/f/a/fafa75922b0fe5c1/E067_Holistic_Cybersecurity_mixdown.jpg",
-    "episodeNumber": 67,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e67"
   }
 ]
