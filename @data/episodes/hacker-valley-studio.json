@@ -1,5 +1,22 @@
 [
   {
+    "id": "humans-first-adobes-rule-for-building-ai-security-tools-with-john-gillis",
+    "podcastId": "hacker-valley-studio",
+    "title": "Humans First: Adobe's Rule for Building AI Security Tools with John Gillis",
+    "description": "<p>Imagine how much investigation time your SOC could get back if the busywork just disappeared. Ron sits down with John Gillis, Staff Security AI Engineer at Adobe, who built an in-house AI investigation platform from scratch.</p>\n<p>John's system runs on more than 30 specialized agents that reason through cases instead of following a script. In one run, that meant over 140 detections investigated in under four hours at an 80 to 85% quality rating. Ron and John dig into the hard lesson that made John rip out his own tooling and rebuild it around function calling, why \"humans first\" drives every decision his team makes, and whether AI SOC is actually different from SOAR or just the same promise with way better marketing.</p>\n<p>Underneath all of it is the one thing John says decides whether any of this actually works: context. Give the AI too little and it's guessing, give it too much and it drowns just like a human would. Listen to find out what it actually takes to build an AI SOC that reasons instead of just automates.</p>\nImpactful Moments\n<p>00:00 - Introduction<br>\n02:05 - The rewind: how SOAR promised to save the SOC in 2015<br>\n03:35 - Meet John Gillis, Adobe's Staff AI Security Engineer<br>\n05:30 - What cybersecurity looked like before AI at enterprise scale<br>\n07:00 - The \"humans first\" strategy behind Adobe's AI investigator<br>\n09:30 - Why careless context management is the biggest pitfall in agent design<br>\n14:45 - Solving the speed problem: is it tooling, process, or people?<br>\n17:10 - From monolith to microservices: rebuilding the platform for scale<br>\n24:05 - What actually makes an AI agent's \"persona\" work<br>\n26:00 - John's prediction for the SOC three years from now<br>\n28:50 - The three skills every security practitioner needs for 2026<br>\n32:10 - Final verdict: is AI SOC really different, or SOAR with new branding?</p>\nLinks\n<p>Connect with John Gillis on LinkedIn: <a href='https://www.linkedin.com/in/john-gillis/'>https://www.linkedin.com/in/john-gillis/</a></p>\n<p>If you're a researcher ready to make an impact, check out the announcement about Adobe’s new home for the Adobe Bug Bounty Program here: <a href='https://blog.adobe.com/security/a-new-home-for-the-adobe-bug-bounty-program'>https://blog.adobe.com/security/a-new-home-for-the-adobe-bug-bounty-program</a></p>\n<p>Check out Adobe’s Bug Bounty profile on Intigriti: <a href='https://app.intigriti.com/programs/adobe/adobepublic/detail'>https://app.intigriti.com/programs/adobe/adobepublic/detail</a></p>\n<p>Learn more about Adobe: <a href='https://www.adobe.com/'>https://www.adobe.com/</a></p>\n<p>– </p>\n<p>Check out our upcoming events:<a href='https://www.hackervalley.com/livestreams'> https://www.hackervalley.com/livestreams</a></p>\n<p><br>\nLove Hacker Valley Studio? Pick up some swag:<a href='https://store.hackervalley.com'> https://store.hackervalley.com<br>\n<br>\n</a></p>\n<p>Become a sponsor of the show:<a href='https://hackervalley.com/work-with-us/'> https://hackervalley.com/work-with-us/</a></p>",
+    "publishedAt": "2026-08-19T15:39:10.000Z",
+    "duration": 2092,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/bax8t32jbvyqgu8d/HVS26_EP439_Adobe.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 439,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/humans-first-adobes-rule-for-building-ai-security-tools-with-john-gillis/"
+  },
+  {
     "id": "let-ai-do-more-without-surrendering-your-judgment-with-jen-easterly",
     "podcastId": "hacker-valley-studio",
     "title": "Let AI Do More Without Surrendering Your Judgment with Jen Easterly",
