@@ -604,7 +604,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-18T06:55:42.420Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must have podcast for Defenders",
+        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
+        "author": "Rljohnson5",
+        "updatedAt": "2023-05-23T14:47:20-07:00"
+      }
+    ]
   },
   {
     "id": "bluehat-podcast",
@@ -1901,9 +1910,9 @@
         "name": "Lindsey O’Donnell-Welch"
       }
     ],
-    "lastEpisodeDate": "2026-08-10T15:24:59.000Z",
+    "lastEpisodeDate": "2026-08-19T17:05:39.000Z",
     "firstEpisodeDate": "2018-08-01T19:00:00.000Z",
-    "episodeCount": 372,
+    "episodeCount": 373,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
