@@ -2799,16 +2799,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-08-18T06:56:01.436Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must-Listen for Identity Pros",
-        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
-        "author": "Ilse ☺️",
-        "updatedAt": "2026-02-27T06:06:05-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "identity-at-the-center",
@@ -3837,9 +3828,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-12T05:00:00.000Z",
+    "lastEpisodeDate": "2026-08-19T05:00:00.000Z",
     "firstEpisodeDate": "2020-12-01T18:28:13.000Z",
-    "episodeCount": 214,
+    "episodeCount": 215,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4285,44 +4276,7 @@
         "ratingCount": 78,
         "fetchedAt": "2026-08-18T06:56:13.087Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Love this podcast!!",
-        "content": "Never a null moment!",
-        "author": "sr_98_sr",
-        "updatedAt": "2025-03-12T04:16:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Gold",
-        "content": "Amusing and informative and poetic!",
-        "author": "eahiv",
-        "updatedAt": "2024-05-27T17:14:36-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "good at cryptography",
-        "content": "also good at making me laugh",
-        "author": "cydyio",
-        "updatedAt": "2024-04-15T18:05:27-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Wonderfully accessible!",
-        "content": "Each episode is a great discussion into a large field",
-        "author": "Bob on Ross",
-        "updatedAt": "2024-03-03T19:32:17-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Found my new favorite podcast!",
-        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
-        "author": "Ragnaroekk",
-        "updatedAt": "2023-05-06T12:26:55-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-insider-conversations",
