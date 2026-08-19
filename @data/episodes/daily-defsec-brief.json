@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-19-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 19 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Windows IKE Extension RCE added to CISA KEV, now exploited — CVE-2026-33824 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n2. macOS Screen Sharing auth bypass added to CISA KEV — CVE-2026-65400 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n3. MLflow SSRF and FUXA auth-bypass under active exploitation — CVE-2026-64849, CVE-2026-25895 — The Hacker News — https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html\n4. Cursor IDE zero-day runs code on repo open — Cyber Security News — https://cybersecuritynews.com/cursor-0-day-vulnerability/\n5. CoSnitch: one-click Copilot data exfiltration — CVE-2026-24301, CVE-2026-24299 — The Hacker News — https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html\n6. Chrome ships two critical graphics-component fixes — CVE-2026-76034, CVE-2026-76036 — Chrome Releases — http://chromereleases.googleblog.com/2026/08/stable-channel-update-for-desktop_0826575033.html\n7. Firefox 154 patches 58 flaws, 20 high-severity — SecurityWeek — https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/\n8. Oracle August CSPU ships 943 patches for 925 CVEs — Tenable — https://www.tenable.com/blog/oracle-august-2026-critical-security-patch-update-cspu-addresses-925-cves\n9. TWINLOOT runs C2 inside Microsoft cloud services — The Hacker News — https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html\n10. NASA AIT-GUI flaw lets unauthenticated spacecraft commands — GHSA-p9r8-2q67-fp86 — Infosecurity Magazine — https://www.infosecurity-magazine.com/news/nasa-ground-control-software-flaw/\n11. BeyondTrust EPM for Windows privilege-escalation flaws — CVE-2026-40144, CVE-2026-40145 — Cyber Security News — https://cybersecuritynews.com/beyondtrust-windows-epm-vulnerabilities/\n12. 50,000 Stripe merchant API keys leaked in public code — Security Affairs — https://securityaffairs.com/197504/cyber-crime/50000-stripe-secrets-leaked-in-public-code.html\n13. Slovakia finds Russian SMS-triggered backdoor in traffic cameras — Risky Business News — https://news.risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/\n14. Rapid7 report: volume and speed outpace traditional patch cycles — SecurityWeek — https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/\n15. Self-propagating payloads spread between AI agents via shared prompt files — The Hacker News — https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html</code></pre>",
+    "publishedAt": "2026-08-19T13:01:49.000Z",
+    "duration": 260,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/dfe3338899bda6a52d027de1cd27bb765785d9585b4bff5885ee52d8a1deda8e/eyJlcGlzb2RlSWQiOiJiZDQzNzFjNy0zN2I3LTQ2MzEtODA1Ni0wMzgyMTI0MDMyNTEiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE4NWE3ZWI3MTBlOTc1OTYxYWEyYWU3L2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtMTlfXzE0LTU2LTExLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-18-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 18 2026 - Daily DefSec Brief",
