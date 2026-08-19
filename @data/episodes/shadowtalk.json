@@ -1,5 +1,22 @@
 [
   {
+    "id": "nation-state-actors-irans-plc-attacks-russias-zero-click-email-exploit-and-north",
+    "podcastId": "shadowtalk",
+    "title": "Nation-State Actors: Iran’s PLC Attacks, Russia’s Zero-Click Email Exploit, and North Korea’s Fake Employees",
+    "description": "<p>Three nation-states. Three distinct playbooks. Iranian actors are targeting internet-exposed industrial controllers and disabling critical safety systems. A Russian threat group built a zero-click email exploit that steals 90 days of inbox data the moment a user views a message. And North Korean operatives are applying for software-development jobs at Western companies—and getting hired.</p><p>Join hosts <b>John Dilgen</b> and <b>Tehman Tariq </b>as they break down:</p><p>✅ How Iranian actors manipulate PLC safety logic while keeping operators in the dark</p><p>✅ Why Russia’s zero-click exploit creates a major email-security and data-exfiltration risk</p><p>✅ How North Korean operatives use forged and stolen identities to infiltrate organizations as employees</p><p>🔑 <b>Two questions your organization should be asking right now:</b></p><ul><li>Could your security team identify and secure <b>internet-exposed PLCs, HMIs, and SCADA systems</b> before an adversary does?</li><li>Does your hiring process include controls to detect <b>AI-generated documents, stolen identities, and malicious job applicants</b>?</li></ul><p>👉 Tune in for expert insights and practical takeaways: <a href='https://reliaquest.com/shadowtalk/'>ShadowTalk – ReliaQuest</a></p><p>👉 Find more podcast platforms, resources, and our listener feedback survey: <a href='https://linktr.ee/ReliaQuestShadowTalk'>ShadowTalk Official: X | Linktree</a></p>",
+    "publishedAt": "2026-08-19T17:00:00.000Z",
+    "duration": 1632,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19667561-nation-state-actors-iran-s-plc-attacks-russia-s-zero-click-email-exploit-and-north-korea-s-fake-employees.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "when-ai-escapes-the-lab-the-hugging-face-breach-pypi-malware-and-what-it-means-f",
     "podcastId": "shadowtalk",
     "title": "When AI Escapes the Lab: The Hugging Face Breach, PyPI Malware, and What It Means for Defenders",
