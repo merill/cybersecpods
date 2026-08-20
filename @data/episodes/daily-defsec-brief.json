@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-20-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 20 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Feds warn of active AI-scripted attacks on internet-exposed Siemens S7 PLCs — CISA — https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-231a\n2. Critical Citrix NetScaler auth-bypass patched, exploitation expected — CVE-2026-19490, CVE-2026-19489 — SecurityWeek — https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/\n3. UAT-10147 deploys cross-platform SPECTRE implant with Linux rootkit and BYOVD — CVE-2019-16098, CVE-2021-21551 — Cisco Talos — https://blog.talosintelligence.com/uat-10147-deploys-spectre-a-cross-platform-implant-with-linux-rootkit-and-byovd-capabilities/\n4. RDK-B broadband gateway WebUI has five flaws including auth bypass and possible RCE — CVE-2026-19505 through CVE-2026-19509 — CERT/CC — https://kb.cert.org/vuls/id/874418\n5. ToxicPanda 2.0 Android trojan adds PIN theft and expands to 349 institutions — The Hacker News — https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html\n6. New Manic Android malware exfiltrates data through nearby infected devices — BleepingComputer — https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/\n7. Fake Google Gemini installer delivers Vidar infostealer via Colab lure — Help Net Security — https://www.helpnetsecurity.com/2026/08/20/fake-google-gemini-installer-vidar-infostealer/\n8. 15 malicious Firefox extensions abuse Cloudflare Workers to steal crypto wallets — Cyber Security News — https://cybersecuritynews.com/malicious-firefox-extensions-2/\n9. 41 fake download sites show a real link, then redirect to Download Studio installer — Malwarebytes Labs — https://www.malwarebytes.com/blog/threat-intel/2026/08/41-deceptive-download-sites-show-a-real-link-then-send-you-somewhere-else\n10. Password spraying surged 155x, driven by Azure CLI targeting — BleepingComputer — https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/\n11. Cisco RoomOS USB stack overflow allows root code execution — CVE-2026-20302 — Cisco PSIRT — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-roomos-bof-vTMANZgu\n12. Cisco BroadWorks XXE flaw leaks config files to unauthenticated attackers — CVE-2026-20320 — Cisco PSIRT — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-bworks-xxe-uwUd7CEt\n13. Geekom mini PC LAN driver shipped with the Asruex backdoor — SC World — https://www.scworld.com/brief/geekom-admits-malware-found-in-legacy-mini-pc-driver-download\n14. Def Con attendees hit by persistent phishing that abuses Google Apps Script — Infosecurity Magazine — https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/\n15. Rogue ransomware affiliate poses as a recovery firm to double-dip on victims — BleepingComputer — https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/</code></pre>",
+    "publishedAt": "2026-08-20T12:36:43.000Z",
+    "duration": 257,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/c23490facbba787a4c25978c6260a125c4fb458da2691556a42d6da95a65b40b/eyJlcGlzb2RlSWQiOiI2ZWZjZGNmMi03NWVjLTRjMWMtYTY5Yi02OTVlYTY1MjY0NzEiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE4NmY0MmE1NTliZmRlNDdmOGRmMzlkL2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtMjBfXzE0LTMzLTQ2Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-19-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 19 2026 - Daily DefSec Brief",
