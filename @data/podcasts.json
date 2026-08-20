@@ -2936,7 +2936,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-08-20T06:57:33.636Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
@@ -3800,7 +3809,7 @@
     "description": "<p>Explore the critical intersection of cybersecurity and business impact while gaining insights into CISO priorities with \"Reimagining Cyber.\" Stay informed on the latest cybersecurity news, trends, and solutions tailored for today's CISOs and CIOs. Hosted by Rob Aragao a seasoned security strategist with OpenText, this podcast is your go-to resource for staying updated on cybersecurity developments and addressing common challenges in the rapidly evolving digital landscape.</p><p><br></p><p>As featured on MillionPodcasts'&nbsp;</p><p>Best 100 Cybersecurity Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH3%2BZBOJeNYFhRaFv5aEtxSA%2BSRSiYqWODwWhgCRQweVwbjkyYmI1kh11oYAkUGFEb99Zsm%2BedEFh5GDQEMDiNP8%2BOdVycbUyXuWQkCVgUQVvnfkBXfKl4hFiLk%2B1UFG1EL9Z4V3yNUFRYi5MY%3D\">https://www.millionpodcasts.com/cyber-security-podcasts/</a></p><p><br></p><p>Top 50 Chief Information Security Officer CISO Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH36aFY4CZUFRRGFwlZyO5XCO2NXCIrVxQWIhcCWgnVVwjtjVYYGk4mHiIKxkX%2BHEP97FReJyNEFCBTGPpUDexW%2Be2eVRQqShATEdAJXwkUH9TmnVUfJVwmIRHQAlX9FB%2FUsQ%3D%3D\">https://www.millionpodcasts.com/ciso-podcasts/</a></p><p><br></p><p>Top 70 Security Hacking Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBEH5ZFeJR9ZKt5NBfhRAh1JwfCdTRYXWCUkFOMKWgYOVQP1oEwY81geJVXKCloGDk%2F55JdeIPNL4hBKEfZPBdVXCO2NTCIkWRYfWeEJSwYfTvX0k0gV4hElKlUJ0ib%2FHk4A76VeI%2BIRHiBJCdImyg%3D%3D\">https://www.millionpodcasts.com/security-hacking-podcasts/</a></p><p><br></p><p><br></p><p><br></p><p><br></p>",
     "summary": "",
     "subtitle": "",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/87/0c/49870cbd-c2c0-1d38-f36f-a64f7eb7beae/mza_4160542525989768537.jpg/600x600bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/ab/fd/caabfd04-2a9c-0354-bc56-8e89d59e91d2/mza_5457169396332850948.jpg/600x600bb.jpg",
     "author": "Reimagining Cyber",
     "language": "en",
     "categories": [
@@ -4276,44 +4285,7 @@
         "ratingCount": 78,
         "fetchedAt": "2026-08-20T06:57:45.136Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Love this podcast!!",
-        "content": "Never a null moment!",
-        "author": "sr_98_sr",
-        "updatedAt": "2025-03-12T04:16:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Gold",
-        "content": "Amusing and informative and poetic!",
-        "author": "eahiv",
-        "updatedAt": "2024-05-27T17:14:36-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "good at cryptography",
-        "content": "also good at making me laugh",
-        "author": "cydyio",
-        "updatedAt": "2024-04-15T18:05:27-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Wonderfully accessible!",
-        "content": "Each episode is a great discussion into a large field",
-        "author": "Bob on Ross",
-        "updatedAt": "2024-03-03T19:32:17-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Found my new favorite podcast!",
-        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
-        "author": "Ragnaroekk",
-        "updatedAt": "2023-05-06T12:26:55-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-insider-conversations",
@@ -4671,7 +4643,44 @@
         "ratingCount": 33,
         "fetchedAt": "2026-08-20T06:57:49.152Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great news summaries and very funny",
+        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
+        "author": "TFWas",
+        "updatedAt": "2025-07-02T05:16:53-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Reasonably okay infosec podcast",
+        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
+        "author": "[REDACTED] USER",
+        "updatedAt": "2023-11-13T18:43:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Entertaining InfoSec news",
+        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
+        "author": "Bevonomics",
+        "updatedAt": "2022-12-07T14:23:31-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Brief But Not Shallow",
+        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
+        "author": "MLC689",
+        "updatedAt": "2022-11-29T10:37:03-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Stop recommending this, I don’t want to see it",
+        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
+        "author": "Blizzard1s2d",
+        "updatedAt": "2019-06-19T20:00:01-07:00"
+      }
+    ]
   },
   {
     "id": "shadowtalk",
