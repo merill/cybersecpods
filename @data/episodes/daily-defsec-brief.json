@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-21-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 21 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Max-severity Entra ID flaw exploited before patch — CVE-2026-69836 — BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/\n2. TrueConf Server code injection added to CISA KEV — CVE-2026-72530 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n3. TrueConf Server missing-auth flaw added to KEV, due Aug 23 — CVE-2026-72529 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n4. Elementor Pro file-upload unauthenticated RCE — CVE-2026-32475 — BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/\n5. Spring Security embedded LDAP admin-access flaw — CVE-2026-59270 — Cyber Security News — https://cybersecuritynews.com/spring-security-flaw-access-ldap-servers/\n6. Three suspected Russian clusters abuse OAuth/auth flows — Google Threat Intel — https://cloud.google.com/blog/topics/threat-intelligence/distinct-clusters-target-individuals-of-interest-to-russia/\n7. Malware commands hidden in FTP server banners (E4del, PINHOLE) — BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/\n8. CDN Tsunami HTTP/3-to-HTTP/1.1 DoS amplification — CVE-2026-14456 — The Hacker News — https://thehackernews.com/2026/08/cdn-tsunami-abuses-http3.html\n9. Signed Defender BTR.sys driver repurposed for kernel bypass — The Hacker News — https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html\n10. containerd CRI plugin flaws enable cross-pod RCE — CVE-2026-50195, CVE-2026-53488, CVE-2026-53489, CVE-2026-53492, CVE-2026-47262 — AWS Security Bulletin — https://aws.amazon.com/security/security-bulletins/rss/2026-046-aws/\n11. Redshift JDBC driver runs arbitrary classes from URL params — CVE-2026-8178 — AWS Security Bulletin — https://aws.amazon.com/security/security-bulletins/rss/2026-028-aws/\n12. N-able Passportal flaw exposes vault master keys — Dark Reading — https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys\n13. Peer2Profit proxyware turns employee device into internal proxy — Cyber Security News — https://cybersecuritynews.com/bandwidth-sharing-app/\n14. Atlassian and Splunk patch 250+ vulnerabilities — SecurityWeek — https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/</code></pre>",
+    "publishedAt": "2026-08-21T13:05:40.000Z",
+    "duration": 294,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/efeb4f80018f61c08cd042d39c6aaa27dbd28ccdb7edd4951d42ecfca64fa69d/eyJlcGlzb2RlSWQiOiI0MDk2YmNmMS00NWJkLTQ4YTYtYjMwNC1kN2ZmNTQ3MDc1YjMiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE4ODRjYjg3M2I2Zjg3N2Y4NDhiZTA0L2RhaWx5LWRlZnNlYy1jb21wb3Nlci0yMDI2LTgtMjFfXzE1LTMtNTEubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-20-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 20 2026 - Daily DefSec Brief",
