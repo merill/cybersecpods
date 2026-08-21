@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-august-21st-2026-microsoft-graph-and-powershell-keycloak-v",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, August 21st, 2026: Microsoft Graph and Powershell; Keycloak Vuln; Cryptographic Context Injection; N-Able Password Leak",
+    "description": "<br/>\nUsing Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses<br/>\n<a href=\"https://isc.sans.edu/diary/Using%20Microsoft%20Graph%20and%20Powershell%20to%20Mine%20for%20Information%20-%20Stale%20Accounts%20and%20Licenses/33264\">https://isc.sans.edu/diary/Using%20Microsoft%20Graph%20and%20Powershell%20to%20Mine%20for%20Information%20-%20Stale%20Accounts%20and%20Licenses/33264</a><br/>\nUsing Microsoft Graph and Powershell - Risk Detection Commands<br/>\n<a href=\"https://isc.sans.edu/diary/Using%20Microsoft%20Graph%20and%20Powershell%20-%20Risk%20Detection%20Commands/33266\">https://isc.sans.edu/diary/Using%20Microsoft%20Graph%20and%20Powershell%20-%20Risk%20Detection%20Commands/33266</a><br/>\nKeycloak Vulnerability<br/>\n<a href=\"https://github.com/keycloak/keycloak/issues/51833\">https://github.com/keycloak/keycloak/issues/51833</a> <a href=\"https://www.keycloak.org/2026/08/keycloak-2672-released\">https://www.keycloak.org/2026/08/keycloak-2672-released</a><br/>\nCRYPTOGRAPHIC CONTEXT INJECTION ATTACK<br/>\n<a href=\"https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/\">https://adversa.ai/blog/cryptographic-context-injection-grok-data-theft/</a><br/>\nN-able password manager<br/>\n<a href=\"https://amibeingpwned.com/blog/solar-winds-part-2-avoided?_sp=75fd154a-e34f-41d0-8624-7c285776c13d.1787263544340\">https://amibeingpwned.com/blog/solar-winds-part-2-avoided?_sp=75fd154a-e34f-41d0-8624-7c285776c13d.1787263544340</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-21T02:00:03.000Z",
+    "duration": 441,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10062.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10062,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10062"
+  },
+  {
     "id": "sans-stormcast-thursday-august-20th-2026-cloud-metadata-scans-oracle-and-netscal",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, August 20th, 2026: Cloud Metadata Scans; Oracle and Netscaler Patches; Fake Ransomware Rescuers",
