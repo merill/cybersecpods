@@ -1,5 +1,22 @@
 [
   {
+    "id": "a-rat-in-the-spreadsheet-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "A RAT in the spreadsheet. [Research Saturday]",
+    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/aaron-beardslee/\">Aaron Beardslee</a>, Manager of Threat Research at <a href=\"https://www.linkedin.com/company/securonix/\">Securonix</a>, discussing \"Analyzing SHEET#CREEP: SHEETCREEP is up again with different config obfuscation.\" Securonix researchers have identified an evolved version of the SHEETCREEP espionage campaign, using a diplomatic-themed ISO phishing lure to deliver a C# remote access trojan targeting Indian diplomatic interests. </p>\n<p>The malware abuses the Google Sheets API as a stealthy command-and-control channel, with researchers identifying 91 active victim tabs, including a high-confidence target in Pakistan. The campaign, assessed with moderate confidence as linked to Pakistan-aligned APT36, has added XOR-obfuscated configurations and other anti-analysis techniques to evade detection and maintain persistent access.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.lumen.com/blog/en-us/expanded-jdy-iot-and-soho-botnet-enables-rapid-vulnerability-exploitation\">⁠</a><a href=\"https://chatgpt.com/c/6a874ceb-cd40-83ea-a1b5-fb1d570df352\">Analyzing SHEET#CREEP: SHEETCREEP is up again with different config obfuscation</a></li>\n</ul>",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "duration": 1787,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW2337940270.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/521f8934-9ccd-11f1-b290-ff3dafb02aa2/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 438,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/438/notes"
+  },
+  {
     "id": "the-guest-nobody-invited",
     "podcastId": "cyberwire-daily",
     "title": "The guest nobody invited.",
