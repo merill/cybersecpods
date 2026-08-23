@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-passkeys-wont-stop-authorisation-phishing",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Passkeys won’t stop authorisation phishing",
+    "description": "<p>In this Risky Business sponsored interview, James Wilson chats with  Luke Jennings, Push Security’s VP of Research, about how stronger authentication is pushing attackers towards the authorisation layer.</p>\n\n<p>Device code phishing is on the rise. Luke explains how these attacks can survive passkeys and phishing-resistant MFA and, importantly, how defenders can check if their controls against these attacks actually work.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-08-23T19:49:18.000Z",
+    "duration": 1205,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI141.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI141/"
+  },
+  {
     "id": "risky-bulletin-us-warns-of-ai-assisted-attacks-against-siemens-plcs",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: US warns of AI-assisted attacks against Siemens PLCs",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS554/"
-  },
-  {
-    "id": "between-two-nerds-ai-as-the-mythical-10x-hacker",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: AI as the mythical 10x hacker",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq take a deep dive into how a single hacker used OpenAI and Anthropic’s tools to help hack nine Mexican government organisations in quick time.</p>\n\n<p>This episode is also available on <a href=\"https://www.youtube.com/watch?v=xCuV8iep9mg\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://gambit.security/blog-post/a-single-operator-two-ai-platforms-nine-government-agencies-the-full-technical-report\">Gambit security report</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-04-20T20:34:47.000Z",
-    "duration": 1989,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN163.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN163/"
   }
 ]
