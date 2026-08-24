@@ -1703,9 +1703,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-08-21T13:05:40.000Z",
+    "lastEpisodeDate": "2026-08-24T12:07:47.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 36,
+    "episodeCount": 37,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1922,7 +1922,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-08-24T07:12:04.276Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
