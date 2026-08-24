@@ -1,5 +1,22 @@
 [
   {
+    "id": "cves-vs-advisories-with-paul-asadoorian",
+    "podcastId": "open-source-security",
+    "title": "CVEs vs Advisories with Paul Asadoorian",
+    "description": "<p dir=\"auto\">Josh chats with Paul Asadoorian about a tool he wrote called fettle and a recent report Paul published on CVEs. Fettle is a tool to help update and manage Linux systems. The big sell on this one is checking if your firmware is out of date. We then talk about a report Paul created that doesn't obsess over CVEs, but rather the vendor updates. It makes more sense to worry about advisories as those are actionable, where CVEs often are not. It's a great chat and Paul is a legend in the industry.</p> <p dir=\"auto\">The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-08-paul-fettle-cve\" rel= \"nofollow\">https://opensourcesecurity.io/2026/2026-08-paul-fettle-cve</a></p> <p> </p>",
+    "publishedAt": "2026-08-24T00:00:00.000Z",
+    "duration": 2287,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-08-paul-fettle-cve.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/6/6/e/4/66e4a15c6a8c2167d959afa2a1bf1c87/square-flipper-20260819-yuzpclakex.jpeg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/cves-vs-advisories-with-paul-asadoorian"
+  },
+  {
     "id": "maintaining-eol-open-source-with-commonhaus-and-herodevs",
     "podcastId": "open-source-security",
     "title": "Maintaining EOL Open Source with Commonhaus and HeroDevs",
