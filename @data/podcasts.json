@@ -604,16 +604,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-24T07:11:52.183Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must have podcast for Defenders",
-        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
-        "author": "Rljohnson5",
-        "updatedAt": "2023-05-23T14:47:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "bluehat-podcast",
@@ -3888,7 +3879,7 @@
     "id": "reimagining-cyber",
     "applePodcastId": "1542819224",
     "title": "Reimagining Cyber - real world perspectives on cybersecurity",
-    "description": "<p>Explore the critical intersection of cybersecurity and business impact while gaining insights into CISO priorities with \"Reimagining Cyber.\" Stay informed on the latest cybersecurity news, trends, and solutions tailored for today's CISOs and CIOs. Hosted by Rob Aragao a seasoned security strategist with OpenText, this podcast is your go-to resource for staying updated on cybersecurity developments and addressing common challenges in the rapidly evolving digital landscape.</p><p><br></p><p>As featured on MillionPodcasts'&nbsp;</p><p>Best 100 Cybersecurity Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH3%2BZBOJeNYFhRaFv5aEtxSA%2BSRSiYqWODwWhgCRQweVwbjkyYmI1kh11oYAkUGFEb99Zsm%2BedEFh5GDQEMDiNP8%2BOdVycbUyXuWQkCVgUQVvnfkBXfKl4hFiLk%2B1UFG1EL9Z4V3yNUFRYi5MY%3D\">https://www.millionpodcasts.com/cyber-security-podcasts/</a></p><p><br></p><p>Top 50 Chief Information Security Officer CISO Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH36aFY4CZUFRRGFwlZyO5XCO2NXCIrVxQWIhcCWgnVVwjtjVYYGk4mHiIKxkX%2BHEP97FReJyNEFCBTGPpUDexW%2Be2eVRQqShATEdAJXwkUH9TmnVUfJVwmIRHQAlX9FB%2FUsQ%3D%3D\">https://www.millionpodcasts.com/ciso-podcasts/</a></p><p><br></p><p>Top 70 Security Hacking Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBEH5ZFeJR9ZKt5NBfhRAh1JwfCdTRYXWCUkFOMKWgYOVQP1oEwY81geJVXKCloGDk%2F55JdeIPNL4hBKEfZPBdVXCO2NTCIkWRYfWeEJSwYfTvX0k0gV4hElKlUJ0ib%2FHk4A76VeI%2BIRHiBJCdImyg%3D%3D\">https://www.millionpodcasts.com/security-hacking-podcasts/</a></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+    "description": "<p>Explore the critical intersection of cybersecurity and business impact while gaining insights into CISO priorities with \"Reimagining Cyber.\" Stay informed on the latest cybersecurity news, trends, and solutions tailored for today's CISOs and CIOs. This podcast is your go-to resource for staying updated on cybersecurity developments and addressing common challenges in the rapidly evolving digital landscape.</p><p><br></p><p>As featured on MillionPodcasts'&nbsp;</p><p>Best 100 Cybersecurity Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH3%2BZBOJeNYFhRaFv5aEtxSA%2BSRSiYqWODwWhgCRQweVwbjkyYmI1kh11oYAkUGFEb99Zsm%2BedEFh5GDQEMDiNP8%2BOdVycbUyXuWQkCVgUQVvnfkBXfKl4hFiLk%2B1UFG1EL9Z4V3yNUFRYi5MY%3D\">https://www.millionpodcasts.com/cyber-security-podcasts/</a></p><p><br></p><p>Top 50 Chief Information Security Officer CISO Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH36aFY4CZUFRRGFwlZyO5XCO2NXCIrVxQWIhcCWgnVVwjtjVYYGk4mHiIKxkX%2BHEP97FReJyNEFCBTGPpUDexW%2Be2eVRQqShATEdAJXwkUH9TmnVUfJVwmIRHQAlX9FB%2FUsQ%3D%3D\">https://www.millionpodcasts.com/ciso-podcasts/</a></p><p><br></p><p>Top 70 Security Hacking Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBEH5ZFeJR9ZKt5NBfhRAh1JwfCdTRYXWCUkFOMKWgYOVQP1oEwY81geJVXKCloGDk%2F55JdeIPNL4hBKEfZPBdVXCO2NTCIkWRYfWeEJSwYfTvX0k0gV4hElKlUJ0ib%2FHk4A76VeI%2BIRHiBJCdImyg%3D%3D\">https://www.millionpodcasts.com/security-hacking-podcasts/</a></p><p><br></p><p><br></p><p><br></p><p><br></p>",
     "summary": "",
     "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/87/0c/49870cbd-c2c0-1d38-f36f-a64f7eb7beae/mza_4160542525989768537.jpg/600x600bb.jpg",
@@ -5836,44 +5827,7 @@
         "ratingCount": 64,
         "fetchedAt": "2026-08-24T07:12:40.082Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 1,
-        "title": "So much potential",
-        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
-        "author": "Yeahyeahblahblah",
-        "updatedAt": "2026-06-06T04:49:02-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful",
-        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
-        "author": "Laughedoutloud",
-        "updatedAt": "2025-12-27T07:09:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Oo",
-        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
-        "author": "\\x4A\\x4D",
-        "updatedAt": "2025-05-20T13:02:20-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "1X",
-        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
-        "author": "mjg5772",
-        "updatedAt": "2025-05-17T20:32:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Security and more",
-        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
-        "author": "Chris Mc.38",
-        "updatedAt": "2024-12-15T10:04:10-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "to-the-point-cybersecurity",
