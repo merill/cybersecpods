@@ -1,5 +1,22 @@
 [
   {
+    "id": "443-ghosts-in-the-machine-with-john-huyette-and-omer-arshed",
+    "podcastId": "identity-at-the-center",
+    "title": "#443 - Ghosts in the Machine with John Huyette and Omer Arshed",
+    "description": "<p>Jeff and Jim are joined by John Huyette, AI Risk Leader at RSM, and Omer Arshed, North American Digital Identity Leader at RSM, to explore how identity controls can help organizations manage the growing risks of AI agents. John introduces five laws for managing AI risk: governability, lineage and integrity, trust boundaries, authority containment, and human impact. The conversation connects those ideas to familiar IAM principles including ownership, auditability, zero trust, least privilege, just-in-time access, privileged access management, and continuous monitoring. They also discuss prompt injection, shadow AI, human accountability, and why organizations should start by building an honest inventory of the AI capabilities already operating in their environments.</p><p><br></p><p>5 Laws of AI Risk: https://www.linkedin.com/feed/update/urn:li:activity:7487942457075257344/</p><p>Connect with John: https://www.linkedin.com/in/john-huyette-1373906/</p><p>Connect with Omer: https://www.linkedin.com/in/omerarshed/</p><p><br></p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p>Timestamps</p><p><br></p><p>00:00 Introduction, 3D printing, and conference updates</p><p>06:58 Introducing John Huyette and Omer Arshed</p><p>07:52 John’s path from technology risk to AI risk</p><p>12:11 Omer’s identity origin story</p><p>13:43 The five laws for managing AI risk</p><p>18:00 What “ghosts in the machine” means for identity</p><p>20:17 Governability and ownership of AI identities</p><p>25:17 Do you know what has access to what?</p><p>29:43 Applying decades of IAM lessons to AI</p><p>32:35 Lineage and integrity</p><p>35:20 Building an AI bill of materials</p><p>37:12 Trust boundaries and external data</p><p>38:36 Prompt injection and untrusted content</p><p>42:48 Applying zero trust principles to AI agents</p><p>47:26 Authority containment</p><p>49:56 PAM, least privilege, and just-in-time agent access</p><p>56:22 Human impact and accountability</p><p>58:41 Is agentic AI really a new identity problem?</p><p>01:02:35 Starting with lower-risk AI use cases</p><p>01:04:21 Where organizations should start</p><p>01:05:07 Shadow AI and zombie accounts</p><p>01:07:09 What excuses would an AI give during an access review?</p><p>01:12:20 Wrap-up</p><p><br></p><p><br></p><p>Keywords</p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, John Huyette, Omer Arshed, RSM, AI risk, AI agents, agentic AI, AI governance, governability, lineage and integrity, trust boundaries, authority containment, human impact, shadow AI, identity governance, IAM, zero trust, privileged access management, PAM, least privilege, just-in-time access, non-human identity, NHI, prompt injection, AI identity, access governance, continuous monitoring</p>",
+    "publishedAt": "2026-08-24T09:00:00.000Z",
+    "duration": 4437,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/124101938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-12%2F1b3efc92-e08d-1573-dc4e-c64a01b6e1d0.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 443,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/443---Ghosts-in-the-Machine-with-John-Huyette-and-Omer-Arshed-e3n9pri"
+  },
+  {
     "id": "442-identiverse-2026-identity-after-dark-with-bravura-security",
     "podcastId": "identity-at-the-center",
     "title": "#442 - Identiverse 2026 - Identity After Dark with Bravura Security",
