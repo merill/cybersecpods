@@ -604,16 +604,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-24T07:11:52.183Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must have podcast for Defenders",
-        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
-        "author": "Rljohnson5",
-        "updatedAt": "2023-05-23T14:47:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "bluehat-podcast",
@@ -1913,7 +1904,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-08-24T07:12:04.276Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -2495,20 +2495,6 @@
     },
     "recentReviews": [
       {
-        "rating": 3,
-        "title": "Missing the old Hacked",
-        "content": "This is one of my all time favorite podcasts and I always couldn’t wait for a new episode to come out, however lately I have been heartbroken because all of the most recent podcasts have been marked explicit lately meaning I have had to miss out on all those great episodes. I would be so happy if Hacked could go back to the way it used to be.",
-        "author": "JaevinF",
-        "updatedAt": "2026-07-16T21:22:56-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "So good",
-        "content": "I love these guys and I always learn something new.",
-        "author": "Mofhtvabnsjj",
-        "updatedAt": "2026-06-02T19:10:23-07:00"
-      },
-      {
         "rating": 5,
         "title": "Amazing pod :0",
         "content": "Such a great podcast, i want to go into cybersecurity or web design after high school and this is very inspiring. I can’t believe some people give this one star.",
@@ -2528,6 +2514,20 @@
         "content": "i can't remember passwords or solve captcha and i certainly depend on the web to keep my stuff safe. but i would like to understand who is testing that safety and what i as a human can do to fortify myself against it. because maybe sometimes the web needs to be broken so that it can improve. i find im more receptive to hearing stories that make me see the human issues that affect security, and i really enjoy the stories from listeners of light hearted pranks that ended up much more significant. no stupid ai required to make this podcast a good length and density. win 5:5 stars",
         "author": "Lemyrrio",
         "updatedAt": "2025-03-18T10:31:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Nerdy and fun",
+        "content": "Found this podcast by accident.  I love it. The hosts are funny, witty and informative. Love hearing the listeners stories as well. Keep up the great work",
+        "author": "Casey Marie's Music",
+        "updatedAt": "2025-03-16T13:29:42-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "eh",
+        "content": "too many ads and lacks depth",
+        "author": "nakd moon",
+        "updatedAt": "2024-12-18T16:31:57-07:00"
       }
     ]
   },
@@ -2719,17 +2719,10 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "The music overlay is annoying",
-        "content": "In the “Class is in session…” episode the music throughout the whole episode is annoying. Please don’t do that again.",
+        "title": "This is one not to miss.",
+        "content": "This podcast is an interesting mix of personalities and security related humor.",
         "author": "Takoateli",
-        "updatedAt": "2026-08-04T04:12:26-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Hilarious and very informative",
-        "content": "I still have a lot to catch up on, but check out the early Jun 2025 episodes about the chickens and various life stuff. I could not stop laughing.",
-        "author": "TFWas",
-        "updatedAt": "2026-07-11T05:24:11-07:00"
+        "updatedAt": "2026-04-09T17:10:09-07:00"
       },
       {
         "rating": 5,
@@ -2751,6 +2744,13 @@
         "content": "I love the hosts, their rapport, sense of humor, and knowledge. \n\nEven my non-techie significant other enjoys listening to this podcast with me. \n\nThank you!",
         "author": "0xbeepBoop",
         "updatedAt": "2025-02-25T11:02:51-07:00"
+      },
+      {
+        "rating": 3,
+        "title": "Excellent podcast, but………",
+        "content": "This is a great podcast. I would highly recommend this for someone beginning their cybersecurity learning or those that want to keep up to date. The only issue is the political left leaning is annoying. I listen to educate myself and learn what is going on in the world pertaining to cybersecurity. Not to listen to political left leaning talking points or snide remarks. This distracts from the great content that they produce. One of my college professors in my government class always had the best classes. He never took sides, never told us where he stood. And the class was enjoyable because he just taught the subject matter and the focus was on learning, not pushing a political agenda or letting people know where he stood. This did not alienate anyone, and kept the focus on discussing relevant topics and learning. I think more respect and integrity comes from refraining from political remarks, and just focusing on what makes the podcast great the material and subject matter.",
+        "author": "Slygator456",
+        "updatedAt": "2025-02-19T09:18:50-07:00"
       }
     ]
   },
