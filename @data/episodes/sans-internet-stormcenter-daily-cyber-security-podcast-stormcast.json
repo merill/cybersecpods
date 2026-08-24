@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-august-24th-2026-more-entra-powershell-entra-vulnerability",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, August 24th, 2026: More Entra Powershell; Entra Vulnerability; GitLab Vuln (and PoC); GTA 6 Leak Malware",
+    "description": "<br/>\nWho Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!<br/>\n<a href=\"https://isc.sans.edu/diary/Who%20Got%20Missed%20in%20the%20MFA%20Rollout%3F%20More%20Powershell%20%2B%20Graph%20%2B%20Entra%20scripting!/33272\">https://isc.sans.edu/diary/Who%20Got%20Missed%20in%20the%20MFA%20Rollout%3F%20More%20Powershell%20%2B%20Graph%20%2B%20Entra%20scripting!/33272</a><br/>\nEven MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays<br/>\n<a href=\"https://isc.sans.edu/diary/Even%20MOAR%20Powershell%2C%20looking%20at%20Entra%20logins%20-%20the%20good%2C%20the%20bad%20and%20the%20password%20sprays/33268\">https://isc.sans.edu/diary/Even%20MOAR%20Powershell%2C%20looking%20at%20Entra%20logins%20-%20the%20good%2C%20the%20bad%20and%20the%20password%20sprays/33268</a><br/>\nMicrosoft Entra ID Remote Code Execution Vulnerability CVE-2026-69836<br/>\n<a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69836\">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-69836</a><br/>\nGitLab Critical Patch Release CVE-2026-19478 CVE-2026-19650<br/>\n<a href=\"https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-4-released/\">https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-4-released/</a><br/>\nGTA 6 Leak File with Malware<br/>\n<a href=\"https://x.com/Aidas29506493/status/2091194667073204624\">https://x.com/Aidas29506493/status/2091194667073204624</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-24T02:00:02.000Z",
+    "duration": 329,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10064.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10064,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10064"
+  },
+  {
     "id": "sans-stormcast-friday-august-21st-2026-microsoft-graph-and-powershell-keycloak-v",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, August 21st, 2026: Microsoft Graph and Powershell; Keycloak Vuln; Cryptographic Context Injection; N-Able Password Leak",
