@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-attribution-is-dead-long-live-attribution",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: Attribution is dead, long live attribution",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about whether the increasing use of AI will make it harder for forensics teams to determine who is responsible for a hack.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/QpOO7Zh2OTY\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://x.com/cyb3rops/status/2086428755879231721\">Florian Roth X post</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://phrack.org/issues/59/6\">Phrack issue 59, Defeating Forensic Analysis on Unix</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://phrack.org/issues/62/8\">Phrack issue 62, Remote Exec</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-08-24T19:53:46.000Z",
+    "duration": 1978,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN180.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN180/"
+  },
+  {
     "id": "risky-bulletin-expired-credit-cards-can-be-used-for-malicious-transactions",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Expired credit cards can be used for malicious transactions",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS555/"
-  },
-  {
-    "id": "srsly-risky-biz-musk-snubs-french-authorities",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: Musk snubs French authorities",
-    "description": "<p>Tom Uren and James Wilson talk about the French criminal investigation into bias and illegal content on X. Elon Musk and former X CEO Linda Yaccarino didn’t appear for voluntary interviews scheduled this week, but refusing meetings won’t make X’s problems go away. European countries are concerned about X’s influence and regulators will be exploring all other options beyond criminal investigations.</p>\n\n<p>They also discuss the fight to renew authorisation of Section 702 collection. It’s a valuable intelligence source, but in the past the FBI pointlessly overused it.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/lR6-aRynHes\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-04-23T03:40:55.000Z",
-    "duration": 1344,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB164.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB164/"
   }
 ]
