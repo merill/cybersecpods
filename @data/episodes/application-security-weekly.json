@@ -1,5 +1,22 @@
 [
   {
+    "id": "applying-zero-trust-principles-to-agents-kieran-human-asw-397",
+    "podcastId": "application-security-weekly",
+    "title": "Applying Zero Trust Principles to Agents - Kieran Human - ASW #397",
+    "description": "<p>Sandboxing, least privilege, and monitoring are well-established controls in terms of the defenses they provide against unexpected and unauthorized actions. But being well-established in theory doesn't always translate to successful in practice. Kieran Human talks about some of the properties that a good sandbox should have and how monitoring creates a feedback loop to refine allow lists and access controls. In practice, the potential unpredictable behavior of an agent isn't much different from malware. We talk through some of the ways orgs can securely deploy agents without unnecessarily increasing their attack surface.</p> <p>Resources</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.threatlocker.com/blog/the-principle-of-least-privilege-for-ai-agents\"> https://www.threatlocker.com/blog/the-principle-of-least-privilege-for-ai-agents</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.threatlocker.com/blog/applying-threatlocker-to-agentic-ai-tools\"> https://www.threatlocker.com/blog/applying-threatlocker-to-agentic-ai-tools</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.threatlocker.com/blog/why-the-five-eyes-alliance-sees-zero-trust-as-the-best-defense-against-agentic-ai-threats\"> https://www.threatlocker.com/blog/why-the-five-eyes-alliance-sees-zero-trust-as-the-best-defense-against-agentic-ai-threats</a></li> </ul> <p>This interview is sponsored by ThreatLocker. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/threatlocker\">https://securityweekly.com/threatlocker</a> to learn more about them!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-397\">https://securityweekly.com/asw-397</a></p>",
+    "publishedAt": "2026-08-25T09:00:00.000Z",
+    "duration": 4000,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_397_1--f9adebac-49e9-4840-9e43-052204a8a2eb--audio-converted--2c9109d0-0784-4ba9-a93f-12a3bd26a52a.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/e/e/0/4/ee040392460b31bbd959afa2a1bf1c87/ASW_397_Thumbnail_ASW_1920x1920-op1_327c8460-9890-4e7d-ae64-4a3d879720cd.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/applying-zero-trust-principles-to-agents-kieran-human-asw-397"
+  },
+  {
     "id": "augmenting-threat-intel-analysis-with-agents-chris-wallis-sai-kiran-uppu-ramin-f",
     "podcastId": "application-security-weekly",
     "title": "Augmenting Threat Intel Analysis with Agents - Chris Wallis, Sai Kiran Uppu, Ramin Farassat - ASW #396",
