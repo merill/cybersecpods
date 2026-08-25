@@ -1,5 +1,22 @@
 [
   {
+    "id": "autonomous-agents-need-a-verified-identity-with-rosalyn-curato",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "Autonomous Agents Need a Verified Identity with Rosalyn Curato",
+    "description": "<p>The identity and access model built for human users starts to break the moment an autonomous agent acts on someone's behalf, because an agent cannot be authenticated the way a person is. Rosalyn Curato, Chief Innovation Officer and General Manager of Agentic Security at Vouched, makes the case that an autonomous agent should never be an anonymous one, and that trust starts with verifying the agent and tying it to a known human. Her framing reduces to three questions every organization should be able to answer about an agent: who it is, which human it belongs to and what it has been given permission to do. From there the conversation turns to what breaks without that binding. Curato covers rogue agents, the risk of handing an agent too much access and the fraud and liability costs that organizations are already forecasting. She and hosts Rachael Lyon and Jonathan Knepher work through the controls that answer it, including delegated permissions, immutable audit trails, kill switches and the KYA-OS open standard that Vouched donated to the Decentralized Identity Foundation. For links and resources discussed in this episode, please visit our show notes at <a href= \"https://www.forcepoint.com/resources/podcast/verified-identity-for-ai-agents\"> https://www.forcepoint.com/resources/podcast/verified-identity-for-ai-agents</a></p> <p> </p>",
+    "publishedAt": "2026-08-25T12:30:00.000Z",
+    "duration": 2872,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E389_-_rosalyn_curato_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/6/1/e/c/61ec0c32fed0de2916c3140a3186d450/E389_-_rosalyn_curato_mixdown.jpg",
+    "episodeNumber": 389,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/resources/podcast/verified-identity-for-ai-agents"
+  },
+  {
     "id": "unleash-ai-or-block-it-the-answer-is-both-with-steven-walchek",
     "podcastId": "to-the-point-cybersecurity",
     "title": "Unleash AI or Block It? The Answer Is Both with Steven Walchek",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/govpodcast/e69"
-  },
-  {
-    "id": "rsa-special-edition-the-human-element",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "RSA Special Edition: The Human Element",
-    "description": "<p>RSA's theme this year: Human Element--very telling of what's important to the industry, we are moving away from point, event solutions to holistic, human centric solutions. Guests: Rachael Lyon, Forcepoint Director Communication and Nicolas (Nico) Fischbach, Global Chief Technology Officer at Forcepoint. <a href= \"https://www.forcepoint.com/resources/podcasts/e68\">https://www.forcepoint.com/resources/podcasts/e68</a></p> <p> </p>",
-    "publishedAt": "2020-03-05T13:00:00.000Z",
-    "duration": 1016,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E068_-_RSA_Special_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/8/0/3/b/803baf0346d0eb81/E068_-_RSA_Special_mixdown.jpg",
-    "episodeNumber": 68,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/resources/podcasts/e68"
   }
 ]
