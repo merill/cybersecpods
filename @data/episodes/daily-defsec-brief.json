@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-26-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 26 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. CISA adds actively exploited Gitea code-injection flaw to KEV — CVE-2026-60004 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n2. SonicWall NetExtender Linux client path traversal allows root file write — CVE-2026-66152 — Cyber Security News — https://cybersecuritynews.com/sonicwall-netextender-vulnerabilities/\n3. Chrome 152 patches over 300 flaws, most found internally by AI — CVE-2026-79282 (+300 more) — SecurityWeek — https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/\n4. NVIDIA NemoClaw flaw lets a malicious webpage poison a local AI model — CVE-2026-65105 — Cyber Security News — https://cybersecuritynews.com/nvidia-nemoclaw-flaw/\n5. Siemens SIMATIC IoT2050 Advanced unauthenticated RCE via Node-RED — CVE-2026-58115 — CISA — https://www.cisa.gov/news-events/ics-advisories/icsa-26-237-03\n6. Mirage2FA phishing kit bypasses MFA to hijack Microsoft 365 sessions — The Hacker News — https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html\n7. Malicious npm packages abuse trusted mirrors to host ClickFix phishing — BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/\n8. Iran-linked actors hide Dindoor backdoor behind the Deno runtime — Cyber Security News — https://cybersecuritynews.com/iran-linked-hackers-abuse-developer-tool/\n9. SLEEPWALKER backdoor waits for a magic packet, then runs its own bytecode — The Hacker News — https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html\n10. 28,000 exposed .git repositories leak credentials and financial records — Cyber Security News — https://cybersecuritynews.com/28000-exposed-git-repositories/\n11. RMM tools abused in 46-country phishing campaign for remote access — Cyber Security News — https://cybersecuritynews.com/hackers-abuse-legitimate-rmm-tools-3/\n12. Marimo notebook flaw runs MCP commands before cells execute — CVE-2026-75149, CVE-2026-39987, CVE-2026-67618 — The Hacker News — https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html\n13. AWS Strands Agents python_repl consent bypass allows RCE — CVE-2026-78379 — AWS — https://aws.amazon.com/security/security-bulletins/rss/2026-089-aws/\n14. Fake Indeed interview apps push Android spyware to job seekers — Malwarebytes Labs — https://www.malwarebytes.com/blog/scams/2026/08/beware-of-fake-indeed-interview-apps-used-to-install-spyware</code></pre>",
+    "publishedAt": "2026-08-26T12:41:53.000Z",
+    "duration": 263,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/b7852e8e9012748803056b2dd571260d0fc34ea4bfd0e4be76c18c05096d6bdd/eyJlcGlzb2RlSWQiOiIwMTI0MDVkYi1hYmJhLTRmYzMtYjRiYy03NjFmMDRkYzU3YWUiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE4ZWRlNTg4Nzg2NmE3OGFmYmQ3NGE1L2RhaWx5LWRlZnNlYy1jb21wb3Nlci5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-25-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 25 2026 - Daily DefSec Brief",
