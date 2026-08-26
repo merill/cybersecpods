@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-132-windows-server-2025-security",
+    "podcastId": "azure-security-podcast",
+    "title": "Episode 132 - Windows Server 2025 Security",
+    "description": "<p>In this episode, Michael and Sarah talk to Orin Thomas about security improvements in Windows Server 2025. We realize this is an Azure podcast, but many people deploy Windows VMs!</p><p>We also security news about CosmosDB, GitHub Copilot and Quantum development, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://ASP.NET\">ASP.NET</a> and PQ hybrid TLS 1.3 and more!</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/azsecpod\">https://aka.ms/azsecpod</a>  </p>",
+    "publishedAt": "2026-08-26T16:25:44.000Z",
+    "duration": 2430,
+    "audioUrl": "https://content.rss.com/episodes/8411/3098075/azsecpodcast/2026_08_26_16_25_02_8ebf3efc-0f4a-4c7e-bfff-4e5b881f8274.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 132,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/azsecpodcast/3098075"
+  },
+  {
     "id": "episode-131-what-is-mdash",
     "podcastId": "azure-security-podcast",
     "title": "Episode 131: What is MDASH?",

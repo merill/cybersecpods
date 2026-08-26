@@ -460,9 +460,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-07-27T22:08:04.000Z",
+    "lastEpisodeDate": "2026-08-26T16:25:44.000Z",
     "firstEpisodeDate": "2020-05-02T23:30:00.000Z",
-    "episodeCount": 130,
+    "episodeCount": 131,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1160,9 +1160,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-23T16:00:00.000Z",
+    "lastEpisodeDate": "2026-08-26T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 318,
+    "episodeCount": 319,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2535,7 +2535,7 @@
     "cadence": "biweekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-08-15T16:00:00.000Z",
+    "lastEpisodeDate": "2026-08-26T16:23:00.000Z",
     "firstEpisodeDate": "2015-10-15T03:30:00.000Z",
     "episodeCount": 157,
     "hasVideo": false,
@@ -2636,7 +2636,16 @@
         "ratingCount": 10,
         "fetchedAt": "2026-08-26T07:01:03.890Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -3009,7 +3018,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-08-26T07:01:08.556Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
