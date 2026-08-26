@@ -4018,8 +4018,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-08-24T19:53:46.000Z",
-    "firstEpisodeDate": "2026-04-24T04:53:54.000Z",
+    "lastEpisodeDate": "2026-08-26T03:02:50.000Z",
+    "firstEpisodeDate": "2026-04-26T22:30:05.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4091,8 +4091,8 @@
         "name": "Adam Boileau"
       }
     ],
-    "lastEpisodeDate": "2026-08-19T03:23:26.000Z",
-    "firstEpisodeDate": "2025-02-21T02:31:15.000Z",
+    "lastEpisodeDate": "2026-08-26T01:53:57.000Z",
+    "firstEpisodeDate": "2025-02-26T04:20:33.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4254,9 +4254,9 @@
         "websiteUrl": "https://jbu.me/"
       }
     ],
-    "lastEpisodeDate": "2026-08-25T02:00:03.000Z",
+    "lastEpisodeDate": "2026-08-26T02:40:13.000Z",
     "firstEpisodeDate": "2016-04-01T01:40:02.000Z",
-    "episodeCount": 2504,
+    "episodeCount": 2505,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4584,8 +4584,8 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-19T02:40:54.000Z",
-    "firstEpisodeDate": "2026-06-17T02:14:17.000Z",
+    "lastEpisodeDate": "2026-08-26T02:57:43.000Z",
+    "firstEpisodeDate": "2026-06-24T02:33:10.000Z",
     "episodeCount": 10,
     "hasVideo": false,
     "isActive": true,
@@ -6015,7 +6015,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-25T07:00:28.634Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",

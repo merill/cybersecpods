@@ -1,5 +1,22 @@
 [
   {
+    "id": "sn-1093-tokens-in-the-stream-why-llms-are-inherently-insecure-and-prompt-injecti",
+    "podcastId": "security-now",
+    "title": "SN 1093: Tokens in the Stream - Why LLMs are inherently insecure and prompt injection will persist",
+    "description": "<p>Turns out, every chatbot conversation runs on a messy hack at the heart of language models, making prompt injection an unsolved—and possibly unsolvable—security threat. Steve and Leo unravel the research that explains why \"roles\" in AI aren't what you think they are.</p><ul> \n<li>Understanding the controversy surrounding \"AI Model Distillation\"</li> \n<li>Anthropic moves to make their most powerful Mythos 5 model more widely available.</li> \n<li>Bitwarden's \"Secrets Manager\" offering prevents agentic and prompt injection abuse.</li> \n<li>The astounding and disturbing truth about the way conversation AI actually works</li></ul> \n<p>Show Notes - <a href=\"https://www.grc.com/sn/SN-1093-Notes.pdf\">https://www.grc.com/sn/SN-1093-Notes.pdf</a></p> \n<p><strong>Hosts:</strong> <a href=\"https://twit.tv/people/steve-gibson\">Steve Gibson</a> and <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p>Download or subscribe to <em>Security Now</em> at <a href=\"https://twit.tv/shows/security-now\">https://twit.tv/shows/security-now</a>.</p> \n<p>You can submit a question to <em>Security Now</em> at the <a href=\"https://www.grc.com/feedback.htm\" target=\"_blank\">GRC Feedback Page</a>.</p> \n<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href=\"https://www.grc.com/securitynow.htm\" target=\"_blank\">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href=\"https://www.grc.com/sr/spinrite.htm\" target=\"_blank\">Spinrite 6</a>.</p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://threatlocker.com/twit\" target=\"_blank\" rel=\"sponsored\">threatlocker.com/twit</a></li>\n<li><a href=\"https://www.box.com/ai?utm_source=youtube&utm_medium=paidinfluencer&utm_theme=icm&utm_campaign=FY27_Q1_TWiT\" target=\"_blank\" rel=\"sponsored\">box.com/AI</a></li>\n<li><a href=\"http://hoxhunt.com/securitynow\" target=\"_blank\" rel=\"sponsored\">hoxhunt.com/securitynow</a></li>\n<li><a href=\"http://guardsquare.com\" target=\"_blank\" rel=\"sponsored\">guardsquare.com</a></li>\n<li><a href=\"https://material.security\" target=\"_blank\" rel=\"sponsored\">material.security</a></li>\n</ul></p>",
+    "publishedAt": "2026-08-26T02:57:43.000Z",
+    "duration": 10090,
+    "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/megaphone/sn_1093/ARML1998265017.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/08/862726/hero/SN1093_thumbnail.jpg",
+    "episodeNumber": 1093,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://twit.tv/shows/security-now/episodes/1093"
+  },
+  {
     "id": "sn-1092-restraint-abliteration-rotating-keys-broken-guardrails",
     "podcastId": "security-now",
     "title": "SN 1092: Restraint Abliteration - Rotating Keys, Broken Guardrails",
@@ -151,22 +168,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://twit.tv/shows/security-now/episodes/1084"
-  },
-  {
-    "id": "sn-1083-patch-tuesday-a-la-ai-arch-linux-repo-under-siege",
-    "podcastId": "security-now",
-    "title": "SN 1083: Patch Tuesday à la AI - Arch Linux Repo Under Siege",
-    "description": "<p>This episode unpacks the jaw-dropping surge in vulnerabilities unearthed by AI, revealing how Microsoft shattered its own patch records while adversaries and defenders race to outpace each other. The conversation gets real about whether AI is fixing our broken software or just making attacks easier for everyone.</p><ul> \n<li>Rootkits found in more than 400 ArchLinux User Repository packages.</li> \n<li>The US government requests Anthropic to remove Mythos and Fable.</li> \n<li>CISA responds to AI-driven attacks with new patching requirements.</li> \n<li>NPM to switch to more secure install defaults. Will it help.</li> \n<li>Our listeners react to last week's PHP commentary.</li> \n<li>June shows that AI has arrived for vulnerability discover</li></ul> \n<p>Show Notes - <a href=\"https://www.grc.com/sn/SN-1083-Notes.pdf\">https://www.grc.com/sn/SN-1083-Notes.pdf</a></p> \n<p><strong>Hosts:</strong> <a href=\"https://twit.tv/people/steve-gibson\">Steve Gibson</a> and <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p>Download or subscribe to <em>Security Now</em> at <a href=\"https://twit.tv/shows/security-now\">https://twit.tv/shows/security-now</a>.</p> \n<p>You can submit a question to <em>Security Now</em> at the <a href=\"https://www.grc.com/feedback.htm\" target=\"_blank\">GRC Feedback Page</a>.</p> \n<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href=\"https://www.grc.com/securitynow.htm\" target=\"_blank\">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href=\"https://www.grc.com/sr/spinrite.htm\" target=\"_blank\">Spinrite 6</a>.</p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://meter.com/securitynow\" target=\"_blank\" rel=\"sponsored\">meter.com/securitynow</a></li>\n<li><a href=\"http://canary.tools/twit\" target=\"_blank\" rel=\"sponsored\">canary.tools/twit - use code: TWIT</a></li>\n<li><a href=\"http://joindeleteme.com/twit-biz\" target=\"_blank\" rel=\"sponsored\">joindeleteme.com/twit-biz</a></li>\n<li><a href=\"http://zscaler.com/security\" target=\"_blank\" rel=\"sponsored\">zscaler.com/security</a></li>\n<li><a href=\"https://www.adaptivesecurity.com/?utm_source=podcast&utm_medium=other&utm_campaign=2026_NA_Podcast_security_now&utm_id=701Rd00000d9YqPIAU\" target=\"_blank\" rel=\"sponsored\">adaptivesecurity.com</a></li>\n</ul></p>",
-    "publishedAt": "2026-06-17T02:14:17.000Z",
-    "duration": 9380,
-    "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/megaphone/sn_1083/ARML1367165950.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/06/861797/hero/SN1083_thumbnail.jpg",
-    "episodeNumber": 1083,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://twit.tv/shows/security-now/episodes/1083"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-august-26th-2026-obfuscating-ssrf-paint-and-photos-ai-w",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, August 26th, 2026: Obfuscating SSRF; Paint and Photos AI Watermarks; FTP Banner C2;",
+    "description": "<br/>\nObfuscating IP Addresses as Hostnames<br/>\n<a href=\"https://isc.sans.edu/diary/Obfuscating%20IP%20Addresses%20as%20Hostnames/33280\">https://isc.sans.edu/diary/Obfuscating%20IP%20Addresses%20as%20Hostnames/33280</a><br/>\nMicrosoft Paint and Photos Embed Server-Issued GUIDs as Invisible Watermarks in Locally-Generated Images<br/>\n<a href=\"https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\">https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/</a><br/>\nFTP Banners The New Dead Drop Resolver Delivering Novel RATs<br/>\n<a href=\"https://socradar.io/blog/ftp-banners-new-dead-drop-resolver-rats/\">https://socradar.io/blog/ftp-banners-new-dead-drop-resolver-rats/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-26T02:40:13.000Z",
+    "duration": 359,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10068.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10068,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10068"
+  },
+  {
     "id": "sans-stormcast-tuesday-august-25th-2026-doublecup-png-webaudio-fingerprinting-ex",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, August 25th, 2026: DOUBLECUP PNG; WebAudio Fingerprinting; Expired Domains; Android; Car",
