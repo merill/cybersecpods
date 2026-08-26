@@ -215,7 +215,16 @@
         "ratingCount": 18,
         "fetchedAt": "2026-08-26T07:00:33.987Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "If you’re into AppSec, this is required listening.",
+        "content": "I’ve been listening to Absolute AppSec for years now and, it’s one of my favorite ways to stay sharp on application security. Ken Johnson and Seth Law aren’t just talking heads reading headlines, they’re clearly in the trenches themselves, and it shows. Every episode digs into stuff that actually matters if you’re building, breaking, or defending apps for a living.\n\nWhat I really like is that it doesn’t feel like a one-way broadcast. The hosts are genuinely engaged with the community, and I’ve had great interactions with them directly, which is rare for a podcast at this point. It feels more like hanging out with sharp people who happen to know a ton about AppSec than sitting through a lecture.\n\nWhether you’re an engineer who wants to understand security better, or you’re already deep in AppSec and want to keep up with new concerns and trends, this show delivers.",
+        "author": "larrylewis",
+        "updatedAt": "2026-08-25T11:38:41-07:00"
+      }
+    ]
   },
   {
     "id": "afternoon-cyber-tea",
@@ -783,8 +792,8 @@
     "cadence": "weekly",
     "format": "solo",
     "authors": [],
-    "lastEpisodeDate": "2026-04-29T16:30:00.000Z",
-    "firstEpisodeDate": "1999-08-27T16:30:00.000Z",
+    "lastEpisodeDate": "2026-04-29T20:30:00.000Z",
+    "firstEpisodeDate": "1999-08-27T21:30:00.000Z",
     "episodeCount": 646,
     "hasVideo": true,
     "isActive": false,
@@ -1616,9 +1625,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-08-25T20:30:00.000Z",
+    "lastEpisodeDate": "2026-08-26T20:30:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3736,
+    "episodeCount": 3737,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4408,9 +4417,9 @@
         "websiteUrl": "https://sockpuppet.org/me/"
       }
     ],
-    "lastEpisodeDate": "2026-07-27T07:00:00.000Z",
+    "lastEpisodeDate": "2026-08-26T22:00:00.000Z",
     "firstEpisodeDate": "2021-07-26T23:00:00.000Z",
-    "episodeCount": 66,
+    "episodeCount": 67,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5097,9 +5106,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-19T23:00:29.000Z",
+    "lastEpisodeDate": "2026-08-26T23:00:30.000Z",
     "firstEpisodeDate": "2016-12-20T06:00:00.000Z",
-    "episodeCount": 483,
+    "episodeCount": 484,
     "hasVideo": false,
     "isActive": true,
     "featured": false,

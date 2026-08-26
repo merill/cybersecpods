@@ -1,5 +1,22 @@
 [
   {
+    "id": "ai-lattice-proofs-with-chris-peikert",
+    "podcastId": "security-cryptography-whatever",
+    "title": "AI Lattice Proofs with Chris Peikert",
+    "description": "<p>The robots are at it again, and this time they’re solving, and breaking(?), math and cryptography! Things have been happening in the lattice corner including new leapfrogging complexity results in the closest vector problem (CVP), AND a possible poly-time quantum attack against the dihedral coset problem (DCP) that made everyone freak out for about a week (UPDATE: looks like it’s busted: https://eprint.iacr.org/2026/1693). ALSO, there was an important distinguisher attack against Classic McEliece, which on its face doesn’t sound like a big deal, unless you’re familiar with the track record of efficient distinguishers in the history of code-based cryptography… 😱<br/><br/>To help us make sense  of all this we are joined again by OG friend of the pod Chris Peikert! We had trouble with his audio but tried our best to fix it, apologies.<br/><br/></p><p>Transcript: https://securitycryptographywhatever.com/2026/08/26/ai-lattice-proofs-with-chris-peikert/</p><p><br/>Links:<br/>- https://openai.com/index/ten-advances-in-mathematics/<br/>- https://cdn.openai.com/pdf/ten-proofs-oai.pdf<br/>- https://x.com/ChrisPeikert/status/2083534770403750025<br/>- https://bsky.app/profile/chrispeikert.bsky.social/post/3msp3boueis2z<br/>- https://en.wikipedia.org/wiki/Boolean_satisfiability_problem<br/>- https://knowyourmeme.com/memes/wordcel-shape-rotator-mathcel<br/>- Chen 2024: https://eprint.iacr.org/2024/555<br/>- https://eprint.iacr.org/2026/1630<br/>- https://eprint.iacr.org/2026/1693<br/>- CVP within n^(1/2-ɛ) -  : https://eprint.iacr.org/2026/1655<br/><br/><br/></p><p><br/>\"Security Cryptography Whatever\" is hosted by <a href='https://twitter.com/durumcrustulum'>Deirdre Connolly</a> (@durumcrustulum), <a href='https://twitter.com/tqbf'>Thomas Ptacek</a> (@tqbf), and <a href='https://twitter.com/dadrian'>David Adrian</a> (@dadrian)</p>",
+    "publishedAt": "2026-08-26T22:00:00.000Z",
+    "duration": 3044,
+    "audioUrl": "https://www.buzzsprout.com/1822302/episodes/19707871-ai-lattice-proofs-with-chris-peikert.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 1,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "an-odyssey-of-lattice-cryptography-with-mark-schultz-wu",
     "podcastId": "security-cryptography-whatever",
     "title": "An Odyssey of Lattice Cryptography with Mark Schultz-Wu",
