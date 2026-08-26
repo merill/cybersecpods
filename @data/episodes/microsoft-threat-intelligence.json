@@ -1,5 +1,22 @@
 [
   {
+    "id": "jadepuffer-an-end-to-end-agentic-led-ransomware-attack",
+    "podcastId": "microsoft-threat-intelligence",
+    "title": "JADEPUFFER: An End-to-End Agentic-Led Ransomware Attack",
+    "description": "<p>In this episode of the Microsoft Threat Intelligence Podcast, we are joined by Sysdig’s Michael Clark and Crystal Morin to discuss <a href=\"https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion\"><u>JADEPUFFER</u></a>, one of the first documented cases of an LLM conducting an end-to-end ransomware operation. They break down how the agent, and the direction of a threat actor was identified, how AI is lowering the barrier to entry for ransomware, and why speed and adaptability are changing the threat landscape. Plus, they explore what organizations can do to defend against AI-powered attacks, from basic security hygiene and exposure management to better understanding their growing AI infrastructure.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>In this episode you’ll learn:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<ul>\n  <li><p>How Jade Puffer used an LLM to conduct a ransomware attack&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>Why agentic AI can make cyberattacks faster and more adaptable&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>How organizations can better protect their growing AI infrastructure&nbsp;</p>\n</li>\n</ul>\n<p><strong>Some questions we ask:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<ul>\n  <li><p>How did you determine an LLM was conducting the attack?&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>What basic security practices are most important against these attacks?&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>Does AI allow less-sophisticated threat actors to carry out more advanced attacks?&nbsp;</p>\n</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Resources:&nbsp;&nbsp;</strong></p>\n<p><a href=\"https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion\"><u>Read the research on JADEPUFFER</u></a>&nbsp;</p>\n<p><a href=\"https://www.linkedin.com/in/crystal-morin/\"><u>View Crystal Morin on LinkedIn</u></a>&nbsp;&nbsp;</p>\n<p><a href=\"https://www.linkedin.com/in/michaelclarkinpa/\"><u>View Michael Clark on LinkedIn</u></a>&nbsp;&nbsp;</p>\n<p><a href=\"https://www.linkedin.com/in/elliotv/\"><u>View Elliot Volkman on LinkedIn</u></a>&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Related Microsoft Podcasts:&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<ul>\n  <li><p><a href=\"https://afternooncybertea.com/\"><u>Afternoon Cyber Tea with Ann Johnson</u></a>&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p><a href=\"https://bluehatpodcast.com/\"><u>The BlueHat Podcast</u></a>&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p><a href=\"https://uncoveringhiddenrisks.com/\"><u>Uncovering Hidden Risks</u></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n</li>\n</ul>\n<p><br></p>\n<p>Discover and follow other Microsoft podcasts at<a href=\"https://news.microsoft.com/podcasts/\"> </a><a href=\"https://news.microsoft.com/podcasts/\"><u>microsoft.com/podcasts</u></a>&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p>Get the latest threat intelligence insights and guidance at Microsoft <a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fbusiness%2Fsecurity-insider%2F&data=05%7C02%7Cv-ropetrillo%40microsoft.com%7C81e205a6b727403624b808dc64a26e6b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638495896032091649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=LTpBsEuiaY5YiYn2FYDydHrHkYWl%2FBTl2uAQlkBz1N0%3D&reserved=0\"><u>Security Insider</u></a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>The Microsoft Threat Intelligence Podcast is produced by Microsoft, Hangar Studios and distributed as part of N2K media network.</em>&nbsp;</p>",
+    "publishedAt": "2026-08-26T07:05:00.000Z",
+    "duration": 1861,
+    "audioUrl": "https://traffic.megaphone.fm/CYBW8443722714.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 76,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/microsoft-threat-intelligence/76/notes"
+  },
+  {
     "id": "shifts-we-are-seeing-across-social-engineering-post-disruption-impact-report",
     "podcastId": "microsoft-threat-intelligence",
     "title": "Shifts We Are Seeing Across Social Engineering, Post-Disruption Impact Report",
