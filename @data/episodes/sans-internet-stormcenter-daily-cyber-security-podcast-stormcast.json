@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-august-27th-2026-entra-id-admins-unifi-patches-log4j-vul",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, August 27th, 2026: Entra ID Admins; Unifi Patches; log4j Vuln; Sleepwalker Malware",
+    "description": "<br/>\nWho Has Admin Rights in your Entra ID Directory?<br/>\n<a href=\"https://isc.sans.edu/diary/Who%20Has%20Admin%20Rights%20in%20your%20Entra%20ID%20Directory%3F/33284\">https://isc.sans.edu/diary/Who%20Has%20Admin%20Rights%20in%20your%20Entra%20ID%20Directory%3F/33284</a><br/>\nUbiquity Unifi Patches<br/>\n<a href=\"https://community.ui.com/releases/Security-Advisory-Bulletin-067/fc4a3488-7c43-4628-8bab-f715e96dbfc9\">https://community.ui.com/releases/Security-Advisory-Bulletin-067/fc4a3488-7c43-4628-8bab-f715e96dbfc9</a><br/>\nLog4J FilteredObjectInputStream Vulnerability<br/>\n<a href=\"https://github.com/joanbono/log4j2-4255-exploit\">https://github.com/joanbono/log4j2-4255-exploit</a><br/>\n<a href=\"https://jeffmcjunkin.com/posts/log4j2-fois-marshalledobject/\">https://jeffmcjunkin.com/posts/log4j2-fois-marshalledobject/</a><br/>\nSleepwalker Malware<br/>\n<a href=\"https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/\">https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-08-27T02:00:02.000Z",
+    "duration": 461,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10070.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10070,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10070"
+  },
+  {
     "id": "sans-stormcast-wednesday-august-26th-2026-obfuscating-ssrf-paint-and-photos-ai-w",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, August 26th, 2026: Obfuscating SSRF; Paint and Photos AI Watermarks; FTP Banner C2;",
