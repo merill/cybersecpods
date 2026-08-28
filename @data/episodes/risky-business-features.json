@@ -1,5 +1,22 @@
 [
   {
+    "id": "how-brian-krebs-doxxed-teampcp",
+    "podcastId": "risky-business-features",
+    "title": "How Brian Krebs doxxed TeamPCP",
+    "description": "<p>In this podcast episode, James Wilson chats with Brian Krebs about the investigation that led him from recycled cybercrime handles and old forum records to the true identity of TeamPCP’s alleged leader in Perth.</p>\n\n<p>TeamPCP is the hacker group that has gone berserk in the software supply chain over the last year or so, stealing credentials to compromise developers, their software packages, and their repositories.</p>\n\n<p>In this interview Brian talks about his Signal conversations with the group’s ringleader, the strange Cybercats community surrounding TeamPCP, and the passive DNS breakthrough that helped him unmask what he thinks are the ringleader’s true identities.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/#comments\">Two Alleged ‘TeamPCP’ Hackers Arrested in Australia – Krebs on Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-08-28T05:15:53.000Z",
+    "duration": 1762,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES37.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES37/"
+  },
+  {
     "id": "james-kettle-on-inventing-new-attack-techniques-with-llms",
     "podcastId": "risky-business-features",
     "title": "James Kettle on inventing new attack techniques with LLMs",
