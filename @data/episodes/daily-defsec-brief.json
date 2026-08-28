@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-august-28-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for August 28 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. ownCloud unauthenticated file access flaw added to CISA KEV — CVE-2023-49105 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n2. ServiceNow patches three CVSS 10.0 flaws in its AI Platform — CVE-2026-18885, CVE-2026-18886, CVE-2026-74820 — The Hacker News — https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html\n3. cPanel flaw lets a hosting customer take root on the whole server — CVE-2026-65643 — The Hacker News — https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html\n4. Next.js patches two critical unauthenticated remote code execution flaws — CVE-2026-75604 — The Hacker News — https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html\n5. Linux kernel IPv6 privilege escalation added to CISA KEV — CVE-2026-53362 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n6. JFrog Artifactory path-traversal flaw added to CISA KEV — CVE-2026-66384 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n7. APT28-linked HOOKEDGE backdoor hits European government and diplomatic targets — The Hacker News — https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html\n8. Ghost SPN technique makes Kerberoasting far harder to spot — Cyber Security News — https://cybersecuritynews.com/active-directory-spn-misconfigurations/\n9. ASE2000 utility test set has XXE and certificate-validation flaws — CVE-2018-1285, CVE-2026-18717 — CISA — https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-04\n10. All-Line Fuel-Boss systems carry two remote code execution flaws — CVE-2018-19518, CVE-2019-11043 — CISA — https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-02\n11. Ebyte NA111-M gateway ships with 13 flaws and no authentication — CVE-2026-69658, CVE-2026-71187, CVE-2026-73125 — CISA — https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-05\n12. Rockwell OTTO Fleet Manager stores passwords with a weak bcrypt work factor — CVE-2026-75112 — CISA — https://www.cisa.gov/news-events/ics-advisories/icsa-26-239-03\n13. Exposed open directory reveals Moobot still running after 2024 takedown — Censys — https://censys.com/blog/open-directory-exposes-moobot-source-code-and-activity/\n14. Executive Social Security numbers sell on dark web markets — Rapid7 — https://www.rapid7.com/blog/post/tr-identity-as-a-service-dark-web-marketplaces-executive-ssn</code></pre>",
+    "publishedAt": "2026-08-28T12:52:16.000Z",
+    "duration": 309,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/20b49996bd2ae61cf33819f2176e0fc4fdd8644e62f8d84960dfb176cdb3eea1/eyJlcGlzb2RlSWQiOiJhMjYwY2FlNS0zMjgyLTQ1YzEtYjdjMy1hY2VlYjk5NTVmMTIiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE5MTgzZTcwMTkwODZlZTkyYzU5ZDA2L2RhaWx5LWRlZnNlYy1jb21wb3Nlci5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-27-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 27 2026 - Daily DefSec Brief",

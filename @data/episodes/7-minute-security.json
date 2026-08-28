@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-737-tales-of-pentest-pwnage-part-88",
+    "podcastId": "7-minute-security",
+    "title": "7MS #737: Tales of Pentest Pwnage – Part 88",
+    "description": "<p>Hello friends! Today's tale of pentest pwnage isn't a start-to-finish march to DA – it's me finally emptying out the backlog of \"gosh, I've <em>got</em> to share this next time\" internal network tips that have been rattling around in my head. Here's what we get into:</p> <ul> <li>Don't skip the boring stuff. Even when I'm testing the same network for the third or fourth time, I've got an ever-growing list of things I check <em>every</em> single time – because config drift has a nasty habit of quietly reintroducing problems that were fixed years ago.</li> <li>Get a second opinion on your tools. Lately I've had BloodHound tell me a network is squeaky clean, and then gone and checked manually only to find the exact opposite sprawled all over the place. I don't know how to account for it, but it's changed how I work. (If you know the source of truth here, please write in!)</li> <li>Ghost machines. That innocent little checkbox in Active Directory that turns a computer object into a gift-wrapped present for an attacker. We keep finding these in environments that had zero of them last year – and I share the two-pass trick that shakes even more of them loose.</li> <li>The weekend freebie. Why I like to get my box lit up on a Friday even when the test doesn't officially start until Monday, and what tends to come wandering into my capture over 48 quiet hours.</li> <li>SNMP sweeps. I've <em>never</em> been caught doing one, and yet they'll happily hand over the make, model and firmware of some firewalls, switches and storage systems in the building. I think this finding deserves way more attention than it gets. (There are a few little commandlets waiting for you over at <a href= \"https://7minsec.wiki/pentesting/internal/onesixtyone/\" target= \"_blank\" rel=\"noopener\">7MinSec.wiki</a>.)</li> <li>Be a consultant, not a Terminator 1000. Why I run certain checks even when I'm 99% sure I'll find nothing, why \"you don't have this thing at all\" belongs in the accolades section, and how that one habit has led to some of the most appreciated conversations we've had in report delivery meetings.</li> <li>Tangent department: the dumb-but-glorious AI project that gave me the giggidies – a fully automated lobby bot for a Steam game that is absolutely, positively <em>not</em> for the kiddos. Also: the one line I won't cross with it, no matter how much my buddy eggs me on.</li> </ul> <p>Got a tip of your own I should be adding to the \"always check this\" list? I'd love to hear it!</p> <p><a href=\"https://7minsec.com/\" target=\"_blank\" rel= \"noopener\">7MinSec.com</a> for security services and show notes | <a href=\"https://7minsec.club/\" target=\"_blank\" rel= \"noopener\">7MinSec.club</a> for our Substack and weekly TuesdayTOOLSdays | <a href=\"https://7minsec.wiki/\" target= \"_blank\" rel=\"noopener\">7MinSec.wiki</a> for pentesting tips, scripts and cheat sheets</p>",
+    "publishedAt": "2026-08-28T17:48:00.000Z",
+    "duration": 2003,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-737-Tales_of_Pentest_Pwnage__Part_88.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-737-tales-of-pentest-pwnage-part-88"
+  },
+  {
     "id": "7ms-736-securing-your-family-during-and-after-a-disaster-part-9",
     "podcastId": "7-minute-security",
     "title": "7MS #736: Securing Your Family During and After a Disaster – Part 9",

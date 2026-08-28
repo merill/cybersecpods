@@ -1,5 +1,22 @@
 [
   {
+    "id": "service-accounts-the-shortest-path-to-domain-admin-or-ep-194",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Service Accounts: The Shortest Path to Domain Admin | Ep 194",
+    "description": "<p>Service accounts are one of the easiest paths to domain admin on an internal<br/>pen test, and one of the most neglected accounts in Active Directory.<br/><br/>In this episode, Spencer and Tyler break down why service accounts keep<br/>falling: Kerberoasting every service account (not just the privileged ones),<br/>cracking the hashes offline, and spraying what cracks across the environment.<br/>Tyler shares a recent engagement where a non-administrative service account<br/>shared its password with a domain admin. Same password, one \"SVC_\" prefix<br/>apart. That spray handed over the domain. He's also seen the built-in RID 500<br/>administrator account used as a service account on three separate engagements<br/>this year.<br/><br/>They also get into where these credentials actually live: web.config files on<br/>open file shares, plaintext password files (present on roughly 90% of their<br/>pen tests), and one .eml attachment with the credentials sitting inside a<br/>screenshot.<br/><br/>Then the fix list, in the order they'd actually do it:<br/><br/>- Inventory the accounts and document where each one is used, before you touch a password<br/>- Delete the service accounts that don't need to exist<br/>- Strip privileges and restrict interactive logon rights<br/>- Get a password vault or PAM solution, and make every password long and unique<br/>- Alert on service accounts logging on interactively<br/>- Move to group managed service accounts (gMSA) where you can<br/>- Enforce 20-25 character minimums in the meantime. They've cracked 20+ character passphrases with a gaming rig, a 180 GB wordlist, and mutation rules producing roughly four quadrillion permutations<br/><br/>Plus the three cleanup mistakes that cause the most damage, including the story<br/>of a $70 billion enterprise where one undocumented password reset turned into a<br/>10-hour troubleshooting call.</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-08-27T18:00:00.000Z",
+    "duration": 1955,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19712191-service-accounts-the-shortest-path-to-domain-admin-ep-194.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 194,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "your-it-job-doubled-nobody-told-your-boss-or-ep-193",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Your IT Job Doubled. Nobody Told Your Boss. | Ep 193",
