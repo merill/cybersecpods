@@ -1,5 +1,22 @@
 [
   {
+    "id": "who-let-the-ai-hack-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "Who let the AI hack? [Research Saturday]",
+    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/crystal-morin/\">Crystal Morin</a>, Senior Cybersecurity Strategist, and <a href=\"https://www.linkedin.com/in/michaelclarkinpa/\">Michael Clark</a>, Senior Director of Threat Research, at <a href=\"https://www.sysdig.com/\">Sysdig</a>, sharing their work on \"LLMjacking evolved: Attackers are using stolen AI compute to build offensive agentic tools.\" The Sysdig Threat Research Team observed an attacker abusing an exposed, unauthenticated Ollama server as the “brain” for an automated offensive security tool. </p>\n<p>The AI-powered framework can fingerprint services, identify vulnerabilities, craft exploits, extract credentials, and orchestrate attacks toward command execution, with researchers capturing the tool while it was still under active development. The activity highlights how LLMjacking is evolving from simply stealing AI compute for profit into using stolen model capacity to build increasingly autonomous offensive capabilities.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.sysdig.com/blog/llmjacking-evolved-attackers-are-using-stolen-ai-compute-to-build-offensive-agentic-tools\">LLMjacking evolved: Attackers are using stolen AI compute to build offensive agentic tools</a></li>\n</ul>",
+    "publishedAt": "2026-08-29T07:00:00.000Z",
+    "duration": 1390,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8904175650.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/f04a5854-a2f5-11f1-b585-7f20509f3198/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 439,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/439/notes"
+  },
+  {
     "id": "the-blacklist-boomerang",
     "podcastId": "cyberwire-daily",
     "title": "The blacklist boomerang.",
