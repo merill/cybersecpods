@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-attackers-need-to-be-right-more-than-once",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Attackers need to be right more than once",
+    "description": "<p>In this Risky Business sponsored interview, James Wilson chats with Dropzone AI’s founder and CEO Edward Wu to debunk the adage, “an attacker only has to be right once”. Modern intruders need to be successful across multiple steps before actually reaching an organisation’s “crown jewels”.</p>\n\n<p>The pair chat about where AI helps attackers, why autonomous post-compromise agents aren’t quite here yet, and how AI can bolster the capacity of security teams when investigating alerts and reducing response times.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-08-30T20:01:05.000Z",
+    "duration": 1272,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI142.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI142/"
+  },
+  {
     "id": "risky-bulletin-two-teampcp-members-arrested-in-australia",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Two TeamPCP members arrested in Australia",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS557/"
-  },
-  {
-    "id": "between-two-nerds-hackers-from-the-future",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: Hackers from the future",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss what the North Korean hack of Drift can tell us about the future of hacking.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/_4PgaKZ_tgM\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://x.com/DriftProtocol/status/2040611161121370409\">Drift Protocol incident update on X</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cointelegraph.com/news/crypto-attorney-says-drift-incident-may-qualify-as-civil-negligence\">Cointelegraph coverage</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://discover.credshields.com/drift-protocol-incident-post-mortem/\">CredShields incident post-morten</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-04-27T20:49:03.000Z",
-    "duration": 1930,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN164.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN164/"
   }
 ]
