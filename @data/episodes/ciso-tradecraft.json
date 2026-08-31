@@ -1,5 +1,22 @@
 [
   {
+    "id": "claude-code-is-insane-but-is-it-safe-299",
+    "podcastId": "ciso-tradecraft",
+    "title": "Claude Code Is INSANE, But Is It Safe? - #299",
+    "description": "<p>Claude Code Is INSANE… But Is It Safe?</p><p>AI coding just went from <strong>“autocomplete my code”</strong> to <strong>“give me the entire repository and let me run the company.”</strong></p><p>In this episode of <strong>CISO Tradecraft</strong>, G Mark Hardy and Ross Young break down what Claude Code can <em>actually</em> do, and the security implications that come with it.</p><p>Claude Code can read entire codebases, create and edit multiple files, run commands, execute tests, and operate like an AI developer sitting directly inside your environment.</p><p>But there’s a catch…</p><p><strong>Every token costs money. And every permission creates risk.</strong></p><p>We break down:</p><ul><li>🔥 <strong>Tokenomics</strong> — How to get dramatically more AI coding for your dollar </li><li>🔥 <strong>PRDs</strong> — Why you should use powerful models to THINK before cheaper models BUILD </li><li>🔥 <strong>Security Risks</strong> — What happens when an AI agent can execute commands and modify your environment? </li><li>🔥 <strong>AI Licenses</strong> — Individual vs. enterprise and what CISOs need to worry about </li><li>🔥 <strong>Privacy & Regulated Data</strong> — When you may need offline or open-weight models </li><li>🔥 <strong>Harnesses</strong> — The policy-driven guardrails that can move security WAY earlier in the development process </li><li>🔥 <strong>MCP</strong> — How AI agents can connect to tools, systems, and data… and why permissions become a massive security issue </li><li>🔥 <strong>Agents & Skills</strong> — Serial vs. parallel agents, prompts, context, commands, hooks, and Markdown-based skills </li><li>🔥 <strong>Threat Modeling AI</strong> — Why you need to start threat modeling the <em>prompts AND the tools</em></li></ul><p>The big question isn't:</p><p><strong>“Can AI write code?”</strong></p><p>It absolutely can.</p><p>The question is:</p><p><strong>“What happens when we give AI the keys to the kingdom?”</strong></p><p></p><p>If you're a CISO, security leader, developer, or anyone trying to understand where agentic AI coding is heading, this episode is for you.</p><p>🎙️ <strong>Subscribe to CISO Tradecraft</strong> for more unfiltered conversations about cybersecurity, AI, leadership, and the future of the CISO.</p><p>Check out the Harness that Ross is building: </p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/Clear-Capabilities/agentic-security\">https://github.com/Clear-Capabilities/agentic-security</a></p>",
+    "publishedAt": "2026-08-31T12:00:00.000Z",
+    "duration": 2721,
+    "audioUrl": "https://content.rss.com/episodes/352153/3105803/ciso-tradecraft/2026_08_29_21_44_12_329e04ee-6d2e-4207-b720-b3a7c9ef3c44.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/ciso-tradecraft/ep_cover_20260829_214435_4a52233a5d835e92ec7fba6b437d92c4.png",
+    "episodeNumber": 299,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/ciso-tradecraft/3105803"
+  },
+  {
     "id": "vciso-tradecraft-or-carlota-sage-298",
     "podcastId": "ciso-tradecraft",
     "title": "VCISO Tradecraft | Carlota Sage - #298",

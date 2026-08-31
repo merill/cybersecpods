@@ -1,5 +1,22 @@
 [
   {
+    "id": "444-august-2026-mailbag",
+    "podcastId": "identity-at-the-center",
+    "title": "#444 - August 2026 Mailbag",
+    "description": "<p>Jeff and Jim open with the unavoidable topic of AI agents and the tension between enabling innovation and governing agent permissions, then run through a packed fall conference schedule. The August mailbag pulls questions from Singapore, Toronto, Prague, Johannesburg, Helsinki, and Seoul. They discuss when externalized authorization makes sense, why passkey recovery can become the weak link in phishing-resistant authentication, what EU digital identity wallets may mean for enterprises, how continuous access evaluation changes the meaning of terminating access, and how to build resilience around a centralized identity provider without creating a second full-scale IdP. The episode closes with a lighter question: if every IAM product needed a giant warning label, what should it say?</p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p>00:10 - Welcome and have we talked about AI too much?</p><p>01:32 - Governing AI agents without becoming the progress prevention department</p><p>03:50 - Fall conference season and IDPro</p><p>04:40 - Cybersecurity Summits in Chicago and Atlanta</p><p>06:40 - SailPoint Navigate, InfoSec World, FIDO Authenticate, and Identiverse DC</p><p>10:40 - 3D printing, challenge coins, and superfan status</p><p>11:56 - August mailbag begins</p><p>12:19 - Singapore: Is externalized authorization ready for mainstream IAM?</p><p>20:30 - Toronto: Passkeys, account recovery, and help desk social engineering</p><p>25:55 - Prague: What should enterprises do about EU digital identity wallets?</p><p>31:44 - Johannesburg: Continuous session revocation and what “terminate access” really means</p><p>38:04 - Helsinki: Designing identity resilience around a centralized IdP</p><p>45:23 - Seoul: What warning label should every IAM product have?</p><p>48:26 - Wrap-up and how to send future mailbag questions</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, IAM, identity and access management, August 2026 mailbag, externalized authorization, authorization, policy-based access control, passkeys, account recovery, phishing-resistant authentication, identity verification, EU digital identity wallet, continuous access evaluation, shared signals, session revocation, token revocation, identity resilience, identity provider, disaster recovery, business continuity, AI agents, agentic identity, IDPro, FIDO Authenticate, Identiverse DC, InfoSec World, SailPoint Navigate</p>",
+    "publishedAt": "2026-08-31T09:00:00.000Z",
+    "duration": 2991,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/124632252/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2F88a1defb-04bb-e2cb-4739-ed66c83a1a78.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 444,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/444---August-2026-Mailbag-e3npvns"
+  },
+  {
     "id": "443-ghosts-in-the-machine-with-john-huyette-and-omer-arshed",
     "podcastId": "identity-at-the-center",
     "title": "#443 - Ghosts in the Machine with John Huyette and Omer Arshed",
