@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-1-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 1 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. OpenSearch SQL plugin deserialization flaw gives a read-only user code execution — CVE-2026-83497 — AWS Security Bulletin — https://aws.amazon.com/security/security-bulletins/rss/2026-092-aws/\n2. BGP hijack pushed a malicious Virtualizor update onto hypervisor management servers — Virtualizor — https://www.virtualizor.com/blog/security-incident-bgp-hijacking/\n3. McKesson breach ran from vishing calls through Okta into Salesforce and Snowflake — SC World — https://www.scworld.com/brief/mckesson-discloses-data-breach-after-shinyhunters-claims-theft-of-284-million-records\n4. Password-spraying campaign hit AWS root accounts at more than 150 organizations — Datadog Security Labs — https://securitylabs.datadoghq.com/articles/aws-root-user-bruteforce-campaign/\n5. Scanners are forging AI-crawler user agents to hunt for exposed credentials — Help Net Security — https://www.helpnetsecurity.com/2026/08/31/ai-crawlers-scan-exposed-credentials/\n6. A honeypot posing as a free LLM endpoint caught a real coding agent handing over its tools — SANS ISC — https://isc.sans.edu/diary/rss/33298\n7. Mirage Kitten hides two new cross-platform RATs in trojanized coding-challenge archives — Securelist — https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/\n8. Researcher drops a working privilege-escalation exploit for Kaspersky Endpoint Security — SecurityWeek — https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/\n9. Residential proxy networks rent out home connections with clean IP reputations — Ars Technica — https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/\n10. BREEZE COMET manipulates Brazilian banking software to move fraudulent transfers — Google Threat Intel — https://cloud.google.com/blog/topics/threat-intelligence/financially-motivated-threat-actor-breeze-comet-targets-brazil/\n11. Guildma delivery is geofenced to Brazil and hides its payload in an alternate data stream — SANS ISC — https://isc.sans.edu/diary/rss/33300\n12. Boston Scientific outage leaves newly implanted heart devices without remote monitoring — The Register — https://www.theregister.com/cyber-crime/2026/08/31/healthcare-cyberattacks-hit-pacemakers-and-millions-of-patient-records/5293537\n13. OpenClaw 2.0 makes the agent harness easier to install and leaves security to the user — The Register — https://www.theregister.com/ai-and-ml/2026/08/31/openclaw-20-pours-glitter-on-slow-burning-security-dumpster-fire/5293492\n14. CrowdSec 1.8.0 ships two denial-of-service fixes alongside new bot detection — Help Net Security — https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/</code></pre>",
+    "publishedAt": "2026-09-01T11:37:11.000Z",
+    "duration": 293,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/ec202861220f18bba54494daae66c49d72b7e3943ecd91c6345c7325a560819a/eyJlcGlzb2RlSWQiOiIwOGM5MWI0OS04MTc2LTQ2MzctODQxNS0xNTQ5ZDQ2MDMzYWQiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE5NmI3MjUzYjU5NzJlMDkyOGU2YjkzL2RhaWx5LWRlZnNlYy1jb21wb3Nlci5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-august-31-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for August 31 2026 - Daily DefSec Brief",
