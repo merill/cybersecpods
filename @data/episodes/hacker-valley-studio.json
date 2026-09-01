@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-dashboard-is-dead-long-live-the-harness-with-myke-lyons",
+    "podcastId": "hacker-valley-studio",
+    "title": "The Dashboard Is Dead, Long Live the Harness with Myke Lyons",
+    "description": "<p>Security teams spent decades begging for more logs. Now the enterprise is generating petabytes a day, and the thing drowning in it isn't just the SOC anymore, it's your AI agents too. In this episode, Ron sits down with Myke Lyons, CISO at Cribl, who cut his teeth in telemetry and logging decades ago and has landed right back there in the age of AI.</p>\n<p>Ron and Myke dig into why most telemetry failures aren't data problems at all, they're decisions nobody made about why the logs are being collected in the first place. Myke breaks down what to track on every agent in your environment, why token spend belongs on the security team's plate, why dashboards are quietly dying, and why treating an AI agent like just another employee is a mistake that's going to bite security teams hard.</p>\n<p>Underneath it all is one question Myke keeps circling back to: do you actually know what normal looks like for every agent in your environment?</p>\n<p>Impactful Moments</p>\n<p>00:00 - Introduction<br>\n01:50 - Myth Busting: AI Agents Aren't Just Another User Account<br>\n04:25 - Meet Myke Lyons, CISO at Cribl<br>\n05:05 - What it means to run security at a telemetry company<br>\n06:10 - From gigabytes of logs at GE to petabytes today<br>\n07:45 - MITRE ATT&CK, Cribl's new APEX framework, and orienting telemetry<br>\n10:20 - Why most telemetry problems are decision problems, not data problems<br>\n13:20 - OCSF and how security teams are rethinking their schemas<br>\n14:25 - Why the dashboard is dying<br>\n17:35 - What Myke wants to track about every AI agent<br>\n20:10 - How to spot an agent going rogue<br>\n23:15 - Making your data AI-ready and the case for schematizing everything<br>\n27:10 - Tokenomics: treating AI spend as a security responsibility<br>\n29:05 - The non-negotiable logs every org should be collecting<br>\n31:50 - Hot takes: build vs. buy, tier two to three, and Myke's daily AI briefing<br>\n33:35 - Closing thoughts and outro<br>\n</p>\n<p>Links</p>\n<p>Connect with Myke Lyons on LinkedIn: <a href='https://www.linkedin.com/in/mykelyons/'>https://www.linkedin.com/in/mykelyons/</a></p>\n<p>Learn more about Cribl: <a href='https://cribl.io/'>https://cribl.io/</a> </p>\n<p>– </p>\n<p>Check out our upcoming events: <a href='https://www.hackervalley.com/livestreams'>https://www.hackervalley.com/livestreams</a></p>\n<p> </p>\n<p>Love Hacker Valley Studio? Pick up some swag: <a href='https://store.hackervalley.com'>https://store.hackervalley.com</a></p>\n<p> </p>\n<p>Become a sponsor of the show: <a href='https://hackervalley.com/work-with-us/'>https://hackervalley.com/work-with-us/</a> </p>",
+    "publishedAt": "2026-09-01T19:36:08.000Z",
+    "duration": 2157,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/3sp9hent453g9p28/HVS26_EP441_Cribl.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 441,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/the-dashboard-is-dead-long-live-the-harness-with-myke-lyons/"
+  },
+  {
     "id": "the-ai-already-inside-your-company-with-russell-spitler-and-richard-penshorn",
     "podcastId": "hacker-valley-studio",
     "title": "The AI Already Inside Your Company with Russell Spitler & Richard Penshorn",
