@@ -389,9 +389,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-25T09:00:00.000Z",
+    "lastEpisodeDate": "2026-09-01T09:00:00.000Z",
     "firstEpisodeDate": "2018-01-08T14:20:38.000Z",
-    "episodeCount": 411,
+    "episodeCount": 412,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -604,7 +604,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-08-31T13:25:18.107Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must have podcast for Defenders",
+        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
+        "author": "Rljohnson5",
+        "updatedAt": "2023-05-23T14:47:20-07:00"
+      }
+    ]
   },
   {
     "id": "bluehat-podcast",
@@ -983,9 +992,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-08-28T07:00:00.000Z",
+    "lastEpisodeDate": "2026-09-01T07:00:00.000Z",
     "firstEpisodeDate": "2022-01-21T14:59:00.000Z",
-    "episodeCount": 370,
+    "episodeCount": 371,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1286,9 +1295,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-08-31T07:00:00.000Z",
+    "lastEpisodeDate": "2026-09-01T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1827,
+    "episodeCount": 1828,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1746,9 +1755,9 @@
         "twitterUrl": "https://x.com/jackrhysider"
       }
     ],
-    "lastEpisodeDate": "2026-08-06T07:00:00.000Z",
+    "lastEpisodeDate": "2026-09-01T07:00:00.000Z",
     "firstEpisodeDate": "2017-09-01T12:00:00.000Z",
-    "episodeCount": 179,
+    "episodeCount": 180,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1850,7 +1859,16 @@
         "ratingCount": 3,
         "fetchedAt": "2026-08-31T13:25:29.991Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -2213,9 +2231,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-25T10:00:00.000Z",
+    "lastEpisodeDate": "2026-09-01T10:00:00.000Z",
     "firstEpisodeDate": "2011-09-13T22:38:47.000Z",
-    "episodeCount": 757,
+    "episodeCount": 758,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2694,9 +2712,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-27T05:00:00.000Z",
+    "lastEpisodeDate": "2026-09-01T07:00:00.000Z",
     "firstEpisodeDate": "2018-05-30T05:00:00.000Z",
-    "episodeCount": 803,
+    "episodeCount": 804,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4585,7 +4603,44 @@
         "ratingCount": 16,
         "fetchedAt": "2026-08-31T13:25:56.980Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 2,
+        "title": "Just ok",
+        "content": "The one with Roland was really good the others have been hit and miss.",
+        "author": "cisoNYC",
+        "updatedAt": "2022-01-04T02:29:33-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "A must listen for all security leaders",
+        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
+        "author": "nicfill",
+        "updatedAt": "2021-05-18T10:06:29-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great new cybersecurity podcast!",
+        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
+        "author": "Frogstar5",
+        "updatedAt": "2021-05-13T14:40:00-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Excellent show",
+        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
+        "author": "Meatball_army_2021",
+        "updatedAt": "2021-05-13T14:24:25-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Depth of Knowledge shines through",
+        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
+        "author": "GottaRun21",
+        "updatedAt": "2021-05-13T14:16:19-07:00"
+      }
+    ]
   },
   {
     "id": "security-weekly-news-audio",
