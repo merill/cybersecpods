@@ -2643,9 +2643,18 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-08-31T13:25:38.082Z"
+        "fetchedAt": "2026-09-01T11:30:58.681Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -3891,7 +3900,7 @@
     "description": "<p>Explore the critical intersection of cybersecurity and business impact while gaining insights into CISO priorities with \"Reimagining Cyber.\" Stay informed on the latest cybersecurity news, trends, and solutions tailored for today's CISOs and CIOs. This podcast is your go-to resource for staying updated on cybersecurity developments and addressing common challenges in the rapidly evolving digital landscape.</p><p><br></p><p>As featured on MillionPodcasts'&nbsp;</p><p>Best 100 Cybersecurity Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH3%2BZBOJeNYFhRaFv5aEtxSA%2BSRSiYqWODwWhgCRQweVwbjkyYmI1kh11oYAkUGFEb99Zsm%2BedEFh5GDQEMDiNP8%2BOdVycbUyXuWQkCVgUQVvnfkBXfKl4hFiLk%2B1UFG1EL9Z4V3yNUFRYi5MY%3D\">https://www.millionpodcasts.com/cyber-security-podcasts/</a></p><p><br></p><p>Top 50 Chief Information Security Officer CISO Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBH36aFY4CZUFRRGFwlZyO5XCO2NXCIrVxQWIhcCWgnVVwjtjVYYGk4mHiIKxkX%2BHEP97FReJyNEFCBTGPpUDexW%2Be2eVRQqShATEdAJXwkUH9TmnVUfJVwmIRHQAlX9FB%2FUsQ%3D%3D\">https://www.millionpodcasts.com/ciso-podcasts/</a></p><p><br></p><p>Top 70 Security Hacking Podcasts</p><p><a href=\"https://public.millionpodcasts.com/v1/public/tk/GEbRwF8Z7OcX4t0REvpeDewi%2FPSiWSbwFOAoXBvDUwIbTv3vnFkiGkgSJFkXw0kIHBEH5ZFeJR9ZKt5NBfhRAh1JwfCdTRYXWCUkFOMKWgYOVQP1oEwY81geJVXKCloGDk%2F55JdeIPNL4hBKEfZPBdVXCO2NTCIkWRYfWeEJSwYfTvX0k0gV4hElKlUJ0ib%2FHk4A76VeI%2BIRHiBJCdImyg%3D%3D\">https://www.millionpodcasts.com/security-hacking-podcasts/</a></p><p><br></p><p><br></p><p><br></p><p><br></p>",
     "summary": "",
     "subtitle": "",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/db/93/fd/db93fd58-5c7d-bdbd-8e8a-3bff545a4566/mza_2026383792795206129.jpg/600x600bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/87/0c/49870cbd-c2c0-1d38-f36f-a64f7eb7beae/mza_4160542525989768537.jpg/600x600bb.jpg",
     "author": "Reimagining Cyber",
     "language": "en",
     "categories": [
@@ -4018,8 +4027,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-08-31T20:07:52.000Z",
-    "firstEpisodeDate": "2026-05-01T05:07:47.000Z",
+    "lastEpisodeDate": "2026-09-02T02:46:34.000Z",
+    "firstEpisodeDate": "2026-05-03T21:16:46.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4091,8 +4100,8 @@
         "name": "Adam Boileau"
       }
     ],
-    "lastEpisodeDate": "2026-08-26T01:53:57.000Z",
-    "firstEpisodeDate": "2025-02-26T04:20:33.000Z",
+    "lastEpisodeDate": "2026-09-02T02:22:32.000Z",
+    "firstEpisodeDate": "2025-03-05T03:25:31.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4254,9 +4263,9 @@
         "websiteUrl": "https://jbu.me/"
       }
     ],
-    "lastEpisodeDate": "2026-09-01T02:00:02.000Z",
+    "lastEpisodeDate": "2026-09-02T02:00:02.000Z",
     "firstEpisodeDate": "2016-04-01T01:40:02.000Z",
-    "episodeCount": 2509,
+    "episodeCount": 2510,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4584,8 +4593,8 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-26T02:57:43.000Z",
-    "firstEpisodeDate": "2026-06-24T02:33:10.000Z",
+    "lastEpisodeDate": "2026-09-02T02:10:31.000Z",
+    "firstEpisodeDate": "2026-07-01T01:43:36.000Z",
     "episodeCount": 10,
     "hasVideo": false,
     "isActive": true,

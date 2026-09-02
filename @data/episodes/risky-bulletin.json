@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-bgp-hijack-delivers-malicious-virtualizor-updates",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: BGP hijack delivers malicious Virtualizor updates",
+    "description": "<p>A BGP hijack delivered malicious Virtualizor updates, the White House launches Project Watershed 250, Indian authorities take down a Telegram doxing bot, and Composer packages deliver iOS badness.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-bgp-hijack-targets-virtualizor-to-deliver-malicious-updates/\">Risky Bulletin: BGP hijack targets Virtualizor to deliver malicious updates</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-09-02T02:46:34.000Z",
+    "duration": 554,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS608.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS608/"
+  },
+  {
     "id": "between-two-nerds-the-perfect-hacker",
     "podcastId": "risky-bulletin",
     "title": "Between Two Nerds: The perfect hacker",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWSSI126/"
-  },
-  {
-    "id": "risky-bulletin-cpanel-auth-bypass-exploited-in-wild",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: cPanel auth bypass exploited in wild",
-    "description": "<p>The Copy Fail vulnerability impacts all Linux distros going back to 2017, hackers are exploiting a cPanel auth bypass, every Moldovan citizen has their data stolen, and some scam compounds got raided raided… in Dubai.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-the-mysterious-hack-of-moldovas-healthcare-database/\">Risky Bulletin: The mysterious hack of Moldova's healthcare database</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-05-01T05:07:47.000Z",
-    "duration": 785,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS558.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS558/"
   }
 ]
