@@ -1,5 +1,22 @@
 [
   {
+    "id": "445-sponsor-spotlight-twine-security",
+    "podcastId": "identity-at-the-center",
+    "title": "#445 - Sponsor Spotlight - Twine Security",
+    "description": "<p>Jim McDonald hosts this Sponsor Spotlight episode of Identity at the Center, made possible with support from Twine Security. Jim is joined by Benny Porat, co-founder and CEO of Twine Security and previously co-founder and CTO of Claroty. Benny shares how his cybersecurity background led him into identity and explains the concept of the \"execution gap,\" the space where identity teams are accountable for outcomes but lack the full business context to act on their own. The conversation explores Twine Security's AI digital employee, Alex, and how it differs from traditional automation and RPA, where AI-driven execution fits best within identity operations today, and the balance between the parts of a task AI can handle easily versus the harder remaining work. Benny and Jim also dig into governance and trust, including why least privilege matters even more for AI agents and non-human identities, how organizations typically start with read-only access before expanding permissions, and how access reviews and recertification could evolve as AI takes on more of the process. They close with reflections on measuring success, how the identity practitioner's role changes as more execution shifts to AI, and a lighter round on what a personal AI digital employee might look like.</p><p><br></p><p><br></p><p>Connect with Benny: https://www.linkedin.com/in/bennyporat/</p><p><br></p><p>Learn more about Twine Security: https://www.twinesecurity.com/</p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at idacpodcast.com</p><p><br></p><p><br></p><p>00:00 - Introduction and welcoming Benny Porat, co-founder and CEO of Twine Security</p><p>00:52 - How Benny found his way into identity and access management</p><p>02:21 - The origin of the name Twine</p><p>03:28 - Defining the IAM execution gap</p><p>05:53 - AI digital employees versus RPA and automation</p><p>08:07 - Where AI digital employees are best suited today</p><p>09:45 - Why AI is strong at eighty percent and what makes the rest difficult</p><p>14:45 - Where a digital employee like Alex fits within identity operations</p><p>18:43 - Trust, governance, and giving AI agents the right permissions</p><p>21:42 - Applying least privilege to AI agents and non-human identities</p><p>25:19 - How organizations start using Alex, from read-only to full execution</p><p>30:27 - Rethinking the role of access reviews with AI involved</p><p>33:14 - Measuring efficiency gains and revocation rate improvements</p><p>36:00 - Addressing concerns about AI replacing IAM practitioners</p><p>39:12 - How customers define and measure success</p><p>44:15 - How the practitioner's day-to-day role changes with AI agents</p><p>47:12 - Closing thoughts and where to learn more</p><p>47:37 - Lighter note: imagining a personal AI digital employee</p><p><br></p><p><br></p><p>Keywords: IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Benny Porat, Twine Security, Sponsor Spotlight, AI digital employee, Alex, identity and access management, IAM, execution gap, least privilege, access reviews, recertification, agentic AI, non-human identity, NHI, Claroty, IGA, PAM, governance, human in the loop</p>",
+    "publishedAt": "2026-09-02T09:00:00.000Z",
+    "duration": 3150,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/124632398/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2F4353f012-d68a-9044-5a70-ca4b88c268e4.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 445,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/445---Sponsor-Spotlight---Twine-Security-e3npvse"
+  },
+  {
     "id": "444-august-2026-mailbag",
     "podcastId": "identity-at-the-center",
     "title": "#444 - August 2026 Mailbag",
