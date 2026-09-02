@@ -1169,9 +1169,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-01T16:00:00.000Z",
+    "lastEpisodeDate": "2026-09-02T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 323,
+    "episodeCount": 324,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1474,7 +1474,7 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-02T14:07:26.000Z",
+    "lastEpisodeDate": "2026-09-02T14:41:48.000Z",
     "firstEpisodeDate": "2026-01-15T20:03:34.000Z",
     "episodeCount": 500,
     "hasVideo": false,
@@ -4429,7 +4429,44 @@
         "ratingCount": 78,
         "fetchedAt": "2026-09-02T11:06:09.408Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
@@ -4898,9 +4935,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-08-26T17:00:00.000Z",
+    "lastEpisodeDate": "2026-09-02T17:00:00.000Z",
     "firstEpisodeDate": "2018-01-05T18:23:08.000Z",
-    "episodeCount": 488,
+    "episodeCount": 489,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
