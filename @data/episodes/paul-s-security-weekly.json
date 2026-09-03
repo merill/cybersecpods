@@ -1,5 +1,22 @@
 [
   {
+    "id": "linux-threat-hunting-psw-942",
+    "podcastId": "paul-s-security-weekly",
+    "title": "Linux Threat Hunting - PSW #942",
+    "description": "<p>First up: a technical segment on Linux threat hunting. We'll start this series by covering the best places to look for IoCs on Linux systems and devices, starting with startup services and scheduled tasks. Then, in the security news this week:</p> <ul> <li>SonicWall zero-days, again</li> <li>AI finds a pile of Cisco bugs, and a root RCE</li> <li>Claude Code Auto Mode dangers</li> <li>BGP hijacks your unsigned software update</li> <li>California, Linux and age verification</li> <li>Free movies, complimentary malware</li> <li>Citrix puts Linux alongside Windows</li> <li>Signal's \"secure\" enclave</li> <li>An expired domain answers military phone calls</li> <li>MORE Cheap Android TV boxes arrive pre-pwned</li> <li>CISA red teams meet critical infrastructure</li> <li>PaperCut vulnerability cuts both ways</li> <li>Big Tech asks everyone to secure its AI future</li> <li>Pacemaker monitoring</li> <li>DOJ files on a criminal leak site</li> <li>Water utility security, right after the breaches</li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/psw\">https://www.securityweekly.com/psw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/psw-942\">https://securityweekly.com/psw-942</a></p>",
+    "publishedAt": "2026-09-03T21:00:00.000Z",
+    "duration": 7934,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/pswonly/PSW_942_1--424ac063-dbc8-4c04-82f3-66f92cb8dbfa--audio-converted--f153decd-0f48-42d3-8183-87e260519dd3.mp3?dest-id=388575",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/9/4/c/f/94cf3c6fd6cfa68116c3140a3186d450/PSW_942_Thumbnail_PSW_1920x1920-op1_3ac85986-f60c-4621-95a4-4dbc5ae973f4.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://pswonly.libsyn.com/linux-threat-hunting-psw-942"
+  },
+  {
     "id": "hacking-all-the-devices-with-ai-rob-allen-psw-941",
     "podcastId": "paul-s-security-weekly",
     "title": "Hacking All The Devices, with AI? - Rob Allen - PSW #941",

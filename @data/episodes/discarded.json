@@ -1,5 +1,22 @@
 [
   {
+    "id": "intercepted-how-hackers-take-on-the-cloud",
+    "podcastId": "discarded",
+    "title": "Intercepted: How Hackers Take On the Cloud",
+    "description": "<p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2445401/fan_mail/new\">Send us fan mail!</a></p><p>Hello to our Cyber Pals! </p><p>This week, Selena hands the mic over to a recording of Proofpoint's <em>Intercepted</em> webinar — a monthly video series she co-hosts with Sarah Sabotka — for a deep dive into how cloud brute force attacks are quietly getting more sophisticated. Joining Sarah and webinar host Jason is Rachel Rabin, a threat researcher on Proofpoint's Cloud Threat Research Team, to unpack two spoofing techniques she's seen increasingly weaponized against Microsoft Entra ID environments.</p><p>Rachel opens with the state of brute forcing today: despite flashier techniques like device code phishing and MFA-resistant phishing kits, brute force remains the most common identity attack vector, with 99% of tenants experiencing some form of it in 2026 — even though success rates typically sit well under 1%. She walks through why first-party Microsoft apps like Azure CLI and Azure AD PowerShell remain the most heavily targeted (publicly known client IDs, gaps in MFA enforcement, and pre-consented scopes), and why the legacy ROPC authentication flow makes credential testing so convenient for attackers.</p><p>From there, Rachel breaks down two techniques that \"level up\" traditional brute forcing:</p><ul><li>User agent spoofing, illustrated by a campaign (later tracked as UNK_CustomCloak) that hit Windows Live Custom Domains — a legacy, discontinued Microsoft app — impacting half a million users across 4,000 tenants using over 600,000 IP addresses and a staggering 7.4 million unique, machine-generated user agent strings.</li><li>OAuth client ID spoofing, a newer and stealthier technique where attackers submit a syntactically valid but fake client ID to infer whether a password is correct from Entra's error codes, without ever generating a successful sign-in event that would normally tip off defenders. Rachel compares two real-world campaigns (UNK_pyreq2323 and UNK_OutFlareAZ) that appear to have arrived at the technique independently.</li></ul><p>Sarah, Jason, and the live chat also dig into:</p><ul><li>Why over-engineering a spoofed user agent can make an attacker easier to spot, not harder</li><li>How conditional access policies scoped to the wrong signal (like operating system) can be silently bypassed by a spoofed user agent</li><li>Why a failed sign-in shouldn't be dismissed as a non-event. It can still mean a credential has been validated</li><li>Rachel's practical, \"lowest hanging fruit\" recommendations: MFA, blocking legacy authentication, layered conditional access, smart lockout policies, and the shift toward passkeys</li></ul><p>Plus: a shoutout to next month's session on fraud and job scams ahead of Cybersecurity Awareness Month.</p><p>Resources Mentioned:</p><p><a href='https://www.proofpoint.com/us/blog/threat-insight/oauth-client-id-spoofing-why-fake-client-ids-are-gaining-traction-stealthy'>OAuth Client ID Spoofing: Why Fake Client IDs Are Gaining Traction for Stealthy Enumeration</a> <b>— Proofpoint</b></p><p><br/><br/></p>",
+    "publishedAt": "2026-09-03T18:00:00.000Z",
+    "duration": 3264,
+    "audioUrl": "https://www.buzzsprout.com/2445401/episodes/19750638-intercepted-how-hackers-take-on-the-cloud.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 109,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "half-click-is-so-hot-right-now-how-russian-and-chinese-attackers-exploit-mailser",
     "podcastId": "discarded",
     "title": "Half-Click is so Hot Right Now: How Russian and Chinese Attackers Exploit Mailservers",
