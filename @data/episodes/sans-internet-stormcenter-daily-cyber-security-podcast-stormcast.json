@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-september-3rd-2026-sma1000-0-day-patch-ssrf-validation-i",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, September 3rd, 2026: SMA1000 0-Day Patch; SSRF Validation Issues; Faronics Abuse",
+    "description": "<br/>\nSonicwall SMA1000 Exploited Vulnerability Patched<br/>\n<a href=\"https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0016\">https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0016</a><br/>\nSSRF: The Validator Can Lie<br/>\n<a href=\"https://xclow3n.com/post/the-validator-can-lie/\">https://xclow3n.com/post/the-validator-can-lie/</a><br/>\nGit Hijack for AI Agents<br/>\n<a href=\"https://www.manifold.security/blog/ai-coding-agents-git-hijack\">https://www.manifold.security/blog/ai-coding-agents-git-hijack</a><br/>\nFronics Deploy Abuse<br/>\n<a href=\"https://www.huntress.com/blog/faronics-deploy-abuse\">https://www.huntress.com/blog/faronics-deploy-abuse</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-09-03T02:00:02.000Z",
+    "duration": 338,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10080.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10080,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10080"
+  },
+  {
     "id": "sans-stormcast-wednesday-september-2nd-2026-guildma-update-proxmox-7-auth-bypass",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, September 2nd, 2026: Guildma Update; Proxmox 7 Auth Bypass; Windows Hotpatch; Virtualizor BGP Hack",

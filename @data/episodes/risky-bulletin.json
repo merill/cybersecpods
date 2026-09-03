@@ -1,5 +1,22 @@
 [
   {
+    "id": "srsly-risky-biz-chinas-botnets-are-worth-disrupting",
+    "podcastId": "risky-bulletin",
+    "title": "Srsly Risky Biz: China's botnets are worth disrupting",
+    "description": "<p>Tom Uren and James Wilson talk about China’s long-term shift to getting private companies to build botnets for cyberespionage. A disruption effort from the US this week is good news, but China has been using these networks for a surprisingly long time and will rebuild.</p>\n\n<p>They also discuss a hack at the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF). It looks like the Qilin ransomware group might have stolen data from the ATF’s CALEA, or lawful intercept system. That’s a big deal!</p>\n\n<p>Finally, they discuss efforts to fix US water sector security. Sprinkling free tools on the problem will have limited impact.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/V4VYBwv6-rA\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"\"></a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-09-03T04:19:35.000Z",
+    "duration": 1335,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB182.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SRB182/"
+  },
+  {
     "id": "risky-bulletin-bgp-hijack-delivers-malicious-virtualizor-updates",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: BGP hijack delivers malicious Virtualizor updates",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS559/"
-  },
-  {
-    "id": "sponsored-james-kettle-built-an-ai-hacker",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: James Kettle built an AI hacker",
-    "description": "<p>In this sponsored interview, James Wilson talks with James Kettle and Daf Stuttard from PortSwigger about the incredible research James will unveil at Black Hat US this July, and how that research will be productised into Burp Suite. It shouldn’t be surprising that when James Kettle bolts an LLM into his research methodology that insanely dangerous things happen. This interview is a window into the future of AI-enabled hacking and security testing.</p>\n\n<p>This interview is also available on <a href=\"https://youtu.be/GdFG85oCWFI\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-05-03T21:16:46.000Z",
-    "duration": 1496,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI126.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI126/"
   }
 ]
