@@ -215,7 +215,16 @@
         "ratingCount": 19,
         "fetchedAt": "2026-09-03T11:02:55.537Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "If you’re into AppSec, this is required listening.",
+        "content": "I’ve been listening to Absolute AppSec for years now and, it’s one of my favorite ways to stay sharp on application security. Ken Johnson and Seth Law aren’t just talking heads reading headlines, they’re clearly in the trenches themselves, and it shows. Every episode digs into stuff that actually matters if you’re building, breaking, or defending apps for a living.\n\nWhat I really like is that it doesn’t feel like a one-way broadcast. The hosts are genuinely engaged with the community, and I’ve had great interactions with them directly, which is rare for a podcast at this point. It feels more like hanging out with sharp people who happen to know a ton about AppSec than sitting through a lecture.\n\nWhether you’re an engineer who wants to understand security better, or you’re already deep in AppSec and want to keep up with new concerns and trends, this show delivers.",
+        "author": "larrylewis",
+        "updatedAt": "2026-08-25T11:38:41-07:00"
+      }
+    ]
   },
   {
     "id": "afternoon-cyber-tea",
@@ -1465,8 +1474,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-02T19:55:57.000Z",
-    "firstEpisodeDate": "2026-01-16T14:13:52.000Z",
+    "lastEpisodeDate": "2026-09-03T14:02:17.000Z",
+    "firstEpisodeDate": "2026-01-17T06:00:24.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -1703,9 +1712,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-09-02T12:22:31.000Z",
+    "lastEpisodeDate": "2026-09-03T13:04:26.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 44,
+    "episodeCount": 45,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1859,7 +1868,16 @@
         "ratingCount": 3,
         "fetchedAt": "2026-09-03T11:03:10.923Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -3000,7 +3018,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-09-03T11:03:22.503Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
@@ -4166,7 +4193,23 @@
         "ratingCount": 15,
         "fetchedAt": "2026-09-03T11:03:41.248Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4723,7 +4766,44 @@
         "ratingCount": 16,
         "fetchedAt": "2026-09-03T11:03:56.315Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 2,
+        "title": "Just ok",
+        "content": "The one with Roland was really good the others have been hit and miss.",
+        "author": "cisoNYC",
+        "updatedAt": "2022-01-04T02:29:33-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "A must listen for all security leaders",
+        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
+        "author": "nicfill",
+        "updatedAt": "2021-05-18T10:06:29-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great new cybersecurity podcast!",
+        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
+        "author": "Frogstar5",
+        "updatedAt": "2021-05-13T14:40:00-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Excellent show",
+        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
+        "author": "Meatball_army_2021",
+        "updatedAt": "2021-05-13T14:24:25-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Depth of Knowledge shines through",
+        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
+        "author": "GottaRun21",
+        "updatedAt": "2021-05-13T14:16:19-07:00"
+      }
+    ]
   },
   {
     "id": "security-weekly-news-audio",
@@ -4772,7 +4852,44 @@
         "ratingCount": 33,
         "fetchedAt": "2026-09-03T11:03:57.452Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great news summaries and very funny",
+        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
+        "author": "TFWas",
+        "updatedAt": "2025-07-02T05:16:53-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Reasonably okay infosec podcast",
+        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
+        "author": "[REDACTED] USER",
+        "updatedAt": "2023-11-13T18:43:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Entertaining InfoSec news",
+        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
+        "author": "Bevonomics",
+        "updatedAt": "2022-12-07T14:23:31-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Brief But Not Shallow",
+        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
+        "author": "MLC689",
+        "updatedAt": "2022-11-29T10:37:03-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Stop recommending this, I don’t want to see it",
+        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
+        "author": "Blizzard1s2d",
+        "updatedAt": "2019-06-19T20:00:01-07:00"
+      }
+    ]
   },
   {
     "id": "shadowtalk",
@@ -5720,7 +5837,44 @@
         "ratingCount": 64,
         "fetchedAt": "2026-09-03T11:04:05.839Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 1,
+        "title": "So much potential",
+        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
+        "author": "Yeahyeahblahblah",
+        "updatedAt": "2026-06-06T04:49:02-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful",
+        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
+        "author": "Laughedoutloud",
+        "updatedAt": "2025-12-27T07:09:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Oo",
+        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
+        "author": "\\x4A\\x4D",
+        "updatedAt": "2025-05-20T13:02:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "1X",
+        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
+        "author": "mjg5772",
+        "updatedAt": "2025-05-17T20:32:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Security and more",
+        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
+        "author": "Chris Mc.38",
+        "updatedAt": "2024-12-15T10:04:10-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",

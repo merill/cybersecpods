@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-3-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 3 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Kestra workflow engine lets anyone run commands with no credentials at all — CVE-2026-49869 — CISA KEV — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n2. GitSpawn lets a repository's own config run commands through your AI coding agent — CVE-2026-19592, CVE-2026-55607, CVE-2026-71963, CVE-2026-72718 — Manifold Security — https://www.manifold.security/blog/ai-coding-agents-git-hijack\n3. Cisco Nexus 9000 switches take unauthenticated code execution as root — CVE-2026-20212 — Cisco PSIRT — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-notice-f2SiMFxl\n4. LiteLLM accepts any bearer token as a valid MCP session — CVE-2026-59822 — BerriAI advisory — https://github.com/BerriAI/litellm/security/advisories/GHSA-7488-6r32-c95q\n5. BadHost defeats authentication anywhere Starlette rebuilds the URL — CVE-2026-48710 — CCB Belgium — https://ccb.belgium.be/advisories/warning-vulnerability-starlette-framework-and-related-frameworks-fastapi-exposes\n6. Exploit published for a Cleo Harmony authentication bypass — CVE-2026-84115 — SecurityWeek — https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/\n7. Dropbox accounts opened through a flaw in Lenovo's email verification — BleepingComputer — https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/\n8. Fake IT support on Teams now ends in a Node.js implant and hands-on-keyboard access — Microsoft Security — https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/\n9. The Gentlemen ransomware turns off EDR and backups before encrypting — Cyber Security News — https://cybersecuritynews.com/the-gentlemen-ransomware/\n10. Researcher publishes a CrowdStrike Falcon privilege-escalation exploit — Security Affairs — https://securityaffairs.com/198342/hacking/chaotic-eclipse-releases-crowdstrike-falcon-zeroday-falconflank.html\n11. Windows starts switching memory integrity on by itself in October — Help Net Security — https://www.helpnetsecurity.com/2026/09/03/windows-memory-integrity-update/\n12. One AI model completed a full cyber kill chain on its own in Booz Allen's tests — The Register — https://www.theregister.com/security/2026/09/02/claude-mythos-only-model-to-complete-full-cyber-kill-chain-experts-say/5294071\n13. Attackers are self-hosting a chat interface on the infrastructure they compromise — Unit 42 — https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/\n14. Chrome ships 26 fixes including two critical use-after-free bugs — CVE-2026-84352, CVE-2026-84353 — SecurityWeek — https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/\n15. Teams and Outlook fail to launch on ARM Windows after the August updates — BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/\n16. A hundred and fifty-three million driver's licence scans are for sale — Ars Technica — https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/\n</code></pre>",
+    "publishedAt": "2026-09-03T13:04:26.000Z",
+    "duration": 299,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/42df3be4a6cac1c059319e4af0f2bcfcf48218fc3e168eb60672c876795ce924/eyJlcGlzb2RlSWQiOiJkODIxMWJkMC0zNWRkLTRmY2UtOWY5MS03NDFiMDMzZGM4YmMiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE5OTcwMTFmNzZlNzBjNGQ2ZmQ4OTIwL2RhaWx5LWRlZnNlYy0yMDI2LTktM19fMTMtMy0xMy5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-2-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 2 2026 - Daily DefSec Brief",
