@@ -1,5 +1,22 @@
 [
   {
+    "id": "153m-licenses-for-sale-anthropic-reverses-course-astra-enters-the-red-zone",
+    "podcastId": "cyber-security-headlines",
+    "title": "153M licenses for sale, Anthropic reverses course, Astra enters the red zone",
+    "description": "<p>Dark web shop stocks 153 million driver's licenses</p> <p>Nexus, a new dark web service, claims it's selling scans of more than 153 million US and Canadian driver's licenses, plus over 10 million ID cards, three million travel and international IDs, and at least 579,000 medical cards. The images appear tied to Louisiana-based IDScan.net, which provides identity verification to retailers, rental-car companies, and others. KrebsOnSecurity matched some records to licenses scanned during Hertz rentals. IDScan says it's investigating and hasn't determined the breach's nature or scope. The FBI's New Orleans office has opened an inquiry. (<a href= \"https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/\">KrebsOnSecurity</a>)</p> <p>Anthropic puts 30-day data retention in reverse</p> <p>After customer pushback, Anthropic is revising a policy that stored 30 days of traffic from its Fable and Mythos models. Under new Enterprise Frontier Safeguards, customers can keep data in their own cloud and block Anthropic employees from reviewing it while automated abuse monitoring continues. Anthropic calls that privacy equivalent to zero data retention. Developed with more than 100 customers, including Salesforce, the system is due later this year. (<a href= \"https://www.cnbc.com/2026/09/01/anthropic-data-retention.html\">CNBC</a>)</p> <p>Astra enters OpenAI's cyber red zone</p> <p>OpenAI says Astra is its first model to reach a \"Critical\" cybersecurity threshold, meaning it can find unknown flaws and build exploits across well-defended systems without step-by-step human help. It's due soon, but the advanced cyber capabilities will start with a small test group before expanding through Daybreak Blue. OpenAI says Astra refused 91.5% of cyber jailbreak requests, versus 59% for GPT-5.6 Sol, and monitoring can pause suspicious activity. The Information reports Astra's latent reasoning may hide parts of its process, raising doubts about chain-of-thought monitoring. (<a href= \"https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/\">WIRED</a>, <a href= \"https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns\"> The Information</a>)</p> <p>Get the full show notes here: https://cisoseries.com/153m-licenses-for-sale-anthropic-reverses-course-astra-red-zone/</p> <p>Huge thanks to our episode sponsor, KnowBe4</p> <p><em>Your employees have always been the target, but the threats they face are evolving. AI empowers cybercriminals to clone a coworker's voice, fake a video call with your CEO, or personalize a phishing email using details scraped from your own website.</em></p> <p><em><a href= \"https://www.knowbe4.com/ai-native-sat\">KnowBe4</a>'s AI-native Security Awareness Training (SAT) fights back with 12 autonomous defense agents that allow you to deliver personalized, relevant, and engaging training that adapts as fast as the threats your people face every day. More than 70,000 organizations trust KnowBe4 worldwide. Find out why at <a href= \"https://www.knowbe4.com/ai-native-sat\">KnowBe4.com</a>.</em></p>",
+    "publishedAt": "2026-09-03T07:00:00.000Z",
+    "duration": 441,
+    "audioUrl": "https://traffic.libsyn.com/secure/cisoseries/CSH_2026-09-03.mp3?dest-id=2260670",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://cisoseries.libsyn.com/153m-licenses-for-sale-anthropic-reverses-course-astra-enters-the-red-zone"
+  },
+  {
     "id": "fable-51-released-usps-untested-it-exchange-hijack-vulnerability",
     "podcastId": "cyber-security-headlines",
     "title": "Fable 5.1 released, USPS \"untested\" IT, Exchange hijack vulnerability",
