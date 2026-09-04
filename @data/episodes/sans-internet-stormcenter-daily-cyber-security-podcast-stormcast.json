@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-september-4th-2026-av-exploits-plex-update-cisco-patches-s",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, September 4th, 2026: AV Exploits; Plex Update; Cisco Patches; Sangoma Switchvox Exploited",
+    "description": "<br/>\nNightmare Eclipse Discloses Several Anti-Malware Privilege Escalation Exploits<br/>\n<a href=\"https://github.com/MSNightmare\">https://github.com/MSNightmare</a><br/>\nPlex Update<br/>\n<a href=\"https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319\">https://forums.plex.tv/t/important-security-update-for-plex-media-server-v1-43-2-and-earlier/942319</a><br/>\nCisco Update<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-iosxr-qg64NcM</a><br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-smime-disc-dzw4rEdY\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-smime-disc-dzw4rEdY</a><br/>\nSangoma Switchvox Exploit<br/>\n<a href=\"https://horizon3.ai/attack-research/disclosures/cve-2026-9586-sangoma-switchvox-rce/\">https://horizon3.ai/attack-research/disclosures/cve-2026-9586-sangoma-switchvox-rce/</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-09-04T02:00:02.000Z",
+    "duration": 322,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10082.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10082,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10082"
+  },
+  {
     "id": "sans-stormcast-thursday-september-3rd-2026-sma1000-0-day-patch-ssrf-validation-i",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, September 3rd, 2026: SMA1000 0-Day Patch; SSRF Validation Issues; Faronics Abuse",
