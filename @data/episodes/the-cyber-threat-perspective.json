@@ -1,5 +1,22 @@
 [
   {
+    "id": "every-it-team-has-a-joe-or-ep-195",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Every IT Team Has a Joe | Ep 195",
+    "description": "<p>Interested in a pen test? Visit securit360.com.</p><p>Every organization has a Joe. He is the long tenured engineer or admin who built half the environment, maintains the other half, and keeps most of it in his head. Everybody depends on him and nobody wants to challenge him.</p><p>Spencer and Tyler break down key man risk in IT, drawing on hundreds of internal pen tests across law firms, banks, credit unions, manufacturing, municipalities, and SaaS organizations.</p><p>In this episode:</p><ul><li>Why tribal knowledge is a security risk, not just an operations problem</li><li>How word of mouth process handoffs turn into a game of telephone</li><li>The reason remediations stall for an extra 30 days</li><li>Shadow IT that originates inside the IT team</li><li>Privilege creep and the single account that owns the environment</li><li>When Joe's resistance to change is the correct call</li><li>Cross training that does not add more work to Joe's plate</li><li>Incentives, clear ownership, and update deadlines that actually stick</li><li>Separating fact gathering from decision making so seniority does not win by default</li></ul><p>This is not a knock on senior admins. It is a look at the risk that accumulates when one person carries everything, and what IT leaders can do about it.</p><p>All of our content can be found at Offsec.blog. Interested in a pen test? Visit securit360.com.</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-09-04T05:00:00.000Z",
+    "duration": 1650,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19750647-every-it-team-has-a-joe-ep-195.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 195,
+    "seasonNumber": 1,
+    "explicit": true,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "service-accounts-the-shortest-path-to-domain-admin-or-ep-194",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Service Accounts: The Shortest Path to Domain Admin | Ep 194",
