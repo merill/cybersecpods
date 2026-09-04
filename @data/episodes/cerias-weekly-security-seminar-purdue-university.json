@@ -1,5 +1,22 @@
 [
   {
+    "id": "armin-moin-tianoshield-improving-the-security-posture-of-the-tianocore-ecosystem",
+    "podcastId": "cerias-weekly-security-seminar-purdue-university",
+    "title": "Armin Moin, TianoShield: Improving the Security Posture of the TianoCore Ecosystem",
+    "description": "<p>In this talk, I will provide an overview of our NSF-sponsored award, TianoShield, focused on enhancing the security posture and the software maintenance process of the open-source core of the UEFI Firmware, called EDK II, and maintained by the TianoCore community. The talk will highlight our ongoing collaborations with our industrial partners, including Intel Corporation, Arm, AMI, Insyde Software, GitHub, Phoenix Technologies, Binarly, etc. First, we will discuss our methods and techniques for rapid triaging of existing bug reports that have remained open for a long time due to a lack of resources in the community. Second, we will introduce our security analysis tools and their enhancements for static and dynamic analysis of the UEFI firmware, thus discovering many new vulnerabilities. Finally, we will present our suggestions and improvements for software maintenance, specifically bug handling, and DevOps/DevSecOps practices in TianoCore. A key pillar of TianoShield is leveraging the state of the art in Artificial Intelligence (AI), including Large Language Models (LLMs) for software security and software maintenance. As part of the dissemination practices in TianoShield, we have organized/will organize a full-day workshop, called FirmVuln26, at VulnCon26 in Scottsdale, AZ, in April 2026, and another full-day workshop, called FTA 2026, at ISSTA 2026 in Oakland, CA, in October 2026. The TianoShield project started in October 2025 and is expected to run until September 2027. About the speaker: Dr. Armin Moin is a Tenure-Track Assistant Professor and Director of the Purdue Quantum-Classical AI and Software Engineering (QCASE) Lab at the School of Applied and Creative Computing (ACC) in the Polytechnic Institute at Purdue University in West Lafayette and Indianapolis, Indiana, USA. He previously (2023-2026) held a Tenure-Track Assistant Professor position in the Computer Science (CS) department of the University of Colorado Colorado Springs (UCCS). Before starting his faculty position, he worked as a Postdoctoral Scholar-Employee in the CS Department of the University of California, Santa Barbara (UCSB) in the U.S. and as a Postdoctoral Scholar in the CS Department of the University of Antwerp and FlandersMake in Belgium. Dr. Moin obtained his Ph.D. in CS from the Technical University of Munich (TUM), Germany, one of the world's top universities, in 2022. He also has a Master's in CS and an Executive MBA in Innovation and Business Creation. His research focuses on the intersection of Artificial Intelligence (AI) and Software Engineering (SE), particularly AI4SE and SE4AI, with an emphasis on hybrid quantum-classical computing and software security. Grants from various sources, including the U.S. National Science Foundation (NSF) and the Colorado Office of Economic Development and International Trade (OEDIT), have funded his lab. Besides conducting research and teaching at Purdue University, Dr. Moin reviews top academic conferences and journals. He is passionate about encouraging and empowering students to start their ventures based on what they learn at the university. Please refer to his academic homepage at https://web.ics.purdue.edu/~moin/index.html or his professional profile at https://polytechnic.purdue.edu/profile/moin for more information. </p>",
+    "publishedAt": "2026-09-02T20:30:00.000Z",
+    "duration": 2696,
+    "audioUrl": null,
+    "videoUrl": "https://www.cerias.purdue.edu/assets/video/secsem/secsem_20260902.mp4",
+    "imageUrl": "https://www.cerias.purdue.edu/news_and_events/events/security_seminar/images/armin_moin_300x300.png",
+    "episodeNumber": 919,
+    "seasonNumber": 32,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "matt-scheurer-lies-telephony-and-hacking-history",
     "podcastId": "cerias-weekly-security-seminar-purdue-university",
     "title": "Matt Scheurer, Lies, Telephony, and Hacking History",

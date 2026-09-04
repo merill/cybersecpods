@@ -33,9 +33,9 @@
     "cadence": "weekly",
     "format": "solo",
     "authors": [],
-    "lastEpisodeDate": "2026-08-28T17:48:00.000Z",
+    "lastEpisodeDate": "2026-09-04T16:12:00.000Z",
     "firstEpisodeDate": "2014-02-01T16:17:42.000Z",
-    "episodeCount": 737,
+    "episodeCount": 738,
     "hasVideo": true,
     "isActive": true,
     "featured": false,
@@ -792,9 +792,9 @@
     "cadence": "weekly",
     "format": "solo",
     "authors": [],
-    "lastEpisodeDate": "2026-08-26T20:30:00.000Z",
+    "lastEpisodeDate": "2026-09-02T20:30:00.000Z",
     "firstEpisodeDate": "1999-08-27T21:30:00.000Z",
-    "episodeCount": 647,
+    "episodeCount": 648,
     "hasVideo": true,
     "isActive": true,
     "featured": false,
@@ -1919,9 +1919,9 @@
         "name": "Lindsey O’Donnell-Welch"
       }
     ],
-    "lastEpisodeDate": "2026-09-01T12:18:15.000Z",
+    "lastEpisodeDate": "2026-09-04T14:54:16.000Z",
     "firstEpisodeDate": "2018-08-01T19:00:00.000Z",
-    "episodeCount": 377,
+    "episodeCount": 378,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4202,7 +4202,23 @@
         "ratingCount": 15,
         "fetchedAt": "2026-09-04T11:05:13.595Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5441,9 +5457,9 @@
     "cadence": "biweekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-08-19T15:49:45.000Z",
+    "lastEpisodeDate": "2026-09-04T15:07:44.000Z",
     "firstEpisodeDate": "2026-06-23T01:02:31.000Z",
-    "episodeCount": 5,
+    "episodeCount": 6,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
