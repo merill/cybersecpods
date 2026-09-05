@@ -1474,7 +1474,7 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-04T14:10:24.000Z",
+    "lastEpisodeDate": "2026-09-05T05:00:26.000Z",
     "firstEpisodeDate": "2026-01-20T14:52:08.000Z",
     "episodeCount": 500,
     "hasVideo": false,
@@ -1625,9 +1625,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-09-04T20:30:00.000Z",
+    "lastEpisodeDate": "2026-09-05T07:00:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3746,
+    "episodeCount": 3747,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4202,7 +4202,23 @@
         "ratingCount": 15,
         "fetchedAt": "2026-09-04T11:05:13.595Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",

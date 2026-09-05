@@ -1,5 +1,22 @@
 [
   {
+    "id": "rmm-ber-this-ransomware-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "RMM-ber this ransomware. [Research Saturday]",
+    "description": "<p><a href=\"https://www.linkedin.com/in/ivalenzuela/\">Ismael Valenzuela</a>, Vice President of Labs, Threat Research and Intelligence at <a href=\"https://arcticwolf.com/\">Arctic Wolf</a>, sits down with Dave to discuss their work tracking Anubis. Arctic Wolf Labs details a series of 2026 Anubis ransomware intrusions, revealing affiliates using stolen VPN credentials and exploiting CitrixBleed 2 to gain initial access. </p>\n<p>Attackers then blended into legitimate IT activity by deploying RMM tools, using RDP and PsExec for lateral movement, stealing credentials, and establishing tunnels and proxies for persistence and exfiltration. The research highlights a repeatable attack chain defenders can disrupt before encryption, from suspicious remote access and unauthorized RMM deployment to credential theft, security-tool tampering, and ransomware execution.</p>\n<p><br></p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.sysdig.com/blog/llmjacking-evolved-attackers-are-using-stolen-ai-compute-to-build-offensive-agentic-tools\">⁠</a><a href=\"https://arcticwolf.com/resources/blog/citrixbleed-2-to-cloudflared-the-tools-and-techniques-behind-anubis-ransomware-attacks/\">From CitrixBleed 2 to Cloudflared: The Tools and Techniques Behind Anubis Ransomware Attacks</a></li>\n</ul>",
+    "publishedAt": "2026-09-05T07:00:00.000Z",
+    "duration": 1191,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7108874282.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/957c7c04-a7b4-11f1-8952-c7cda1721055/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 440,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/440/notes"
+  },
+  {
     "id": "what-the-flock",
     "podcastId": "cyberwire-daily",
     "title": "What the Flock?",
