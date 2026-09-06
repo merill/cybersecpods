@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-authentik-is-rethinking-pam-for-ai-agents",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Authentik is rethinking PAM for AI agents",
+    "description": "<p>In this Risky Business sponsored interview, James Wilson chats with Authentik Security CEO Fletcher Heisler about how AI is driving a need for privileged access management to adapt.</p>\n\n<p>Fletcher explains Authentik’s approach: each agent has its own identity, begins with no permissions and is tied to a human.</p>\n\n<p>They also discuss transferring ownership when employees leave, mitigating risks of agents creating identities for each other, and whether task-based access could eventually be a better fit than clock-controlled access.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-09-06T20:09:32.000Z",
+    "duration": 1205,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI143.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI143/"
+  },
+  {
     "id": "risky-bulletin-russia-tells-data-centers-to-deploy-drone-defenses",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Russia tells data centers to deploy drone defenses",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS560/"
-  },
-  {
-    "id": "between-two-nerds-the-wild-wild-west",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: The wild wild west",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss the breakdown of cyber norms. What would have been an unthinkable cyber operation just a few years ago is now a regular occurrence.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/1WJKwi57jcQ\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/\">Fast16 analysis by SentinelOne</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/\">Fast16 malware</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.zetter-zeroday.com/hwiper-targeting-venezuelas-state-oil-company-discovered/\">Zero Day on the wiper targeting Venezuela's state oil company</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-05-04T19:45:48.000Z",
-    "duration": 1917,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN165.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN165/"
   }
 ]
