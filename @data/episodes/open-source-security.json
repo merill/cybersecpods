@@ -1,5 +1,22 @@
 [
   {
+    "id": "finding-difficult-vulnerabilities-with-jaya-baloo-from-aisle",
+    "podcastId": "open-source-security",
+    "title": "Finding difficult vulnerabilities with Jaya Baloo from AISLE",
+    "description": "<p>Josh chats with Jaya Baloo from AISLE about their vulnerability scanner. If you follow open source vulnerabilities AISLE is a name you've seen popping up recently. They have a vulnerability scanner that is outperforming most of the existing scanners like Mythos. Jaya gives us some insight into how this all works and why they're different. We also learn about some scary new attacks that can be conducted on LLM models. Jaya was a ton of fun and filled with insights.</p> <p>The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-09-jaya-aisle\">https://opensourcesecurity.io/2026/2026-09-jaya-aisle</a></p> <p> </p> <p> </p>",
+    "publishedAt": "2026-09-07T00:00:00.000Z",
+    "duration": 1753,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-09-jaya-aisle.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/0/c/a/c/0cac43eecdadf55d16c3140a3186d450/square-aisle.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/finding-difficult-vulnerabilities-with-jaya-baloo-from-aisle"
+  },
+  {
     "id": "sovereign-tech-agency-with-erik-moller",
     "podcastId": "open-source-security",
     "title": "Sovereign Tech Agency with Erik Möller",
