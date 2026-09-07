@@ -1,5 +1,22 @@
 [
   {
+    "id": "shadow-ai-epidemic-uncovering-agents-on-the-endpoint-british-library-breach-and-",
+    "podcastId": "enterprise-security-weekly",
+    "title": "Shadow AI Epidemic: Uncovering Agents on the Endpoint, British Library Breach, & News - Amit Assaraf - ESW #475",
+    "description": "Interview - Amit Assaraf <p>As employees rapidly adopt local AI models, autonomous agents, and browser extensions to boost productivity, enterprise endpoints are quietly accumulating unchecked security risks. This episode explores how traditional EDR solutions miss non-binary software, leaving critical blind spots for prompt injection and data exfiltration. Discover how Cortex Agentic Endpoint Security (AES) uses LLM-based classifiers and an AI powered risk engine to surface shadow AI and protect the modern workspace without stalling innovation.</p> <p>This segment is sponsored by Palo Alto Networks. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/paloalto\">https://securityweekly.com/paloalto</a> to learn more about them!</p> Topic - The British Library Cyber-Attack <p>For this week's topic segment, we're discussing the British Library cyber-attack.</p> <p>In October 2023, the British Library, one of the largest libraries in the world, was breached by the Rhysida ransomware group. The attack encrypted systems across the organization, led to over 500,000 files being leaked, and set off a recovery effort that consumed a significant portion of the Library's £17.5 million cash reserves. With no clear end date, this is a story of what could happen when all of an organization's tech debt comes due at once.</p> <p>Resources</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.defendersinitiative.com/p/breach-lessons-the-2023-british-library\"> https://www.defendersinitiative.com/p/breach-lessons-the-2023-british-library</a></li> </ul> The Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>We check the vibes</li> <li>the funding</li> <li>the acquisitions</li> <li>and the closures</li> <li>is the vulnpocalypse real, or not?</li> <li>TeamPCP finds out why being perpetually online isn't great if you're doing cybercrimes</li> <li>millions of IDs get leaked online</li> <li>What's the bigger story: Huggingface and NVIDIA or Microduck?</li> <li>Dyson enters a new product category. Try to guess what it is without cheating and looking it up before the end of the episode!</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-475\">https://securityweekly.com/esw-475</a></p>",
+    "publishedAt": "2026-09-07T09:00:00.000Z",
+    "duration": 6316,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_475_1--32ad287d-29da-4ebf-b719-7d83e0b56129--audio-converted--c618ff4a-be8a-4fdb-888a-242d06f7bbd0.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/4/8/4/1/48412b2e3854dbf1d959afa2a1bf1c87/ESW_475_Thumbnail_ESW_1920x1920-op1_27c44162-e0dc-4056-b35b-1420dbc5c976.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/shadow-ai-epidemic-uncovering-agents-on-the-endpoint-british-library-breach-news-amit-assaraf-esw-475"
+  },
+  {
     "id": "life-as-a-ciso-in-hollywood-keeping-new-films-leak-free-and-4-black-hat-intervie",
     "podcastId": "enterprise-security-weekly",
     "title": "Life as a CISO in Hollywood: Keeping New Films Leak-Free & 4 Black Hat Interviews - Dan Meacham, Ellen Boehm, Ronan Murphy, Frank Vukovits, John Hultquist - ESW #474",
