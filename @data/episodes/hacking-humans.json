@@ -1,5 +1,39 @@
 [
   {
+    "id": "catfish-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "catfish (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>The practice&nbsp;of crafting&nbsp;a fake online persona&nbsp;for malicious purposes.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/catfish\">⁠https://thecyberwire.com/glossary/catfish⁠</a></p>\n<p>Audio reference link: netbunny, 2013. Catfish - The Movie - Ending Scene [Movie Scene]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=qR_NIN6zy0U\">⁠https://www.youtube.com/watch?v=qR_NIN6zy0U</a></p>",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "duration": 423,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9880706016.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/af0b0e9c-a895-11f1-8e28-e7e88c25a9c5/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 150,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/150/notes"
+  },
+  {
+    "id": "hackers-gonna-hack-back-omitb",
+    "podcastId": "hacking-humans",
+    "title": "Hackers gonna hack back. [OMITB]",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is&nbsp;<a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>,&nbsp;<a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>&nbsp;intelligence analyst and host of their podcast&nbsp;<a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts&nbsp;<a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠N2K&nbsp;Networks⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>&nbsp;<a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Qintel⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. This week, Dave, Selena, and Keith explore the pros and cons of allowing select U.S. companies to conduct offensive cyber operations under strict government guardrails. They discuss what the proposed framework could mean for private-sector security researchers, how researchers have already been operating in this space for years, and where the line between defense and offense gets blurry. They also look at how adversaries such as China and Russia use proxy companies and other private-sector entities to conduct cyber operations—and consider whether giving trusted U.S. companies similar capabilities could strengthen cyber defenses or create new risks.</p>",
+    "publishedAt": "2026-09-08T07:00:00.000Z",
+    "duration": 2787,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW9548427469.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/594e579a-a889-11f1-81ff-b3e569f8536b/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 27,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/27/notes"
+  },
+  {
     "id": "i-just-want-to-give-you-dollar25-million",
     "podcastId": "hacking-humans",
     "title": "I just want to give you $25 million!",
@@ -6307,7 +6341,7 @@
     "link": "https://thecyberwire.com/podcasts/word-notes/149/notes"
   },
   {
-    "id": "catfish-noun-word-notes",
+    "id": "catfish-noun-word-notes-2",
     "podcastId": "hacking-humans",
     "title": "catfish (noun) [Word Notes]",
     "description": "<p>The practice of crafting a fake online persona for malicious purposes.</p><p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/catfish\">https://thecyberwire.com/glossary/catfish</a></p><p>Audio reference link: netbunny, 2013. Catfish - The Movie - Ending Scene [Movie Scene]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=qR_NIN6zy0U\">https://www.youtube.com/watch?v=qR_NIN6zy0U</a></p>",
