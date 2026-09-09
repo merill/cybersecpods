@@ -1,22 +1,5 @@
 [
   {
-    "id": "litellm-breach-an-entra-connect-deadline-and-153-million-leaked-ids",
-    "podcastId": "blue-security",
-    "title": "LiteLLM Breach, an Entra Connect Deadline, and 153 Million Leaked IDs",
-    "description": "<p><strong>Summary</strong></p><p>In this episode of the Blue Security Podcast, hosts Andy Jaw and Adam Brewer delve into significant cybersecurity topics, including the Light LLM breach, a supply chain attack that affected thousands of organizations, and an urgent reminder for Microsoft Entra Connect users to upgrade their systems. The discussion emphasizes the importance of understanding the origins of security breaches, the need for ongoing credential management, and the critical nature of timely software updates to maintain security integrity. In this conversation, Adam and Andy discuss the implications of Microsoft's Secure Future Initiative, emphasizing the need for organizations to prepare for breaking changes in software and services. They also delve into the ID Scan.net leak, highlighting the risks associated with compromised driver's licenses and the potential for identity theft. The discussion concludes with a focus on data retention practices and the importance of vendor risk management in safeguarding sensitive information.</p><p>----------------------------------------------------</p><p>YouTube Video Link: <a href=\"https://youtu.be/eXqW3FAY_hE\" target=\"_blank\" rel=\"ugc noopener noreferrer\">⁠⁠⁠⁠⁠⁠⁠</a>https://youtu.be/fHGJBUazeOI</p><p>----------------------------------------------------</p><p>Documentation: </p><p>https://docs.litellm.ai/blog/security-update-march-2026</p><p>https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html</p><p>https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-version-history</p><p>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</p><p>----------------------------------------------------</p><p>Contact Us:</p><p>Website: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bluesecuritypod.com</p><p>Bluesky: https://bsky.app/profile/bluesecuritypod.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/company/bluesecpod</p><p>YouTube: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/c/BlueSecurityPodcast</p><p>-----------------------------------------------------------</p><p>Andy Jaw</p><p>Bluesky: https://bsky.app/profile/ajawzero.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/andyjaw/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠andy@bluesecuritypod.com⁠</p><p>----------------------------------------------------</p><p>Adam Brewer</p><p>Twitter: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://twitter.com/ajbrewer</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/adamjbrewer/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠adam@bluesecuritypod.com</p>",
-    "publishedAt": "2026-09-08T12:00:00.000Z",
-    "duration": 2728,
-    "audioUrl": "https://anchor.fm/s/37babf1c/podcast/play/125373539/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-8%2F1ce8333c-9c26-13cf-4b90-0d1b2bf44b0d.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9249855/9249855-1600984785589-140b457fbd8fe.jpg",
-    "episodeNumber": 51,
-    "seasonNumber": 6,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://podcasters.spotify.com/pod/show/blue-security-podcast/episodes/LiteLLM-Breach--an-Entra-Connect-Deadline--and-153-Million-Leaked-IDs-e3ogjl3"
-  },
-  {
     "id": "ai-101-understanding-core-ai-terminology",
     "podcastId": "blue-security",
     "title": "AI 101 - Understanding core AI terminology",
