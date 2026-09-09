@@ -1,5 +1,22 @@
 [
   {
+    "id": "browser-betrayal-when-your-tabs-turn-against-you",
+    "podcastId": "talos-takes",
+    "title": "Browser betrayal: When your tabs turn against you",
+    "description": "<p>Ah, the crisp fall air, brand-new books and backpacks, and the quiet irony of cybercriminals turning on each other to steal a few extra bucks.</p><p>Security Engineer Sean Gallagher joins Amy to break down a scam where threat actors are weaponizing greed to turn amateur cybercriminals against themselves. This browser-based attack tricks targets into injecting malicious code into their own sessions under the guise of exploiting a fictional vulnerability to earn crypto-profits.</p><p>While this current operation mostly targets the amateur dark-web circuit, the underlying use of the Google Visualization API as a command-and-control channel is a red flag for the future of web security. Tune in to hear why it’s only a matter of time before these techniques turn from petty crypto-scams toward our enterprise supply chains, and how to protect your organization.</p><p>Blog: <a href='https://blog.talosintelligence.com/clickfix-moves-into-the-browser/'>https://blog.talosintelligence.com/clickfix-moves-into-the-browser/</a></p>",
+    "publishedAt": "2026-09-09T09:00:00.000Z",
+    "duration": 1597,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19772060-browser-betrayal-when-your-tabs-turn-against-you.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "back-to-school-cybersecurity-protecting-education-networks-from-ransomware-and-t",
     "podcastId": "talos-takes",
     "title": "Back-to-school cybersecurity: Protecting education networks from ransomware and threats",
