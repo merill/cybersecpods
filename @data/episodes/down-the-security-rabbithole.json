@@ -1,5 +1,22 @@
 [
   {
+    "id": "dtsr-episode-722-vulnerability-math-aint-mathing",
+    "podcastId": "down-the-security-rabbithole",
+    "title": "DtSR Episode 722 - Vulnerability Math Ain't Mathing",
+    "description": "<p><b>TL;DR:</b> Robert \"RSnake\" Hansen & Jeremiah Grossman join the pod to talk about the \"Vuln-pocalypse\", or rather, the lack thereof. We do some math, discuss whether it's worth patching vulnerabilities attackers don't exploit, and discuss a potential alternative to the madness of vuln management and patching we're all living with today.</p><p><b>Guests</b></p><ul><li><a href='https://www.linkedin.com/in/roberthansen3/'>Robert \"RSnake\" Hansen</a></li><li><a href='https://www.linkedin.com/in/grossmanjeremiah/'>Jeremiah Grossman</a></li></ul><p><b>Description</b></p><p>The “vulnerability apocalypse” makes great headlines, but our day-to-day reality is stranger: more scanners, more CVEs, more urgency, and still the same breaches. We sit down with Jeremiah Grossman and Robert Hansen from Root Evidence to ask a blunt question most security teams avoid saying out loud: if the overwhelming majority of known vulnerabilities are never exploited, why are we treating every patch like a debt we must repay at any cost?<br/><br/>We dig into where vulnerability management went off the rails. CVSS scores and severity tiers often turn into a kind of black magic, especially at enterprise scale where “patch everything” can be operationally impossible and sometimes actively dangerous. We share real-world patching fallout, talk about why prioritizing millions of findings is like turning the Titanic with a teaspoon, and outline what “reasonable” can look like when you stop optimizing for perfect dashboards and start optimizing for outcomes.<br/><br/>The turning point is data. Cyber insurance carriers and DFIR teams perform root cause analysis on real claims, and that actuarial view shows which remotely exploitable vulnerabilities actually drive financial loss. We talk about focusing on known exploited vulnerabilities, why a relatively small list of CVEs can matter more than thousands of “critical” alerts, and how controls like MDR, canary tokens, and segmentation help prevent exploitation from becoming a business-ending event.<br/><br/>We also pressure-test the AI panic. According to multiple carriers, AI-attributed losses are effectively zero when you exclude phishing, raising an uncomfortable thought: are we funding fear instead of risk reduction? If you want a more evidence-based approach to patch management, cyber risk, and cybersecurity ROI, hit play, subscribe, and share the episode, then leave us a review with the one change you’d make to how your team prioritizes vulnerabilities.</p><p><b>YouTube Video: </b><a href='https://youtube.com/live/wC1v8Vg7qr4'>https://youtube.com/live/wC1v8Vg7qr4</a></p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2153215/fan_mail/new\">Have something to say? Let's hear it.</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/2153215/support\">Support the show</a></p><p><em>>>> Please consider clicking the link above to support the show!</em><br/>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=<br/><b>YouTube home:</b> <a href='https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq'>https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq</a><br/><b>LinkedIn Page:</b> <a href='https://www.linkedin.com/company/down-the-security-rabbithole-podcast/'>https://www.linkedin.com/company/down-the-security-rabbithole-podcast/</a><br/><b>X/Twitter:</b> <a href='https://twitter.com/dtsr_podcast'>https://twitter.com/dtsr_podcast</a></p>",
+    "publishedAt": "2026-09-09T10:00:00.000Z",
+    "duration": 2929,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2153215/episodes/19777416-dtsr-episode-722-vulnerability-math-ain-t-mathing.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 722,
+    "seasonNumber": 16,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "dtsr-episode-721-finance-masterclass-for-cyber-part-2",
     "podcastId": "down-the-security-rabbithole",
     "title": "DtSR Episode 721 - Finance Masterclass for Cyber (Part 2)",
