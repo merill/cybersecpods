@@ -1,5 +1,22 @@
 [
   {
+    "id": "one-empty-field-the-email-security-bypass-letting-attackers-impersonate-your-exe",
+    "podcastId": "shadowtalk",
+    "title": "One Empty Field: The Email Security Bypass Letting Attackers Impersonate Your Executives",
+    "description": "<p>Organizations rely on Microsoft 365's RejectDirectSend control to block internal email spoofing—but a structural gap lets attackers walk right past it. With nothing more than a basic Python script and an empty envelope sender, threat actors are impersonating executives, IT support, and finance teams to launch Business Email Compromise, payment fraud, and follow-on account takeover.</p><p>Join hosts <b>Alexandra Moore</b> and <b>John Dilgen</b> as they discuss:</p><ul><li>How an empty email header field bypasses RejectDirectSend and lands phishing in executive inboxes</li><li>How help desk impersonation combined with spoofed internal email creates a dangerous new pretext</li><li>Which controls—IP-restricted connectors, automated containment, and out-of-band verification—actually close the gap</li></ul><p> <b>Two questions your organization should be asking right now:</b></p><ul><li>If someone attempted a Direct Send from an unauthorized IP into your tenant tomorrow, would it be rejected?</li><li>When was the last time you tested whether your employees follow out-of-band verification procedures under pressure?</li></ul><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Alexandra Moore: </b>Manager of Threat Intelligence at ReliaQuest, where she leads intelligence analysis and customer dissemination to help organizations understand and respond to emerging cyber threats. Prior to this, she established and scaled monitoring across Russian-language cybercriminal platforms at Digital Shadows, building collection and analytical coverage to support digital risk protection capabilities.</p>",
+    "publishedAt": "2026-09-09T16:00:00.000Z",
+    "duration": 1794,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19779963-one-empty-field-the-email-security-bypass-letting-attackers-impersonate-your-executives.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "from-data-dumps-to-critical-findings-the-new-era-of-data-extortion",
     "podcastId": "shadowtalk",
     "title": "From Data Dumps to Critical Findings: The New Era of Data Extortion",
