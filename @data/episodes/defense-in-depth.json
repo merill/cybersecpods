@@ -1,5 +1,22 @@
 [
   {
+    "id": "building-resilience-for-microsoft-365",
+    "podcastId": "defense-in-depth",
+    "title": "Building Resilience for Microsoft 365",
+    "description": "<p dir=\"ltr\">All links and images can be found on <a href= \"https://cisoseries.com/building-resilience-for-microsoft-365/\">CISO Series</a></p> <p dir=\"ltr\">Check out <a href= \"https://www.linkedin.com/feed/update/urn:li:activity:7477735954095616001/\"> this post</a> for the discussion that is the basis of our conversation on this week's episode co-hosted by me, <a href= \"https://www.linkedin.com/in/davidspark/\">David Spark</a>, the producer of <a href=\"https://cisoseries.com/\">CISO Series</a>, and <a href=\"https://www.linkedin.com/in/brettconlon/\">Brett Conlon</a>, CISO, <a href= \"https://www.americancentury.com/home/\">American Century Investments</a>. Joining us is our sponsored guest, <a href= \"https://www.linkedin.com/in/simonhughes10/\">Simon Hughes</a>, vp of field security at <a href= \"https://www.coreview.com/form/microsoft-365-tenant-resilience?utm_medium=Podcast&utm_source=CISOSeriesDefence_In_Depth\"> CoreView</a>.</p> <p dir=\"ltr\">In this episode:</p> <ul dir=\"ltr\"> <li>Ecosystem, not platform</li> <li>Beyond backup, into resilience</li> <li>What survives the restore</li> <li>Toward a digital twin</li> </ul> <p dir=\"ltr\">A huge thanks to our sponsor, CoreView</p> <p><a href= \"https://www.coreview.com/form/microsoft-365-tenant-resilience?utm_medium=Podcast&utm_source=CISOSeriesDefence_In_Depth\"> </a></p> <p dir=\"ltr\">Attackers don't break into Microsoft 365. They log in and reconfigure it. When tenant configurations drift or get tampered with, recovery can take weeks and missed settings can reopen the door. The Cyber Resilience Framework for Microsoft 365 covers the five pillars, harden, govern, detect, respond, recover, and shows exactly where today's tools leave gaps. <a href= \"https://www.coreview.com/form/microsoft-365-tenant-resilience?utm_medium=Podcast&utm_source=CISOSeriesDefence_In_Depth\"> Download the free practical guide</a></p> <p dir=\"ltr\"> </p>",
+    "publishedAt": "2026-09-10T10:00:00.000Z",
+    "duration": 1663,
+    "audioUrl": "https://traffic.libsyn.com/secure/defenseindepth/Defense_in_Depth_09-10-26.mp3?dest-id=1020683",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://defenseindepth.libsyn.com/building-resilience-for-microsoft-365"
+  },
+  {
     "id": "recommendations-to-reboot-the-security-vendor-pitch",
     "podcastId": "defense-in-depth",
     "title": "Recommendations to Reboot the Security Vendor Pitch",
