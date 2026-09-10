@@ -1,5 +1,22 @@
 [
   {
+    "id": "srsly-risky-biz-americas-drivers-licence-breach-is-a-national-security-disaster",
+    "podcastId": "risky-bulletin",
+    "title": "Srsly Risky Biz: America's drivers licence breach is a national security disaster",
+    "description": "<p>Tom Uren and James Wilson talk about how Chinese intelligence services will take advantage of a massive breach of 150 million American drivers licences.</p>\n\n<p>They also discuss the steps the US military is taking to counter adtech device tracking. It’s too slow and not enough.</p>\n\n<p>Finally, they talk about how often cryptocurrency hackers claim to be white hat hackers. Its ludicrous, but suprisingly often it is a successful strategy.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/YmEbrUW3EA4\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-09-10T03:18:00.000Z",
+    "duration": 1484,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB183.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SRB183/"
+  },
+  {
     "id": "risky-bulletin-ukraines-top-prosecutor-resigns-amid-scam-call-center-scandal",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Ukraine's top prosecutor resigns amid scam call center scandal",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS562/"
-  },
-  {
-    "id": "sponsored-knocknoc-built-a-greynoise-integration",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Knocknoc built a Greynoise integration",
-    "description": "<p>In this sponsored interview Patrick Gray chats with Knocknoc CEO Adam Pointon about their Greynoise integration.</p>\n\n<p>Knocknoc allowlists network connections from users’ IPs after they’ve been through an SSO challenge. It’s great for protecting vulnerable or risky assets that your org has to connect to the internet. But what happens when one of your users tries to authenticate from a bad IP? You probably don’t want to add that one to your allowlist!</p>\n\n<p>Thanks to Knocknoc’s new Greynoise integration, you don’t have to!</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-05-10T21:51:07.000Z",
-    "duration": 622,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI127.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI127/"
   }
 ]
