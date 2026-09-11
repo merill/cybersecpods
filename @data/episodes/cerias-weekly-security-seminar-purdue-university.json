@@ -1,5 +1,22 @@
 [
   {
+    "id": "romila-pradhan-reasoning-about-interventions-in-data-and-machine-learning-system",
+    "podcastId": "cerias-weekly-security-seminar-purdue-university",
+    "title": "Romila Pradhan, Reasoning About Interventions in Data and Machine Learning Systems",
+    "description": "<p>Modern machine learning systems are only as reliable as the data and pipelines that support them, yet improving their behavior often requires navigating enormous spaces of possible data and system configurations. These systems are complex enough that improving them by changing everything at once is both inefficient and unreliable. This talk explores a simple principle for building smarter data and machine learning systems: identify which intervention is most likely to change the outcome, and act there.  I will first introduce DataSift that applies this principle to model behavior, identifying the most influential data to expand the training data when the goal is to improve fairness without sacrificing predictive performance. By combining data valuation, influence functions, and multi-armed bandits, DataSift identifies small, high-impact subsets of candidate data rather than indiscriminately adding data to the training set. Next, I will present PipeLens that applies the same principle to data science pipelines, identifying the components and parameters whose intervention is most likely to repair a malfunctioning pipeline. By learning from successful and failed pipeline executions, PipeLens identifies causally relevant root causes and efficiently searches for interventions that restore pipeline utility. Despite addressing different problems, both systems replace brute-force search with targeted intervention using principled reasoning about influence and causality to determine what to change, why it matters, and how to change it efficiently. About the speaker: Romila Pradhan is an Assistant Professor in the School of Applied &amp; Creative Computing at Purdue University and leads the Responsible DataScience Lab, where she and her students build trustworthy and responsible data-driven decision-making systems. Her research is in the broader areas of databases and data management and is driven by the need to design algorithms and develop solutions that enable system explainability, fairness, and robustness.  Her research is supported by NSF, Google, and Underwriters Laboratories. She is a recipient of a Google Research Scholar award and an NSF CAREER award. Romila earned her Ph.D. in Computer Science from Purdue University and graduated with M.S. and B.S. in Mathematics and Computing from the Indian Institute of Technology (IIT) Kharagpur, India.</p>",
+    "publishedAt": "2026-09-09T20:30:00.000Z",
+    "duration": 3281,
+    "audioUrl": null,
+    "videoUrl": "https://www.cerias.purdue.edu/assets/video/secsem/secsem_20260909.mp4",
+    "imageUrl": "https://www.cerias.purdue.edu/assets/images/people/pradhan_300.png",
+    "episodeNumber": 920,
+    "seasonNumber": 32,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "armin-moin-tianoshield-improving-the-security-posture-of-the-tianocore-ecosystem",
     "podcastId": "cerias-weekly-security-seminar-purdue-university",
     "title": "Armin Moin, TianoShield: Improving the Security Posture of the TianoCore Ecosystem",
