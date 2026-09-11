@@ -1,5 +1,22 @@
 [
   {
+    "id": "911-at-25-offerloader-gemini-cli-liquid-10percent-doom-josh-marpet-and-more-swn-",
+    "podcastId": "security-weekly-news-audio",
+    "title": "9/11 at 25, OfferLoader, Gemini CLI, Liquid, 10% Doom, Josh Marpet, and More - SWN #615",
+    "description": "<p>Twenty-five years since 9/11, and we open by marking it properly — the people who didn't come home, and the survivors and responders still carrying it, physically and mentally, a quarter of a century on.</p> <p>Then we get to work.</p> <p>Shift-left didn't fail. The starting line moved. AI coding agents now read the issue, write the code, pick the dependencies and open the pull request — so the earliest trust boundary isn't your first commit any more, it's the moment an agent gets context and authority. Most of us haven't moved our controls with it.</p> <p>Unit 42 pull the lid off a pay-per-install operation running out of eleven gaming YouTube channels, with over ten thousand loader samples underneath it. Every layer built to look too boring to escalate. When your analyst closes that alert as adware, they may have just closed three separate compromises.</p> <p>Google's threat tracker: a credential-harvesting campaign built and run in under six hours, with Markdown files as attacker playbooks. And malware carrying prompt-injection text designed to make your LLM scanner refuse to look at it — because a refusal that reads as \"clean\" is a free pass.</p> <p>A CVSS 10 in Gemini CLI that never touched the model. No prompt, no injection, no tool call. The attacker just turned up before the sandbox did.</p> <p>The first ever Take It Down Act sentencing — handled carefully, with what you actually do if someone tells you something, and a proper shout-out to Dale, the Cyber Safety Guy, whose work every parent with a teenager online should have bookmarked.</p> <p>Two hundred and sixty-three million dollars walks out of a Bitcoin sidechain and then walks back in. Nobody stole the keys. They just convinced the system to sign a lie.</p> <p>Anthropic's 154-page threat report. And an alignment lead who puts extinction odds above ten percent.</p> <p>All that, plus Josh Marpet's take, on Security Weekly News #615.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/swn\">https://www.securityweekly.com/swn</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/swn-615\">https://securityweekly.com/swn-615</a></p>",
+    "publishedAt": "2026-09-11T21:00:00.000Z",
+    "duration": 2076,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/hntvaudio/SWN_615_1--b0115512-ad8e-431c-aae1-5720c6c948b4--audio-converted--3eed17a2-38c7-4f1b-b356-8e40ac33f793.mp3?dest-id=376644",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/9/6/a/6/96a6194b444b26ccd959afa2a1bf1c87/SWN_615_FRI_Thumbnail_SWN_1920x1920-op1_29051421-2980-4085-ae9a-e2f6f940e6a4.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://hntvaudio.libsyn.com/911-at-25-offerloader-gemini-cli-liquid-10-doom-josh-marpet-and-more-swn-615"
+  },
+  {
     "id": "cybercabs-robohobos-bigbear-nightmare-eclipse-wechat-flock-ascii-aaran-leyland-s",
     "podcastId": "security-weekly-news-audio",
     "title": "Cybercabs, Robohobos, BigBear, Nightmare Eclipse, weChat, Flock, ASCII, Aaran Leyland - SWN #614",

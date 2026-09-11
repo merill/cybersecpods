@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-739-tales-of-pentest-pwnage-part-89",
+    "podcastId": "7-minute-security",
+    "title": "7MS #739: Tales of Pentest Pwnage – Part 89",
+    "description": "<p>Hey friends! Today is a tale of pentest pwnage episode, and this one features a path to escalation I have <em>never</em> seen before – one I could only find few references on the entire Internet. It happened completely by accident, but during the report readout I'm absolutely going to say it was intentional and that I totally meant to do that.</p> <p>Here's what we cover:</p> <ul> <li>A client that's actually doing the things – year two or three of testing this environment, and they had buttoned up so much that I had to dig <em>deep</em>. Great for them, freaking frustrating for me.</li> <li>Why my Kerberoasting success rate has fallen off a cliff – Microsoft pushed an encryption change earlier this year, and cracking those hashes is a whole different ballgame now.</li> <li>Selective poisoning vs. poison-all-the-things – a nod to Pretender, which I covered in a TuesdayTOOLSday video over at 7MinSec.club. It doesn't get nearly enough love in blogs and videos.</li> <li>The relay that fired… and did something completely different than I expected – I saw the ntlmrelayx log scroll by, thought \"yes, I've got DA,\" and then had a \"wait, wait, <em>whoa</em>, what?\" moment. I was honestly a little panicked.</li> <li>An ancient Exchange vulnerability comes back to bite – <a href= \"https://github.com/fortra/impacket/pull/1288\" target=\"_blank\" rel= \"noopener\">CVE-2021-34470 (vulnerable Exchange schema)</a> turned out to be the fallback that got me a foothold I had no business having.</li> <li>My favorite evil privesc trick, revisited – queuing up a scheduled task that runs under an interactively logged-in DA's context without ever knowing their password. The MDR alerts that come out of this are equal parts hilarious and terrifying.</li> <li>A bonus thing to always look for – scheduled tasks running under saved DA creds that point at a script <em>you</em> can edit. Add one little line to fire an evil command of your choice, and you're in like a dirty shirt.</li> </ul> <p>Check us out at <a href=\"https://7minsec.com/\" target= \"_blank\" rel=\"noopener\">7MinSec.com</a> for pentesting, training, controls assessments and security miscellany, <a href=\"https://7minsec.club/\" target=\"_blank\" rel=\"noopener\">7MinSec.club</a> for our Substack and weekly TuesdayTOOLSday videos, and <a href=\"https://7minsec.wiki/\" target=\"_blank\" rel=\"noopener\">7MinSec.wiki</a> for tips, cheat sheets and scripts (including pages on the scheduled task shenanigans above).</p>",
+    "publishedAt": "2026-09-11T19:12:00.000Z",
+    "duration": 1074,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-739-Tales_of_Pentest_Pwnage-Part_89.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-739-tales-of-pentest-pwnage-part-89"
+  },
+  {
     "id": "7ms-738-babys-first-projectdiscovery-neo",
     "podcastId": "7-minute-security",
     "title": "7MS #738: Baby's First ProjectDiscovery Neo",
