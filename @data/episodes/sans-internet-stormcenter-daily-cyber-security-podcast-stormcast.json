@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-september-11th-2026-redtail-analsys-sansedu-checkpoint-vpn",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, September 11th, 2026: Redtail Analsys (@sans_edu); Checkpoint VPN Patch; Netscaler and Sonicwall Attacks",
+    "description": "<br/>\nRedtail Payload Analysis<br/>\n<a href=\"https://isc.sans.edu/diary/Redtail%20Payload%20Analysis%20%5BGuest%20Diary%5D/33326\">https://isc.sans.edu/diary/Redtail%20Payload%20Analysis%20%5BGuest%20Diary%5D/33326</a><br/>\nCheckpoint Critical Security Advisory: VPN Vulnerabilities CVE-2026-85102 and CVE-2026-8510<br/>\n<a href=\"https://community.checkpoint.com/t5/General-Topics/Action-Required-Critical-Security-Advisory-VPN-Vulnerabilities/td-p/281995\">https://community.checkpoint.com/t5/General-Topics/Action-Required-Critical-Security-Advisory-VPN-Vulnerabilities/td-p/281995</a><br/>\nCisco Secure Firewall Management Center Software Authentication Bypass Vulnerability<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-onprem-fmc-authbypass-5JPp45V2\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-onprem-fmc-authbypass-5JPp45V2</a><br/>\nNetscaler ADC Exploit<br/>\n<a href=\"https://x.com/ethicalhack3r/status/2095480651478663393\">https://x.com/ethicalhack3r/status/2095480651478663393</a><br/>\nSonicwall SMA1000 Attack<br/>\n<a href=\"https://hunt.io/blog/sonicwall-sma1000-uk-council-attack\">https://hunt.io/blog/sonicwall-sma1000-uk-council-attack</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-09-11T02:00:02.000Z",
+    "duration": 352,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10090.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10090,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10090"
+  },
+  {
     "id": "sans-stormcast-thursday-september-10th-2026-proxmox-scans-msft-defender-gogole-c",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, September 10th, 2026: Proxmox Scans; MSFT Defender, Gogole Chorme, and FortiPAM Vulns.",

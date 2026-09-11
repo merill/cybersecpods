@@ -1,5 +1,22 @@
 [
   {
+    "id": "snake-oilers-watchtowr-xbow-and-coreview",
+    "podcastId": "risky-business",
+    "title": "Snake Oilers: watchTowr, XBOW and CoreView",
+    "description": "<p>In this edition of the Snake Oilers podcast three vendors stop by to pitch the audience on their products:</p>\n\n<ul>\n  <li><a href=\"https://watchtowr.com/\">watchTowr</a>: We’re all familiar with watchTowr’s research, but what do they actually do?</li>\n  <li><a href=\"https://xbow.com/\">XBOW</a>: The AI pentesting company pitches its approach</li>\n  <li><a href=\"https://www.coreview.com/\">CoreView</a>: Your M365 tenant is probably a security disaster. Tame it with CoreView!</li>\n</ul>\n\n<p>This episode is also available on <a href=\"https://youtu.be/ltcj0Mx1qgA\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-09-11T01:33:50.000Z",
+    "duration": 2520,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SNAKEOILERS24PT1.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SNAKEOILERS24PT1/"
+  },
+  {
     "id": "risky-business-852-cyber-command-wants-to-buy-shells",
     "podcastId": "risky-business",
     "title": "Risky Business #852 -- Cyber Command wants to buy shells",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB784/"
-  },
-  {
-    "id": "risky-business-783-evil-webcam-ransomwares-entire-windows-network",
-    "podcastId": "risky-business",
-    "title": "Risky Business #783 -- Evil webcam ransomwares entire Windows network",
-    "description": "<p>On this week’s show Patrick Gray and Adam Boileau discuss the week’s cybersecurity news with special guest Rob Joyce, a Former Special Assistant to the US President and Director of Cybersecurity for NSA.</p>\n\n<p>They talk through:</p>\n\n<ul>\n  <li>A realistic bluetooth-proximity phishing attack against Passkeys</li>\n  <li>A very patient ransomware actor encrypts an entire enterprise with a puny linux webcam processor</li>\n  <li>The ESP32 backdoor that is neither a door nor at the back</li>\n  <li>The X DDoS that Elon said was Ukraine is claimed by pro-Palestinian hacktivists</li>\n  <li>Years later, LastPass hackers are still emptying crypto-wallets</li>\n  <li>…and it turns out North Korea nailed {Safe}Wallet with a malicious docker image. Nice!</li>\n</ul>\n\n<p>Rob Joyce recently testified to the US House Select Committee on the Chinese Communist Party, and he explains why DOGE kicking probationary employees to the curb is “devastating” for the national security staff pipeline.</p>\n\n<p>This week’s episode is sponsored by SpecterOps, makers of the BloodHound identity attack path mapping tool. Chief Product Officer Justin Kohler and Principal Security Researcher Lee Chagolla-Christensen discuss their pragmatic approach to disabling NTLM authentication in Active Directory using BloodHound’s insight.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/28s8uURA6xM\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://mastersplinter.work/research/passkey/\">CVE-2024-9956 - PassKey Account Takeover in All Mobile Browsers | Tobia Righi - Security Researcher</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/\">Feds Link $150M Cyberheist to 2022 LastPass Hacks – Krebs on Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.s-rminform.com/latest-thinking/camera-off-akira-deploys-ransomware-via-webcam\">Camera off: Akira deploys ransomware via webcam</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.tarlogic.com/news/hidden-feature-esp32-chip-infect-ot-devices/\">Tarlogic detects a hidden feature in the mass-market ESP32 chip that could infect millions of IoT devices</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://krebsonsecurity.com/2025/03/alleged-co-founder-of-garantex-arrested-in-india/\">Alleged Co-Founder of Garantex Arrested in India – Krebs on Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/37k-vmware-esxi-instances-vulnerable-to-critical-zero-day/741749/\">37K+ VMware ESXi instances vulnerable to critical zero-day | Cybersecurity Dive</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/security/2025/03/apple-patches-0-day-exploited-in-extremely-sophisticated-attack/\">Apple patches 0-day exploited in “extremely sophisticated attack” - Ars Technica</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.wired.com/story/x-ddos-attack-march-2025/\">What Really Happened With the DDoS Attacks That Took Down X | WIRED</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/eleven11bot-revised-downward-mirai/741923/\">Eleven11bot estimates revised downward as researchers point to Mirai variant | Cybersecurity Dive</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/ballista-botnet-tp-link-archer-routers\">Previously unidentified botnet infects unpatched TP-Link Archer home routers | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/safe/status/1897663514975649938\">Safe.eth on X: \"Investigation Updates and Community Call to Action\" / X</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://help.safe.global/en/articles/276344-how-to-verify-safe-wallet-transactions-on-a-hardware-wallet\">How to verify Safe{Wallet} transactions on a hardware wallet | Safe{Wallet} Help Center and Support.</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/doj-charges-chinese-nationals-isoon-cyberattacks-treasury\">US charges Chinese nationals in cyberattacks on Treasury, dissidents and more | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/joyce-china-probationary-firings-devastating-congress/\">Former top NSA cyber official: Probationary firings ‘devastating’ to cyber, national security | CyberScoop</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.washingtonpost.com/national-security/2025/03/05/us-ukraine-intelligence-sharing/\">U.S. pauses intelligence sharing with Ukraine used to target Russian forces - The Washington Post</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2025-03-12T04:30:32.000Z",
-    "duration": 3820,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB783.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RB783/"
   }
 ]
