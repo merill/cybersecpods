@@ -1,5 +1,22 @@
 [
   {
+    "id": "replay-episode-178-internal-security-controls-that-actually-frustrate-attackers",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "[Replay] Episode 178: Internal Security Controls That Actually Frustrate Attackers",
+    "description": "<p>Replay of Episode 178, originally published April 22, 2026.<br/><br/>We are re-running this one because it is the question we get asked most<br/>on internal pen test debriefs: of everything on the list, what actually<br/>slows an attacker down? Spencer and Tyler answer it from the attacker<br/>side, using what has and has not stopped them on real engagements.<br/><br/>What's covered:<br/><br/>- Application control done right, including where ThreatLocker and WDAC<br/>  actually block a payload and where they get bypassed<br/>- MFA, the Protected Users group, and least privilege as attacker-facing<br/>  controls rather than compliance checkboxes<br/>- Why mismanaged admin privileges and service accounts remain the fastest<br/>  route from foothold to domain admin<br/>- Network segmentation and zero trust, and what separates a real<br/>  implementation from a diagram<br/>- Deception techniques and EDR baselining for catching activity that<br/>  looks legitimate<br/><br/>If you are deciding where the next dollar of your security budget goes,<br/>this is the episode that tells you what attackers hope you skip.</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-09-11T13:00:00.000Z",
+    "duration": 1862,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19790156-replay-episode-178-internal-security-controls-that-actually-frustrate-attackers.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "every-it-team-has-a-joe-or-ep-195",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Every IT Team Has a Joe | Ep 195",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-11-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 11 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Two MikroTik flaws exploited, deadline Sunday — CVE-2026-86060, CVE-2026-67277 — Do: Patch RouterOS, close SSH and btest — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n2. WatchGuard Firebox now in ransomware — CVE-2025-14733 — Do: Upgrade Fireware to 12.5.15 or later — https://www.scworld.com/news/cisa-watchguard-firebox-bug-exploited-in-ransomware-campaigns · NVD — https://nvd.nist.gov/vuln/detail/CVE-2025-14733\n3. Two 9.8s in Check Point VPN certs — CVE-2026-85102, CVE-2026-85103 — Do: Apply Check Point's 9 September VPN fixes — https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html\n4. AWS SSM agent leaks instance credentials — CVE-2026-89049 — Do: Upgrade SSM Agent to 3.3.4851.0 — https://aws.amazon.com/security/security-bulletins/rss/2026-107-aws/\n5. Backup driver writes below the OS — CVE-2026-12780 — Do: Block amwrtdrv.sys, confirm Secure Boot on — https://kb.cert.org/vuls/id/687587 · NVD — https://nvd.nist.gov/vuln/detail/CVE-2026-12780\n6. AI closed the detection-evasion loop — Do: Weight behavioural detection over signatures — https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/\n7. BYOD calls end at the Graph API — Do: Alert on new MFA device registrations — https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data\n8. IDScan confirms the licence breach — Do: Ask vendors how long they keep the scan — https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/\n9. Sogou input method drops a backdoor — CVE-2026-51990 — Do: Confirm Sogou is on an April 2026 build — https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html\n10. Work profiles hide a banking trojan — Do: Test your app's checks inside a work profile — https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html\n11. Android ransomware plus spyware — Do: Block sideloading, alert on Accessibility grants — https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/\n12. MCP tool descriptions act as instructions — Do: Review and pin your MCP tool descriptions — https://www.scworld.com/resource/when-english-becomes-exploit-code-the-hidden-risk-inside-mcp-servers\n13. Root on the node forges workload identity — Do: Shorten SPIFFE credential lifetimes — https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/\n14. Passkeys move between managers — Do: Revisit passkeys now migration works — https://www.helpnetsecurity.com/2026/09/10/google-android-password-manager-transfer/\n15. Invoice fraud with an AI paper trail — Do: Call back on every payment-detail change — https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/</code></pre>",
+    "publishedAt": "2026-09-11T12:38:55.000Z",
+    "duration": 340,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/18f966071d1925a643af510403cba48dc5bd0c50dd8591105531dc9b92a0aca4/eyJlcGlzb2RlSWQiOiJhMWEyOTIzMy04MzI5LTRhOGMtOTc5Mi1mNGE2MGQ2OTRlYTgiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFhM2Y1YjA1YmVlYjdhYzdjOGFmMzA5L2RhaWx5LWRlZnNlYy0yMDI2LTktMTFfXzEyLTM2LTAubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-10-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 10 2026 - Daily DefSec Brief",
