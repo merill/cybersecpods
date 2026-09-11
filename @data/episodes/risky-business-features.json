@@ -1,5 +1,22 @@
 [
   {
+    "id": "hunting-software-supply-chain-malware",
+    "podcastId": "risky-business-features",
+    "title": "Hunting software supply chain malware",
+    "description": "<p>In this podcast episode, OpenSourceMalware founder Paul McCarty joins James Wilson to explain how researchers find and analyse malicious packages, GitHub repositories and developer tools.</p>\n\n<p>Paul walks James through static analysis, deobfuscation and reconstructing multi-stage kill chains to identify what attackers are trying to steal. They also discuss how LLMs make malware development easier while introducing operational security mistakes.</p>\n\n<p>The pair examine DPRK tradecraft, blockchain-based payload delivery and what Paul calls Pollen Rider, which can reinfect developers through their own repositories.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-09-11T06:53:41.000Z",
+    "duration": 4504,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES39.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES39/"
+  },
+  {
     "id": "who-gets-to-hack-the-hackers",
     "podcastId": "risky-business-features",
     "title": "Who gets to hack the hackers?",
