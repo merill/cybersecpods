@@ -1,5 +1,22 @@
 [
   {
+    "id": "a-beast-by-any-other-name-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "A beast by any other name. [Research Saturday]",
+    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/brigid-o-gorman/\">Brigid O Gorman</a>, Senior Intelligence Analyst on <a href=\"https://www.linkedin.com/company/symantec/\">Symantec</a> Threat Hunter team, discussing their work on “GodDamn Ransomware: Latest Beast Rebrand Uses Malicious Driver to Disable Defenses.\" GodDamn ransomware, the latest rebrand from the Hyadina group behind Monster and Beast, is using increasingly sophisticated techniques to evade defenses. </p>\n<p>In a recent attack, the threat actors used AnyDesk for remote access, a broad credential-harvesting toolkit, and the PoisonX malicious kernel driver to disable endpoint security before deploying the ransomware. The activity highlights Hyadina’s continued development of its ransomware operations and an escalation in its defense-evasion capabilities.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.sysdig.com/blog/llmjacking-evolved-attackers-are-using-stolen-ai-compute-to-build-offensive-agentic-tools\">⁠⁠⁠</a><a href=\"https://arcticwolf.com/resources/blog/citrixbleed-2-to-cloudflared-the-tools-and-techniques-behind-anubis-ransomware-attacks/\">⁠</a><a href=\"https://www.security.com/threat-intelligence/goddamn-ransomware-beast-rebrand\">GodDamn Ransomware: Latest Beast Rebrand Uses Malicious Driver to Disable Defenses</a></li>\n</ul>",
+    "publishedAt": "2026-09-12T07:00:00.000Z",
+    "duration": 1382,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW1411726251.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/c7ce7084-ad51-11f1-a8fc-dfcfabd2dc30/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 441,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/441/notes"
+  },
+  {
     "id": "you-might-want-to-watch-what-you-say",
     "podcastId": "cyberwire-daily",
     "title": "You might want to watch what you say.",
