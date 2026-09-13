@@ -1,5 +1,22 @@
 [
   {
+    "id": "ben-gardiner-on-hacking-truck-brake-controllers",
+    "podcastId": "nexus-claroty",
+    "title": "Ben Gardiner on Hacking Truck Brake Controllers",
+    "description": "<p>Ben Gardiner, senior cybersecurity research engineer for the National Motor Freight Traffic Association (NMFTA), joins the Nexus Podcast to discuss research he published on a silent patch released by vendor Bendix addressing serious cybersecurity vulnerabilities in brake controllers found on tractor trailers. The vulnerabilities—which were updated as part of a safety recall—posed safety risks to drivers and others on the road. </p><p>Ben explains how and why he chose to <a href='https://nmfta.org/wp-content/media/2026/08/BHUS26-Gardiner-Tractor-ECU-RE-WP.pdf'>reverse-engineer the safety recall</a> and how the vulnerabilities impact the security of any trailer-connected telematics devices, and also how they could be exploited at close range. </p><p><a href='https://nexusconnect.io/podcasts?utm_source=buzzsprout&utm_medium=podcast_description&utm_campaign=episode_139'>Subscribe and listen to the Nexus Podcast here</a>. </p>",
+    "publishedAt": "2026-09-13T04:00:00.000Z",
+    "duration": 1552,
+    "audioUrl": "https://www.buzzsprout.com/1475533/episodes/19772449-ben-gardiner-on-hacking-truck-brake-controllers.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 140,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "tal-kollender-on-closing-remediation-gaps-in-security",
     "podcastId": "nexus-claroty",
     "title": "Tal Kollender on Closing Remediation Gaps in Security",
