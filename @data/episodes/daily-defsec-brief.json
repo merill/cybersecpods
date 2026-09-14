@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-14-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 14 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. GitLab path traversal at CVSS 10, now exploited — CVE-2026-85706 — Do: Upgrade GitLab, then grep for file.path — https://watchtowr.com/resources/rapid-reaction-gitlab-critical-path-traversal-vulnerability-cve-2026-85706/\n2. ScreenConnect file-transfer flaw now has a patch — CVE-2026-84869 — Do: Upgrade ScreenConnect to 26.6.5 — https://www.connectwise.com/company/trust/security-bulletins/2026-09-08-screenconnect-bulletin\n3. Artifactory chain mints admins, drops a backdoor — CVE-2026-42018, CVE-2026-42016 — Do: Patch Artifactory, audit admin accounts — https://www.wiz.io/blog/artifactory-under-attack-in-the-wild-exploitation-of-cve-2026-42016-cve-2026-4201\n4. Metasploit weaponizes five KEV flaws at once — CVE-2026-20079, CVE-2026-83549, CVE-2026-63077, CVE-2026-82078, CVE-2026-19295 — Do: Patch the five KEV flaws now weaponized — https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-goes-to-sixteen\n5. Plesk restore race gives a customer root — CVE-2026-68488 — Do: Upgrade Plesk to 18.0.80.7 — https://support.plesk.com/hc/en-us/articles/43248932867351-Vulnerability-in-Plesk-s-Backup-Manager-symlink-race-during-restore-allows-root-privilege-escalation\n6. Dell ObjectScale unauth RCE at CVSS 10 — CVE-2026-70416 — Do: Upgrade ObjectScale to 4.4.0.0 — https://securityonline.info/dell-objectscale-vulnerabilities-cve-2026-70416/\n7. Direct Send phishing lands as internal mail — Do: Set RejectDirectSend to true in M365 — https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/\n8. Malware hosted on AI vendors' own domains — Do: Filter AI share links as user content — https://www.huntress.com/blog/ai-attack-surface\n9. Fake agency request passed every email check — Do: Verify agency data requests out of band — https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/\n10. 1.8 million APKs mined for hardcoded secrets — Do: Scan your shipped mobile apps for secrets — https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/\n11. Stolen police login opened a state DMV database — Do: Inventory external accounts into your systems — https://therecord.media/florida-shiny-hunters-motor-vehicle\n12. Kiro wrote the edit before you approved it — CVE-2026-89332 — Do: Upgrade Kiro to 0.8.135, rotate creds — https://aws.amazon.com/security/security-bulletins/rss/2026-111-aws/\n13. 76% deployed Copilot, 43% reviewed permissions — Do: Review M365 oversharing before Copilot — https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/\n14. IT staff clicked more than any other team — Do: Include IT in phishing simulations — https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/\n15. OpenAI agent swarm ran the RubyGems attack — Do: Rotate RubyGems API keys from May — https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/</code></pre>",
+    "publishedAt": "2026-09-14T11:30:41.000Z",
+    "duration": 360,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/8da993a3738bd020bfcd4d5f403bc36e5bccf68c359158165654ce7e3fd41387/eyJlcGlzb2RlSWQiOiI3OGM1NTYwMS1iOTFmLTRiNTMtYTM0MS1mNzY2N2M5YWNhYzUiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFhN2RhOTVhYzQ1MjFiYjAyZDQ3YjNhL2RhaWx5LWRlZnNlYy0yMDI2LTktMTRfXzExLTI5LTI1Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-11-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 11 2026 - Daily DefSec Brief",

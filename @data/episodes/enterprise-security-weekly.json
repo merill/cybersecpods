@@ -1,5 +1,22 @@
 [
   {
+    "id": "safely-exploiting-vulnerabilities-at-scale-tvs-attack-privacy-and-the-news-sneha",
+    "podcastId": "enterprise-security-weekly",
+    "title": "Safely exploiting vulnerabilities at scale, TVs attack privacy, and the news. - Snehal Antani - ESW #476",
+    "description": "Interview with Snehal Antani <p>Snehal Antani, CEO and co-founder of Horizon3 joins us to talk about how automated validation can help with exposure management. As vulnerability counts spike, security teams are looking for a way to prioritize. Automated penetration testing offers a way to quickly separate exploitable vulnerabilities from the rest.</p> <p>This segment is sponsored by Horizon3. Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/horizon3\">https://securityweekly.com/horizon3</a> to learn more about them!</p> Topic Segment - SmartTVs and Privacy <p>For this week's topic segment, we explore privacy and TVs. LG has <a rel=\"noopener\" target=\"_blank\" href= \"https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956\"> been in the news</a> for allegedly collecting data from its customers, but the facts are unclear.</p> <p>We share our recent experiences and dive into some of the primary concerns and theories about what's going on here.</p> <p>If you want to opt out of some of your TV's data collection, Consumer Reports has a <a rel=\"noopener\" target=\"_blank\" href= \"https://www.consumerreports.org/electronics/privacy/how-to-turn-off-smart-tv-snooping-features-a4840102036/\"> collection of instructions</a> for a variety of TV platforms.</p> Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>We check the vibes</li> <li>We check finding and acquisitions</li> <li>Nightmare Eclipse or Good Night of Sleep Eclipse?</li> <li>Update on Anthropic's Glasswing project</li> <li>How long would it take for a mobile phone worm to spread?</li> <li>Don't expose SSH to the public Internet</li> <li>Massive amounts of cryptocurrency continue to get stolen</li> <li>Did you actually read your third party's SOC 2?</li> <li>Your boss may be reading your AI chat history</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-476\">https://securityweekly.com/esw-476</a></p>",
+    "publishedAt": "2026-09-14T09:00:00.000Z",
+    "duration": 6041,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_476_1--1b949722-58b6-4035-a1a0-fb3502c00058--audio-converted--372b9c8b-e18c-4625-8794-54f28974da02.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/9/2/e/d/92edeed27606565116c3140a3186d450/ESW_476_Thumbnail_ESW_1920x1920-op1_6657254a-ef78-455d-95d2-97ca25a1a78c.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/safely-exploiting-vulnerabilities-at-scale-tvs-attack-privacy-and-the-news-snehal-antani-esw-476"
+  },
+  {
     "id": "shadow-ai-epidemic-uncovering-agents-on-the-endpoint-british-library-breach-and-",
     "podcastId": "enterprise-security-weekly",
     "title": "Shadow AI Epidemic: Uncovering Agents on the Endpoint, British Library Breach, & News - Amit Assaraf - ESW #475",
