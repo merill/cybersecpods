@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-september-14th-2026-self-expanding-stolen-llm-gateways-pan",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, September 14th, 2026: Self-Expanding Stolen LLM Gateways; PAN-OS Vuln; OpenAI Hacked Ruby; Passkey Themed Social Engineering",
+    "description": "<br/>\nThe Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access<br/>\n<a href=\"https://isc.sans.edu/diary/The%20Self-Expanding%20Stolen%20Inference%20Supply%20Chain%3A%20An%20AI%20Agent%20Harvesting%20and%20Re-Serving%20LLM%20Access/33332\">https://isc.sans.edu/diary/The%20Self-Expanding%20Stolen%20Inference%20Supply%20Chain%3A%20An%20AI%20Agent%20Harvesting%20and%20Re-Serving%20LLM%20Access/33332</a><br/>\nCVE-2026-0310 PAN-OS: Buffer Overflow Vulnerability via XML Processing<br/>\n<a href=\"https://security.paloaltonetworks.com/CVE-2026-0310\">https://security.paloaltonetworks.com/CVE-2026-0310</a><br/>\nOpenAI agents carried out an undisclosed cyber-attack on RubyGems<br/>\n<a href=\"https://www.rubyhack.ai\">https://www.rubyhack.ai</a><br/>\nPasskey-themed social engineering leads to identity and cloud compromise<br/>\n<a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/\">https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-09-14T02:00:03.000Z",
+    "duration": 412,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10092.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10092,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10092"
+  },
+  {
     "id": "sans-stormcast-friday-september-11th-2026-redtail-analsys-sansedu-checkpoint-vpn",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, September 11th, 2026: Redtail Analsys (@sans_edu); Checkpoint VPN Patch; Netscaler and Sonicwall Attacks",
