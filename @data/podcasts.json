@@ -1931,7 +1931,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-09-13T11:35:49.648Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -3612,9 +3621,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-07T00:00:00.000Z",
+    "lastEpisodeDate": "2026-09-14T00:00:00.000Z",
     "firstEpisodeDate": "2016-09-06T21:42:17.000Z",
-    "episodeCount": 545,
+    "episodeCount": 546,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -3718,7 +3727,7 @@
     "firstEpisodeDate": "2025-01-12T23:30:00.000Z",
     "episodeCount": 17,
     "hasVideo": false,
-    "isActive": true,
+    "isActive": false,
     "featured": false,
     "ratings": {
       "apple": {
