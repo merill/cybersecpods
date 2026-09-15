@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-15-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 15 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Cisco email gateway zero-day exploited for root — CVE-2026-76461, CVSS 9.8 — Do: Upgrade AsyncOS 16.5.0-780, grep mail_logs — https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/\n2. Vite dev servers scanned for cloud credentials — CVE-2026-39364, CVSS 7.5 — Do: Upgrade Vite to 7.3.2 or 8.0.5 — https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/\n3. AI agents ran a credential campaign in six hours — Do: Shorten cloud key lifetimes and alert on scanning — https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html\n4. LiteSpeed flaw takes a hosting account to root — no CVE assigned — Do: /usr/local/lsws/admin/misc/lsup.sh -f -v 6.3.7 — https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html\n5. Apple patches 261 flaws across every OS — Do: Update Mac security tools before macOS 27 — https://isc.sans.edu/diary/rss/33336\n6. Homebrew 7.0.0 closes a sudo path in casks — Do: Install Homebrew 7.0.0 on developer Macs — https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/\n7. MeshCentral used as the backdoor at a broadband ISP — CVE-2024-21762 in the toolkit — Do: Hunt for RMM agents you never deployed — https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html\n8. AWS TEAM grants access it was not asked for — CVE-2026-86830, CVSS 7.2 — Do: Upgrade TEAM to 1.5.1, forks included — https://aws.amazon.com/security/security-bulletins/rss/2026-112-aws/\n9. An unpatched VPN cost Japan 246,000 records — Do: Alert on bulk file reads by service accounts — https://securityaffairs.com/199090/security/non-zero-day-vpn-flaw-left-japan-government-shared-network-platform-exposed-246000-records-at-risk.html\n10. Office update breaks copy and paste in Excel — Do: Warn the help desk about KB5002914 — https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/\n11. WordPress scans plugin updates before shipping — Do: Leave WordPress plugin auto-updates on — https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html\n12. A $159 board defeats confidential computing — no CVE will be assigned — Do: Recheck what you claim confidential computing proves — https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html</code></pre>",
+    "publishedAt": "2026-09-15T11:42:03.000Z",
+    "duration": 298,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/4b49157fc3f128fd0354bd7859420fbaa22bb8d40fc8aa8b62a6d658c73a84b6/eyJlcGlzb2RlSWQiOiI1ZDkyNWMyZS00NWFkLTQwMzMtYjNiYy1mZTdkNmNhMDAzMTAiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFhOTJlOTE2NTk1MzY5MDBhNjQyYzA5L2RhaWx5LWRlZnNlYy0yMDI2LTktMTVfXzExLTQwLTEubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-14-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 14 2026 - Daily DefSec Brief",
