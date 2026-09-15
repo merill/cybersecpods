@@ -1,5 +1,22 @@
 [
   {
+    "id": "dtsr-episode-723-richard-bird-security-is-built-wrong",
+    "podcastId": "down-the-security-rabbithole",
+    "title": "DtSR Episode 723 - Richard Bird Security is Built Wrong",
+    "description": "<p><b>TL;DR: </b>This week's guest is Richard Bird, who has a new book coming out. He says, \"Cybersecurity measures activity while its adversaries measure opportunity,\" and thirty years of spending has been priced against the wrong scoreboard. Great start, and you know it's going to get a little punchy.</p><p><b>Guest:</b></p><ul><li><a href='https://www.linkedin.com/in/rbird/'>Richard Bird</a></li></ul><p><b>Description</b></p><p>Cybersecurity spending has exploded for 30 years, and the scoreboard still looks brutal. We sit down with Richard to talk about his new book, “Built Wrong: Why Cybersecurity is Failing and How We Can Rebuild It,” and we don’t sugarcoat the core claim: defenders measure activity while adversaries measure opportunity, and our metrics push us toward more tools, more dashboards, and more noise instead of fewer breaches and smaller blast radii.<br/><br/>We dig into why common security metrics behave like “measuring the weather” and how that creates a self-perpetuating cycle of reports, blinky lights, and ROI stories that don’t hold up in financial terms. Richard shares a blunt economic lens through his Hacker in a Hoodie framing, then we connect the dots to cyber insurance and how premium pricing can accidentally reward planned security purchases rather than proven loss reduction. If losses go up while premiums go down, something is broken in the measurement and incentive chain.<br/><br/>From there we get practical: how do we justify investments like firewall upgrades without relying on vendor promises and buzzwords? We talk about using real evidence like the Verizon DBIR and OWASP Top 10, and Richard offers a simple way to organize security thinking and metrics into three buckets: exposure, interdiction, and consequence. We also push on the leadership problem: if “security is everyone’s job” but only the CISO gets penalized, accountability will always be uneven.<br/><br/>If you care about cybersecurity metrics, cyber risk management, CISO leadership, and building a security program that speaks the CFO’s language, this conversation will challenge your defaults. Subscribe, share this with a security leader who’s tired of vanity metrics, and leave us a review with one measurement you think the industry needs to stop using.</p><p><b>YouTube Video: </b><a href='https://youtu.be/sOdKjIibIKc'>https://youtu.be/sOdKjIibIKc</a></p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2153215/fan_mail/new\">Have something to say? Let's hear it.</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/2153215/support\">Support the show</a></p><p><em>>>> Please consider clicking the link above to support the show!</em><br/>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=<br/><b>YouTube home:</b> <a href='https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq'>https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq</a><br/><b>LinkedIn Page:</b> <a href='https://www.linkedin.com/company/down-the-security-rabbithole-podcast/'>https://www.linkedin.com/company/down-the-security-rabbithole-podcast/</a><br/><b>X/Twitter:</b> <a href='https://twitter.com/dtsr_podcast'>https://twitter.com/dtsr_podcast</a></p>",
+    "publishedAt": "2026-09-15T10:00:00.000Z",
+    "duration": 2355,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2153215/episodes/19806820-dtsr-episode-723-richard-bird-security-is-built-wrong.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 723,
+    "seasonNumber": 16,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "dtsr-episode-722-vulnerability-math-aint-mathing",
     "podcastId": "down-the-security-rabbithole",
     "title": "DtSR Episode 722 - Vulnerability Math Ain't Mathing",

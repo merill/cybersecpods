@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-ai-threat-multiplier-securing-mobile-apps-in-the-automated-era-ryan-lloyd-ja",
+    "podcastId": "application-security-weekly",
+    "title": "The AI Threat Multiplier: Securing Mobile Apps in the Automated Era - Ryan Lloyd, Jason Cortlund - ASW #400",
+    "description": "<p>While agents and LLMs haven't fundamentally changed core mobile vulnerability types, they have supercharged speed, scale, and accessibility—democratizing threats like automated phishing, synthetic identity fraud, and easier identification of hard-coded secrets. Ryan Lloyd and Jason Cortlund break down how threat actors leverage LLMs as a force multiplier to accelerate mobile app attacks. Then we discuss actionable defense strategies, from viewing agents as an active adversary to leveraging server-side threat telemetry, attestation, and layered defense strategies combined with polymorphic code releases.</p> <p>This segment is sponsored by Guardsquare. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/guardsquare\">https://securityweekly.com/guardsquare</a> to learn more about them!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-400\">https://securityweekly.com/asw-400</a></p>",
+    "publishedAt": "2026-09-15T09:00:00.000Z",
+    "duration": 3150,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_400_1--79d40cb1-7959-4983-9ae8-8088785a266a--audio-converted--e758de64-cb63-4bca-9bf1-d97cd3fd5b32.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/e/d/7/a/ed7adc5e4df5cfbdd959afa2a1bf1c87/ASW_400_Thumbnail_ASW_1920x1920-op1_f0dde5b3-c22c-481b-b4a7-e8341b809b43.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/the-ai-threat-multiplier-securing-mobile-apps-in-the-automated-era-ryan-lloyd-jason-cortlund-asw-400"
+  },
+  {
     "id": "security-conversations-on-ai-agents-and-emerging-threats-from-black-hat-2026-mic",
     "podcastId": "application-security-weekly",
     "title": "Security Conversations on AI, Agents, and Emerging Threats from Black Hat 2026 - Michael Leland, Ido Geffen, Sean Murphy, Idan Plotnik - ASW #399",
