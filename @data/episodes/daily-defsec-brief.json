@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-16-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 16 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. WSO2 API gateway takes a forged admin token — CVE-2026-5430 — Do: Apply the WSO2 update level, rotate gateway secrets — https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/2026/WSO2-2026-5328/\n2. Pixel modem zero-day used in targeted attacks — CVE-2026-58704 — Do: Push Pixel to the 2026-09-05 patch level — https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/\n3. Malware forges Chrome's extension integrity hashes — Do: Allowlist extensions, alert on developer mode — https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html\n4. Logitech Options+ gives a normal user SYSTEM — CVE-2026-12518 — Do: Upgrade Logi Options+ fleet-wide — https://blog.amberwolf.com/blog/2026/september/a-peripheral-path-to-system---exploiting-logi-options+-for-system-shells/\n5. GlobalProtect privesc needs a PAN-OS upgrade too — CVE-2026-0307 — Do: Upgrade the app and PAN-OS together — https://security.paloaltonetworks.com/CVE-2026-0307\n6. Parallels Desktop gives a local Mac user root — CVE-2026-90894 — Do: Upgrade Parallels Desktop to 27.0.0 — https://jfrog.com/blog/parallels-desktop-turns-appliance-install-into-root-shell/\n7. Oracle's September update covers 672 flaws — Do: Patch E-Business Suite first — https://www.tenable.com/blog/oracle-september-2026-critical-security-patch-update-addresses-672-cves\n8. Four of 800 hit their recovery target — Do: Run one full restore end to end — https://www.infosecurity-magazine.com/news/four-of-800-clients-hit-ransomware/\n9. Gambling sites doubling as C2 infrastructure — Do: Re-examine gambling-domain hits in proxy logs — https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652\n10. Fraudulent hires get credentials before detection — Do: Verify identity when credentials are issued — https://www.infosecurity-magazine.com/news/fraudulent-hires-credentials/\n11. Most Mythic C2 servers keep the default cert — Do: Alert on O=Mythic certificates and port 7443 — https://censys.com/blog/mythic-c2/</code></pre>",
+    "publishedAt": "2026-09-16T12:04:01.000Z",
+    "duration": 270,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/c85becba91de526348cac925cf3e57840a5324cc020872d7d19e9fabe9b5a03c/eyJlcGlzb2RlSWQiOiJkN2U2OWM5Yi0xMjJkLTQ5ZDctYTdmOS03MGM1OGRlZTI3NmUiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFhYTg1Mzk5NDYwZjk1MjNkZmU5NGUwL2RhaWx5LWRlZnNlYy0yMDI2LTktMTZfXzEyLTItMS5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-15-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 15 2026 - Daily DefSec Brief",
