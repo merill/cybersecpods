@@ -1,5 +1,22 @@
 [
   {
+    "id": "from-vulnerability-research-to-domain-admin-in-minutes",
+    "podcastId": "shadowtalk",
+    "title": "From Vulnerability Research to Domain Admin in Minutes",
+    "description": "<p>AI is changing the economics of cyberattacks. In this episode, we examine how a suspected threat actor used AI agents to accelerate PaperCut vulnerability research, exploit development, target identification, and post-compromise activity—moving from initial access to domain administrator access in as little as seven minutes.</p><p>We also explore recent reporting on large-scale AI-model distillation campaigns by China-based companies and what the increasing availability of frontier-level AI capabilities could mean for future nation-state and criminal threat operations.</p><p><b>Two questions your organization should be asking right now:</b></p><ul><li>If an attacker gained initial access through an internet-facing system tomorrow, could your team detect and contain the activity in less than seven minutes?</li><li>Are you evaluating vulnerabilities, exposed services, and identity privileges as connected attack paths—or as separate security issues?</li></ul><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Alexandra Moore: </b>Manager of Threat Intelligence at ReliaQuest, where she leads intelligence analysis and customer dissemination to help organizations understand and respond to emerging cyber threats. Prior to this, she established and scaled monitoring across Russian-language cybercriminal platforms at Digital Shadows, building collection and analytical coverage to support digital risk protection capabilities.</p>",
+    "publishedAt": "2026-09-16T16:00:00.000Z",
+    "duration": 1885,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19817294-from-vulnerability-research-to-domain-admin-in-minutes.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "one-empty-field-the-email-security-bypass-letting-attackers-impersonate-your-exe",
     "podcastId": "shadowtalk",
     "title": "One Empty Field: The Email Security Bypass Letting Attackers Impersonate Your Executives",
