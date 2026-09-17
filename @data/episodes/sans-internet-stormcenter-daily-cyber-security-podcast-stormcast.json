@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-september-17th-2026-hospitality-scans-cisco-acronis-and-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, September 17th, 2026: Hospitality Scans; Cisco, Acronis, and Pixel 0-Day; Dynamic Incident Response",
+    "description": "<br/>\nScans Targeting Hospitality Applications<br/>\n<a href=\"https://isc.sans.edu/diary/Scans%20Targeting%20Hospitality%20Applications/33344\">https://isc.sans.edu/diary/Scans%20Targeting%20Hospitality%20Applications/33344</a><br/>\nCisco Identity Services Engine Authentication Bypass Vulnerability CVE-2026-76460<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ISE-ABP-VNSW7Tn5\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-ISE-ABP-VNSW7Tn5</a><br/>\nAcronis Local privilege escalation due to insecure file permissions CVE-2026-87886<br/>\n<a href=\"https://security-advisory.acronis.com/advisories/SEC-10986\">https://security-advisory.acronis.com/advisories/SEC-10986</a><br/>\nPixel Update Bulletin September 2026<br/>\n<a href=\"https://source.android.com/docs/security/bulletin/pixel/2026/2026-09-01\">https://source.android.com/docs/security/bulletin/pixel/2026/2026-09-01</a><br/>\nDynamic Incident Response (Free E-Book)<br/>\n<a href=\"https://dynamicincidentresponse.com\">https://dynamicincidentresponse.com</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-09-17T02:00:03.000Z",
+    "duration": 384,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10098.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10098,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10098"
+  },
+  {
     "id": "sans-stormcast-wednesday-september-16th-2026-macos-27-traffic-cisco-0-day-protec",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, September 16th, 2026: MacOS 27 Traffic; Cisco 0-Day; Protecting Active Directory and API Tokens",
