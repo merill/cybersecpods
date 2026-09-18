@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-18-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 18 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Cisco ISE zero-day exploited for full control — CVE-2026-76460 — Do: Upgrade ISE, grep access.log on every node — https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/\n2. Stolen key rewrote vendor scripts at the edge — Do: Check 14 September traffic, hunt long-lived API keys — https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/\n3. Acronis backup flaw confirmed exploited — CVE-2026-87886 — Do: Upgrade the Acronis plugin to 1.9.3 HF3 — https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/\n4. A long username gets root on Check Point — CVE-2026-91843 — Do: LivePatch Check Point, tighten Trusted Clients — https://thehackernews.com/2026/09/critical-check-point-management-server.html\n5. Fake video calls target Rust crate owners — Do: Never install or paste during an unexpected call — https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/\n6. Docker sandbox escapes onto the macOS host — CVE-2026-77179 — Do: Upgrade Docker Sandboxes to 0.42.0 — https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html\n7. Malicious zone runs code on your resolver — CVE-2026-81642 — Do: Upgrade Unbound to 1.26.1 — https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html\n8. One DoH request crashes BIND's named — CVE-2026-77692 — Do: Upgrade BIND to 9.21.26 or 9.20.29 — https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/\n9. Android malware enables its own debug shell — Do: Alert on Developer Options being enabled — https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/\n10. First AI-agent breach reported to a regulator — Do: Check your breach template covers agent-run attacks — https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data\n11. One in eight MCP config slots holds a secret — Do: Search repos for MCP config files, rotate keys — https://www.helpnetsecurity.com/2026/09/18/hush-security-mcp-credential-exposure-report/</code></pre>",
+    "publishedAt": "2026-09-18T12:46:07.000Z",
+    "duration": 233,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/e2710a30e5f5b208f1aa5bc003de8cb450895027ba12ac4aad4511a2f4688232/eyJlcGlzb2RlSWQiOiI0MmVjMjdlZC00ZDljLTRjNzUtYWJiYi05YjhkNGQ3ZmNlN2YiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFhZDMyNDJjM2I2ZjQ5ZTQ2MWFiNzgxL2RhaWx5LWRlZnNlYy0yMDI2LTktMThfXzEyLTQ0LTUwLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-16-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 16 2026 - Daily DefSec Brief",
