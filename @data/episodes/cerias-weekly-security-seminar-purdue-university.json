@@ -1,5 +1,22 @@
 [
   {
+    "id": "mahimna-kelkar-rethinking-cryptography-and-blockchain-attacker-models",
+    "podcastId": "cerias-weekly-security-seminar-purdue-university",
+    "title": "Mahimna Kelkar, Rethinking Cryptography and Blockchain Attacker Models",
+    "description": "<p>In the past few years, blockchains have emerged as a new class of decentralized systems with wide-ranging applications. But the promise of blockchains has been marred by hype, speculation, and a plethora of high-profile attacks.The purpose of this talk is to demonstrate, through examples from my research, why blockchain security is challenging. Blockchains operate in a radically new, highly adversarial environment where subtle protocol flaws can be immediately monetized by anonymous actors. This fundamentally intertwines an assortment of fields---cryptography, distributed systems, and mechanism design, among many others. Blockchain security should no longer be thought of from a single lens.In this talk, I will show powerful new attacks, motivated by blockchains, that erode security through the very same tools typically used to build secure protocols. These attacks provide valuable insights on existing, well-studied security and cryptographic models. In turn, this shows why understanding blockchain security has broader utility and how it can serve as a guiding principle when designing secure systems.The first part of my talk challenges assumptions in cryptographic models of knowledge by showing powerful bribery attacks in bribery-resistant voting---fixing these attacks requires a stronger notion of knowledge. The second part will discuss new techniques for collusion using blockchains, and how it impacts incentives and models in accountable cryptography. About the speaker: Mahimna Kelkar is an assistant professor of computer science at Purdue University. His research designs and builds secure systems using techniques from applied cryptography, blockchain technology, and game theory. Before joining Purdue, he received his PhD in computer science from Cornell University and spent a year as a postdoctoral fellow at Columbia University. More details can be found on his websitehttps://mahimnakelkar.github.io/</p>",
+    "publishedAt": "2026-09-16T20:30:00.000Z",
+    "duration": 3006,
+    "audioUrl": null,
+    "videoUrl": "https://www.cerias.purdue.edu/assets/video/secsem/secsem_20260916.mp4",
+    "imageUrl": "https://www.cerias.purdue.edu/news_and_events/events/security_seminar/images/mahimn_kelkar_300x300.png",
+    "episodeNumber": 921,
+    "seasonNumber": 32,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "romila-pradhan-reasoning-about-interventions-in-data-and-machine-learning-system",
     "podcastId": "cerias-weekly-security-seminar-purdue-university",
     "title": "Romila Pradhan, Reasoning About Interventions in Data and Machine Learning Systems",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-740-tales-of-pentest-pwnage-part-90",
+    "podcastId": "7-minute-security",
+    "title": "7MS #740: Tales of Pentest Pwnage - Part 90",
+    "description": "<p>Hey friends! We've been on a bit of a Tales of Pentest Pwnage bender lately, so let's keep it rolling with Part 90. (And Mom, relax — this is <em>not</em> one pentest story chopped into 90 parts.) Today is less of an A-to-Z story and more a pile of tips and tricks pulled from a recent string of SCCM-flavored internals — plus a tangent about a video game and a little robot Claude and I built to get my life back.</p> <ul> <li>Multi-tier SCCM is having a moment — I've never administered SCCM a day in my life, but 2026 keeps dropping me into these split-role environments. Here's where I go to figure out my attack surface when all I've got is a low-priv cred.</li> <li>SMB signing on? Cool, I'll go around it — relaying from one SCCM box to the one with SQL on it, and the easy-button tool that vacuums the good stuff out of the database once you're there. (NAA creds, clear-text local admin passwords, install scripts with creds baked in…yes please.)</li> <li>Then relay the <em>other</em> direction — when the loot came back stale, a nudge from a Slack channel had me pointing the relay backwards, and I giggled like a little schoolboy at what popped out.</li> <li>Adding yourself to the local admin group: still weirdly undetected — an old episode of ours reminded me of an Impacket tool I don't see written up on many pentest blogs, and it slipped right by.</li> <li>My favorite cheat code hit a snag — the evil-scheduled-task-under-a-logged-in-DA trick kept coughing up permission errors, so I had to get creative. Plus the defensive recs I'm still trying to sharpen up — if you've got a better way to close this loophole, I'm all ears!</li> <li>Tangent: <em>Halloween</em> (the video game) and the lobby watcher — a million players and I'm <em>still</em> staring into the lobby abyss for 10 minutes at a time. So Claude and I built something that watches the screen and texts me when it's time to sprint back to the keyboard. It's not cheating. It's not! (The Texas Chainsaw crowd disagreed, loudly.)</li> </ul>",
+    "publishedAt": "2026-09-18T18:08:00.000Z",
+    "duration": 2031,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-740-Tales_of_Pentest_Pwnage-Part_90.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-740-tales-of-pentest-pwnage-part-90"
+  },
+  {
     "id": "7ms-739-tales-of-pentest-pwnage-part-89",
     "podcastId": "7-minute-security",
     "title": "7MS #739: Tales of Pentest Pwnage – Part 89",

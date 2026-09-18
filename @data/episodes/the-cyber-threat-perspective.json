@@ -1,5 +1,22 @@
 [
   {
+    "id": "one-hacker-42-targets-inside-anthropics-ai-threat-report-or-ep-196",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "One Hacker, 42 Targets: Inside Anthropic's AI Threat Report | Ep 196",
+    "description": "<p>One French-speaking hacktivist targeted 42 organizations and got internal access to 14 of them, working alone. That is the kind of detail Anthropic's September 2026 threat intelligence report put on the record, with data spanning December 2025 through August 2026. Spencer and Tyler walk through all six generative threat groups named in it and what actually changes for defenders.</p><p>Their read: the attacks themselves are familiar. Stolen credentials, unpatched edge devices, exposed services, phishing, SQL injection. What AI changed is speed, automation, and scale, and that is enough to matter.</p><p>In this episode:</p><ul><li>The skill floor for hacking has dropped, and solo operators are now running campaigns that used to take a team</li><li>Threat actors vibe coding phishing kits, credential dashboards, and custom tooling</li><li>Automated vulnerability discovery and exploit development, including one workflow that produced more than a dozen potential zero-day findings in a month</li><li>Why older models with looser guardrails are showing up in operations while frontier models refuse the same requests</li><li>Custom harnesses and multi-agent pen testing frameworks that chain traditional offensive tools under an LLM</li><li>Stolen AI credentials and API keys as a high-priority target, plus resellers advertising discounted access to frontier models</li><li>On-the-fly obfuscation and retooling that breaks signature-based detection</li><li>Why baselining, behavioral detection, application control, and external attack surface hygiene matter more than they did a year ago</li></ul><p>Groups covered: GTG-2006, GTG-50014, GTG-10007, GTG-50020, GTG-50021, and GTG-50029.</p><p>Spencer and Tyler are penetration testers at SecurIT360. </p><p>If you get something out of the show, subscribe and leave a rating or review. It helps more than you would think.</p><p>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a> | Find vulnerabilities that matter, learn about how we do <a href='https://offsec.blog/ipt'>internal pentesting here</a>.</p>",
+    "publishedAt": "2026-09-18T15:00:00.000Z",
+    "duration": 3143,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19827407-one-hacker-42-targets-inside-anthropic-s-ai-threat-report-ep-196.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 196,
+    "seasonNumber": 1,
+    "explicit": true,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "replay-episode-178-internal-security-controls-that-actually-frustrate-attackers",
     "podcastId": "the-cyber-threat-perspective",
     "title": "[Replay] Episode 178: Internal Security Controls That Actually Frustrate Attackers",
