@@ -1,5 +1,22 @@
 [
   {
+    "id": "135-huggingface",
+    "podcastId": "inside-darknet",
+    "title": "135; HuggingFace",
+    "description": "<p>Ein KI-Agent soll in einer abgeschotteten Testumgebung Sicherheitslücken finden.</p><p>Wenige Tage später hackt sich der Agent in eine der bekanntesten KI-Plattformen der Welt.</p>",
+    "publishedAt": "2026-09-19T08:00:00.000Z",
+    "duration": 1315,
+    "audioUrl": "https://traffic.megaphone.fm/APO7607466221.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/39607723/39607723-1789750463063-ac61a1ff4aeb.jpg",
+    "episodeNumber": 135,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/insidedarknet/episodes/135-HuggingFace-e3p2bjq"
+  },
+  {
     "id": "134-anthropic",
     "podcastId": "inside-darknet",
     "title": "134; Anthropic",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "all-about-that-proxy-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "All about that proxy. [Research Saturday]",
+    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/ren%C3%A9e-burton-b7161110b/\">Dr. Renée Burton</a>, VP of Threat Intelligence at <a href=\"https://www.infoblox.com/\">Infoblox</a>, discussing their work on Lurking Lizard, \"Fake Installers, Fake Reviews, Fake Services – Real Proxies, Real.\" The research uncovers Lurking Lizard, a threat actor that has operated since at least 2022 by using fake software installers, VPNs, and lookalike domains to secretly turn victims’ devices into residential proxy nodes. </p>\n<p>Researchers identified more than 230 related domains and connected seemingly separate campaigns—including fake 7-Zip, downloader tools, and WireVPN—through shared infrastructure, tracking URLs, deployment patterns, and APIs. The investigation suggests the actor runs an end-to-end proxy operation, recruiting compromised devices and then monetizing their bandwidth through proxy services and fake review sites, with WireVPN appearing to be the latest evolution of the campaign. </p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.infoblox.com/blog/threat-intelligence/fake-installers-fake-reviews-fake-services-real-proxies-real-victims/\">Fake Installers, Fake Reviews, Fake Services - Real Proxies, Real Victims</a></li>\n</ul>",
+    "publishedAt": "2026-09-19T07:00:00.000Z",
+    "duration": 1543,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW5049211197.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/3b663c4c-b37a-11f1-bcc6-9b0670e7c568/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 442,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/442/notes"
+  },
+  {
     "id": "the-cisco-root-route",
     "podcastId": "cyberwire-daily",
     "title": "The Cisco root route.",
