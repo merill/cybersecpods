@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-specterops-on-the-impact-of-ai-agents-on-bloodhound",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: SpecterOps on the impact of AI agents on BloodHound",
+    "description": "<p>In this Risky Business sponsored interview, Catalin Cimpanu talks with Justin Kohler, Chief Product Officer at SpecterOps. Justin explains how Entra Agent ID can introduce new identity relationships and potential attack paths.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.linkedin.com/in/justin-kohler-49467110\">Justin Kohler on LinkedIn</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://bloodhound.specterops.io/get-started/introduction\">SpecterOps, Introduction to BloodHound</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-09-20T20:39:24.000Z",
+    "duration": 952,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI144.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI144/"
+  },
+  {
     "id": "risky-bulletin-anthropic-agents-went-hacking-again",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Anthropic agents went hacking again",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS563/"
-  },
-  {
-    "id": "between-two-nerds-the-ai-first-crime-gang",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: The AI-first crime gang",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss why it makes even more sense for criminal organisations to adopt AI as compared to regular businesses.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/yDl-Ck_MqW8\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization\">Microsoft's 2026 Work Trend Index Annual Report</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html\">Cybersecurity Looks Like Proof of Work Now</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cloud.google.com/blog/topics/threat-intelligence/fin7-pursuing-an-enigmatic-and-evasive-global-criminal-operation/\">On the Hunt for FIN7</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-05-12T02:09:04.000Z",
-    "duration": 1557,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN166.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN166/"
   }
 ]
