@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-21-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 21 2026 - Daily DefSec Brief",
+    "description": "<pre><code>1. Orkes Conductor RCE exploited for a month — CVE-2026-58138 (fixed in 3.30.2) — Do: Patch Conductor, put its API behind login — https://research.empiricalsecurity.com/research/september-2026-cve-of-the-month\n2. Three Linux kernel flaws are now exploited — CVE-2025-39682, CVE-2025-39964, CVE-2026-53266 (KEV, federal due 21 Sep) — Do: Update the kernel on every Linux host — https://www.cisa.gov/known-exploited-vulnerabilities-catalog\n3. npm malware slips past the new install-script block — indexed-btree, ordered-kv-index, btree-leaderboard, priority-slot-queue, btree-range-store, btree-core, btree-time-index, btree-lru-cache, neighbor-key-map, sliding-score-window — Do: Search lockfiles for the ten btree packages — https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/\n4. A former employee's access leaked CrowdSec code — Do: Revoke leavers' GitHub access on their last day — https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html\n5. Hardcoded key hands over SolarWinds ARM — CVE-2026-28326 (fixed in 2026.2.1) — Do: Upgrade SolarWinds Access Rights Manager — https://www.solarwinds.com/trust-center/security-advisories/cve-2026-28326\n6. HEIC upload bugs reach GitHub Enterprise and Slack — CVE-2026-19118, libheif 1.23.2+, GitHub Enterprise Server 3.17.20, 3.18.14, 3.19.11, 3.20.7, 3.21.5 — Do: Update libheif, or turn off HEIC decoding — https://heif-heist.com/\n7. A Terraform lock file pulls malware on terraform init — Do: Check lock-file registries before terraform init — https://www.sentinelone.com/labs/dont-call-us-well-call-your-apis-tradertraitor-backdoors-resurface-on-victim-with-no-crypto-ties/\n8. Cisco's September firewall fixes include a 9.9 — CVE-2026-20329, CVE-2026-20154, CVE-2026-20249, CVE-2026-20250 — Do: Upgrade ASA, FTD and FMC software — https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-asaftdfmc-uvpPROhN\n9. Public root exploits land for four Linux kernel flaws — CVE-2026-74469, CVE-2026-81000, CVE-2026-68121, CVE-2026-80844 — Do: Turn off unprivileged user namespaces and SCTP — https://heyitsas.im/posts/lpe-quartet/\n10. Gemini hacked three real firms in a test — Do: Scan public repos for committed credentials — https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/</code></pre>",
+    "publishedAt": "2026-09-21T11:39:51.000Z",
+    "duration": 300,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/9c0ee14281facf8ee49c7bd44e86521d056949f684274df3fdce7099328061c0/eyJlcGlzb2RlSWQiOiIwZjJmNGVjNi0xODI2LTQwOTItODdmOS0xYmQ4NjhiZjJlOTciLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiMTE3MGI3YzI0NTg1NzBlODRlYzY1L2RhaWx5LWRlZnNlYy0yMDI2LTktMjFfXzExLTM3LTQ3Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-18-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 18 2026 - Daily DefSec Brief",
