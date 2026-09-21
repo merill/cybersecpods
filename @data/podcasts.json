@@ -1474,8 +1474,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-19T05:00:14.000Z",
-    "firstEpisodeDate": "2026-01-29T17:43:40.000Z",
+    "lastEpisodeDate": "2026-09-21T14:59:07.000Z",
+    "firstEpisodeDate": "2026-01-30T13:53:39.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2643,9 +2643,18 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-09-20T11:07:52.422Z"
+        "fetchedAt": "2026-09-21T12:36:28.170Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -5315,9 +5324,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-09-14T16:22:48.000Z",
+    "lastEpisodeDate": "2026-09-21T15:31:10.000Z",
     "firstEpisodeDate": "2018-06-17T00:47:00.000Z",
-    "episodeCount": 392,
+    "episodeCount": 393,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
