@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-gemini-finally-did-some-crimes",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Gemini finally did some crimes",
+    "description": "<p>Google’s Gemini hacked three companies, hackers claim a breach of Russia’s election commission, OpenAI was behind RubyGems’ May incident, and the Coast Guard and FBI board two ships to investigate cyberattacks.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-gemini-hacked-three-companies-too/\">Risky Bulletin: Gemini hacked three companies too</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-09-21T03:23:22.000Z",
+    "duration": 561,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS613.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS613/"
+  },
+  {
     "id": "sponsored-specterops-on-the-impact-of-ai-agents-on-bloodhound",
     "podcastId": "risky-bulletin",
     "title": "Sponsored: SpecterOps on the impact of AI agents on BloodHound",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/SRB167/"
-  },
-  {
-    "id": "risky-bulletin-damaging-worm-rips-through-npm-ecosystem",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Damaging worm rips through npm ecosystem",
-    "description": "<p>RubyGems disables sign-ups after an attack on staff, Instructure paid the ransom, the Gentlemen ransomware operation gets hacked, and another major supply chain attack on npm (yawn).</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-rubygems-disables-sign-ups-after-attack-on-staff/\">Risky Bulletin: RubyGems disables sign-ups after attack on staff</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-05-13T05:39:54.000Z",
-    "duration": 469,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS563.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS563/"
   }
 ]

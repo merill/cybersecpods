@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-september-21st-2026-http-query-docker-escape-brevo-clickfi",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, September 21st, 2026: HTTP Query; Docker Escape; Brevo ClickFix Attack; LastPass Fake GitHub Repo",
+    "description": "<br/>\nHTTP QUERY Method: The Grey Zone Between GET and POST<br/>\n<a href=\"https://isc.sans.edu/diary/HTTP%20QUERY%20Method%3A%20The%20Grey%20Zone%20Between%20GET%20And%20POST./33352\">https://isc.sans.edu/diary/HTTP%20QUERY%20Method%3A%20The%20Grey%20Zone%20Between%20GET%20And%20POST./33352</a><br/>\nSimple MacOS Docker Escape<br/>\n<a href=\"https://www.accomplish.ai/blog/escaping-dockers-hypervisor/\">https://www.accomplish.ai/blog/escaping-dockers-hypervisor/</a>  CVE-2026-77179<br/>\nBrevo ClickFix Compromise<br/>\n<a href=\"https://status.brevo.com/incidents/01M2QBC4EZ24ZACW6SWQYVW8N3/write-up\">https://status.brevo.com/incidents/01M2QBC4EZ24ZACW6SWQYVW8N3/write-up</a><br/>\nLastPass (and other) lookalike GitHub Repo and Kernel Module Infostealer<br/>\n<a href=\"https://blog.lastpass.com/posts/lastpass-delphos-report-rapuncel-infostealer\">https://blog.lastpass.com/posts/lastpass-delphos-report-rapuncel-infostealer</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-09-21T05:15:12.000Z",
+    "duration": 444,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10102.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10102,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10102"
+  },
+  {
     "id": "sans-stormcast-friday-september-18th-2026-lousivlaoder-analysis-issabel-framewor",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, September 18th, 2026: LousivLaoder Analysis; Issabel Framework 0-Day; Cyber Decoys; CISA Vuln Bulletin; Unbound Vulnerability",
