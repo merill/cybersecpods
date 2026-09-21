@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-curl-summer-of-bliss-with-daniel-and-stefan",
+    "podcastId": "open-source-security",
+    "title": "The curl summer of Bliss with Daniel and Stefan",
+    "description": "<p>Josh chats with Daniel and Stefan from curl about their summer of bliss. Curl stopped taking vulnerability reports for a month and nothing much happened really. Daniel and Stefan have a really pragmatic view of all the new LLM powered vulnerability detection tools. The cost of finding a vulnerability has dropped dramatically, but the cost of fixing those bugs hasn't changed. Taking some time off is important for anyone in the middle of these reports. Daniel and Stefan have some great experience and ideas on how to make this all happen. It's great advice for anyone working on software, not just open source.</p> <p>The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-09-curl-bliss-stefan-daniel\"> https://opensourcesecurity.io/2026/2026-09-curl-bliss-stefan-daniel</a></p> <p> </p>",
+    "publishedAt": "2026-09-21T00:00:00.000Z",
+    "duration": 2006,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-09-curl-bliss-Stefan-Daniel.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/6/5/b/e/65be4830f0f649a188c4a68c3ddbc4f2/square-curly-plant-20260919-rmvt09xxaw.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/the-curl-summer-of-bliss-with-daniel-and-stefan"
+  },
+  {
     "id": "cra-vulnerability-reporting-with-daniel-thompson",
     "podcastId": "open-source-security",
     "title": "CRA vulnerability reporting with Daniel Thompson",
