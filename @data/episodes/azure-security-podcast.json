@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-133-news-about-the-azure-key-vault-family",
+    "podcastId": "azure-security-podcast",
+    "title": "Episode 133: News about the Azure Key Vault Family",
+    "description": "<p>In this episode, Michael and Mark talk to Keith Prunella about the latest news out of the Azure Key Vault family of services.</p><p>We also cover news about Microsoft Defender for Cloud support for Azure Container Apps, Confidential VMs for Azure Linux, a post from Michael about Threat Modeling and Post Quantum Cryptography, Project Perception and some Microsoft Security Adoption Framework (SAF) updates.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/azsecpod\">https://aka.ms/azsecpod</a> </p>",
+    "publishedAt": "2026-09-22T20:38:22.000Z",
+    "duration": 2034,
+    "audioUrl": "https://content.rss.com/episodes/8411/3174540/azsecpodcast/2026_09_22_20_30_40_17b1515c-e510-4610-8c24-eedc8ebbf224.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 133,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/azsecpodcast/3174540"
+  },
+  {
     "id": "episode-132-windows-server-2025-security",
     "podcastId": "azure-security-podcast",
     "title": "Episode 132 - Windows Server 2025 Security",
