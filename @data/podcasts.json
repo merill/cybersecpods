@@ -389,9 +389,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-09-15T09:00:00.000Z",
+    "lastEpisodeDate": "2026-09-22T09:00:00.000Z",
     "firstEpisodeDate": "2018-01-08T14:20:38.000Z",
-    "episodeCount": 414,
+    "episodeCount": 415,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -992,9 +992,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-09-18T07:00:00.000Z",
+    "lastEpisodeDate": "2026-09-22T07:00:00.000Z",
     "firstEpisodeDate": "2022-01-21T14:59:00.000Z",
-    "episodeCount": 376,
+    "episodeCount": 377,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1295,9 +1295,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-09-21T07:00:00.000Z",
+    "lastEpisodeDate": "2026-09-22T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1845,
+    "episodeCount": 1846,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2712,9 +2712,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-09-17T05:00:00.000Z",
+    "lastEpisodeDate": "2026-09-22T07:00:00.000Z",
     "firstEpisodeDate": "2018-05-30T05:00:00.000Z",
-    "episodeCount": 810,
+    "episodeCount": 811,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4120,23 +4120,7 @@
         "ratingCount": 16,
         "fetchedAt": "2026-09-21T12:36:44.817Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent",
-        "content": "Great analysis really, very thoughtful",
-        "author": "SecEnthused",
-        "updatedAt": "2026-08-04T16:30:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4193,44 +4177,7 @@
         "ratingCount": 677,
         "fetchedAt": "2026-09-21T12:36:45.877Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "In IT?  Do you have 5 minutes?",
-        "content": "Actionable, Concise, Timely\n   \nThe perfect podcast, Johannes is amazing.  This 5 minute podcast must take him hours every day to research.  The effort is much appreciated!",
-        "author": "Gump4487245",
-        "updatedAt": "2026-08-07T04:35:39-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Best in Show!",
-        "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
-        "author": "1Flatlander",
-        "updatedAt": "2026-05-06T07:22:39-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "High quality info in a short amount of time. Listen very closely to what he puts out",
-        "content": "Johannes continues to point out trends and indicators I might otherwise have missed.\n\nI’ve seen a lot of crazy scenarios play out based on data he’s gathered and provided.\n\nListen to a few episodes to hear what I mean.\n\nHis podcast also serves as a convenient reminder for Patch Tuesday and iOS updates.\n\nYet another great podcast the sociable Dave Bittner has led me to.",
-        "author": "TFWas",
-        "updatedAt": "2026-03-18T15:59:48-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Required Professional Daily Use",
-        "content": "This is a requirement for my team as they start their day. The information is a great way to start the brain thinking into what is going on and what new things should we be looking for. We discuss it and volunteer topics for research and further discovery. 11/10 -highly recommended",
-        "author": "PowerBob",
-        "updatedAt": "2025-12-16T17:08:12-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Your Daily Cyber Drive-Thru",
-        "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
-        "author": "JayJonahJameson",
-        "updatedAt": "2025-12-16T03:32:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "secure-the-job",
@@ -5338,43 +5285,6 @@
         "fetchedAt": "2026-09-21T12:37:00.802Z"
       }
     },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Great information and presentation",
-        "content": "Highly recommend if you are a network defender.",
-        "author": "Rygorr",
-        "updatedAt": "2026-07-17T14:09:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great cybersecurity podcast!",
-        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
-        "author": "Dave McCollough",
-        "updatedAt": "2025-12-12T06:46:41-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Love it",
-        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
-        "author": "dareyoutomove",
-        "updatedAt": "2024-10-12T09:27:57-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Pentesting 101",
-        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
-        "author": "Rich-Barr",
-        "updatedAt": "2023-11-01T04:42:09-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Worth a listen",
-        "content": "Great insight and advice and actually very entertaining.",
-        "author": "Chris Y Doyle",
-        "updatedAt": "2022-09-14T12:09:26-07:00"
-      }
-    ],
     "submittedBy": "techspence"
   },
   {

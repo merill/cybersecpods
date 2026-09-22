@@ -1,5 +1,22 @@
 [
   {
+    "id": "understanding-prompt-injection-in-order-to-contain-it-julie-brunias-asw-401",
+    "podcastId": "application-security-weekly",
+    "title": "Understanding Prompt Injection In Order to Contain It - Julie Brunias - ASW #401",
+    "description": "<p>Prompt injection demonstrates one of the major challenges in securing LLMs and agents -- how do you ensure an agent ignores attackers and only does what you instructed it to do. The flaw highlights how LLMs mix inputs, context, and outputs without any strict boundaries between them. Julie Brunias joins us to talk through examples of injections, why their consequences can go beyond information leaks, and why trying to mitigate them with other LLMs is insufficient.</p> <p>Segment resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://llmgateway.io/open-source\">https://llmgateway.io/open-source</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.wiz.io/blog/off-guard-breaking-litellm-from-authentication-bypass-to-cloud-compromise\"> https://www.wiz.io/blog/off-guard-breaking-litellm-from-authentication-bypass-to-cloud-compromise</a></li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-401\">https://securityweekly.com/asw-401</a></p>",
+    "publishedAt": "2026-09-22T09:00:00.000Z",
+    "duration": 3629,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_401_1--b4dc69fb-1d46-44a3-811e-678768c11b03--audio-converted--47c91038-cf02-4c22-80e5-0f35122c537e.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/5/6/8/b/568b758544342970e5bbc093207a2619/ASW_401_Thumbnail_ASW_1920x1920-op1_a419055d-8f97-44c6-af35-c9daed621995.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/understanding-prompt-injection-in-order-to-contain-it-julie-brunias-asw-401"
+  },
+  {
     "id": "the-ai-threat-multiplier-securing-mobile-apps-in-the-automated-era-ryan-lloyd-ja",
     "podcastId": "application-security-weekly",
     "title": "The AI Threat Multiplier: Securing Mobile Apps in the Automated Era - Ryan Lloyd, Jason Cortlund - ASW #400",
