@@ -1,5 +1,22 @@
 [
   {
+    "id": "from-read-access-to-admin-with-just-an-ai-agent",
+    "podcastId": "hacker-valley-studio",
+    "title": "From Read Access to Admin with just an AI Agent",
+    "description": "<p>What if someone got full admin access to your company's platform, including your CRM, your payments app, and your private messages, and the only tool they used was an AI chatbot? Can AI models really find zero-days on their own, or is that just the headline? And if AI can do the attacker's job, who's actually holding the scissors?</p>\n<p>In this solo episode, Ron Eddings shares his own methodology for offensive assessments with AI. He talks about the models he trusts, the tools he uses to get agents working together, and a real assessment where his agents turned SQL read access into admin control and unlocked the API keys stored inside. Ron also calls out what's hype and what's real with today's models, and why the agent still needs a skilled person behind it.</p>\n<p>For defenders, Ron covers what attackers go after once they're in, and why the fundamentals like asset inventory are still where every strong security program starts.  He closes with the bigger picture: anyone, good or bad, now has powerful intelligence on hand, and it's on all of us to look out for each other.</p>\n<p>Impactful Moments</p>\n<p>00:00 - Introduction<br>\n02:25 - Can AI Really Find Zero-Days Alone?<br>\n04:20 - The Real Danger Is Human Intent<br>\n05:00 - Why Grok 4.6 Tops Ron's List<br>\n07:55 - Ron's Three-Model Assessment Workflow<br>\n09:50 - Maestro, Interceptor, and Agent Ensembles<br>\n11:20 - Privilege Escalation and Persistence With LLMs<br>\n12:50 - Why AI Hacking Feels Like Cheating<br>\n14:20 - Ron Called Automated Security in 2015<br>\n16:05 - The Lazy Way to Hack<br>\n17:55 - From SQL Read Access to Admin<br>\n21:05 - What Attackers Want After Getting In<br>\n23:40 - Asset Inventory Is Security Flossing<br>\n27:05 - Why AI Is Like Scissors<br>\n29:05 - Waymos, Robotaxis, and Physical AI Risk</p>\n<p>Links</p>\n<p>Check out our upcoming events: <a href='https://www.hackervalley.com/livestreams'>https://www.hackervalley.com/livestreams</a> </p>\n<p>Love Hacker Valley Studio? Pick up some swag: <a href='https://store.hackervalley.com'>https://store.hackervalley.com</a> </p>\n<p>Become a sponsor of the show: <a href='https://hackervalley.com/work-with-us/'>https://hackervalley.com/work-with-us/</a> </p>",
+    "publishedAt": "2026-09-23T19:10:35.000Z",
+    "duration": 1894,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/xjarnkt7aj4zqeei/HVS26_EP444_Ron_Solo_Episode8cue3.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 444,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/from-read-access-to-admin-with-just-an-ai-agent/"
+  },
+  {
     "id": "do-you-know-what-your-agent-is-doing-at-3am-with-amir-ofek",
     "podcastId": "hacker-valley-studio",
     "title": "Do You Know What Your Agent is Doing at 3AM? with Amir Ofek",
