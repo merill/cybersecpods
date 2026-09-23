@@ -1,5 +1,22 @@
 [
   {
+    "id": "clickfix-etherhiding-and-the-rise-of-malicious-code-in-the-blockchain",
+    "podcastId": "talos-takes",
+    "title": "ClickFix, EtherHiding, and the rise of malicious code in the blockchain",
+    "description": "<p>In this episode of Talos Takes, Amy sits down with researcher Vanja Svajcer to break down a sophisticated, multi-stage infection chain that leverages a combination of ClickFix social engineering, WebDAV, and decentralized infrastructure.</p><p>Vanja walks us through how threat actors are repurposing legitimate user behaviors — like solving CAPTCHAs — to gain unauthorized access, and how they utilize blockchain smart contracts as bulletproof storage for malicious code. We also explore the divergence in final payloads, ranging from remote access tools to crypto-stealing malware. Tune in for actionable behavioral patterns that your security teams can monitor to detect these incidents before they progress.</p><p>Vanja's blog: <a href='https://blog.talosintelligence.com/clearfake-webdav-infection-chain/'>https://blog.talosintelligence.com/clearfake-webdav-infection-chain/</a></p>",
+    "publishedAt": "2026-09-23T09:00:00.000Z",
+    "duration": 1130,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19841224-clickfix-etherhiding-and-the-rise-of-malicious-code-in-the-blockchain.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "browser-betrayal-when-your-tabs-turn-against-you",
     "podcastId": "talos-takes",
     "title": "Browser betrayal: When your tabs turn against you",
