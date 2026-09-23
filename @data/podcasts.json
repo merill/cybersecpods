@@ -2195,7 +2195,44 @@
         "ratingCount": 56,
         "fetchedAt": "2026-09-23T11:19:34.475Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this pod!",
+        "content": "Selena and Crista dives into intriguing topics that are often overlooked, serving up fresh insights in a compelling manner. It feels like a refreshing conversation with a wise friend, always leaving you eager for the next episode.\n\nFrom Bona and Team Capsho",
+        "author": "Bona and Team Capsho",
+        "updatedAt": "2023-08-30T14:42:38-07:00"
+      },
+      {
+        "rating": 4,
+        "title": "Great  Podcast",
+        "content": "Very good podcast Brian a lot from listening to it.",
+        "author": "JonDvid",
+        "updatedAt": "2023-06-11T05:06:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Cyber! Cyber! Cyber!",
+        "content": "This is the best podcast by CTI practitioners diving into detail about current threats. This podcast would win a fight against other similar podcasts. Let’s have a podcast fight club. Oops this pod is already the champ.",
+        "author": "GPSWKEKT1640",
+        "updatedAt": "2023-05-02T21:00:47-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Notch",
+        "content": "Timely and informative content!",
+        "author": "ASVPGLES",
+        "updatedAt": "2023-01-24T11:06:13-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Cyber Threat Podcast",
+        "content": "This podcast has some of the smartest people I’ve ever heard talk about computers. True thought leaders that are titans in the industry bringing the hottest cyber threats to your ears. Highly recommend.",
+        "author": "JM123456789123456789",
+        "updatedAt": "2022-03-10T09:38:13-07:00"
+      }
+    ]
   },
   {
     "id": "down-the-security-rabbithole",
@@ -2504,20 +2541,6 @@
     },
     "recentReviews": [
       {
-        "rating": 3,
-        "title": "Missing the old Hacked",
-        "content": "This is one of my all time favorite podcasts and I always couldn’t wait for a new episode to come out, however lately I have been heartbroken because all of the most recent podcasts have been marked explicit lately meaning I have had to miss out on all those great episodes. I would be so happy if Hacked could go back to the way it used to be.",
-        "author": "JaevinF",
-        "updatedAt": "2026-07-16T21:22:56-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "So good",
-        "content": "I love these guys and I always learn something new.",
-        "author": "Mofhtvabnsjj",
-        "updatedAt": "2026-06-02T19:10:23-07:00"
-      },
-      {
         "rating": 5,
         "title": "Amazing pod :0",
         "content": "Such a great podcast, i want to go into cybersecurity or web design after high school and this is very inspiring. I can’t believe some people give this one star.",
@@ -2537,6 +2560,20 @@
         "content": "i can't remember passwords or solve captcha and i certainly depend on the web to keep my stuff safe. but i would like to understand who is testing that safety and what i as a human can do to fortify myself against it. because maybe sometimes the web needs to be broken so that it can improve. i find im more receptive to hearing stories that make me see the human issues that affect security, and i really enjoy the stories from listeners of light hearted pranks that ended up much more significant. no stupid ai required to make this podcast a good length and density. win 5:5 stars",
         "author": "Lemyrrio",
         "updatedAt": "2025-03-18T10:31:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Nerdy and fun",
+        "content": "Found this podcast by accident.  I love it. The hosts are funny, witty and informative. Love hearing the listeners stories as well. Keep up the great work",
+        "author": "Casey Marie's Music",
+        "updatedAt": "2025-03-16T13:29:42-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "eh",
+        "content": "too many ads and lacks depth",
+        "author": "nakd moon",
+        "updatedAt": "2024-12-18T16:31:57-07:00"
       }
     ]
   },
@@ -2737,17 +2774,10 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "The music overlay is annoying",
-        "content": "In the “Class is in session…” episode the music throughout the whole episode is annoying. Please don’t do that again.",
+        "title": "This is one not to miss.",
+        "content": "This podcast is an interesting mix of personalities and security related humor.",
         "author": "Takoateli",
-        "updatedAt": "2026-08-04T04:12:26-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Hilarious and very informative",
-        "content": "I still have a lot to catch up on, but check out the early Jun 2025 episodes about the chickens and various life stuff. I could not stop laughing.",
-        "author": "TFWas",
-        "updatedAt": "2026-07-11T05:24:11-07:00"
+        "updatedAt": "2026-04-09T17:10:09-07:00"
       },
       {
         "rating": 5,
@@ -2769,6 +2799,13 @@
         "content": "I love the hosts, their rapport, sense of humor, and knowledge. \n\nEven my non-techie significant other enjoys listening to this podcast with me. \n\nThank you!",
         "author": "0xbeepBoop",
         "updatedAt": "2025-02-25T11:02:51-07:00"
+      },
+      {
+        "rating": 3,
+        "title": "Excellent podcast, but………",
+        "content": "This is a great podcast. I would highly recommend this for someone beginning their cybersecurity learning or those that want to keep up to date. The only issue is the political left leaning is annoying. I listen to educate myself and learn what is going on in the world pertaining to cybersecurity. Not to listen to political left leaning talking points or snide remarks. This distracts from the great content that they produce. One of my college professors in my government class always had the best classes. He never took sides, never told us where he stood. And the class was enjoyable because he just taught the subject matter and the focus was on learning, not pushing a political agenda or letting people know where he stood. This did not alienate anyone, and kept the focus on discussing relevant topics and learning. I think more respect and integrity comes from refraining from political remarks, and just focusing on what makes the podcast great the material and subject matter.",
+        "author": "Slygator456",
+        "updatedAt": "2025-02-19T09:18:50-07:00"
       }
     ]
   },
@@ -2826,7 +2863,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-09-23T11:19:40.590Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -3575,7 +3621,7 @@
         "rating": 1,
         "title": "josh is insufferable",
         "content": "I really enjoy Kurt’s perspective on stuff. Josh is insufferable. Not sure what complex he suffers from, but he can never be wrong and is always steamrolling Kurt.",
-        "author": "joeyouno",
+        "author": "letitsnowman",
         "updatedAt": "2024-11-25T09:08:21-07:00"
       },
       {
@@ -4138,7 +4184,23 @@
         "ratingCount": 16,
         "fetchedAt": "2026-09-23T11:19:51.108Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4195,7 +4257,44 @@
         "ratingCount": 677,
         "fetchedAt": "2026-09-23T11:19:52.229Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "In IT?  Do you have 5 minutes?",
+        "content": "Actionable, Concise, Timely\n   \nThe perfect podcast, Johannes is amazing.  This 5 minute podcast must take him hours every day to research.  The effort is much appreciated!",
+        "author": "Gump4487245",
+        "updatedAt": "2026-08-07T04:35:39-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Best in Show!",
+        "content": "Johannes delivers just the right amount of daily relevant information to stay aware of threats and risks, as well as the occasional research/whitepaper topic. Bravo!",
+        "author": "1Flatlander",
+        "updatedAt": "2026-05-06T07:22:39-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "High quality info in a short amount of time. Listen very closely to what he puts out",
+        "content": "Johannes continues to point out trends and indicators I might otherwise have missed.\n\nI’ve seen a lot of crazy scenarios play out based on data he’s gathered and provided.\n\nListen to a few episodes to hear what I mean.\n\nHis podcast also serves as a convenient reminder for Patch Tuesday and iOS updates.\n\nYet another great podcast the sociable Dave Bittner has led me to.",
+        "author": "TFWas",
+        "updatedAt": "2026-03-18T15:59:48-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Required Professional Daily Use",
+        "content": "This is a requirement for my team as they start their day. The information is a great way to start the brain thinking into what is going on and what new things should we be looking for. We discuss it and volunteer topics for research and further discovery. 11/10 -highly recommended",
+        "author": "PowerBob",
+        "updatedAt": "2025-12-16T17:08:12-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Your Daily Cyber Drive-Thru",
+        "content": "I’ll take a #1: top threats, quick context, and practical next steps—make it efficient. Storm Center is consistently satisfying and never wastes your time.",
+        "author": "JayJonahJameson",
+        "updatedAt": "2025-12-16T03:32:20-07:00"
+      }
+    ]
   },
   {
     "id": "secure-the-job",
@@ -4834,13 +4933,6 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "Awesome insights",
-        "content": "This show always delivers relevant and practical topics to cybersecurity practitioners. They always summarize very practical recommendations",
-        "author": "Maocol99",
-        "updatedAt": "2026-07-24T14:37:37-07:00"
-      },
-      {
-        "rating": 5,
         "title": "For Practitioners By Practitioners",
         "content": "I enjoy how the hosts don’t just repot the news. Listening to a thoughtful discussion of top threats and analysis of what it means to my business is the best 30 minutes of my week.",
         "author": "Cyber Practitioner",
@@ -4866,6 +4958,13 @@
         "content": "I love being able to get my weekly cybersecurity news in addition to a more detailed analysis from Digital Shadows’ analysts, engineers, etc. As someone new to the cybersecurity industry, this podcast has helped me learn a ton about the industry.",
         "author": "anymonos",
         "updatedAt": "2018-07-02T13:51:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Easy to listen to",
+        "content": "I really enjoy the background and analysis in this podcast.  It’s quite punny which makes it easy to listen to.",
+        "author": "Jdbjdnd",
+        "updatedAt": "2018-01-16T14:53:46-07:00"
       }
     ]
   },
@@ -5005,20 +5104,6 @@
     "recentReviews": [
       {
         "rating": 5,
-        "title": "My favorite security podcast",
-        "content": "Good balance of cybersecurity news and dry British humor. I really can’t get enough, honestly.",
-        "author": "JD000000000000000",
-        "updatedAt": "2026-08-12T13:10:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Easy Listening",
-        "content": "Great way to learn more about cyber security in a story telling manner vs technical.",
-        "author": "braveday",
-        "updatedAt": "2026-07-13T05:39:57-07:00"
-      },
-      {
-        "rating": 5,
         "title": "Love this show",
         "content": "… I do miss Carole, thought her voice was just perfect, like Grahams, for presenting the news.   Hope she visits.",
         "author": "ႦυႦႦʅҽɠυɱ Ⴆʅυҽʂ",
@@ -5037,6 +5122,20 @@
         "content": "Missing Carole already.  Tom had an uninformed take on quantum computing.  He drops a bunch of random rants that are distracting and unhelpful trying to be funny but it doesn’t work (printer comments for example).  Might be unsubscribing from this soon.",
         "author": "R1921aaaa",
         "updatedAt": "2025-08-28T15:03:13-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "I learn a lot from this podcast",
+        "content": "Thanks for a great podcast—great information and laughs! Thanks to Carole for the links to “Break” (break dancing) at the 2024 Paris Olympics!",
+        "author": "USA Mknitter",
+        "updatedAt": "2024-07-25T09:25:29-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Really?",
+        "content": "Wow. I would like the time I wasted listening to half of an episode back please. I’m sure SS appeals to someone. I’m just not sure who that would be.",
+        "author": "jd2020",
+        "updatedAt": "2024-03-04T10:50:56-07:00"
       }
     ]
   },
