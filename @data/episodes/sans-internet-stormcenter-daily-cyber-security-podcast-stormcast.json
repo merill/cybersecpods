@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-september-23rd-2026-get-with-body-checkpoint-velocloud-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, September 23rd, 2026: GET with Body; Checkpoint, VeloCloud, BigIP and Microsoft Defender 0-days",
+    "description": "<br/>\nThe Truth about GET and HTTP Standards<br/>\n<a href=\"https://isc.sans.edu/diary/The%20Truth%20about%20GET%20and%20HTTP%20Standards/33358\">https://isc.sans.edu/diary/The%20Truth%20about%20GET%20and%20HTTP%20Standards/33358</a><br/>\nCVE-2026-93616: 0-Day Remote Code Execution Vulnerability patch in Checkpoint Management Server<br/>\n<a href=\"https://support.checkpoint.com/results/sk/sk1000171/\">https://support.checkpoint.com/results/sk/sk1000171/</a><br/>\nVeloCloud Orchestrator (VCO) Patch for Exploited Vulnerability CVE-2026-93952<br/>\n<a href=\"https://www.arista.com/en/support/advisories-notices/security-advisory/24765-security-advisory-0183\">https://www.arista.com/en/support/advisories-notices/security-advisory/24765-security-advisory-0183</a><br/>\nF5 BigIP APM Exploited Vulnerability Patched CVE-2026-94127<br/>\n<a href=\"https://my.f5.com/manage/s/article/K000162605\">https://my.f5.com/manage/s/article/K000162605</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-09-23T02:40:13.000Z",
+    "duration": 292,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10106.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10106,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10106"
+  },
+  {
     "id": "sans-stormcast-tuesday-september-22nd-2026-png-stego-analysis-npm-btree-malware-",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, September 22nd, 2026: PNG Stego Analysis; NPM BTree Malware; Pi-Hole Advisory",
