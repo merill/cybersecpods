@@ -1,5 +1,22 @@
 [
   {
+    "id": "srsly-risky-biz-bring-on-the-ai-lawsuits",
+    "podcastId": "risky-bulletin",
+    "title": "Srsly Risky Biz: Bring on the AI lawsuits",
+    "description": "<p>Tom Uren and Patrick Gray talk about US Treasury Secretary Scott Bessent ruling out liability exemptions for AI companies. Its a good move. Leaving the companies on the hook keeps the pressure on them to do better with their cyber security and testing controls.</p>\n\n<p>They also discuss a Russian AI-powered cyberespionage campaign run by a group known as Midnight Blizzard. It used AI workflows to run the entire campaign so they got a lot more hacking done and accepted AI mistakes. This makes sense given that they want more intelligence from Ukrainian targets and don’t care at all about getting caught.</p>\n\n<p>This episode is also available on <a href=\"https://www.youtube.com/watch?v=rpjIRBhBzmM\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-09-24T03:47:26.000Z",
+    "duration": 895,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB184a.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SRB184a/"
+  },
+  {
     "id": "risky-bulletin-team-cymru-unmasks-shady-chinese-proxy-network",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Team Cymru unmasks shady Chinese proxy network",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS565/"
-  },
-  {
-    "id": "sponsored-push-security-goes-ai-threat-hunting-in-browser-telemetry",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Push Security goes AI threat hunting in browser telemetry",
-    "description": "<p>In this sponsored interview James Wilson chats with Push Security’s Chief Research Officer Jacques Louw about how the company has integrated an army of AI agents into its threat detection platform.</p>\n\n<p>Not only has agentic AI led to the discovery of Install Fix campaigns, but it will help simplify the platform for new customers.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-05-17T22:06:12.000Z",
-    "duration": 841,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI128.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI128/"
   }
 ]
