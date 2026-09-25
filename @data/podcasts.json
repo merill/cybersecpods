@@ -1474,8 +1474,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-25T15:09:50.000Z",
-    "firstEpisodeDate": "2026-02-05T20:06:02.000Z",
+    "lastEpisodeDate": "2026-09-25T18:52:26.000Z",
+    "firstEpisodeDate": "2026-02-06T14:41:41.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -1625,9 +1625,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-09-24T20:30:00.000Z",
+    "lastEpisodeDate": "2026-09-25T20:30:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3767,
+    "episodeCount": 3768,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4849,9 +4849,9 @@
     "cadence": "weekly",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-09-22T21:00:00.000Z",
+    "lastEpisodeDate": "2026-09-25T21:00:00.000Z",
     "firstEpisodeDate": "2016-04-28T20:28:38.000Z",
-    "episodeCount": 839,
+    "episodeCount": 840,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5745,44 +5745,7 @@
         "ratingCount": 47,
         "fetchedAt": "2026-09-25T11:41:01.357Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Insightful and educational",
-        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
-        "author": "Maocol99",
-        "updatedAt": "2025-08-14T17:21:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Insightful, timely, and concise!",
-        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
-        "author": "LarsMarie",
-        "updatedAt": "2025-05-05T15:23:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "More OT cybersecurity and Holly rocks.",
-        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
-        "author": "tryangalway",
-        "updatedAt": "2025-03-10T22:06:15-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Great Podcast for Cybersecurity Insights!",
-        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
-        "author": "yshishka",
-        "updatedAt": "2024-08-26T10:36:16-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Accessible & Actionable Resource",
-        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
-        "author": "run_amanda",
-        "updatedAt": "2024-08-19T08:29:33-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "three-buddy-problem",
@@ -5834,9 +5797,9 @@
         "websiteUrl": "https://www.epicturla.com/about"
       }
     ],
-    "lastEpisodeDate": "2026-09-11T19:30:00.000Z",
+    "lastEpisodeDate": "2026-09-25T19:30:00.000Z",
     "firstEpisodeDate": "2017-12-06T20:00:00.000Z",
-    "episodeCount": 241,
+    "episodeCount": 242,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
