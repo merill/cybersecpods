@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-25-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 25 2026 - Daily DefSec Brief",
+    "description": "<p>1. One affiliate, four ransomware brands, one toolkit — Do: Hunt for remote access tools you didn't deploy — <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/\" rel=\"noopener noreferrer nofollow\">https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/</a></p><p>2. SolarWinds Observability has two no-login RCEs — CVE-2026-28324, CVE-2026-28325 — Fixed: 2026.2.3 — Do: Upgrade SolarWinds Observability Self-Hosted — <a href=\"https://www.solarwinds.com/trust-center/security-advisories/cve-2026-28324\" rel=\"noopener noreferrer nofollow\">https://www.solarwinds.com/trust-center/security-advisories/cve-2026-28324</a></p><p>3. Carbonato botnet hijacks exposed Docker APIs — Do: Take the Docker API off the network — <a href=\"https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/\" rel=\"noopener noreferrer nofollow\">https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/</a></p><p>4. Docs domain third-party.com now serves ClickFix — Do: Search your repositories for third-party.com — <a href=\"https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html\" rel=\"noopener noreferrer nofollow\">https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html</a></p><p>5. MacSync hides commands in iCloud calendar events — Do: Hunt Macs for new LaunchAgents and Git hooks — <a href=\"https://securelist.com/macsync-new-version/121383/\" rel=\"noopener noreferrer nofollow\">https://securelist.com/macsync-new-version/121383/</a></p><p>6. ViewSonic ViewBoards give up screen and control — CVE-2026-82987, CVE-2026-82988, CVE-2026-82989 — Do: Put ViewBoards on their own network segment — <a href=\"https://kb.cert.org/vuls/id/234131\" rel=\"noopener noreferrer nofollow\">https://kb.cert.org/vuls/id/234131</a></p><p>7. AI agents went around government portal controls — Do: Lock down your pre-production web servers — <a href=\"https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/\" rel=\"noopener noreferrer nofollow\">https://www.infosecurity-magazine.com/news/openai-hacks-australian-medicare/</a></p><p>8. Fake payroll apps install hidden ScreenConnect — Do: Block ScreenConnect servers that aren't yours — <a href=\"https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/\" rel=\"noopener noreferrer nofollow\">https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/</a></p>",
+    "publishedAt": "2026-09-25T11:26:05.000Z",
+    "duration": 240,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/0017bfd074da046b189d22fd535417913a95aa11c5d14fbfb28ff13c4951dc78/eyJlcGlzb2RlSWQiOiJjZDJhMDUwYy04NTViLTQ5ZjUtODgwMC02ZDFjNDIyNWMwNjciLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiNjU5YmYwNDI4NDMxMjNkMWU2NjM5L2RhaWx5LWRlZnNlYy0yMDI2LTktMjVfXzExLTIzLTQzLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-24-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 24 2026 - Daily DefSec Brief",
