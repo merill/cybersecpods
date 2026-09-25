@@ -1474,8 +1474,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-25T13:30:44.000Z",
-    "firstEpisodeDate": "2026-02-04T14:51:03.000Z",
+    "lastEpisodeDate": "2026-09-25T15:09:50.000Z",
+    "firstEpisodeDate": "2026-02-05T20:06:02.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -1654,7 +1654,7 @@
         "updatedAt": "2025-10-09T10:20:15-07:00"
       },
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Great Content",
         "content": "I like the content (and the music mixing) but the host has one of the most AI-generated-sounding voices and enunciation that I have ever heard. It’s not unpleasant, though.",
         "author": "JD000000000000000",
@@ -2643,9 +2643,18 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-09-24T11:33:12.550Z"
+        "fetchedAt": "2026-09-25T11:40:34.424Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -5509,9 +5518,9 @@
         "websiteUrl": "https://offsec.blog"
       }
     ],
-    "lastEpisodeDate": "2026-09-18T15:00:00.000Z",
+    "lastEpisodeDate": "2026-09-25T13:00:00.000Z",
     "firstEpisodeDate": "2022-04-27T17:00:00.000Z",
-    "episodeCount": 235,
+    "episodeCount": 236,
     "hasVideo": false,
     "isActive": true,
     "featured": false,

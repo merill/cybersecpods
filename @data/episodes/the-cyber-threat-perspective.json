@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-basics-still-win-what-greynoises-papercut-report-shows-or-ep-197",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "The Basics Still Win: What GreyNoise's PaperCut Report Shows | Ep 197",
+    "description": "<p>One threat actor compromised at least 440 PaperCut instances across 395 organizations in 48 countries, using AI to run the same playbook at scale. The fastest path to domain admin took five minutes. But out of hundreds of organizations hit, the attacker only got domain admin at 12 of them.</p><p>Spencer and Tyler use GreyNoise's recent PaperCut report to make the case that the basics matter more now than they ever have. The attack itself was not novel. It used a known vulnerability, a lab environment built to test exploits, an internet scanning service, and familiar offensive tools. AI (Codex and DeepSeek) is what took it from one target to hundreds.</p><p>In this episode:</p><ul><li>How the attacker built a PaperCut and Active Directory lab to test exploits before going wide</li><li>Why five minutes to domain admin is fast but not unheard of, and how certificate abuse makes it possible</li><li>The Conti playbook comparison, and how LLMs are turning attack playbooks into automated campaigns</li><li>The toolkit: Certify, Rubeus, SpoolSample, Impacket, NetExec, BloodHound, Mimikatz, and AMSI bypasses</li><li>Why letting hosts reach GitHub directly is a red flag, and how DNS and category filtering slow attackers down</li><li>The one case where Cloudflare's WAF stopped the attack</li><li>Why the 12 domain admin compromises are a hopeful sign that hardening works</li><li>Where to start with AD hardening: tier zero permissions, dangerous rights on broad groups, service accounts, and certificate templates</li><li>Moving past EDR alone with application control, NDR, and identity-based detections</li><li>Comparing what a security tool costs to what a compromise costs</li></ul><p>Spencer and Tyler are penetration testers at SecurIT360.</p><p>If you get something out of the show, subscribe and leave a rating or review. It helps more than you would think.</p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a><br/>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-09-25T13:00:00.000Z",
+    "duration": 1444,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19863281-the-basics-still-win-what-greynoise-s-papercut-report-shows-ep-197.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 197,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "one-hacker-42-targets-inside-anthropics-ai-threat-report-or-ep-196",
     "podcastId": "the-cyber-threat-perspective",
     "title": "One Hacker, 42 Targets: Inside Anthropic's AI Threat Report | Ep 196",
