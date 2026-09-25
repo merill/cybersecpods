@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-741-tales-of-pentest-pwnage-part-91",
+    "podcastId": "7-minute-security",
+    "title": "7MS #741: Tales of Pentest Pwnage - Part 91",
+    "description": "<p>Hey friends! Today's tale of pentest pwnage is brought to you by four hours of sleep, a large mint hot cocoa, and unhealthy levels of giggity. There's a very good reason for all three, but you'll have to hang out to the end of the episode to hear it. First, let's talk about an escalation path I've never walked before:</p> <ul> <li>A really tight network is a beautiful and terrible thing — this client went from a C-minus-ish environment in past years to one where I could find basically <em>nothing</em>. No local admin creds laying around, no poisonable protocols, no juicy file shares. Straight into \"well, try harder\" mode I went.</li> <li>Two new-to-me tools join the arsenal — one that gives you a second opinion on a big pile of pilfered files (<a href=\"https://github.com/praetorian-inc/titus\" target=\"_blank\" rel=\"noopener\">Titus</a>), and a one-shot PowerShell command (<a href=\"https://github.com/EvotecIT/GPOZaurr\" target=\"_blank\" rel=\"noopener\">GPOZaurr</a>) that hands you a report card for everything that's wrong with your GPOs (plus how to fix it).</li> <li>The finding I almost walked right past — an ADCS issue where only a tiny handful of objects could enroll. I said \"all right, I'll move on.\" Then I came back to it, and saw I had missed the (kind of) obvious attack path.</li> <li>A certificate I couldn't authenticate with — and the <a href= \"https://0xdf.gitlab.io/2023/12/09/htb-authority.html\" target= \"_blank\" rel=\"noopener\">0xdf write-up</a> that rescued me from my own gap in knowledge.</li> <li>Machine account quota was set to zero — so of course I tried to add a computer object anyway. Spoiler: it worked like a dirty shirt.</li> <li>The scheduled task trick rides again — my favorite \"this is not going to get fixed\" Windows behavior. I had a client push back on this one hard: \"You had to know the password of the DA you abused, right? You stole the TGT, right?\" Nope and nope.</li> <li>How to actually defend against all of this — some ADCS tightening, a checkbox on your high-privilege accounts that a lot of folks don't have ticked, and my new mantra: RDP with purpose.</li> <li>And then it's personal time — my oldest son Cam passed his national paramedic exam, and I am busting my buttons. Stick around for the whole story, including the 4 a.m. potty break that changed everything, the two health care professionals I'd like to hand a party invitation to in person (and why my wife says \"I don't know about that, dude\").</li> </ul>",
+    "publishedAt": "2026-09-25T12:07:00.000Z",
+    "duration": 2204,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-741-Tales_of_Pentest_Pwnage-Part_91.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-741-tales-of-pentest-pwnage-part-91"
+  },
+  {
     "id": "7ms-740-tales-of-pentest-pwnage-part-90",
     "podcastId": "7-minute-security",
     "title": "7MS #740: Tales of Pentest Pwnage - Part 90",
