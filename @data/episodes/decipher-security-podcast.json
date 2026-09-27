@@ -1,5 +1,22 @@
 [
   {
+    "id": "fbi-hack-fallout-eviltokens-takedown-and-the-f5-zero-day",
+    "podcastId": "decipher-security-podcast",
+    "title": "FBI Hack Fallout, EvilTokens Takedown, and the F5 Zero Day",
+    "description": "<p>This week we dig into the ShinyHunters hack of the FBI and what it means not just for the FBI personnel but for the attackers, then we discuss the disruption of the EvilTokens phishing operation by Microsoft, and finally we talk about the F5 BIG-IP zero day and some odds and ends from LabsCon.LinksFBI hack: <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljSFA4Q01MdHV6U0tWZDRXazV3MkkxV3xBTl9pYzRkZHVzbHBhSDRpd0hPcGdhSkk5LUVmWjNHc1lOS3hWRjhyLTBoRElGRGJMd0ZOcFBSdkZRM0s4LUhYSFVQNU9NeGpHQjVfbHV1YldfdGh4cmNlbnlfZE9NaS1YWjlz&q=https%3A%2F%2Fx.com%2FFBI%2Fstatus%2F2102807819695071709&v=mIW5JQxVZPQ\" target=\"_blank\" rel=\"nofollow\">https://x.com/FBI/status/210280781969...</a>EvilTokens disruption: <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRlVLUVNXNzNoMnVqYnBkVjFvMWlsenxBTl9pYzRlNEc2alhILWRBcVRSa3IxSWdNOE1FdGZMMXlJaGhTNUJ6b0F5WHY4bVBpSlNIYVhTdWFTYi1uUEtncGNnMEpNMG0wOHdBcGJEVGhLeS1aUFhkaGN3R3hQQk5sSmQ2&q=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fblog%2F2026%2F09%2F22%2Funmasking-eviltokens-getting-to-the-root-of-device-code-phishing%2F&v=mIW5JQxVZPQ\" target=\"_blank\" rel=\"nofollow\">https://www.microsoft.com/en-us/secur...</a>F5 zero day: <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRlJwSjF3RUwtQ185czU3MEFrZHZpRnxBTl9pYzRleEMxU1FRY0l3bjlHdlZsMUVwSWhYZUFGLTFQX3E1MHM3NXJqcnJucjVkZ1JNTTRXemtvSF80djRfQzBuMGlHWEZuaW5nSHlHWVhNaHBjOEhER0JiTGxJVHJsLXJm&q=https%3A%2F%2Fdecipher.sc%2F2026%2F09%2F24%2Ff5-cve-2026-94127-taregted-in-active-attacks%2F&v=mIW5JQxVZPQ\" target=\"_blank\" rel=\"nofollow\">https://decipher.sc/2026/09/24/f5-cve...</a>watchTowr Labs post: <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRkx1WFBiZGRpbGktZFZBeERtLW9VOHxBTl9pYzRkWUtRTlA0eWZFbDNmMmFOUjZyTjV1VjFpampPM1FTbU9pdUxFQzBDRkh5RHU2bnRoTEQ3VUUwSWVfdmxWNEdKd3B3NmhtQUhUNzFlb3JSbHRzT1VkR2YwSkVfUld5&q=https%3A%2F%2Flabs.watchtowr.com%2Fis-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-to-rce-cve-2026-94127%2F&v=mIW5JQxVZPQ\" target=\"_blank\" rel=\"nofollow\">https://labs.watchtowr.com/is-this-a-...</a></p>",
+    "publishedAt": "2026-09-27T13:52:05.000Z",
+    "duration": 1944,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/126370990/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-27%2F432751072-44100-2-6e967287295aa.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/FBI-Hack-Fallout--EvilTokens-Takedown--and-the-F5-Zero-Day-e3pf1ne"
+  },
+  {
     "id": "assessing-ai-model-security-from-the-outside-in-or-matt-fredrikson",
     "podcastId": "decipher-security-podcast",
     "title": "Assessing AI Model Security From the Outside In | Matt Fredrikson",
