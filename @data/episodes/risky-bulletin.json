@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-robo-burp-is-coming-for-your-web-apps",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Robo-Burp is coming for your web apps",
+    "description": "<p>In this Risky Business sponsored interview James Wilson chats to Kieron Hughes and Andrzej Matykiewicz from PortSwigger about the company’s latest AI pen-testing product, Burp AT. The model has different levels of autonomy modes and is natively integrated with Burp Suite so once it finds vulnerabilities it can spin up intruder attacks, configure everything and brute-force the code.</p>\n\n<p>The three also chat about the experiences of beta trial users, including one that found a vulnerability that disclosed reports from the company’s anonymous whistle blower platform.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-09-27T20:48:18.000Z",
+    "duration": 1291,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI145.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI145/"
+  },
+  {
     "id": "risky-bulletin-major-vulnerability-found-in-ancient-tacacs-networking-protocol",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Major vulnerability found in ancient TACACS+ networking protocol",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS566/"
-  },
-  {
-    "id": "between-two-nerds-russias-hacker-university",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: Russia's hacker university",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq look at Department 4 of Bauman Moscow State Technical University where students learn how to hack for the state. Its curriculum is extremely explicit about how the hacking and propaganda operations are relevant to state operations. They discuss whether this is an advantage for Russia’s cyber program and look at what Western intelligence agencies do instead.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/2aaBjsr6A_M\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://theinsider.ru/en/inv/292314\">The GRU's Hogwarts</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arunninghacker.substack.com/p/the-cyber-reality-states-dont-want\">Vlodymyr Styran's substack</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/BTN92/\">BTN92 with Alex Joske, how the MSS became a cyber juggernaut</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-05-19T00:24:34.000Z",
-    "duration": 1762,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN167.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN167/"
   }
 ]
