@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-intel-ends-paid-bug-bounties",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Intel ends paid bug bounties",
+    "description": "<p>Intel removes cash rewards from its bug bounty program, OpenAI agents probed dozens of organizations, Fraudsters scam €95 million from an Italian bank and Bitget is hacked for $350 million.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-intel-ends-paid-bug-bounties/\">Risky Bulletin: Intel ends paid bug bounties</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-09-28T01:17:56.000Z",
+    "duration": 578,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS616.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS616/"
+  },
+  {
     "id": "sponsored-robo-burp-is-coming-for-your-web-apps",
     "podcastId": "risky-bulletin",
     "title": "Sponsored: Robo-Burp is coming for your web apps",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/SRB168/"
-  },
-  {
-    "id": "risky-bulletin-microsoft-takes-down-crime-saas-used-by-ransomware-gangs",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Microsoft takes down crime SaaS used by ransomware gangs",
-    "description": "<p>Microsoft disrupts a malware-signing service used by ransomware gangs, a CISA contractor leaks sensitive GovCloud keys, vulnerability exploitation is now the dominant network entry vector, and Drupal readies security updates for a “highly critical” vulnerability.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-microsoft-takes-down-msaas-used-by-ransomware-gangs/\">Risky Bulletin: Microsoft takes down MSaaS used by ransomware gangs</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-05-20T03:36:19.000Z",
-    "duration": 530,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS566.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS566/"
   }
 ]
