@@ -43,7 +43,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 71,
-        "fetchedAt": "2026-09-27T11:51:33.921Z"
+        "fetchedAt": "2026-09-28T13:35:50.492Z"
       }
     },
     "recentReviews": [
@@ -129,7 +129,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 55,
-        "fetchedAt": "2026-09-27T11:51:34.567Z"
+        "fetchedAt": "2026-09-28T13:35:51.171Z"
       }
     },
     "recentReviews": [
@@ -213,9 +213,18 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 19,
-        "fetchedAt": "2026-09-27T11:51:35.385Z"
+        "fetchedAt": "2026-09-28T13:35:51.919Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "If you’re into AppSec, this is required listening.",
+        "content": "I’ve been listening to Absolute AppSec for years now and, it’s one of my favorite ways to stay sharp on application security. Ken Johnson and Seth Law aren’t just talking heads reading headlines, they’re clearly in the trenches themselves, and it shows. Every episode digs into stuff that actually matters if you’re building, breaking, or defending apps for a living.\n\nWhat I really like is that it doesn’t feel like a one-way broadcast. The hosts are genuinely engaged with the community, and I’ve had great interactions with them directly, which is rare for a podcast at this point. It feels more like hanging out with sharp people who happen to know a ton about AppSec than sitting through a lecture.\n\nWhether you’re an engineer who wants to understand security better, or you’re already deep in AppSec and want to keep up with new concerns and trends, this show delivers.",
+        "author": "larrylewis",
+        "updatedAt": "2026-08-25T11:38:41-07:00"
+      }
+    ]
   },
   {
     "id": "afternoon-cyber-tea",
@@ -260,7 +269,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 38,
-        "fetchedAt": "2026-09-27T11:51:36.139Z"
+        "fetchedAt": "2026-09-28T13:35:52.629Z"
       }
     },
     "recentReviews": [
@@ -350,7 +359,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-09-27T11:51:36.650Z"
+        "fetchedAt": "2026-09-28T13:35:53.210Z"
       }
     },
     "submittedBy": "gregclermont"
@@ -399,7 +408,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 12,
-        "fetchedAt": "2026-09-27T11:51:37.399Z"
+        "fetchedAt": "2026-09-28T13:35:54.596Z"
       }
     },
     "recentReviews": [
@@ -470,7 +479,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 25,
-        "fetchedAt": "2026-09-27T11:51:38.083Z"
+        "fetchedAt": "2026-09-28T13:35:55.217Z"
       }
     }
   },
@@ -516,7 +525,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 142,
-        "fetchedAt": "2026-09-27T11:51:38.727Z"
+        "fetchedAt": "2026-09-28T13:35:55.874Z"
       }
     },
     "recentReviews": [
@@ -602,7 +611,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 15,
-        "fetchedAt": "2026-09-27T11:51:39.269Z"
+        "fetchedAt": "2026-09-28T13:35:56.538Z"
       }
     }
   },
@@ -648,7 +657,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 12,
-        "fetchedAt": "2026-09-27T11:51:39.745Z"
+        "fetchedAt": "2026-09-28T13:35:56.899Z"
       }
     },
     "recentReviews": [
@@ -733,7 +742,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 3,
-        "fetchedAt": "2026-09-27T11:51:40.620Z"
+        "fetchedAt": "2026-09-28T13:35:57.705Z"
       }
     }
   },
@@ -784,7 +793,7 @@
       "apple": {
         "averageRating": 4.1,
         "ratingCount": 7,
-        "fetchedAt": "2026-09-27T11:51:41.183Z"
+        "fetchedAt": "2026-09-28T13:35:58.586Z"
       }
     }
   },
@@ -832,7 +841,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 194,
-        "fetchedAt": "2026-09-27T11:51:41.724Z"
+        "fetchedAt": "2026-09-28T13:35:59.494Z"
       }
     },
     "recentReviews": [
@@ -915,7 +924,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 49,
-        "fetchedAt": "2026-09-27T11:51:42.361Z"
+        "fetchedAt": "2026-09-28T13:35:59.956Z"
       }
     },
     "recentReviews": [
@@ -993,16 +1002,30 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 419,
-        "fetchedAt": "2026-09-27T11:51:42.878Z"
+        "fetchedAt": "2026-09-28T13:36:00.637Z"
       }
     },
     "recentReviews": [
       {
-        "rating": 2,
-        "title": "Over commercialization",
-        "content": "Too many commercials. Not enough information",
-        "author": "TexasTattoo",
-        "updatedAt": "2026-03-10T04:55:29-07:00"
+        "rating": 1,
+        "title": "Biased Reporting",
+        "content": "Episode “The hidden power of China's video games” wants to warn listeners about a game made in china that censoring what is happening in a chinese game regarding same sex relationships. However, I missed the episode that covered Bidens whitehouse censoring physicians on Twitter and trying to find out who watched videos on YouTube regarding vaccine info. This show used to be good, now it’s just awkward. I’m not pro right or left regarding politics, but I’m pro unbiased reporting. China censors a videogame…wow shocking stuff here 😂",
+        "author": "Ready2Screem",
+        "updatedAt": "2026-08-25T08:29:30-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Cyber cyber cyber",
+        "content": "So much Ai slop they give credence too on this podcast\n\nI also wish they wouldn’t say cyber ever three seconds on this podcast. It’s so outdated. \n \nAnd then also what’s with all the episode repeats and not disclosing it? So frustrating.",
+        "author": "Syntheticg",
+        "updatedAt": "2026-08-16T22:52:27-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Irresponsibly doxxing activists",
+        "content": "Just heard your show for the first time. It was today's episode on the immigrant protection activist network in LA. I was stunned by the way you exposed the people, places & strategies and by so doing endangered the entire network. People will be arrested, charged & possibly disappeared under new laws that are expanding every day based on your so-called reporting. WTAF",
+        "author": "SouthernBaker",
+        "updatedAt": "2026-06-21T11:45:56-07:00"
       },
       {
         "rating": 1,
@@ -1017,20 +1040,6 @@
         "content": "Informed, investigative reporting. Great stories. Tech for non-techies. So glad it’s now a weekly show on our local NPR station!",
         "author": "MMXkMN",
         "updatedAt": "2026-01-11T10:44:18-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "Propaganda",
-        "content": "This podcast is communist propaganda.",
-        "author": "zzzzzzzz....zzzz",
-        "updatedAt": "2026-01-02T04:14:50-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "Cyber cyber cyber",
-        "content": "So much Ai slop they give credence too on this podcast\n\nI also wish they wouldn’t say cyber ever three seconds on this podcast. It’s so outdated. Give it a rest. You sound ignorant and like Trump just repeating nonsense.\n\nAlso it’s “N-vidia” not “navidia.” You would think a technology podcast wouldn’t screw that up.",
-        "author": "Syntheticg",
-        "updatedAt": "2025-11-25T23:13:29-07:00"
       }
     ]
   },
@@ -1076,7 +1085,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 57,
-        "fetchedAt": "2026-09-27T11:51:43.861Z"
+        "fetchedAt": "2026-09-28T13:36:01.770Z"
       }
     },
     "recentReviews": [
@@ -1161,10 +1170,17 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 30,
-        "fetchedAt": "2026-09-27T11:51:44.640Z"
+        "fetchedAt": "2026-09-28T13:36:02.356Z"
       }
     },
     "recentReviews": [
+      {
+        "rating": 4,
+        "title": "Good",
+        "content": "Enjoy, but music in the background is annoying..",
+        "author": "Bobazon889",
+        "updatedAt": "2026-05-28T13:07:55-07:00"
+      },
       {
         "rating": 5,
         "title": "My favorite cybersecurity podcast",
@@ -1192,13 +1208,6 @@
         "content": "Love the interview style, research and plain language your team uses. Fun and interesting. The interviews of experts are smooth and professional and your storytelling is great!",
         "author": "Zackmn",
         "updatedAt": "2023-12-29T17:15:14-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Greatest cyber show",
-        "content": "We all enjoy this at the club. We laugh along and are shocked by the findings. Who knew there was so much on the dark web! Love it!",
-        "author": "XavierGate34",
-        "updatedAt": "2023-12-28T20:10:47-07:00"
       }
     ]
   },
@@ -1286,9 +1295,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-09-25T22:29:00.000Z",
+    "lastEpisodeDate": "2026-09-28T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1850,
+    "episodeCount": 1851,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1296,7 +1305,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 139,
-        "fetchedAt": "2026-09-27T11:51:46.308Z"
+        "fetchedAt": "2026-09-28T13:36:03.548Z"
       }
     },
     "recentReviews": [
@@ -1383,7 +1392,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 101,
-        "fetchedAt": "2026-09-27T11:51:47.160Z"
+        "fetchedAt": "2026-09-28T13:36:04.369Z"
       }
     },
     "recentReviews": [
@@ -1466,7 +1475,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 21,
-        "fetchedAt": "2026-09-27T11:51:47.688Z"
+        "fetchedAt": "2026-09-28T13:36:05.014Z"
       }
     },
     "recentReviews": [
@@ -1538,7 +1547,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 25,
-        "fetchedAt": "2026-09-27T11:51:48.188Z"
+        "fetchedAt": "2026-09-28T13:36:05.834Z"
       }
     },
     "recentReviews": [
@@ -1617,7 +1626,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 1019,
-        "fetchedAt": "2026-09-27T11:51:48.722Z"
+        "fetchedAt": "2026-09-28T13:36:06.733Z"
       }
     },
     "recentReviews": [
@@ -1636,7 +1645,7 @@
         "updatedAt": "2025-10-09T10:20:15-07:00"
       },
       {
-        "rating": 4,
+        "rating": 5,
         "title": "Great Content",
         "content": "I like the content (and the music mixing) but the host has one of the most AI-generated-sounding voices and enunciation that I have ever heard. It’s not unpleasant, though.",
         "author": "JD000000000000000",
@@ -1694,9 +1703,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-09-25T11:26:05.000Z",
+    "lastEpisodeDate": "2026-09-28T11:20:41.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 59,
+    "episodeCount": 60,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1704,7 +1713,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-09-27T11:51:49.239Z"
+        "fetchedAt": "2026-09-28T13:36:07.454Z"
       }
     }
   },
@@ -1755,45 +1764,45 @@
     "ratings": {
       "apple": {
         "averageRating": 4.9,
-        "ratingCount": 8108,
-        "fetchedAt": "2026-09-27T11:51:50.615Z"
+        "ratingCount": 8109,
+        "fetchedAt": "2026-09-28T13:36:08.744Z"
       }
     },
     "recentReviews": [
       {
+        "rating": 5,
+        "title": "❤️ Darknet and Jack",
+        "content": "This podcast is incredible and if you listen to every episode you will practically have a masters in cyber security.  Great story telling.  Engaging content and always relevant to the latest in the cyber industry news.",
+        "author": "HonestlyBrother",
+        "updatedAt": "2026-09-09T04:15:12-07:00"
+      },
+      {
         "rating": 1,
-        "title": "What is up with the barely audible background noise? Makes it hard to hear you talk",
-        "content": "Cannot hear you as all my attention goes to the background music",
-        "author": "Good Humor Fan",
-        "updatedAt": "2026-04-29T06:48:41-07:00"
+        "title": "the interviews are horrible",
+        "content": "ignore all the shows with an interview. they lack in quality.",
+        "author": "laurenverde",
+        "updatedAt": "2026-09-02T21:40:58-07:00"
       },
       {
         "rating": 5,
-        "title": "Best Podcast Ever.",
-        "content": "Thank you Jack for all of the hard work you put into this show. I’ve been obsessed for months now and can’t stop listening. I’m always excited when I see a new episode is out, and your show brings me join. Keep doing what you’re doing, you are amazing!",
-        "author": "An Apple Usr",
-        "updatedAt": "2026-04-25T20:15:56-07:00"
-      },
-      {
-        "rating": 4,
-        "title": "Great show! Knocked off one star",
-        "content": "Subtracted a star for the Cyberreason Episode. Unlistenable ad for some company. Other than that, this is the best cybersecurity pod out there by a mile.",
-        "author": "WillKosh1234",
-        "updatedAt": "2026-04-25T15:21:15-07:00"
+        "title": "Awesome!",
+        "content": "Great job jack! I enjoy every episode.",
+        "author": "Dominickdagreat",
+        "updatedAt": "2026-08-30T19:06:46-07:00"
       },
       {
         "rating": 5,
-        "title": "WOW!!",
-        "content": "I don’t believe I’ve ever left a review for a podcast but for Darknet Diaries, I definitely had to. Amazing show. Very entertaining. I even subscribed so I can get the bonus episodes!!",
-        "author": "TNguyen1993",
-        "updatedAt": "2026-04-22T15:26:38-07:00"
+        "title": "One of my top fave podcasts",
+        "content": "Fantastic show. You learn so much and you have fun doing it. I loved what Jack did with LOW, how he’s branching out with his storytelling. As an aside, as much experience as he’s had, the dude still sounds like an 18 year old. I hope he hangs in there to let his brain and heart mature to find what life can really be. I’m glad Jack addresses this at the end of the series. Hats off. ❤️",
+        "author": "Yuckful yucks",
+        "updatedAt": "2026-08-28T09:28:06-07:00"
       },
       {
         "rating": 5,
-        "title": "Best show ever",
-        "content": "I love this show",
-        "author": "jdidjjsnfjkenvnnd",
-        "updatedAt": "2026-03-26T18:21:56-07:00"
+        "title": "Fantastic",
+        "content": "Fantastic. A must listen for anyone who likes technology.",
+        "author": "Bananajoe406",
+        "updatedAt": "2026-08-19T07:34:51-07:00"
       }
     ]
   },
@@ -1848,7 +1857,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 3,
-        "fetchedAt": "2026-09-27T11:51:49.749Z"
+        "fetchedAt": "2026-09-28T13:36:07.971Z"
       }
     }
   },
@@ -1902,9 +1911,18 @@
       "apple": {
         "averageRating": 4.4,
         "ratingCount": 9,
-        "fetchedAt": "2026-09-27T11:51:51.850Z"
+        "fetchedAt": "2026-09-28T13:36:09.328Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -1998,7 +2016,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 77,
-        "fetchedAt": "2026-09-27T11:51:53.036Z"
+        "fetchedAt": "2026-09-28T13:36:10.331Z"
       }
     },
     "recentReviews": [
@@ -2085,7 +2103,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 370,
-        "fetchedAt": "2026-09-27T11:51:53.650Z"
+        "fetchedAt": "2026-09-28T13:36:11.091Z"
       }
     },
     "recentReviews": [
@@ -2175,9 +2193,46 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 56,
-        "fetchedAt": "2026-09-27T11:51:54.208Z"
+        "fetchedAt": "2026-09-28T13:36:11.560Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this pod!",
+        "content": "Selena and Crista dives into intriguing topics that are often overlooked, serving up fresh insights in a compelling manner. It feels like a refreshing conversation with a wise friend, always leaving you eager for the next episode.\n\nFrom Bona and Team Capsho",
+        "author": "Bona and Team Capsho",
+        "updatedAt": "2023-08-30T14:42:38-07:00"
+      },
+      {
+        "rating": 4,
+        "title": "Great  Podcast",
+        "content": "Very good podcast Brian a lot from listening to it.",
+        "author": "JonDvid",
+        "updatedAt": "2023-06-11T05:06:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Cyber! Cyber! Cyber!",
+        "content": "This is the best podcast by CTI practitioners diving into detail about current threats. This podcast would win a fight against other similar podcasts. Let’s have a podcast fight club. Oops this pod is already the champ.",
+        "author": "GPSWKEKT1640",
+        "updatedAt": "2023-05-02T21:00:47-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Notch",
+        "content": "Timely and informative content!",
+        "author": "ASVPGLES",
+        "updatedAt": "2023-01-24T11:06:13-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top Cyber Threat Podcast",
+        "content": "This podcast has some of the smartest people I’ve ever heard talk about computers. True thought leaders that are titans in the industry bringing the hottest cyber threats to your ears. Highly recommend.",
+        "author": "JM123456789123456789",
+        "updatedAt": "2022-03-10T09:38:13-07:00"
+      }
+    ]
   },
   {
     "id": "down-the-security-rabbithole",
@@ -2223,7 +2278,7 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 95,
-        "fetchedAt": "2026-09-27T11:51:54.951Z"
+        "fetchedAt": "2026-09-28T13:36:12.144Z"
       }
     },
     "recentReviews": [
@@ -2299,9 +2354,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-09-21T09:00:00.000Z",
+    "lastEpisodeDate": "2026-09-28T09:00:00.000Z",
     "firstEpisodeDate": "2016-05-06T16:12:39.000Z",
-    "episodeCount": 495,
+    "episodeCount": 496,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2309,7 +2364,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 14,
-        "fetchedAt": "2026-09-27T11:51:55.678Z"
+        "fetchedAt": "2026-09-28T13:36:12.605Z"
       }
     },
     "recentReviews": [
@@ -2481,10 +2536,24 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 189,
-        "fetchedAt": "2026-09-27T11:51:57.703Z"
+        "fetchedAt": "2026-09-28T13:36:14.568Z"
       }
     },
     "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Missing the old Hacked",
+        "content": "This is one of my all time favorite podcasts and I always couldn’t wait for a new episode to come out, however lately I have been heartbroken because all of the most recent podcasts have been marked explicit lately meaning I have had to miss out on all those great episodes. I would be so happy if Hacked could go back to the way it used to be.",
+        "author": "JaevinF",
+        "updatedAt": "2026-07-16T21:22:56-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "So good",
+        "content": "I love these guys and I always learn something new.",
+        "author": "Mofhtvabnsjj",
+        "updatedAt": "2026-06-02T19:10:23-07:00"
+      },
       {
         "rating": 5,
         "title": "Amazing pod :0",
@@ -2505,20 +2574,6 @@
         "content": "i can't remember passwords or solve captcha and i certainly depend on the web to keep my stuff safe. but i would like to understand who is testing that safety and what i as a human can do to fortify myself against it. because maybe sometimes the web needs to be broken so that it can improve. i find im more receptive to hearing stories that make me see the human issues that affect security, and i really enjoy the stories from listeners of light hearted pranks that ended up much more significant. no stupid ai required to make this podcast a good length and density. win 5:5 stars",
         "author": "Lemyrrio",
         "updatedAt": "2025-03-18T10:31:38-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Nerdy and fun",
-        "content": "Found this podcast by accident.  I love it. The hosts are funny, witty and informative. Love hearing the listeners stories as well. Keep up the great work",
-        "author": "Casey Marie's Music",
-        "updatedAt": "2025-03-16T13:29:42-07:00"
-      },
-      {
-        "rating": 1,
-        "title": "eh",
-        "content": "too many ads and lacks depth",
-        "author": "nakd moon",
-        "updatedAt": "2024-12-18T16:31:57-07:00"
       }
     ]
   },
@@ -2628,7 +2683,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 61,
-        "fetchedAt": "2026-09-27T11:51:58.841Z"
+        "fetchedAt": "2026-09-28T13:36:16.257Z"
       }
     },
     "recentReviews": [
@@ -2713,7 +2768,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 321,
-        "fetchedAt": "2026-09-27T11:51:59.415Z"
+        "fetchedAt": "2026-09-28T13:36:16.836Z"
       }
     },
     "recentReviews": [
@@ -2806,9 +2861,18 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 4,
-        "fetchedAt": "2026-09-27T11:52:00.053Z"
+        "fetchedAt": "2026-09-28T13:36:17.525Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -2841,9 +2905,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-09-21T09:00:00.000Z",
+    "lastEpisodeDate": "2026-09-28T09:00:00.000Z",
     "firstEpisodeDate": "2019-07-02T19:56:42.000Z",
-    "episodeCount": 449,
+    "episodeCount": 450,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -2851,7 +2915,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 39,
-        "fetchedAt": "2026-09-27T11:52:00.653Z"
+        "fetchedAt": "2026-09-28T13:36:17.952Z"
       }
     },
     "recentReviews": [
@@ -2943,7 +3007,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 4,
-        "fetchedAt": "2026-09-27T11:52:01.432Z"
+        "fetchedAt": "2026-09-28T13:36:18.511Z"
       }
     }
   },
@@ -3040,7 +3104,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 50,
-        "fetchedAt": "2026-09-27T11:52:02.880Z"
+        "fetchedAt": "2026-09-28T13:36:19.793Z"
       }
     },
     "recentReviews": [
@@ -3123,7 +3187,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 929,
-        "fetchedAt": "2026-09-27T11:52:03.600Z"
+        "fetchedAt": "2026-09-28T13:36:20.552Z"
       }
     },
     "recentReviews": [
@@ -3208,7 +3272,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-09-27T11:52:04.023Z"
+        "fetchedAt": "2026-09-28T13:36:21.067Z"
       }
     }
   },
@@ -3255,7 +3319,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 25,
-        "fetchedAt": "2026-09-27T11:52:04.675Z"
+        "fetchedAt": "2026-09-28T13:36:22.067Z"
       }
     },
     "recentReviews": [
@@ -3324,7 +3388,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 57,
-        "fetchedAt": "2026-09-27T11:52:05.659Z"
+        "fetchedAt": "2026-09-28T13:36:22.869Z"
       }
     },
     "recentReviews": [
@@ -3406,7 +3470,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 17,
-        "fetchedAt": "2026-09-27T11:52:06.221Z"
+        "fetchedAt": "2026-09-28T13:36:23.257Z"
       }
     },
     "recentReviews": [
@@ -3493,7 +3557,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 3,
-        "fetchedAt": "2026-09-27T11:52:07.528Z"
+        "fetchedAt": "2026-09-28T13:36:23.850Z"
       }
     },
     "submittedBy": "bastienperez"
@@ -3540,7 +3604,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 40,
-        "fetchedAt": "2026-09-27T11:52:07.994Z"
+        "fetchedAt": "2026-09-28T13:36:24.463Z"
       }
     },
     "recentReviews": [
@@ -3548,7 +3612,7 @@
         "rating": 1,
         "title": "josh is insufferable",
         "content": "I really enjoy Kurt’s perspective on stuff. Josh is insufferable. Not sure what complex he suffers from, but he can never be wrong and is always steamrolling Kurt.",
-        "author": "letitsnowman",
+        "author": "joeyouno",
         "updatedAt": "2024-11-25T09:08:21-07:00"
       },
       {
@@ -3691,7 +3755,7 @@
       "apple": {
         "averageRating": 4.2,
         "ratingCount": 20,
-        "fetchedAt": "2026-09-27T11:52:09.135Z"
+        "fetchedAt": "2026-09-28T13:36:25.306Z"
       }
     },
     "recentReviews": [
@@ -3761,7 +3825,7 @@
       "apple": {
         "averageRating": 4.8,
         "ratingCount": 21,
-        "fetchedAt": "2026-09-27T11:52:09.699Z"
+        "fetchedAt": "2026-09-28T13:36:26.074Z"
       }
     },
     "recentReviews": [
@@ -3847,7 +3911,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 19,
-        "fetchedAt": "2026-09-27T11:52:10.511Z"
+        "fetchedAt": "2026-09-28T13:36:26.789Z"
       }
     },
     "recentReviews": [
@@ -3946,7 +4010,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 48,
-        "fetchedAt": "2026-09-27T11:52:10.982Z"
+        "fetchedAt": "2026-09-28T13:36:27.447Z"
       }
     },
     "recentReviews": [
@@ -4019,7 +4083,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 394,
-        "fetchedAt": "2026-09-27T11:52:12.059Z"
+        "fetchedAt": "2026-09-28T13:36:28.934Z"
       }
     },
     "recentReviews": [
@@ -4109,9 +4173,25 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 16,
-        "fetchedAt": "2026-09-27T11:52:11.497Z"
+        "fetchedAt": "2026-09-28T13:36:28.182Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4166,7 +4246,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 677,
-        "fetchedAt": "2026-09-27T11:52:12.774Z"
+        "fetchedAt": "2026-09-28T13:36:30.949Z"
       }
     }
   },
@@ -4214,7 +4294,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 1,
-        "fetchedAt": "2026-09-27T11:52:13.333Z"
+        "fetchedAt": "2026-09-28T13:36:31.583Z"
       }
     }
   },
@@ -4283,9 +4363,46 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 78,
-        "fetchedAt": "2026-09-27T11:52:14.017Z"
+        "fetchedAt": "2026-09-28T13:36:32.392Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Love this podcast!!",
+        "content": "Never a null moment!",
+        "author": "sr_98_sr",
+        "updatedAt": "2025-03-12T04:16:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Gold",
+        "content": "Amusing and informative and poetic!",
+        "author": "eahiv",
+        "updatedAt": "2024-05-27T17:14:36-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "good at cryptography",
+        "content": "also good at making me laugh",
+        "author": "cydyio",
+        "updatedAt": "2024-04-15T18:05:27-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Wonderfully accessible!",
+        "content": "Each episode is a great discussion into a large field",
+        "author": "Bob on Ross",
+        "updatedAt": "2024-03-03T19:32:17-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Found my new favorite podcast!",
+        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
+        "author": "Ragnaroekk",
+        "updatedAt": "2023-05-06T12:26:55-07:00"
+      }
+    ]
   },
   {
     "id": "security-insider-conversations",
@@ -4422,7 +4539,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 2019,
-        "fetchedAt": "2026-09-27T11:52:16.688Z"
+        "fetchedAt": "2026-09-28T13:36:34.740Z"
       }
     },
     "recentReviews": [
@@ -4509,7 +4626,7 @@
       "apple": {
         "averageRating": 4,
         "ratingCount": 56,
-        "fetchedAt": "2026-09-27T11:52:18.267Z"
+        "fetchedAt": "2026-09-28T13:36:36.652Z"
       }
     },
     "recentReviews": [
@@ -4592,9 +4709,46 @@
       "apple": {
         "averageRating": 4.3,
         "ratingCount": 16,
-        "fetchedAt": "2026-09-27T11:52:17.688Z"
+        "fetchedAt": "2026-09-28T13:36:35.400Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 2,
+        "title": "Just ok",
+        "content": "The one with Roland was really good the others have been hit and miss.",
+        "author": "cisoNYC",
+        "updatedAt": "2022-01-04T02:29:33-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "A must listen for all security leaders",
+        "content": "Great podcast. Facinating to get both practical guidance and the historical context from the leaders of one of the planet's biggest tech companies.",
+        "author": "nicfill",
+        "updatedAt": "2021-05-18T10:06:29-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great new cybersecurity podcast!",
+        "content": "It’s awesome to hear Bret talk cloud security with Mark Russinovich, a true pioneer. Looking forward to hearing who’s next up for an interview! This show’s well worth your time.",
+        "author": "Frogstar5",
+        "updatedAt": "2021-05-13T14:40:00-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Excellent show",
+        "content": "Highly recommend this new show - folks from the CyberWire and Microsoft teaming up is bound to be great!",
+        "author": "Meatball_army_2021",
+        "updatedAt": "2021-05-13T14:24:25-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Depth of Knowledge shines through",
+        "content": "It’s clear that the host has been in this game a while and has the scars, and the Rolodex, to show for it. Great to hear a podcast where a veteran of the game shares his experience alongside others that provide valuable additional perspective, not just affirmation of what the host says.",
+        "author": "GottaRun21",
+        "updatedAt": "2021-05-13T14:16:19-07:00"
+      }
+    ]
   },
   {
     "id": "security-weekly-news-audio",
@@ -4641,9 +4795,46 @@
       "apple": {
         "averageRating": 4.4,
         "ratingCount": 33,
-        "fetchedAt": "2026-09-27T11:52:18.801Z"
+        "fetchedAt": "2026-09-28T13:36:37.224Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great news summaries and very funny",
+        "content": "Doug’s humor is really the main reason I stay and listen. His spin on the latest cyber news always makes me laugh.\n\nI could listen all day to his side tangents too. His deviations are often the best part 🤣",
+        "author": "TFWas",
+        "updatedAt": "2025-07-02T05:16:53-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Reasonably okay infosec podcast",
+        "content": "I don’t, not enjoy this podcast. Reasonably okay content. I recommend this podcast if you can get past some weird humor. Maybe they are using chatGPT to write their comedy banter because it sometimes doesn’t make sense.",
+        "author": "[REDACTED] USER",
+        "updatedAt": "2023-11-13T18:43:38-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Entertaining InfoSec news",
+        "content": "Now with 50% more sarcasm and 99% more obscure older pop culture references. That’s 1000% of your RDA for free, what a deal.",
+        "author": "Bevonomics",
+        "updatedAt": "2022-12-07T14:23:31-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Brief But Not Shallow",
+        "content": "This show is a great summary of stories with enough info to make it interesting but it’s still short enough I can listen to it in one commute and know if I need to dig further into a particular story.",
+        "author": "MLC689",
+        "updatedAt": "2022-11-29T10:37:03-07:00"
+      },
+      {
+        "rating": 1,
+        "title": "Stop recommending this, I don’t want to see it",
+        "content": "Why does Apple think I want to see this stupid redneck mudflap icon?",
+        "author": "Blizzard1s2d",
+        "updatedAt": "2019-06-19T20:00:01-07:00"
+      }
+    ]
   },
   {
     "id": "shadowtalk",
@@ -4690,10 +4881,17 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 43,
-        "fetchedAt": "2026-09-27T11:52:19.478Z"
+        "fetchedAt": "2026-09-28T13:36:38.078Z"
       }
     },
     "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Awesome insights",
+        "content": "This show always delivers relevant and practical topics to cybersecurity practitioners. They always summarize very practical recommendations",
+        "author": "Maocol99",
+        "updatedAt": "2026-07-24T14:37:37-07:00"
+      },
       {
         "rating": 5,
         "title": "For Practitioners By Practitioners",
@@ -4721,13 +4919,6 @@
         "content": "I love being able to get my weekly cybersecurity news in addition to a more detailed analysis from Digital Shadows’ analysts, engineers, etc. As someone new to the cybersecurity industry, this podcast has helped me learn a ton about the industry.",
         "author": "anymonos",
         "updatedAt": "2018-07-02T13:51:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Easy to listen to",
-        "content": "I really enjoy the background and analysis in this podcast.  It’s quite punny which makes it easy to listen to.",
-        "author": "Jdbjdnd",
-        "updatedAt": "2018-01-16T14:53:46-07:00"
       }
     ]
   },
@@ -4776,7 +4967,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 29,
-        "fetchedAt": "2026-09-27T11:52:20.145Z"
+        "fetchedAt": "2026-09-28T13:36:38.939Z"
       }
     },
     "recentReviews": [
@@ -4861,7 +5052,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 316,
-        "fetchedAt": "2026-09-27T11:52:21.291Z"
+        "fetchedAt": "2026-09-28T13:36:39.320Z"
       }
     },
     "recentReviews": [
@@ -5002,7 +5193,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 14,
-        "fetchedAt": "2026-09-27T11:52:22.428Z"
+        "fetchedAt": "2026-09-28T13:36:40.446Z"
       }
     },
     "recentReviews": [
@@ -5079,7 +5270,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 40,
-        "fetchedAt": "2026-09-27T11:52:22.975Z"
+        "fetchedAt": "2026-09-28T13:36:41.362Z"
       }
     },
     "recentReviews": [
@@ -5212,7 +5403,7 @@
       "apple": {
         "averageRating": 2.7,
         "ratingCount": 6,
-        "fetchedAt": "2026-09-27T11:52:23.958Z"
+        "fetchedAt": "2026-09-28T13:36:42.837Z"
       }
     }
   },
@@ -5273,9 +5464,46 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 16,
-        "fetchedAt": "2026-09-27T11:52:24.796Z"
+        "fetchedAt": "2026-09-28T13:36:44.424Z"
       }
     },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great information and presentation",
+        "content": "Highly recommend if you are a network defender.",
+        "author": "Rygorr",
+        "updatedAt": "2026-07-17T14:09:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great cybersecurity podcast!",
+        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
+        "author": "Dave McCollough",
+        "updatedAt": "2025-12-12T06:46:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Love it",
+        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
+        "author": "dareyoutomove",
+        "updatedAt": "2024-10-12T09:27:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Pentesting 101",
+        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
+        "author": "Rich-Barr",
+        "updatedAt": "2023-11-01T04:42:09-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Worth a listen",
+        "content": "Great insight and advice and actually very entertaining.",
+        "author": "Chris Y Doyle",
+        "updatedAt": "2022-09-14T12:09:26-07:00"
+      }
+    ],
     "submittedBy": "techspence"
   },
   {
@@ -5368,7 +5596,7 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 149,
-        "fetchedAt": "2026-09-27T11:52:26.100Z"
+        "fetchedAt": "2026-09-28T13:36:46.270Z"
       }
     },
     "recentReviews": [
@@ -5451,7 +5679,7 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 47,
-        "fetchedAt": "2026-09-27T11:52:27.165Z"
+        "fetchedAt": "2026-09-28T13:36:47.080Z"
       }
     }
   },
@@ -5515,9 +5743,46 @@
       "apple": {
         "averageRating": 4.9,
         "ratingCount": 64,
-        "fetchedAt": "2026-09-27T11:52:27.645Z"
+        "fetchedAt": "2026-09-28T13:36:47.775Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 1,
+        "title": "So much potential",
+        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
+        "author": "Yeahyeahblahblah",
+        "updatedAt": "2026-06-06T04:49:02-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful",
+        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
+        "author": "Laughedoutloud",
+        "updatedAt": "2025-12-27T07:09:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Oo",
+        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
+        "author": "\\x4A\\x4D",
+        "updatedAt": "2025-05-20T13:02:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "1X",
+        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
+        "author": "mjg5772",
+        "updatedAt": "2025-05-17T20:32:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Security and more",
+        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
+        "author": "Chris Mc.38",
+        "updatedAt": "2024-12-15T10:04:10-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",
@@ -5563,7 +5828,7 @@
       "apple": {
         "averageRating": 4.7,
         "ratingCount": 39,
-        "fetchedAt": "2026-09-27T11:52:28.389Z"
+        "fetchedAt": "2026-09-28T13:36:48.230Z"
       }
     },
     "recentReviews": [
@@ -5657,9 +5922,18 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 15,
-        "fetchedAt": "2026-09-27T11:52:28.879Z"
+        "fetchedAt": "2026-09-28T13:36:48.782Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",
@@ -5704,7 +5978,7 @@
       "apple": {
         "averageRating": 4.6,
         "ratingCount": 137,
-        "fetchedAt": "2026-09-27T11:52:29.677Z"
+        "fetchedAt": "2026-09-28T13:36:49.298Z"
       }
     },
     "recentReviews": [
@@ -5801,7 +6075,7 @@
       "apple": {
         "averageRating": 5,
         "ratingCount": 2,
-        "fetchedAt": "2026-09-27T11:52:30.764Z"
+        "fetchedAt": "2026-09-28T13:36:50.108Z"
       }
     },
     "submittedBy": "BardSEC"
