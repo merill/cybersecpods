@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-malware-that-asks-ai-what-to-do-next-or-ryan-fetterman",
+    "podcastId": "decipher-security-podcast",
+    "title": "The Malware That Asks AI What to Do Next | Ryan Fetterman",
+    "description": "<p>Ryan Fetterman from Cisco Talos sits down with Decipher’s Lindsey O’Donnell-Welch to talk about ClosedQuorum, the first reported malware binary with an autonomous command-and-control. They talk about the wide range of ways threat actors are using AI, and useful detection strategies for AI-assisted attacks. </p><p><br></p><p>Links</p><p>Talos analysis: <a href=\"https://www.youtube.com/redirect?event=video_description&redir_token=QUZZTVljRTBlNmFXd1JiNzVkZk1WUFBMOEtkQnxBTl9pYzRkRHl1QWMzR1lxZFR6MWkzRlFfQ052YUZDSWhYSXBLVmZvR3cxQmlmWDdqU25EdFZ1QXkzNHJ2Zmd5V1NJeFNtOU5EOTlMRFlJTkQwOW4xb29rdGY2TnhzLUJNV1py&q=https%3A%2F%2Fblog.talosintelligence.com%2Fthe-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant%2F&v=rVDaOiduJMg\" target=\"_blank\" rel=\"nofollow\">https://blog.talosintelligence.com/th...</a><br><br></p>",
+    "publishedAt": "2026-09-29T14:06:16.000Z",
+    "duration": 1854,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/126494081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2F432911346-44100-2-d0c3417d315a2.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/The-Malware-That-Asks-AI-What-to-Do-Next--Ryan-Fetterman-e3pipu1"
+  },
+  {
     "id": "fbi-hack-fallout-eviltokens-takedown-and-the-f5-zero-day",
     "podcastId": "decipher-security-podcast",
     "title": "FBI Hack Fallout, EvilTokens Takedown, and the F5 Zero Day",
