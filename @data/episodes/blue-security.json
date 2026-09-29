@@ -1,5 +1,22 @@
 [
   {
+    "id": "why-your-cloud-region-is-now-a-physical-attack-surface",
+    "podcastId": "blue-security",
+    "title": "Why Your Cloud Region Is Now a Physical Attack Surface",
+    "description": "<p><strong>Summary</strong></p><p>In this episode of the Blue Security Podcast, hosts Andy Jaw and Adam discuss two significant cybersecurity incidents: the emergence of AI API drain attacks and the implications of military strikes on AWS data centers. They explore how attackers can exploit API keys to run up costs without directly breaching networks and the lessons learned from AWS's experience with data loss due to drone strikes. The conversation emphasizes the evolving landscape of cybersecurity threats and the importance of robust threat modeling and data management practices.</p><p>----------------------------------------------------</p><p>YouTube Video Link: https://youtu.be/JWzG46q898c</p><p>----------------------------------------------------</p><p>Documentation: </p><p>https://cybernews.com/security/hackers-advertise-ai-token-draining-service/</p><p>https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/</p><p>----------------------------------------------------</p><p>Contact Us:</p><p>Website: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bluesecuritypod.com</p><p>Bluesky: https://bsky.app/profile/bluesecuritypod.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/company/bluesecpod</p><p>YouTube: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/c/BlueSecurityPodcast</p><p>-----------------------------------------------------------</p><p>Andy Jaw</p><p>Bluesky: https://bsky.app/profile/ajawzero.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/andyjaw/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠andy@bluesecuritypod.com⁠</p><p>----------------------------------------------------</p><p>Adam Brewer</p><p>Twitter: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://twitter.com/ajbrewer</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/adamjbrewer/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠adam@bluesecuritypod.com</p>",
+    "publishedAt": "2026-09-29T12:00:00.000Z",
+    "duration": 1761,
+    "audioUrl": "https://anchor.fm/s/37babf1c/podcast/play/126469467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-29%2Fbb74cee4-7652-2075-91b7-ed6dbbd8b2d0.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9249855/9249855-1600984785589-140b457fbd8fe.jpg",
+    "episodeNumber": 2,
+    "seasonNumber": 7,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/blue-security-podcast/episodes/Why-Your-Cloud-Region-Is-Now-a-Physical-Attack-Surface-e3pi1sr"
+  },
+  {
     "id": "anthropic-threat-intelligence-report",
     "podcastId": "blue-security",
     "title": "Anthropic Threat Intelligence Report",

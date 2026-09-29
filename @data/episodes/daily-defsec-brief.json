@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-29-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 29 2026 - Daily DefSec Brief",
+    "description": "<p>1. Exploited Apple flaw fixed for older releases — CVE-2026-86950 — Fixed: 26.7.1 · 15.8.1 — Do: Update iPhones and Macs still on older releases — <a href=\"https://support.apple.com/en-us/149229\" rel=\"noopener noreferrer nofollow\">https://support.apple.com/en-us/149229</a></p><p>2. Featured Chrome ad blocker is spyware — Do: Remove Poper Blocker and allowlist Chrome extensions — <a href=\"https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions\" rel=\"noopener noreferrer nofollow\">https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions</a></p><p>3. A webpage can run code through OpenCode — Fixed: 1.18.22 — Do: Upgrade OpenCode on every developer machine — <a href=\"https://github.com/anomalyco/opencode/security/advisories/GHSA-632h-h47v-g4x4\" rel=\"noopener noreferrer nofollow\">https://github.com/anomalyco/opencode/security/advisories/GHSA-632h-h47v-g4x4</a></p><p>4. 16,326 Supabase databases readable by anyone — Do: Turn on row-level security for every Supabase table — <a href=\"https://www.upguard.com/blog/everything-everywhere-systemic-data-exposure-in-supabase-apps\" rel=\"noopener noreferrer nofollow\">https://www.upguard.com/blog/everything-everywhere-systemic-data-exposure-in-supabase-apps</a></p><p>5. MCP Python SDK leaks OAuth secrets — Fixed: 1.30.0 or 2.2.0 — Do: Upgrade the MCP Python SDK, rotate client secrets — <a href=\"https://github.com/modelcontextprotocol/python-sdk/security/advisories/GHSA-qx49-fqc8-xw99\" rel=\"noopener noreferrer nofollow\">https://github.com/modelcontextprotocol/python-sdk/security/advisories/GHSA-qx49-fqc8-xw99</a></p><p>6. NeedyMantis keeps access after the break-in — Do: Hunt NeedyMantis sideloading, block its domain — <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/\" rel=\"noopener noreferrer nofollow\">https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/</a></p><p>7. Authlib accepts JWS with no signatures — CVE-2026-96760 — Do: Reject empty-signature JWS before Authlib sees it — <a href=\"https://kb.cert.org/vuls/id/762428\" rel=\"noopener noreferrer nofollow\">https://kb.cert.org/vuls/id/762428</a></p><p>8. Old branded QR codes can be taken over — Do: Delete DNS records pointing at abandoned QR services — <a href=\"https://cyberinsider.com/hackers-can-hijack-qr-code-domains-to-redirect-users-to-phishing-sites/\" rel=\"noopener noreferrer nofollow\">https://cyberinsider.com/hackers-can-hijack-qr-code-domains-to-redirect-users-to-phishing-sites/</a></p>",
+    "publishedAt": "2026-09-29T10:25:59.000Z",
+    "duration": 258,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/18c2ab1d32a7f1d8ba25a2127d86b9a862ba10561eeb8e953814efc3a891c12e/eyJlcGlzb2RlSWQiOiIxNjA5YjVmNi0wMWMyLTRkMTAtYWE1Yy1jYWIzYWRkOWRlNTEiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiYjkxZDg2YWI0NDFlYTIxZjA0YmVhL2RhaWx5LWRlZnNlYy0yMDI2LTktMjlfXzEwLTI0LTI0Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-28-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 28 2026 - Daily DefSec Brief",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "going-from-bug-bounty-bugs-to-more-secure-systems-shlomie-liberow-asw-402",
+    "podcastId": "application-security-weekly",
+    "title": "Going From Bug Bounty Bugs to More Secure Systems - Shlomie Liberow - ASW #402",
+    "description": "<p>Finding flaws with LLMs and agents is changing bug bounty programs. But it's not necessarily changing how orgs fix those flaws. Shlomie Liberow shares his experience across a decade of bounty programs and how they have changed for researchers and orgs. He explains why fixing the bug reported through a bug bounty is more about understanding interconnected systems than fixing a single piece of software. We discuss how orgs can be more effective at securing their environment and what role LLMs might have in evaluating controls. Plus, we look to the future of bug bounty programs and how researchers can still excel through curiosity and expertise on a topic rather than relying on scanners, prompts, and luck.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-402\">https://securityweekly.com/asw-402</a></p>",
+    "publishedAt": "2026-09-29T09:00:00.000Z",
+    "duration": 3736,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_402_1--8922a975-2561-4fd1-96a8-3a0391a9c786--audio-converted--edf5993f-2007-4c3b-a8a9-880142114a38.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/8/3/8/c/838cc78353b7c4b4e5bbc093207a2619/ASW_402_Thumbnail_ASW_1920x1920_6912c7ae-098c-4a9b-95f2-9e65e24fbf5c.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/going-from-bug-bounty-bugs-to-more-secure-systems-shlomie-liberow-asw-402"
+  },
+  {
     "id": "understanding-prompt-injection-in-order-to-contain-it-julie-brunias-asw-401",
     "podcastId": "application-security-weekly",
     "title": "Understanding Prompt Injection In Order to Contain It - Julie Brunias - ASW #401",
