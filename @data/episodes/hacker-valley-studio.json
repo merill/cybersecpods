@@ -1,5 +1,22 @@
 [
   {
+    "id": "giving-your-ai-agent-its-own-identity-with-ashish-rajan",
+    "podcastId": "hacker-valley-studio",
+    "title": "Giving Your AI Agent Its Own Identity with Ashish Rajan",
+    "description": "<p>Your newest hire has a Google Workspace account, a Slack login and a laptop. It never sleeps, and it never asks before it acts. So who owns its identity? Ron welcomes back Ashish Rajan, CISO at Techriot.io and researcher with AI Security Lab, who spent 17 years in identity, cloud security and security leadership. His take: vendors haven't solved AI identity, and the open questions are on your side, not the product's.<br>\n<br>\nAshish got into identity after failing his OSCP three times: if he couldn't break in, he wouldn't let anyone else in. Now he reviews Ron's own setup, where Hacker Valley's AI agent, Jennifer Romani, has her own accounts just like an employee. Ashish explains how that call changes from a one-laptop small business to an enterprise where every developer's machine acts like five. They also cover the Gemini breach headlines, swarms of agents and AI Security Lab, which Ashish describes as what OWASP is for AppSec, but for AI security.<br>\n<br>\nThe uncomfortable truth: defenders have the same models attackers do, but attackers don't wait for a pull request review. Ashish calls that a people problem, not a technology problem. He also shares the question he asks before handing anything to an AI agent: can this be reversed?<br>\n<br>\nImpactful Moments</p>\n<p>00:00 - Introduction<br>\n02:30 - Busting a myth: AI identity isn't solved<br>\n05:30 - Three OSCP attempts and a pivot to IAM<br>\n07:00 - Why AI identity is more complex than ever<br>\n09:15 - Hot or not: giving an AI agent its own accounts<br>\n11:10 - One laptop, five machines in the enterprise<br>\n12:50 - AI gateways and developer observability<br>\n14:05 - Where Ashish would spend his AI security budget<br>\n18:20 - Why defenders don't hack themselves first<br>\n19:05 - The real problem is people<br>\n22:15 - Swarms of agents are coming<br>\n23:50 - What AI Security Lab is building<br>\n26:35 - Never share your credit card with AI<br>\n28:40 - Ron's callback: can it be reversed?</p>\n<p>Links<br>\nConnect with Ashish Rajan on LinkedIn: https://www.linkedin.com/in/ashishrajan/</p>\n<p>Listen to Ashish's first Hacker Valley Studio episode: <a href='https://www.podbean.com/pw/pbblog-bpaij-51b280'>https://www.podbean.com/pw/pbblog-bpaij-51b280</a><br>\n– <br>\nCheck out our upcoming events: <a href='https://www.hackervalley.com/livestreams'>https://www.hackervalley.com/livestreams</a> <br>\n<br>\nLove Hacker Valley Studio? Pick up some swag: <a href='https://store.hackervalley.com'>https://store.hackervalley.com</a> <br>\n<br>\nBecome a sponsor of the show: <a href='https://hackervalley.com/work-with-us/'>https://hackervalley.com/work-with-us/</a> </p>",
+    "publishedAt": "2026-09-30T20:13:33.000Z",
+    "duration": 1938,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/9mujuxzkjwuy48at/HVS26_EP445_Ashish_Rajan9mwk0.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 445,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/giving-your-ai-agent-its-own-identity-with-ashish-rajan/"
+  },
+  {
     "id": "from-read-access-to-admin-with-just-an-ai-agent",
     "podcastId": "hacker-valley-studio",
     "title": "From Read Access to Admin with just an AI Agent",
