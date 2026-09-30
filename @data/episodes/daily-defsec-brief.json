@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-september-30-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for September 30 2026 - Daily DefSec Brief",
+    "description": "<p>1. A password reset led to Kubernetes credentials — Do: Alert on sign-in methods added after resets — <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/\" rel=\"noopener noreferrer nofollow\">https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/</a></p><p>2. A package name runs commands in AWS AgentCore — CVE-2026-12530, CVE-2026-16796 — Fixed: 1.18.1 — Do: Upgrade the Bedrock AgentCore Python SDK — <a href=\"https://aws.amazon.com/security/security-bulletins/2026-065-aws/\" rel=\"noopener noreferrer nofollow\">https://aws.amazon.com/security/security-bulletins/2026-065-aws/</a></p><p>3. An Octopus project edit runs code on the server — CVE-2026-101169 — Fixed: 2026.1.11781 · 2026.2.13441 · 2026.3.15829 — Do: Upgrade self-hosted Octopus Server — <a href=\"https://advisories.octopus.com/post/2026/sa2026-10/\" rel=\"noopener noreferrer nofollow\">https://advisories.octopus.com/post/2026/sa2026-10/</a></p><p>4. OpenSSL DTLS leaks heap memory to a peer — CVE-2026-84782 — Fixed: 4.0.3 · 3.6.5 · 3.5.9 · 3.4.8 · 3.0.23 — Do: Update OpenSSL wherever DTLS is in use — <a href=\"https://openssl-library.org/news/vulnerabilities/\" rel=\"noopener noreferrer nofollow\">https://openssl-library.org/news/vulnerabilities/</a></p><p>5. Stolen passwords opened France's tax portals — Do: Require MFA on every staff and partner portal — <a href=\"https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html\" rel=\"noopener noreferrer nofollow\">https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html</a></p><p>6. Windows gets built-in Linux containers — Do: Set the WSL containers policy in Intune — <a href=\"https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/\" rel=\"noopener noreferrer nofollow\">https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/</a></p><p>7. Coding agents post private screenshots publicly — Do: Stop coding agents from creating public repos — <a href=\"https://www.glow.io/blogs/how-ai-agents-exposed-developer-screenshots-from-leading-tech-companies\" rel=\"noopener noreferrer nofollow\">https://www.glow.io/blogs/how-ai-agents-exposed-developer-screenshots-from-leading-tech-companies</a></p>",
+    "publishedAt": "2026-09-30T11:50:14.000Z",
+    "duration": 195,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/fab14f5e309b9bec8ae460717863bc00be1b4f06b973071aeab31b874e5b6403/eyJlcGlzb2RlSWQiOiI4N2U4OTNjZi05ZTgwLTRjNDctODc2ZS1kMzc0MGZiMDIwZmMiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiY2Y3NDAwYmFlNDNiZDYyMTIxNWFjL2RhaWx5LWRlZnNlYy0yMDI2LTktMzBfXzExLTQ5LTIwLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-29-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 29 2026 - Daily DefSec Brief",
