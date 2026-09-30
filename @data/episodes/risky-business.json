@@ -1,5 +1,22 @@
 [
   {
+    "id": "soap-box-hd-moore-talks-ot-security-frontier-fearmongering-and-more",
+    "podcastId": "risky-business",
+    "title": "Soap Box: HD Moore talks OT security, frontier fearmongering and more",
+    "description": "<p>In this sponsored Soap Box edition of the Risky Business podcast Patrick Gray chats with industry legend HD Moore about how his company runZero wound up being used heavily to discover OT devices in enterprise networks.</p>\n\n<p>They also talk about the vulnpocalypse and how frontier lab fearmongering is reminiscent of the collective freakout when HD released the Metasploit exploit framework back in 2003.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/pyiD1OOclA8\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-09-29T22:50:32.000Z",
+    "duration": 2041,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX111.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SOAPBOX111/"
+  },
+  {
     "id": "risky-business-854-were-jevpilled",
     "podcastId": "risky-business",
     "title": "Risky Business #854 -- We're Jevpilled",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB786/"
-  },
-  {
-    "id": "soap-box-knocknoc-glues-your-sso-to-your-firewalls-for-just-in-time-network-acce",
-    "podcastId": "risky-business",
-    "title": "Soap Box: Knocknoc glues your SSO to your firewalls for Just-in-Time network access",
-    "description": "<p>In this Soap Box edition of Risky Business host Patrick Gray talks to Knocknoc CEO Adam Pointon about how to easily rein in attack surface by glueing your single sign-on service to your network controls.</p>\n\n<p>Do your Palo Alto and Fortinet devices really need to be discoverable by ransomware crews? Does your file transfer appliance need to be open to the whole world? What about your SSH and RDP? Your Citrix? Your (gasp) Exchange Online servers??</p>\n\n<p>You can do a lot with IP allowlisting and simple Identity Aware Proxies (IAPs) to minimise your exposure.</p>\n\n<p>Knocknoc is a bit of a “Risky Business special”, too. Pat helped Knocknoc to raise a seed round through Decibel Partners where he’s a founder advisor. He also serves on Knocknoc’s board of directors.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/kPd85kW09oE\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2025-03-26T23:48:45.000Z",
-    "duration": 1846,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/soapbox94.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/soapbox94/"
   }
 ]
