@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-october-1st-2026-cisco-catalyst-sd-wan-manager-0-day-wat",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, October 1st, 2026: Cisco Catalyst SD-WAN Manager 0-day; Watchguard AP RCE; OpenBao/Vault RCE; Post Quantum Certs",
+    "description": "<br/>\nCisco Catalyst SD-WAN Manager API Authentication Bypass Vulnerability CVE-2026-76504<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-webauth-xr8beuuU\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-webauth-xr8beuuU</a><br/>\nWatchGuard AP Command Injection in Internal Management API Allows Command Execution<br/>\n<a href=\"https://psirt.watchguard.com/CVE-2026-86102/\">https://psirt.watchguard.com/CVE-2026-86102/</a><br/>\nA Realistic Code Execution Exploit Chain in OpenBao and Vault<br/>\n<a href=\"https://control-plane.io/posts/unauthed-to-rce-in-vault-and-openbao/\">https://control-plane.io/posts/unauthed-to-rce-in-vault-and-openbao/</a><br/>\nBuilding a post-quantum certificate authority with Merkle Tree Certificates<br/>\n<a href=\"https://blog.cloudflare.com/pq-ca-with-mtcs/\">https://blog.cloudflare.com/pq-ca-with-mtcs/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-01T02:00:02.000Z",
+    "duration": 307,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10118.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10118,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10118"
+  },
+  {
     "id": "sans-stormcast-wednesday-september-30th-2026-wordfence-scans-mikrotik-vulnerabil",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, September 30th, 2026: Wordfence Scans; MikroTik Vulnerability; Poper Blocker Spyware",
