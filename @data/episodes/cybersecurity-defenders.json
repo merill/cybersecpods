@@ -1,5 +1,22 @@
 [
   {
+    "id": "securing-ai-agent-identity-and-authority-with-geoffrey-mattson-350",
+    "podcastId": "cybersecurity-defenders",
+    "title": "Securing AI agent identity and authority with Geoffrey Mattson [350]",
+    "description": "<p>Today we're speaking with Geoffrey Mattson, CEO of SecureAuth, about identity and authority for AI agents: what changes when software stops being something a human uses and starts taking actions on its own.</p><p>Geoffrey is a serial entrepreneur working at the intersection of cybersecurity and AI. Before SecureAuth he was CEO of Xage Security and co-founded MistNet.ai (acquired by LogRhythm), after product and engineering leadership roles at Juniper Networks, Huawei, Nortel and Bell Labs across Europe, Asia and the U.S. At SecureAuth he is focused on how organizations manage the identity, permissions and authority of autonomous agents.</p><p>In this conversation: why an agent has the power of a software process with the unpredictability of a human, the difference between delegating authority and handing over your credentials, tightly scoped, time-bound tokens that get subdivided as work passes to sub-agents, the wild west of MCP servers, bringing shadow agents into the light, why guardrails can speed AI adoption up rather than slow it down, and what a solo attacker running a network of LLMs means for small and mid-sized businesses.</p><p>Learn more at https://www.secureauth.com/</p><p>Support our show by sharing your favorite episodes with a friend, subscribe, give us a rating or leave a comment on your podcast platform.</p><p>This podcast is brought to you by LimaCharlie, maker of the SecOps Cloud Platform, infrastructure for SecOps where everything is built API first. Scale with confidence as your business grows. Start today for free at https://limacharlie.io/</p><p>Subscribe to The Cybersecurity Defenders Podcast on Spotify: https://open.spotify.com/show/6ep00zeY3S8ffZ4o0UeSps</p>",
+    "publishedAt": "2026-10-01T15:21:46.000Z",
+    "duration": 1800,
+    "audioUrl": "https://media.transistor.fm/9d25e6ba/b732588d.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 350,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://share.transistor.fm/s/9d25e6ba"
+  },
+  {
     "id": "physical-ai-and-self-learning-machines-with-dr-amarjot-singh-348",
     "podcastId": "cybersecurity-defenders",
     "title": "Physical AI and self-learning machines with Dr. Amarjot Singh [348]",
