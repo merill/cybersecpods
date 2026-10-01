@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-october-1-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for October 1 2026 - Daily DefSec Brief",
+    "description": "<p>1. Cisco SD-WAN Manager zero-day gives admin — CVE-2026-76504 — Fixed: 20.9.10.1, 20.12.8.2, 20.15.6.1, 20.18.4.1, 26.1.2.1, 26.2.1 — federal due 2026-10-03 — Do: Patch SD-WAN Manager, then check its logs — <a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-webauth-xr8beuuU\" rel=\"noopener noreferrer nofollow\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-webauth-xr8beuuU</a></p><p>2. Zammad zero-days used in an AI-agent breach — CVE-2026-102489, CVE-2026-102490 — Do: Upgrade Zammad to version 7 and check logs — <a href=\"https://csirt.divd.nl/cases/DIVD-2026-00015/\" rel=\"noopener noreferrer nofollow\">https://csirt.divd.nl/cases/DIVD-2026-00015/</a></p><p>3. MikroTik web interface flaw gives root — CVE-2026-84411 — Fixed: 7.24 — Do: Upgrade RouterOS and close WebFig to the internet — <a href=\"https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06\" rel=\"noopener noreferrer nofollow\">https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06</a></p><p>4. TeamViewer session permissions can be bypassed — CVE-2026-92370, CVE-2026-19743, CVE-2026-92368 (+ 2 more) — Fixed: 15.82, 15.64.8, 14.7.48855, 13.2.36230 (Windows) — Do: Update TeamViewer everywhere it is installed — <a href=\"https://www.teamviewer.com/en/resources/trust-center/security-bulletins/tv-2026-1010/\" rel=\"noopener noreferrer nofollow\">https://www.teamviewer.com/en/resources/trust-center/security-bulletins/tv-2026-1010/</a></p><p>5. WatchGuard fixes 15 Fireware OS flaws — CVE-2026-86131, CVE-2026-81433, CVE-2026-86101 (+ 2 more) — Fixed: 2026.3.2, 2026.2.3, 12.12.3, 12.5.21; AP 3.4.8 — Do: Upgrade Firebox and WatchGuard access points — <a href=\"https://psirt.watchguard.com/CVE-2026-86131\" rel=\"noopener noreferrer nofollow\">https://psirt.watchguard.com/CVE-2026-86131</a></p><p>6. Star Blizzard's archive-and-disk-image phish — Do: Hunt for the three fake maintenance tasks — <a href=\"https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/\" rel=\"noopener noreferrer nofollow\">https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/</a></p><p>7. Google: exploit growth is fast n-days — Do: Order the patch queue by exploitation evidence — <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/\" rel=\"noopener noreferrer nofollow\">https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/</a></p><p>8. SSMS Copilot made a database owner sysadmin — CVE-2026-65669 — Fixed: 22.8.2 — Do: Update SQL Server Management Studio — <a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65669\" rel=\"noopener noreferrer nofollow\">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-65669</a></p>",
+    "publishedAt": "2026-10-01T11:34:00.000Z",
+    "duration": 237,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/c75894852e6ce28f60865e18ce68145c0e3a6ddac6c88dc006b93af5e1a61b69/eyJlcGlzb2RlSWQiOiI4OGYzMTYyMy0zYTc3LTQ0YjYtOGQ3MS1iZWYyMWU5ODdlZjkiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiZTQ0ZTFiNTk5MjMyYWJkNDkxMzE0L2RhaWx5LWRlZnNlYy0yMDI2LTEwLTFfXzExLTMyLTQ5Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-september-30-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for September 30 2026 - Daily DefSec Brief",

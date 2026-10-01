@@ -1,5 +1,22 @@
 [
   {
+    "id": "your-ai-malware-experiments-are-showing",
+    "podcastId": "beers-with-talos",
+    "title": "Your AI Malware Experiments Are Showing",
+    "description": "<p>Adversaries are experimenting with AI-integrated malware, and today's guest, Talos researcher Ryan Fetterman has been looking at their working notes. He joins us to talk about <a href='https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/'>CAIRN</a>, his new open-source research toolkit for tracking that experimentation, and what he’s finding, including a C2 an implant that delegates its decisions to AI models, and malware that tries to persuade AI analysis tools to leave it alone. Putting AI in malware is one thing. Establishing whether any of it actually works takes rather more investigation.</p><p>A special segment with Joe (from 7.07 to 25.25) talks about his newly published Human IR Framework (published in a personal capacity on Joe's <a href='https://github.com/SoShinySoChrome/human-incident-response-framework'>GitHub</a>), the experiences that led him to build it, and why “burnout” doesn’t adequately describe what certain people who work in cybersecurity can go through.</p><p>Meanwhile, Dave definitely prepared his \"Reason not to Quit\" in advance, an attempt to make Hazel Philadelphian takes an unexpected turn towards Wales, and Bill's \"Make Hazel a hacker\" question sends Hazel once again into a pit of self despair.</p>",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "duration": 4592,
+    "audioUrl": "https://www.buzzsprout.com/2033817/episodes/19886740-your-ai-malware-experiments-are-showing.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://storage.buzzsprout.com/74gxk5nyvi86i1b4fatkjxkgfw8f?.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "martin-lee-would-like-everyone-to-go-outside",
     "podcastId": "beers-with-talos",
     "title": "Martin Lee Would Like Everyone to Go Outside",
