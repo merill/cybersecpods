@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-742-babys-first-n8n",
+    "podcastId": "7-minute-security",
+    "title": "7MS #742: Baby's First n8n",
+    "description": "<p>Hey friends! I've got some personal and work travel this week, so I'm skipping the tangents (mostly) and jumping straight into something I'm nerdily excited about: Baby's First <a href= \"https://n8n.io/\" target=\"_blank\" rel=\"noopener\">n8n</a>. If you're not familiar, n8n is a platform for chaining together and automating just about anything your heart desires – and naturally, my heart desires automating away the boring parts of pentesting.</p> <p>In this episode I cover how I finally got hip to n8n (late to the party, as always), the Black Hills webcast that nudged me into it, how I fed Claude my Frankenstein \"Swiss Army\" pentest script and asked it to turn push-lots-of-buttons into push-<em>one</em>-button, the clever workaround for firing nmap, EyeWitness, and other tools like it (plus the safety gate I built so my automation can't go rogue and get me in trouble), a full OSINT recon fork powered by <a href=\"https://projectdiscovery.io/\" target=\"_blank\" rel=\"noopener\">Project Discovery Neo</a> that lands report-ready in <a href=\"https://sysreptor.com/\" target=\"_blank\" rel=\"noopener\">SysReptor</a>, and the <em>many</em> minutes of my life I get back from each OSINT run – and why that's the whole point. By the way, n8n is not a sponsor or partner – just something I like in case you like it too. Got cool n8n workflows of your own? I'd love to hear 'em!</p>",
+    "publishedAt": "2026-10-02T12:07:00.000Z",
+    "duration": 1593,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-742-Babys_First_n8n.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-742-babys-first-n8n"
+  },
+  {
     "id": "7ms-741-tales-of-pentest-pwnage-part-91",
     "podcastId": "7-minute-security",
     "title": "7MS #741: Tales of Pentest Pwnage - Part 91",
