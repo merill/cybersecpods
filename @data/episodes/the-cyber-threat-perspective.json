@@ -1,5 +1,22 @@
 [
   {
+    "id": "your-employee-got-hacked-now-what-or-ep-198",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Your Employee Got Hacked. Now What? | Ep 198",
+    "description": "<p>Users will get compromised. Someone will click the link, and credentials will get stolen. The question that really matters is what happens next.</p><p>In this episode, Spencer and Brad walk through the Post-Compromise Risk Framework (PRID), a simple, repeatable way for IT and security teams to judge how exposed their environment is once an attacker gets in. Using a real-world-style ClickFix scenario involving \"Susie in accounting,\" they trace how one compromised account can lead to lateral movement, credential dumping and sensitive data exposure. They also cover why so many of those steps go undetected.</p><p>In this episode:</p><ul><li>Why the assume breach mindset is the best way to measure your security</li><li>Privileges: what can a compromised user actually do?</li><li>Reach: where can they go with that access?</li><li>Impact: how bad would it be?</li><li>Detection: would you even know it happened?</li><li>How least privilege and network segmentation map to each step</li><li>Why PS Remoting to a domain controller goes undetected nine times out of 10</li><li>Why \"that couldn't happen here\" is not proof, and how to verify your controls</li><li>\"Inspect what you expect\": testing your EDR instead of trusting it</li></ul><p>Pick a user, assume they're compromised, and walk the path. You'll learn more about your environment, and you'll likely find issues you didn't know were there.</p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a><br/>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-10-02T15:00:00.000Z",
+    "duration": 1650,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19900345-your-employee-got-hacked-now-what-ep-198.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 198,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "the-basics-still-win-what-greynoises-papercut-report-shows-or-ep-197",
     "podcastId": "the-cyber-threat-perspective",
     "title": "The Basics Still Win: What GreyNoise's PaperCut Report Shows | Ep 197",

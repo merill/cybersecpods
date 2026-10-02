@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-october-2-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for October 2 2026 - Daily DefSec Brief",
+    "description": "<p>1. FortiMail zero-day exploited, no patch yet — CVE-2026-104286 — federal due 2026-10-04 — Do: Take FortiMail's admin interface off the internet — <a href=\"https://fortiguard.fortinet.com/psirt/FG-IR-26-175\" rel=\"noopener noreferrer nofollow\">https://fortiguard.fortinet.com/psirt/FG-IR-26-175</a></p><p>2. Warlock still breaking in through SharePoint — CVE-2025-49704, CVE-2025-49706, CVE-2025-53770 (+ 2 more) — Do: Patch SharePoint, then rotate its machine keys — <a href=\"https://www.security.com/threat-intelligence/warlock-ransomware-critical-infrastructure\" rel=\"noopener noreferrer nofollow\">https://www.security.com/threat-intelligence/warlock-ransomware-critical-infrastructure</a></p><p>3. Kiteworks fixes 126 flaws, one pre-auth root — CVE-2026-54154 — Fixed: 9.5.1 (EPG 9.4.1) — Do: Upgrade Kiteworks to the current release — <a href=\"https://cyber.gc.ca/en/alerts-advisories/kiteworks-security-advisory-av26-988\" rel=\"noopener noreferrer nofollow\">https://cyber.gc.ca/en/alerts-advisories/kiteworks-security-advisory-av26-988</a></p><p>4. Dayforce Payroll flaws, vendor unreachable — CVE-2026-73640, CVE-2026-73641, CVE-2026-73642 — Do: Ask Dayforce in writing whether these are fixed — <a href=\"https://cert.pl/en/posts/2026/09/CVE-2026-73640/\" rel=\"noopener noreferrer nofollow\">https://cert.pl/en/posts/2026/09/CVE-2026-73640/</a></p><p>5. Unsloth Studio ran code from a model repo — Fixed: 2026.6.9 — Do: Upgrade the unsloth package — <a href=\"https://www.pillar.security/blog/look-dont-load-model-inspection-in-unsloth-studio-leads-to-critical-arbitrary-code-execution\" rel=\"noopener noreferrer nofollow\">https://www.pillar.security/blog/look-dont-load-model-inspection-in-unsloth-studio-leads-to-critical-arbitrary-code-execution</a></p><p>6. Fake Zoom for Mac coaches users past Gatekeeper — Do: Install Zoom through MDM, not downloads — <a href=\"https://www.jamf.com/blog/cloudsyncd-macos-backdoor-fake-zoom-installer/\" rel=\"noopener noreferrer nofollow\">https://www.jamf.com/blog/cloudsyncd-macos-backdoor-fake-zoom-installer/</a></p>",
+    "publishedAt": "2026-10-02T12:27:16.000Z",
+    "duration": 197,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/18fa409cf2e108a32ed44b50d8b5616ed0ba08ca0b5da58e5dce484f7667a852/eyJlcGlzb2RlSWQiOiIzOTc3ZjE5ZS03N2VhLTQwNTQtYWM3YS1mNTQxMTk1ZGQwNmIiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFiZjk2NzkwODg0Y2ZlMDlhMzY4MWFlL2RhaWx5LWRlZnNlYy0yMDI2LTEwLTJfXzExLTMzLTEzLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-october-1-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for October 1 2026 - Daily DefSec Brief",
