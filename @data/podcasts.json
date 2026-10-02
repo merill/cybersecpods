@@ -215,7 +215,16 @@
         "ratingCount": 19,
         "fetchedAt": "2026-10-01T12:57:14.769Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "If you’re into AppSec, this is required listening.",
+        "content": "I’ve been listening to Absolute AppSec for years now and, it’s one of my favorite ways to stay sharp on application security. Ken Johnson and Seth Law aren’t just talking heads reading headlines, they’re clearly in the trenches themselves, and it shows. Every episode digs into stuff that actually matters if you’re building, breaking, or defending apps for a living.\n\nWhat I really like is that it doesn’t feel like a one-way broadcast. The hosts are genuinely engaged with the community, and I’ve had great interactions with them directly, which is rare for a podcast at this point. It feels more like hanging out with sharp people who happen to know a ton about AppSec than sitting through a lecture.\n\nWhether you’re an engineer who wants to understand security better, or you’re already deep in AppSec and want to keep up with new concerns and trends, this show delivers.",
+        "author": "larrylewis",
+        "updatedAt": "2026-08-25T11:38:41-07:00"
+      }
+    ]
   },
   {
     "id": "afternoon-cyber-tea",
@@ -2535,9 +2544,9 @@
     "cadence": "biweekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-09-15T23:00:00.000Z",
+    "lastEpisodeDate": "2026-10-02T00:01:00.000Z",
     "firstEpisodeDate": "2015-10-15T03:30:00.000Z",
-    "episodeCount": 159,
+    "episodeCount": 160,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4254,9 +4263,9 @@
         "websiteUrl": "https://jbu.me/"
       }
     ],
-    "lastEpisodeDate": "2026-10-01T02:00:02.000Z",
+    "lastEpisodeDate": "2026-10-02T02:00:02.000Z",
     "firstEpisodeDate": "2016-04-01T01:40:02.000Z",
-    "episodeCount": 2530,
+    "episodeCount": 2531,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4420,44 +4429,7 @@
         "ratingCount": 78,
         "fetchedAt": "2026-10-01T12:57:56.332Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Love this podcast!!",
-        "content": "Never a null moment!",
-        "author": "sr_98_sr",
-        "updatedAt": "2025-03-12T04:16:42-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Gold",
-        "content": "Amusing and informative and poetic!",
-        "author": "eahiv",
-        "updatedAt": "2024-05-27T17:14:36-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "good at cryptography",
-        "content": "also good at making me laugh",
-        "author": "cydyio",
-        "updatedAt": "2024-04-15T18:05:27-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Wonderfully accessible!",
-        "content": "Each episode is a great discussion into a large field",
-        "author": "Bob on Ross",
-        "updatedAt": "2024-03-03T19:32:17-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Found my new favorite podcast!",
-        "content": "Stumbled across this podcast while trying to supplement an applied cryptography class. I couldn’t be more please with the content and excitement the hosts have about cryptography. Definitely worth a listen!",
-        "author": "Ragnaroekk",
-        "updatedAt": "2023-05-06T12:26:55-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "security-insider-conversations",

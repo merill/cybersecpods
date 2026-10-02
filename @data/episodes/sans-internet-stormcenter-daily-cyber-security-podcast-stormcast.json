@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-october-2nd-2026-screenconnect-abuse-chatgpt-abuse-spoofin",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, October 2nd, 2026: ScreenConnect Abuse; ChatGPT Abuse; Spoofing iCloud; Proton Mail display name",
+    "description": "<br/>\nScreenConnect Client (Ab)used by Attackers<br/>\n<a href=\"https://isc.sans.edu/diary/ScreenConnect+Client+Abused+by+Attackers/33388/#comments\">https://isc.sans.edu/diary/ScreenConnect+Client+Abused+by+Attackers/33388/#comments</a><br/>\nAttackers abuse ChatGPT to deliver RAT via ClickFix<br/>\n<a href=\"https://www.huntress.com/blog/chatgpt-custom-gpts-clickfix-rat?_sp=51406044-aa1d-4278-a4e7-adb5b8ef84b2.1790890760100\">https://www.huntress.com/blog/chatgpt-custom-gpts-clickfix-rat?_sp=51406044-aa1d-4278-a4e7-adb5b8ef84b2.1790890760100</a><br/>\nSpoofing iCloud From Address<br/>\n<a href=\"https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/\">https://sec-consult.com/blog/detail/from-anyoneicloudcom-spoofing-arbitrary-apple-icloud-identities/</a><br/>\nSender spoofing in Proton Mail via display-name homograph<br/>\n<a href=\"https://alonsovidales.github.io/protonmail-sender-spoofing/\">https://alonsovidales.github.io/protonmail-sender-spoofing/</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-02T02:00:02.000Z",
+    "duration": 396,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10120.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10120,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10120"
+  },
+  {
     "id": "sans-stormcast-thursday-october-1st-2026-cisco-catalyst-sd-wan-manager-0-day-wat",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, October 1st, 2026: Cisco Catalyst SD-WAN Manager 0-day; Watchguard AP RCE; OpenBao/Vault RCE; Post Quantum Certs",
