@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-october-5-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for October 5 2026 - Daily DefSec Brief",
+    "description": "<p>1. NetScaler SAML flaw exploited after last fix — CVE-2026-88779 — Fixed: 14.1-73.41 or 13.1-64.28 — federal due 2026-10-07 — Do: Update NetScaler again if it uses SAML — <a href=\"https://support.citrix.com/external/article/CTX697174/citrix-netscaler-adc-and-citrix-netscale.html\" rel=\"noopener noreferrer nofollow\">https://support.citrix.com/external/article/CTX697174/citrix-netscaler-adc-and-citrix-netscale.html</a></p><p>2. AI-found Rejetto HFS flaw now exploited — CVE-2026-61500 — Fixed: 3.2.1 — Do: Upgrade Rejetto HFS or take it offline — <a href=\"https://www.cve.org/CVERecord?id=CVE-2026-61500\" rel=\"noopener noreferrer nofollow\">https://www.cve.org/CVERecord?id=CVE-2026-61500</a></p><p>3. Malicious VS Code themes on official Marketplace — Do: Allowlist the VS Code extensions developers use — <a href=\"https://socket.dev/blog/glassworm-vscode-themes\" rel=\"noopener noreferrer nofollow\">https://socket.dev/blog/glassworm-vscode-themes</a></p><p>4. Vercel confirms KVM zero-day, guest escape claimed — Do: Watch for the KVM fix, plan host reboots — <a href=\"https://cybersecuritynews.com/kvm-zero-day-vm-escape/\" rel=\"noopener noreferrer nofollow\">https://cybersecuritynews.com/kvm-zero-day-vm-escape/</a></p><p>5. Exchange update reissued for mailbox flaw — CVE-2026-96940 — Do: Install Exchange's September V2 update — <a href=\"https://techcommunity.microsoft.com/blog/exchange/released-september-2026-v2-exchange-server-security-updates/4561718\" rel=\"noopener noreferrer nofollow\">https://techcommunity.microsoft.com/blog/exchange/released-september-2026-v2-exchange-server-security-updates/4561718</a></p><p>6. Dell CSM flaws give storage admin, no login — CVE-2026-63688, CVE-2026-63692 — Fixed: 1.18.0 — Do: Upgrade Dell Container Storage Modules — <a href=\"https://www.dell.com/support/kbdoc/en-us/000515771/dsa-2026-448-security-update-for-dell-container-storage-modules-multiple-vulnerabilities\" rel=\"noopener noreferrer nofollow\">https://www.dell.com/support/kbdoc/en-us/000515771/dsa-2026-448-security-update-for-dell-container-storage-modules-multiple-vulnerabilities</a></p><p>7. GitLab AI Gateway lets Duo users run commands — CVE-2026-90970 — Fixed: 19.2.4, 19.3.2 or 19.4.1 — Do: Upgrade your self-hosted GitLab AI Gateway — <a href=\"https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-994\" rel=\"noopener noreferrer nofollow\">https://cyber.gc.ca/en/alerts-advisories/gitlab-security-advisory-av26-994</a></p><p>8. Debian kernel update fixes 1,313 CVEs at once — CVE-2024-52560, CVE-2025-21817, CVE-2026-23137 (+ 1,310 more) — Fixed: 6.12.111-1 — Do: Update Debian 13 kernels and reboot — <a href=\"https://www.debian.org/security/2026/dsa-6528\" rel=\"noopener noreferrer nofollow\">https://www.debian.org/security/2026/dsa-6528</a></p><p>9. BoKS seeded AD service passwords with the clock — CVE-2026-79901 — Fixed: 9.0.0.7 — Do: Patch and restart BoKS, then rotate passwords — <a href=\"https://www.fortra.com/security/advisories/product-security/fi-2026-012\" rel=\"noopener noreferrer nofollow\">https://www.fortra.com/security/advisories/product-security/fi-2026-012</a></p>",
+    "publishedAt": "2026-10-05T13:45:25.000Z",
+    "duration": 258,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/fe28b80c7b714834af65656f34891a6b35c595be1103abc5dcd29de4152191d1/eyJlcGlzb2RlSWQiOiI0NTdhMTg2MS02OTRkLTRiMTItYmQyNS1hYjAwNjljZjEwODAiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjMzlhMGNkZmY3OWQ5NTMyNjdhOWQ1L2RhaWx5LWRlZnNlYy0yMDI2LTEwLTVfXzEyLTM3LTMzLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-october-2-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for October 2 2026 - Daily DefSec Brief",

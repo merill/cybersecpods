@@ -1,5 +1,22 @@
 [
   {
+    "id": "state-of-the-ai-soc-regulating-ai-and-can-ai-agents-feel-pain-aqsa-taylor-esw-47",
+    "podcastId": "enterprise-security-weekly",
+    "title": "State of the AI SOC, regulating AI, and can AI agents feel pain? - Aqsa Taylor - ESW #479",
+    "description": "Interview with Aqsa Taylor <p>Exaforce's Chief Security Evangelist, Aqsa, joins us to discuss the current state of the AI SOC and why it covers so much more than it did over 2 years ago, when our podcast first started covering this market. Exaforce also recently released AI Security and its ExaGo mobile app - we're very excited about the possibility of analyzing incidents at the grocery store!</p> <p>This segment is sponsored by Exaforce. Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/exaforce\">https://securityweekly.com/exaforce</a> to learn more about them!</p> Topic Segment - Regulating AI <p>The AI industry's sandbox escapes have had a big impact on everyone and unsurprisingly, there's a bill proposing to ban some AI products and pause the development of others.</p> <p>It seems that, increasingly, as pro-AI and anti-AI groups become more polarized and divided, you could start an entire podcast that does nothing but fact-check both sides. We're an emotional species and it seems the more heated debate gets, the more folks on both sides are willing to straight-up fabricate things to help argue their points.</p> <p>Today's focus is this YouTube video: <a rel=\"noopener\" target= \"_blank\" href= \"https://www.youtube.com/watch?v=WXsTCJl7sU4\">https://www.youtube.com/watch?v=WXsTCJl7sU4</a></p> <p>It's the most on-the-nose type of propaganda - straight up claiming the government is going to break into your house and take your GPUs and LLMs. Could the bill proposed by Bernie Sanders and Greg Casar be characterized as extreme? Sure, but it's nowhere near as extreme as the title of the video, \"They're Banning AI Servers at Home\" suggests.</p> <p>The hardest things to swallow about the video:</p> <ol> <li>it characterizes Bernie Sanders as \"the government\", as if he's representative of most of the US government rather than an outlier that has little to no chance to get a bill like this passed</li> <li>it never mentions the fact that the bill establishes a model cutoff, measured in training effort (10^25 flops, which doesn't include the open weight models you're using at home, unless you have an 8x cluster of DGX Sparks - $40k+ worth of AI compute)</li> </ol> Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>we check the vibes</li> <li>massive, connected funding</li> <li>NVIDIA OpenShell</li> <li>cars are still hackable</li> <li>a ransomware arrest turned into a murder investigation</li> <li>AI welfare</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-479\">https://securityweekly.com/esw-479</a></p>",
+    "publishedAt": "2026-10-05T09:00:00.000Z",
+    "duration": 6205,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_479_1--76cd6de3-6a23-4800-bfd5-f1eeb5ace9dd--audio-converted--527e52b0-e9f2-4619-9fbf-2d94ecb4ada2.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/state-of-the-ai-soc-regulating-ai-and-can-ai-agents-feel-pain-aqsa-taylor-esw-479"
+  },
+  {
     "id": "measuring-the-value-of-secops-bh-interviews-with-fortra-helmet-above-and-keeper-",
     "podcastId": "enterprise-security-weekly",
     "title": "Measuring the Value of SecOps; BH Interviews with Fortra, Helmet, Above, & Keeper - Kaushik Shanadi, Josh Davies, Tricia Howard, Christopher Crowley, Darren Guccione - ESW #478",
