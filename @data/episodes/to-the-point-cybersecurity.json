@@ -1,9 +1,9 @@
 [
   {
-    "id": "autonomous-agents-managing-ai-security-risks-and-governance-with-jake-williams",
+    "id": "governance-isnt-security-when-ai-agents-cant-use-judgment-with-jake-williams",
     "podcastId": "to-the-point-cybersecurity",
-    "title": "Autonomous Agents: Managing AI Security Risks and Governance with Jake Williams",
-    "description": "<p>Welcome back to the To the Point Cybersecurity Podcast! This week, Rachael Lyon and Jonathan Knepher dive deep into the evolving world of AI-driven security with special guest Jake Williams—also known as \"Malware Jake,\" VP of R&D at Hunter Strategy and a renowned advisor and researcher in the cybersecurity space. From his early hacking days to his experience as an NSA-designated Master Network Exploitation Operator, Jake Williams brings unique insight on the risks, rewards, and realities of integrating AI and autonomous agents into enterprise environments.</p> <p>Tune in as they discuss the dramatic impact of generative AI on offensive and defensive security, the real challenges of data governance and entitlements in the age of agentic systems, and why \"everyone's an engineer now\" poses both opportunity and peril. Plus, hear about Jake Williams's open framework, Custody, designed to help organizations safely deploy and contain AI agents—and get a glimpse into his personal journey through the world of cybersecurity. If you want practical strategies, honest conversations, and a forward look at the future of AI in security, you won't want to miss this episode.</p> <p>For links and resources discussed in this episode, please visit our show notes at https://www.forcepoint.com/govpodcast/e390</p>",
+    "title": "Governance Isn't Security When AI Agents Can't Use Judgment with Jake Williams",
+    "description": "<p>Enterprises have spent decades writing governance policies that quietly assumed a human would exercise judgment at the final step. Jake Williams, VP of R&D at Hunter Strategy and a faculty analyst at IANS Research, argues that assumption collapses the moment autonomous agents enter the picture. Agents do not use discretion and cannot be held accountable the way an employee can, which turns the implied trust at the bottom of every access control list into a liability. The result is a widening gap between what organizations govern on paper and what they can actually enforce at machine speed. Williams makes the case that the legacy problems security teams tolerated for years, coarse data classification and unresolved entitlements debt chief among them, are now being exposed by the speed and scope of AI-driven activity. He walks through why volumetric detection matters more than signatures against agent-scale behavior, why every deployed agent needs a named business owner who is accountable for its actions, and how his open framework CUSTODY gives teams a shared taxonomy to classify and contain agents before they ship. The conversation closes on the economics most organizations are avoiding, from the true cost of tokens to the 15-30% security premium of screening for prompt injection. </p> <p>For links and resources discussed in this episode, please visit our show notes at: https://www.forcepoint.com/resources/podcast/ai-governance-enforcement-gap For readers who want to go deeper, Williams references <a href= \"https://1password.com/blog/why-ai-generated-patches-still-require-human-review?utm_source=linkedin&utm_medium=soc_org\"> 1Password research on why AI-generated vulnerability patches still require expert human review</a> and a <a href= \"https://techcommunity.microsoft.com/blog/microsoft-entra-blog/the-future-of-ai-agents%E2%80%94and-why-oauth-must-evolve/3827391?utm_source=linkedin&utm_medium=soc_org\"> Microsoft Entra analysis of why OAuth must evolve to support AI agents</a>.</p> <p> </p>",
     "publishedAt": "2026-10-06T12:30:00.000Z",
     "duration": 2891,
     "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E390_-_Jake_Williams_mixdown.mp3?dest-id=770037",
@@ -14,7 +14,7 @@
     "explicit": false,
     "episodeType": "full",
     "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e390"
+    "link": "https://www.forcepoint.com/resources/podcast/ai-governance-enforcement-gap"
   },
   {
     "id": "autonomous-agents-need-a-verified-identity-with-rosalyn-curato",
