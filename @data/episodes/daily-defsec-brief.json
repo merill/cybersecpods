@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-october-6-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for October 6 2026 - Daily DefSec Brief",
+    "description": "<p>1. ClickFix stages its payload in the browser cache — Do: Disable Windows Script Host where it isn't needed — <a href=\"https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html\" rel=\"noopener noreferrer nofollow\">https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html</a></p><p>2. Atlassian Data Center leaks files without a login — CVE-2026-21589 — Fixed: see Atlassian's table (Confluence 9.2.26 / 10.2.19, Jira 9.12.40 / 10.3.26 / 11.3.12, Bitbucket 9.4.26 / 10.2.8 / 10.5.1, Crowd 6.3.7 / 7.0.3 / 7.1.7 / 7.2.4, Bamboo 10.2.24 / 12.1.12, Crucible and Fisheye 4.9.15) — Do: Patch Atlassian Data Center or take it offline — <a href=\"https://confluence.atlassian.com/security/cve-2026-21589-arbitrary-file-access-vulnerability-impacts-multiple-products-1870495748.html\" rel=\"noopener noreferrer nofollow\">https://confluence.atlassian.com/security/cve-2026-21589-arbitrary-file-access-vulnerability-impacts-multiple-products-1870495748.html</a></p><p>3. HPE iLO 7 flaw gives remote iLO admin — CVE-2026-79820 — Fixed: 1.25.01 — Do: Update iLO 7 firmware — <a href=\"https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05163en_us&docLocale=en_US\" rel=\"noopener noreferrer nofollow\">https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbhf05163en_us&docLocale=en_US</a></p><p>4. ClingSTUN turns old edge devices into proxies — CVE-2023-46805, CVE-2024-21887, CVE-2022-36553 (+ 1 more) — Do: Replace edge devices that no longer get updates — <a href=\"https://www.fortinet.com/blog/threat-research/clingstun-linux-backdoor-abuses-public-stun-infrastructure\" rel=\"noopener noreferrer nofollow\">https://www.fortinet.com/blog/threat-research/clingstun-linux-backdoor-abuses-public-stun-infrastructure</a></p><p>5. Dell System Update flaw gives root — CVE-2026-86360, CVE-2026-86361, CVE-2026-86362 (+ 2 more) — Fixed: 2.3.0.0 — Do: Update Dell System Update on PowerEdge servers — <a href=\"https://www.dell.com/support/kbdoc/en-us/000515843/dsa-2026-324-security-update-for-dell-system-update-dsu-vulnerabilities\" rel=\"noopener noreferrer nofollow\">https://www.dell.com/support/kbdoc/en-us/000515843/dsa-2026-324-security-update-for-dell-system-update-dsu-vulnerabilities</a></p><p>6. Mail-gateway backdoors hide inside SMTP — Do: Hunt your mail gateways for deleted-binary processes — <a href=\"https://www.rapid7.com/blog/post/tr-smtp-is-the-key-bpfdoor-averat-hitting-the-network-edge/\" rel=\"noopener noreferrer nofollow\">https://www.rapid7.com/blog/post/tr-smtp-is-the-key-bpfdoor-averat-hitting-the-network-edge/</a></p><p>7. A retired SSO service stayed up and leaked — Do: Switch off the services you've replaced — <a href=\"https://www.theregister.com/security/2026/10/05/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156\" rel=\"noopener noreferrer nofollow\">https://www.theregister.com/security/2026/10/05/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156</a></p><p>8. One lookup account pulled 8.8M Danish records — Do: Alert on unusual volume from partner accounts — <a href=\"https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html\" rel=\"noopener noreferrer nofollow\">https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html</a></p>",
+    "publishedAt": "2026-10-06T13:09:18.000Z",
+    "duration": 261,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/1a54add512b077d780af7809bde8f3696d8fcd622865ee7190e30abb83706353/eyJlcGlzb2RlSWQiOiIxZDIyYmQxMy0zZGU3LTRmZTEtOWUwZS0yYTc5ZGUzYTQzYzgiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjNGYxYWM2NDZkZTgzNjMwYTJjOWJmL2RhaWx5LWRlZnNlYy0yMDI2LTEwLTZfXzEzLTMtNDAubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-october-5-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for October 5 2026 - Daily DefSec Brief",

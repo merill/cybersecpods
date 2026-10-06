@@ -1,5 +1,22 @@
 [
   {
+    "id": "autonomous-agents-managing-ai-security-risks-and-governance-with-jake-williams",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "Autonomous Agents: Managing AI Security Risks and Governance with Jake Williams",
+    "description": "<p>Welcome back to the To the Point Cybersecurity Podcast! This week, Rachael Lyon and Jonathan Knepher dive deep into the evolving world of AI-driven security with special guest Jake Williams—also known as \"Malware Jake,\" VP of R&D at Hunter Strategy and a renowned advisor and researcher in the cybersecurity space. From his early hacking days to his experience as an NSA-designated Master Network Exploitation Operator, Jake Williams brings unique insight on the risks, rewards, and realities of integrating AI and autonomous agents into enterprise environments.</p> <p>Tune in as they discuss the dramatic impact of generative AI on offensive and defensive security, the real challenges of data governance and entitlements in the age of agentic systems, and why \"everyone's an engineer now\" poses both opportunity and peril. Plus, hear about Jake Williams's open framework, Custody, designed to help organizations safely deploy and contain AI agents—and get a glimpse into his personal journey through the world of cybersecurity. If you want practical strategies, honest conversations, and a forward look at the future of AI in security, you won't want to miss this episode.</p> <p>For links and resources discussed in this episode, please visit our show notes at https://www.forcepoint.com/govpodcast/e390</p>",
+    "publishedAt": "2026-10-06T12:30:00.000Z",
+    "duration": 2891,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E390_-_Jake_Williams_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/5/7/6/3/5763b1a8b7a4bd29e5bbc093207a2619/E390_-_Jake_Williams_mixdown.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/govpodcast/e390"
+  },
+  {
     "id": "autonomous-agents-need-a-verified-identity-with-rosalyn-curato",
     "podcastId": "to-the-point-cybersecurity",
     "title": "Autonomous Agents Need a Verified Identity with Rosalyn Curato",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/govpodcast/e70"
-  },
-  {
-    "id": "successful-sase-architecture-with-richard-stiennon",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "Successful SASE Architecture, with Richard Stiennon",
-    "description": "<p>Richard shares what he thinks a successful SASE architecture looks like and why it will lead us to secure Cloud. For links and resources discussed in this episode, please visit our show notes at <a href= \"https://www.forcepoint.com/govpodcast/e69\">https://www.forcepoint.com/govpodcast/e69</a></p>",
-    "publishedAt": "2020-03-10T12:00:00.000Z",
-    "duration": 1394,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E068_Richard_Stiennon_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/2/0/7/b/207b813561492d78/E068_Richard_Stiennon_mixdown.jpg",
-    "episodeNumber": 69,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e69"
   }
 ]
