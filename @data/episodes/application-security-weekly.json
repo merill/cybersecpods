@@ -1,5 +1,22 @@
 [
   {
+    "id": "getting-granular-with-access-attributes-and-intent-alex-olivier-asw-403",
+    "podcastId": "application-security-weekly",
+    "title": "Getting Granular with Access, Attributes, and Intent - Alex Olivier - ASW #403",
+    "description": "<p>The principle of least privilege access is ubiquitous in recommendations, but perhaps too uncommon in practice. Alex Olivier explains how the AuthZen Working Group has been approaching new standards, guidelines, and practical deployment patterns to make it easier for orgs to establish more refined and correct access policies. It's a problem that predates LLMs, but also one that agents and MCPs made all the more acute. We talk about what intent means when trying to constrain agents' activities, what role LLMs have in policy decisions, and how LLMs can help create a much-needed inventory of access controls.</p> <p>Segment Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.cerbos.dev/blog/dimmer-switch-not-a-kill-switch-rethinking-ai-agent-governance\"> https://www.cerbos.dev/blog/dimmer-switch-not-a-kill-switch-rethinking-ai-agent-governance</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.cerbos.dev/blog/multi-hop-delegation-ai-agents\">https://www.cerbos.dev/blog/multi-hop-delegation-ai-agents</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://openid.net/wg/authzen/\">https://openid.net/wg/authzen/</a></li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-403\">https://securityweekly.com/asw-403</a></p>",
+    "publishedAt": "2026-10-06T09:00:00.000Z",
+    "duration": 4235,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_403_1--35fbef23-4bc7-4840-87d9-43bcc47fca49--audio-converted--325e7324-5041-4660-84e0-d0afdc5d851d.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/a/3/a/5/a3a5ae58cd0fe49d88c4a68c3ddbc4f2/ASW_403_Thumbnail_ASW_1920x1920_198a085c-ed3b-43b2-8ad9-b1da49af3408.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/getting-granular-with-access-attributes-and-intent-alex-olivier-asw-403"
+  },
+  {
     "id": "going-from-bug-bounty-bugs-to-more-secure-systems-shlomie-liberow-asw-402",
     "podcastId": "application-security-weekly",
     "title": "Going From Bug Bounty Bugs to More Secure Systems - Shlomie Liberow - ASW #402",

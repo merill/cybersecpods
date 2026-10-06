@@ -1,5 +1,39 @@
 [
   {
+    "id": "loose-lips-sink-ai-ships-omitb",
+    "podcastId": "hacking-humans",
+    "title": "Loose lips sink AI ships. [OMITB]",
+    "description": "<p>Welcome in! You’ve entered, Only Malware in the Building. Join us each month to sip tea and solve mysteries about today’s most interesting threats. Your host is&nbsp;<a href=\"https://www.linkedin.com/in/selenalarson/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Selena Larson⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>,&nbsp;<a href=\"https://www.proofpoint.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Proofpoint⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>&nbsp;intelligence analyst and host of their podcast&nbsp;<a href=\"https://www.proofpoint.com/us/podcasts/discarded\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠DISCARDED⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>. Inspired by the residents of a building in New York’s exclusive upper west side, Selena is joined by her co-hosts&nbsp;<a href=\"https://www.n2k.com/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠N2K&nbsp;Networks⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>&nbsp;<a href=\"https://www.linkedin.com/in/dave-bittner-27231a4/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Dave Bittner⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> and <a href=\"https://www.linkedin.com/in/keith-mularski-b737551/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Keith Mularski⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>, former FBI cybercrime investigator and now Chief Global Ambassador at <a href=\"https://www.linkedin.com/company/qintel/\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Qintel⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</p>\n<p>Being a security researcher is a bit like being a detective: you gather clues, analyze the evidence, and consult the experts to solve the cyber puzzle. This week, our hosts discuss how AI is changing cybersecurity awareness, from the risks of feeding sensitive corporate data into AI tools to the growing use of agentic AI and the importance of understanding where data goes. They explore how AI is affecting threat actors, phishing, exploit development, executive protection, and even the ways people share personal information, images, and family data with AI systems. Finally, they discuss the role of human behavior in security, arguing that organizations need layered safeguards and better awareness rather than placing the full burden of cybersecurity on individual users.</p>",
+    "publishedAt": "2026-10-06T07:00:00.000Z",
+    "duration": 2795,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW1856372998.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/f105d40e-c0fe-11f1-a0d9-938573bcf923/image/14002263e169460f16ca12e04624eb3a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 28,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/only-malware-in-the-building/28/notes"
+  },
+  {
+    "id": "spam-noun-word-notes",
+    "podcastId": "hacking-humans",
+    "title": "spam (noun) [Word Notes]",
+    "description": "<p>Please enjoy this encore of Word Notes. </p>\n<p>Unsolicited, unwanted, and sometimes malicious electronic messages indiscriminately transmitted to a large number of people.</p>\n<p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/spam\">⁠https://thecyberwire.com/glossary/spam⁠</a></p>\n<p>Audio reference link: zumpzump, 2007. Monty Python - Spam [Video]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=anwy2MPT5RE\">⁠https://www.youtube.com/watch?v=anwy2MPT5RE⁠</a>.</p>",
+    "publishedAt": "2026-10-06T07:00:00.000Z",
+    "duration": 469,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/7d51b0/traffic.megaphone.fm/CYBW6572204497.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/e6c3d154-c0fd-11f1-87c4-6b88273a59d7/image/441b0ca2db080b93b935568d381ce462.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 154,
+    "seasonNumber": 3,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/word-notes/154/notes"
+  },
+  {
     "id": "app-arently-its-legit",
     "podcastId": "hacking-humans",
     "title": "App-arently it's legit.",
@@ -6290,7 +6324,7 @@
     "link": "https://thecyberwire.com/podcasts/word-notes/153/notes"
   },
   {
-    "id": "spam-noun-word-notes",
+    "id": "spam-noun-word-notes-2",
     "podcastId": "hacking-humans",
     "title": "spam (noun) [Word Notes]",
     "description": "<p>Unsolicited, unwanted, and sometimes malicious electronic messages indiscriminately transmitted to a large number of people.</p><p>CyberWire Glossary link: <a href=\"https://thecyberwire.com/glossary/spam\">https://thecyberwire.com/glossary/spam</a></p><p>Audio reference link: zumpzump, 2007. Monty Python - Spam [Video]. YouTube. URL <a href=\"https://www.youtube.com/watch?v=anwy2MPT5RE\">https://www.youtube.com/watch?v=anwy2MPT5RE</a>.</p>",
