@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-october-7-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for October 7 2026 - Daily DefSec Brief",
+    "description": "<p>1. FortiBleed is active and locking admins out — Do: Reset Fortinet admin and VPN passwords — <a href=\"https://www.ic3.gov/CSA/2026/261006.pdf\" rel=\"noopener noreferrer nofollow\">https://www.ic3.gov/CSA/2026/261006.pdf</a></p><p>2. Ninja Forms flaw is being used to add admins — CVE-2026-94504, CVE-2026-93836 — Fixed: Ninja Forms 3.15.4 or later, WPC Product Bundles 8.6.7 or later — Do: Update the plugins and check for hidden admins — <a href=\"https://www.wordfence.com/threat-intel/vulnerabilities/id/c599a562-5218-4b37-bcf7-0e82008a4e68?source=cve\" rel=\"noopener noreferrer nofollow\">https://www.wordfence.com/threat-intel/vulnerabilities/id/c599a562-5218-4b37-bcf7-0e82008a4e68?source=cve</a></p><p>3. Hijacked country registries mint real certificates — Do: Watch certificate logs for your domains — <a href=\"https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/\" rel=\"noopener noreferrer nofollow\">https://blog.google/security/chromes-response-to-recent-cctld-registry-hijacks/</a></p><p>4. Chrome 155 fixes 247 flaws, four critical — CVE-2026-106382, CVE-2026-106197, CVE-2026-106358 (+ 1 more) — Fixed: 155.0.8059.39 — Do: Push the Chrome update and force a relaunch — <a href=\"http://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html\" rel=\"noopener noreferrer nofollow\">http://chromereleases.googleblog.com/2026/10/stable-channel-update-for-desktop_086471744.html</a></p><p>5. FBI blames a contractor's missed patch — Do: Verify your contractors' patching yourself — <a href=\"https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/\" rel=\"noopener noreferrer nofollow\">https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/</a></p><p>6. OpenSSH 10.6 fixes bugs, releases will speed up — Fixed: 10.6 — Do: Upgrade OpenSSH and plan for more releases — <a href=\"https://www.openssh.org/txt/release-10.6\" rel=\"noopener noreferrer nofollow\">https://www.openssh.org/txt/release-10.6</a></p><p>7. Outlook will block .msix attachments by default — Do: Check who needs MSIX attachments first — <a href=\"https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350\" rel=\"noopener noreferrer nofollow\">https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350</a></p><p>8. Npm package was malicious for over a year — Do: Search your lockfiles for function-flag — <a href=\"https://www.cloudsek.com/blog/malfex-malicious-npm-postinstall-supply-chain-campaign\" rel=\"noopener noreferrer nofollow\">https://www.cloudsek.com/blog/malfex-malicious-npm-postinstall-supply-chain-campaign</a></p>",
+    "publishedAt": "2026-10-07T12:33:56.000Z",
+    "duration": 246,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/41b514585236501aa1cb667eecc5f9d8a611c72a36c500a103986ef8eb4889e8/eyJlcGlzb2RlSWQiOiJjZjZhNjEzZC0xOTlkLTRkMjEtODI0MS01MTIzODBmMTljZTAiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjNjNiYWFlNmZiMTE5OTJiNTIzMDJlL2RhaWx5LWRlZnNlYy0yMDI2LTEwLTdfXzEyLTMxLTM4Lm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-october-6-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for October 6 2026 - Daily DefSec Brief",
