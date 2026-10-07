@@ -1,5 +1,22 @@
 [
   {
+    "id": "securing-the-apps-everyone-is-building-with-roi-nisimi-and-yonatan-levi",
+    "podcastId": "hacker-valley-studio",
+    "title": "Securing the Apps Everyone Is Building with Roi Nisimi and Yonatan Levi",
+    "description": "<p>What happens when your marketing team, your sales team, and the person down the hall can all ship a full app from a single prompt? And what is that app quietly connected to? In this episode, Ron sits down with Roi Nisimi, Principal Security Researcher, and Yonatan Levi, AI Security Researcher, of Orca Security. They built apps on the most popular AppGen platforms and then tried to break into them.<br>\n<br>\nRon, Roi, and Yonatan get into what's really running behind a prompt-built app, and what Orca's team found when they went looking for trouble. In one case, a single misconfigured app gave them a way into every integration connected to the workspace. They also explain why Supabase has become a favorite of builders and attackers alike, and share the security questions they ask before sending a prompt.<br>\n<br>\nThe bigger tension is speed. With no code review between the prompt and production, Roi argues that velocity has broken the threat models that security relied on for years. And when the agent makes every decision, nobody fully understands what was built, not even the security researchers.</p>\n<p>Impactful Moments</p>\n<p>00:00 - Introduction<br>\n02:15 - Busting the vibe coding myth<br>\n04:40 - Inside Orca's State of AI report<br>\n05:55 - The unpatched AI SDK problem<br>\n07:40 - What is AppGen?<br>\n10:20 - Who builds the backend?<br>\n12:25 - Inside Orca's AppGen hackathon<br>\n14:10 - Thinking like a citizen developer<br>\n15:15 - Who's really building these apps<br>\n19:25 - One misconfigured app, every integration exposed<br>\n20:45 - Why Supabase is the holy grail<br>\n23:00 - Checking your own exposure<br>\n24:30 - Why the SDLC is breaking down<br>\n26:55 - Prompting for a secure app<br>\n28:15 - Don't hand the agent every decision<br>\n31:20 - Staying sharp by never stopping learning<br>\n33:35 - From protecting environments to protecting apps</p>\n<p>Links</p>\n<p>Connect with Roi Nisimi on LinkedIn: <a href='https://www.linkedin.com/in/roinisimi/'>https://www.linkedin.com/in/roinisimi/</a> </p>\n<p>Connect with Yonatan Levi on LinkedIn: <a href='https://www.linkedin.com/in/yonatan-levi-b22168258/'>https://www.linkedin.com/in/yonatan-levi-b22168258/</a> </p>\n<p>Register for Orca’s virtual Builder Exchange: <a href='https://orca.security/builder-exchange/?utm_source=HVN&utm_medium=3rd-part'>https://orca.security/builder-exchange/?utm_source=HVN&utm_medium=3rd-part</a></p>\n<p><br>\nRead the security findings in Orca’s 2026 State of AI Security Report: <a href='https://orca.security/lp/2026-state-of-ai-security-report/?utm_source=HVN&utm_medium=3rd-party'>https://orca.security/lp/2026-state-of-ai-security-report/?utm_source=HVN&utm_medium=3rd-party</a> </p>\n<p>–</p>\n<p>Check out our upcoming events: <a href='https://www.hackervalley.com/livestreams'>https://www.hackervalley.com/livestreams</a> </p>\n<p>Love Hacker Valley Studio? Pick up some swag: <a href='https://store.hackervalley.com'>https://store.hackervalley.com</a> </p>\n<p>Become a sponsor of the show: <a href='https://hackervalley.com/work-with-us/'>https://hackervalley.com/work-with-us/</a> </p>",
+    "publishedAt": "2026-10-07T20:32:48.000Z",
+    "duration": 2214,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/xmmd7djinqhinxf5/HVS26_EP446_Orca.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 446,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/securing-the-apps-everyone-is-building-with-roi-nisimi-and-yonatan-levi/"
+  },
+  {
     "id": "giving-your-ai-agent-its-own-identity-with-ashish-rajan",
     "podcastId": "hacker-valley-studio",
     "title": "Giving Your AI Agent Its Own Identity with Ashish Rajan",
