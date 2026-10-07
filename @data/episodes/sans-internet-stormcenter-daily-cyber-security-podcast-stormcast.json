@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-october-7th-2026-rmm-tools-libheif-rce-sonicwall-sma100",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, October 7th, 2026: RMM Tools; libHEIF RCE; Sonicwall SMA1000, OpenSSH updates, DNSSEC KSK Rollover",
+    "description": "<br/>\nMore RMM Tools In the Wild<br/>\n<a href=\"https://isc.sans.edu/diary/More%20RMM%20Tools%20In%20the%20Wild/33400\">https://isc.sans.edu/diary/More%20RMM%20Tools%20In%20the%20Wild/33400</a><br/>\nWORDPRESS LIBHEIF RCE <br/>\n<a href=\"https://fortbridge.co.uk/research/wordpress-libheif-rce/\">https://fortbridge.co.uk/research/wordpress-libheif-rce/</a><br/>\nSONICWALL SMA1000 SERIES APPLIANCES Vulnerabilities CVE-2026-102255, CVE-2026-102256, CVE-2026-102257, CVE-2026-102258<br/>\n<a href=\"https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0017\">https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0017</a><br/>\nOpenSSH 10.6 Released<br/>\n<a href=\"https://seclists.org/oss-sec/2026/q4/58\">https://seclists.org/oss-sec/2026/q4/58</a><br/>\nDNSSEC Root Key Signing Key Rollover<br/>\n<a href=\"https://blog.cloudflare.com/root-ksk-2024-rollover/\">https://blog.cloudflare.com/root-ksk-2024-rollover/</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-07T02:00:02.000Z",
+    "duration": 403,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10126.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10126,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10126"
+  },
+  {
     "id": "sans-stormcast-tuesday-october-6th-2026-cowrie-tty-logs-another-netscaler-0-day-",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, October 6th, 2026: cowrie tty Logs; Another Netscaler 0-Day; Exchange Patch",
