@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-october-8-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for October 8 2026 - Daily DefSec Brief",
+    "description": "<p>1. Japan's data thefts came through internal APIs — CVE-2026-72898 — Do: Find the internal APIs your apps expose — <a href=\"https://www.jpcert.or.jp/at/2026/at260030.html\" rel=\"noopener noreferrer nofollow\">https://www.jpcert.or.jp/at/2026/at260030.html</a></p><p>2. Phishing now hides orders for your inbox AI — Do: Confirm every payment change with a phone call — <a href=\"https://blog.barracuda.com/2026/10/07/email-attacks-target-both-humans-ai-assistants\" rel=\"noopener noreferrer nofollow\">https://blog.barracuda.com/2026/10/07/email-attacks-target-both-humans-ai-assistants</a></p><p>3. SonicWall SMA1000 gets another pre-login flaw — CVE-2026-102255 — Fixed: 12.4.3-03670 or 12.5.0-03082 — Do: Hotfix the SonicWall SMA1000 again — <a href=\"https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0017\" rel=\"noopener noreferrer nofollow\">https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0017</a></p><p>4. Veeam's Backup Viewer role can run code on v12 — CVE-2025-64393, CVE-2026-93026 — Fixed: 12.3.2.4934 — Do: Patch Veeam 12 and audit Backup Viewer accounts — <a href=\"https://www.veeam.com/kb4934\" rel=\"noopener noreferrer nofollow\">https://www.veeam.com/kb4934</a></p><p>5. Nexus switches get root-level RCE fixes — CVE-2026-76471, CVE-2026-76465, CVE-2026-76485 (+ 2 more) — Do: Upgrade switches running NX-API, MPLS OAM or NGOAM — <a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-napi-rce-r2shwu2j\" rel=\"noopener noreferrer nofollow\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-napi-rce-r2shwu2j</a></p><p>6. Splunk clusters run commands with no login — CVE-2026-76268, CVE-2026-76281 — Fixed: 10.4.3, 10.2.7, 10.0.10 or 9.4.15 — Do: Upgrade Splunk Enterprise on every release line — <a href=\"https://advisory.splunk.com/advisories/SVD-2026-1001\" rel=\"noopener noreferrer nofollow\">https://advisory.splunk.com/advisories/SVD-2026-1001</a></p><p>7. Meraki firmware fixes flaws rated up to 9.6 — CVE-2026-76464, CVE-2026-76463 — Fixed: MX 26.1.7 or 26.2.3; MR 33.1.3; MS 26.1.2 or 18.1.9 — Do: Schedule the Meraki firmware upgrades — <a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-meraki-os-drbEX9GH\" rel=\"noopener noreferrer nofollow\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-meraki-os-drbEX9GH</a></p><p>8. Attackers messaged ASOS customers through its app — Do: Lock down your customer-messaging platform logins — <a href=\"https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust\" rel=\"noopener noreferrer nofollow\">https://www.rapid7.com/blog/post/it-asos-incident-attackers-using-channels-customers-trust</a></p><p>9. A botnet gets its C2 address from a poem — CVE-2026-42271 — Fixed: LiteLLM 1.83.7 — Do: Get your AI servers off the open internet — <a href=\"https://www.lumen.com/blog/en-us/canto-incognito-tracking-the-poellm-malware\" rel=\"noopener noreferrer nofollow\">https://www.lumen.com/blog/en-us/canto-incognito-tracking-the-poellm-malware</a></p>",
+    "publishedAt": "2026-10-08T12:24:14.000Z",
+    "duration": 260,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/7f9197671798adb126229720ae0212af5110ecec505d22eca5779d04e0f64626/eyJlcGlzb2RlSWQiOiI1NmZjMDQyMi1hMTg1LTQwNTctOTc3Yi1lMDNmZWEzYTlmODQiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjNzhhYTJhOTk1Yzc5NzUxMjFjZjgyL2RhaWx5LWRlZnNlYy0yMDI2LTEwLThfXzEyLTIwLTUwLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-october-7-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for October 7 2026 - Daily DefSec Brief",
