@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-october-9th-2026-ai-agent-forensics-ai-assisted-attack-on-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, October 9th, 2026: AI Agent Forensics; AI-Assisted Attack on South Korean Banks; IDN Typosquatting; Cisco Finesse SSRF (CVE-2026-20362)",
+    "description": "<br/>\nIn today's episode: new scripts for reconstructing AI agent activity during forensic investigations, an attacker's Claude chat history recovered after breaches at South Korean financial institutions, internationalized domain name (IDN) lookalikes that still get past Chrome, and an unpatched Cisco Finesse server-side request forgery (SSRF) vulnerability.<br/>\nReconstructing AI Agent Activity: Two New Scripts for Forensic Review<br/>\nJim Clausing released two scripts that turn the logs left behind by the OpenCode and Hermes AI agents into searchable JSON, so incident responders can see what an AI agent did on an attacker's or a victim's system.<br/>\n<a href=\"https://isc.sans.edu/diary/Reconstructing%20AI%20Agent%20Activity%3A%20Two%20New%20Scripts%20for%20Forensic%20Review/33410\">https://isc.sans.edu/diary/Reconstructing%20AI%20Agent%20Activity%3A%20Two%20New%20Scripts%20for%20Forensic%20Review/33410</a><br/>\nUnknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance<br/>\nWhile investigating breaches at South Korean financial institutions, CrowdStrike recovered the attacker's CLAUDE.md file and Claude chat history, a rare look at how a low-skill \"prompt kiddie\" uses AI to run an attack.<br/>\n<a href=\"https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/\">https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/</a><br/>\nTurning IDN Edge Cases into Typosquats<br/>\nAttackers can still register convincing lookalike domains using Unicode characters that resemble Latin letters but are not on Chrome's list of known confusables. One test domain impersonating Apple displayed in Chrome but not in Safari.<br/>\n<a href=\"https://haveibeensquatted.com/blog/turning-idn-edge-cases-into-typosquats\">https://haveibeensquatted.com/blog/turning-idn-edge-cases-into-typosquats</a><br/>\nCisco Finesse SSRF Vulnerability (CVE-2026-20362)<br/>\nCisco disclosed an unauthenticated server-side request forgery vulnerability in the Cisco Finesse web-based management interface, rated High (CVSS 7.2). Details are already public, there is no workaround, and fixed releases are not expected until January or February 2027.<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-finesse-ssrf-mmSuyugS\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-finesse-ssrf-mmSuyugS</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-09T07:52:03.000Z",
+    "duration": 374,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10130.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10130,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10130"
+  },
+  {
     "id": "sans-stormcast-thursday-october-8th-2026-atlassian-vulnerabilities-cctld-comporm",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, October 8th, 2026: Atlassian Vulnerabilities; ccTLD Compormise; Outlook blocking .msix",
