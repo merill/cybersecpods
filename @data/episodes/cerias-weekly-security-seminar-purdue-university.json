@@ -1,5 +1,22 @@
 [
   {
+    "id": "eugene-spafford-ai-cybersecurity-panacea-or-existential-threat",
+    "podcastId": "cerias-weekly-security-seminar-purdue-university",
+    "title": "Eugene Spafford, AI: Cybersecurity Panacea or Existential Threat?",
+    "description": "<p>Twenty years ago, the first post on the CERIAS blog took apart the rule that passwords must be changed every month. NIST retired the practice in 2017; some standards still require it. That is how a security myth works: a plausible claim, repeated in enough checklists, becomes infrastructure, and nobody audits infrastructure that seems to be working. The newest myth is that AI makes security professionals optional. This talk separates the three claims that marketing bundles together. AI tools do find flaws in shipped code, and the evidence from Google, DARPA, Mozilla, and Microsoft is real. Autonomous agents do add kinds of risk that no deployed security architecture was designed for. Neither fact implies that fewer people are needed. The vulnerability flood of 2026 is an audit of forty years of deferred engineering, not a crisis AI created, and the bottleneck has moved to the human capacity to verify, coordinate, and fix. The organizations that bet on replacement are already rehiring, often at a premium, the judgment they discarded. Open positions in the field number in the hundreds of thousands. For students, the message is direct: AI is not replacing you; it is generating your workload. The talk closes with what grows, what shrinks, and  how to prepare. The capacities that make you a professional are the ones that do not become obsolete with the next model release. About the speaker: Eugene H. Spafford is a Distinguished Professor of Computer Science at Purdue University and the founder and Executive Director Emeritus of CERIAS. He is co-author of*Cybersecurity Myths and Misconceptions *(Addison-Wesley, 2023).</p>",
+    "publishedAt": "2026-10-07T20:30:00.000Z",
+    "duration": 3910,
+    "audioUrl": null,
+    "videoUrl": "https://www.cerias.purdue.edu/assets/video/secsem/secsem_20261007.mp4",
+    "imageUrl": "https://www.cerias.purdue.edu/news_and_events/events/security_seminar/images/spaf_seminar_300x300.png",
+    "episodeNumber": 924,
+    "seasonNumber": 32,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "krassimir-tzvetanov-trading-privacy-for-convenience-leading-through-example-in-a",
     "podcastId": "cerias-weekly-security-seminar-purdue-university",
     "title": "Krassimir Tzvetanov, Trading Privacy for Convenience: Leading through example in a Hyper-Connected Era",
