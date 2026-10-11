@@ -613,16 +613,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-10-11T12:35:01.895Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must have podcast for Defenders",
-        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
-        "author": "Rljohnson5",
-        "updatedAt": "2023-05-23T14:47:20-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "bluehat-podcast",
@@ -3028,16 +3019,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-10-11T12:35:19.585Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Cyber updates and more",
-        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
-        "author": "Wooyilac",
-        "updatedAt": "2025-04-11T00:00:45-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "inside-darknet",
@@ -4028,8 +4010,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-10-02T02:57:07.000Z",
-    "firstEpisodeDate": "2026-05-27T06:23:13.000Z",
+    "lastEpisodeDate": "2026-10-11T19:18:00.000Z",
+    "firstEpisodeDate": "2026-05-29T02:31:35.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,

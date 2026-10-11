@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-ai-is-attacking-it-needs-to-defend-too",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: AI is attacking… it needs to defend, too",
+    "description": "<p>In this Risky Business sponsored interview James Wilson chats with Prowler’s founder and CEO Toni de la Fuente about how AI now allows pretty much anyone to vibe-code “killer apps”. These custom apps are often internal for organisations and hosted on the cloud.</p>\n\n<p>The pair discuss why developers need to focus on security on top of app functionality and how Prowler can work in parallel with apps and agents to help secure, and continuously assess, cloud infrastructure.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-10-11T19:18:00.000Z",
+    "duration": 1111,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI146.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI146/"
+  },
+  {
     "id": "authorities-dismantle-killsec-group",
     "podcastId": "risky-bulletin",
     "title": "Authorities dismantle KillSec group",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS570/"
-  },
-  {
-    "id": "risky-bulletin-iran-to-reconnect-to-the-internet",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Iran to reconnect to the Internet",
-    "description": "<p>Iran will reconnect to the Internet, a new vulnerability lets attackers bypass authentication on AI infrastructure, hackers breach Lithuania’s state registry, security firms take down the Glassworm botnet, and CERT India releases strict patching advice.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-badhost-vulnerability-bypasses-authentication-on-ai-infrastructure/\">Risky Bulletin: BadHost vulnerability bypasses authentication on AI infrastructure</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-05-27T06:23:13.000Z",
-    "duration": 374,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS569.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS569/"
   }
 ]
