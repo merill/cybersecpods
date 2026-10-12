@@ -1,5 +1,22 @@
 [
   {
+    "id": "cyber-security-news-for-october-12-2026-daily-defsec-brief",
+    "podcastId": "daily-defsec-brief",
+    "title": "Cyber Security News for October 12 2026 - Daily DefSec Brief",
+    "description": "<p>1. GlobalProtect bypass still feeds ransomware — CVE-2026-0257 — Fixed: 12.1.7, 11.2.12, 11.1.15, 10.2.18-h6, or the matching hotfix — Do: Patch GlobalProtect and review VPN sessions — <a href=\"https://security.paloaltonetworks.com/CVE-2026-0257\" rel=\"noopener noreferrer nofollow\">https://security.paloaltonetworks.com/CVE-2026-0257</a></p><p>2. Fake \"security audit\" workflow steals CI secrets — Do: Search your repos for unexpected workflow files — <a href=\"https://socket.dev/blog/ghostaction-cloud-credentials\" rel=\"noopener noreferrer nofollow\">https://socket.dev/blog/ghostaction-cloud-credentials</a></p><p>3. Public root exploit for AnyDesk on Linux — Fixed: 8.0.3 — Do: Update AnyDesk on Linux hosts — <a href=\"https://github.com/v12-security/pocs/tree/main/anydesk\" rel=\"noopener noreferrer nofollow\">https://github.com/v12-security/pocs/tree/main/anydesk</a></p><p>4. One prompt exposed every AgentCore agent — Do: Scope down every AgentCore execution role — <a href=\"https://labs.zenity.io/post/agentcorruption-how-a-single-prompt-collapsed-the-entire-cloud-security-model\" rel=\"noopener noreferrer nofollow\">https://labs.zenity.io/post/agentcorruption-how-a-single-prompt-collapsed-the-entire-cloud-security-model</a></p><p>5. Old Windows loses Windows Update in 2027 — Do: Find unsupported and stuck Windows machines — <a href=\"https://learn.microsoft.com/en-us/windows/release-health/windows-message-center\" rel=\"noopener noreferrer nofollow\">https://learn.microsoft.com/en-us/windows/release-health/windows-message-center</a></p><p>6. AWS PowerShell tools logged console passwords — CVE-2026-107783 — Fixed: 5.0.306 — Do: Upgrade AWS Tools for PowerShell — <a href=\"https://aws.amazon.com/security/security-bulletins/rss/2026-132-aws/\" rel=\"noopener noreferrer nofollow\">https://aws.amazon.com/security/security-bulletins/rss/2026-132-aws/</a></p><p>7. Exposed Nvidia GPU exporters leak telemetry — CVE-2026-47483 — Fixed: DCGM 4.5.3 — Do: Take the DCGM Exporter off the internet — <a href=\"https://github.com/NVIDIA/product-security/blob/main/2026/5857/5857.md\" rel=\"noopener noreferrer nofollow\">https://github.com/NVIDIA/product-security/blob/main/2026/5857/5857.md</a></p><p>8. Two letters slip lookalike domains past Chrome — Do: Watch for lookalikes of your domains — <a href=\"https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383\" rel=\"noopener noreferrer nofollow\">https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383</a></p><p>9. Update: Denmark's CPR breach ran on \"123456\" — Do: Ban common passwords on partner accounts — <a href=\"https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/\" rel=\"noopener noreferrer nofollow\">https://databreaches.net/2026/10/10/123456-password-used-in-massive-danish-cpr-data-breach/</a></p>",
+    "publishedAt": "2026-10-12T12:48:44.000Z",
+    "duration": 307,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/abab367d6c7f2c6cbccb52118a13b2826a91f5f5f3b35f16b1b2be2657052fd7/eyJlcGlzb2RlSWQiOiIyMjkyZDE3NS04Y2I5LTRhMTUtOTY0ZS02ZWI3ZGUwNzE0MzMiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFjY2Q1OWI3MDk2NTM0N2I3OGI2ZWUyL2RhaWx5LWRlZnNlYy0yMDI2LTEwLTEyX18xMi00Mi0zLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "cyber-security-news-for-october-9-2026-daily-defsec-brief",
     "podcastId": "daily-defsec-brief",
     "title": "Cyber Security News for October 9 2026 - Daily DefSec Brief",
