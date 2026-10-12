@@ -1,0 +1,31 @@
+{
+  "applePodcastId": "1659280767",
+  "spotifyUrl": "https://open.spotify.com/show/147seyy9rKauyoQxp0RM5A",
+  "websiteUrl": "https://securitytable.ai/",
+  "rssUrl": "https://feeds.buzzsprout.com/2094080.rss",
+  "youtubeUrl": "https://www.youtube.com/@AISecurityTable",
+  "twitterUrl": "https://x.com/AISecurityTable",
+  "linkedinUrl": "https://www.linkedin.com/company/ai-security-table/",
+  "tags": [
+    "ai-security"
+  ],
+  "cadence": "weekly",
+  "format": "panel",
+  "authors": [
+    {
+      "name": "Chris Romeo",
+      "twitterUrl": "https://x.com/edgeroute",
+      "linkedinUrl": "https://www.linkedin.com/in/chrisromeo-appsec/"
+    },
+    {
+      "name": "Izar Tarandach",
+      "twitterUrl": "https://x.com/izar_t",
+      "linkedinUrl": "https://www.linkedin.com/in/izartarandach/"
+    },
+    {
+      "name": "Matt Coles",
+      "twitterUrl": "https://x.com/coles_matthewj",
+      "linkedinUrl": "https://www.linkedin.com/in/matthew-coles-4330652/"
+    }
+  ]
+}
