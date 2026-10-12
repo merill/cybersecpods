@@ -1,0 +1,27 @@
+{
+  "applePodcastId": "1154351685",
+  "spotifyUrl": "https://open.spotify.com/show/5wB4EQzVlxkQhemETVRZvT",
+  "websiteUrl": "https://appsecpodcast.com",
+  "rssUrl": "https://feeds.buzzsprout.com/1730684.rss",
+  "youtubeUrl": "https://www.youtube.com/@ApplicationSecurityPodcast",
+  "twitterUrl": "https://x.com/AppSecPodcast",
+  "linkedinUrl": "https://www.linkedin.com/company/application-security-podcast/",
+  "tags": [
+    "appsec",
+    "ai-security"
+  ],
+  "cadence": "weekly",
+  "format": "interview",
+  "authors": [
+    {
+      "name": "Chris Romeo",
+      "twitterUrl": "https://x.com/edgeroute",
+      "linkedinUrl": "https://www.linkedin.com/in/chrisromeo-appsec"
+    },
+    {
+      "name": "Robert Hurlbut",
+      "twitterUrl": "https://x.com/roberthurlbut",
+      "linkedinUrl": "https://www.linkedin.com/in/roberthurlbut/"
+    }
+  ]
+}
