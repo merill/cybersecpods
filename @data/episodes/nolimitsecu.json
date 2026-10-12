@@ -1,9 +1,26 @@
 [
   {
+    "id": "formation-en-cybersecurite-dans-le-domaine-des-objets-connectes",
+    "podcastId": "nolimitsecu",
+    "title": "Formation en cybersécurité dans le domaine des objets connectés",
+    "description": "<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p style=\"text-align: center;\">Episode #553 consacré à la formation en cybersécurité dans le domaine des objets connectés.</p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/arnaud-courty/\">Arnaud Courty</a>, <a href=\"https://www.linkedin.com/in/lionelcaubet/\">Lionel Caubet</a> et Dorian Peluso</p>\n<p><img fetchpriority=\"high\" decoding=\"async\" class=\"size-full wp-image-4132 aligncenter\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/formation_en_cybersecurite_dans_le_domaine_des_objets_connectes.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/formation_en_cybersecurite_dans_le_domaine_des_objets_connectes.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/formation_en_cybersecurite_dans_le_domaine_des_objets_connectes-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p style=\"text-align: center;\">Référence : <a href=\"https://dvid.eu/\">https://dvid.eu/</a></p>\n<p>&nbsp;</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/formation-en-cybersecurite-dans-le-domaine-des-objets-connectes/\">Formation en cybersécurité dans le domaine des objets connectés</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "publishedAt": "2026-10-11T19:51:12.000Z",
+    "duration": 0,
+    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-553-DVIDv2.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 553,
+    "seasonNumber": 11,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.nolimitsecu.fr/formation-en-cybersecurite-dans-le-domaine-des-objets-connectes/"
+  },
+  {
     "id": "fuites-de-cles-privees",
     "podcastId": "nolimitsecu",
     "title": "Fuites de clés privées",
-    "description": "<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p style=\"text-align: center;\">Episode #552</p>\n<p style=\"text-align: center;\">Fuites de clés privées</p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/gvaladon/\">guillaume valadon</a> et <a href=\"https://www.linkedin.com/in/gaetan-f-a40497a4/\">Gaëtan Ferry</a></p>\n<p style=\"text-align: center;\"><img fetchpriority=\"high\" decoding=\"async\" class=\"aligncenter size-medium wp-image-4126\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées-300x300.png\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées-300x300.png 300w, https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées-150x150.png 150w, https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées.png 341w\" sizes=\"(max-width: 300px) 100vw, 300px\" />Référence : <a href=\"https://www.sstic.org/2026/presentation/private-key-leaks_insights-from-certificate-transparency/\">https://www.sstic.org/2026/presentation/private-key-leaks_insights-from-certificate-transparency/</a></p>\n\n\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/fuites-de-cles-privee/\">Fuites de clés privées</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p style=\"text-align: center;\">Episode #552</p>\n<p style=\"text-align: center;\">Fuites de clés privées</p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/gvaladon/\">guillaume valadon</a> et <a href=\"https://www.linkedin.com/in/gaetan-f-a40497a4/\">Gaëtan Ferry</a></p>\n<p style=\"text-align: center;\"><img decoding=\"async\" class=\"aligncenter size-medium wp-image-4126\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées-300x300.png\" alt=\"\" width=\"300\" height=\"300\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées-300x300.png 300w, https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées-150x150.png 150w, https://www.nolimitsecu.fr/wp-content/uploads/Fuites-de-cles-privées.png 341w\" sizes=\"(max-width: 300px) 100vw, 300px\" />Référence : <a href=\"https://www.sstic.org/2026/presentation/private-key-leaks_insights-from-certificate-transparency/\">https://www.sstic.org/2026/presentation/private-key-leaks_insights-from-certificate-transparency/</a></p>\n\n\n\n\n<p>The post <a href=\"https://www.nolimitsecu.fr/fuites-de-cles-privee/\">Fuites de clés privées</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-10-04T20:39:49.000Z",
     "duration": 0,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-552-Fuites-de-cles-privees.mp3",
@@ -37,7 +54,7 @@
     "id": "de-la-creation-dun-organisme-de-certification",
     "podcastId": "nolimitsecu",
     "title": "De la création d’un organisme de certification",
-    "description": "<p style=\"text-align: center;\">Episode #550 consacré à la création d&rsquo;un organisme de certification </p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/guillaume-carat-105b2087/\">Guillaume Carat</a> et <a href=\"https://www.linkedin.com/in/ronan-l-872058181/\">Ronan Lucas</a></p>\n<p style=\"text-align: center;\"><img decoding=\"async\" class=\"size-full wp-image-4115\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Creation_organisme_de_certification.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Creation_organisme_de_certification.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Creation_organisme_de_certification-150x150.png 150w\" sizes=\"(max-width: 256px) 100vw, 256px\" /></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/de-la-creation-dun-organisme-de-certification/\">De la création d&rsquo;un organisme de certification</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p style=\"text-align: center;\">Episode #550 consacré à la création d&rsquo;un organisme de certification </p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/guillaume-carat-105b2087/\">Guillaume Carat</a> et <a href=\"https://www.linkedin.com/in/ronan-l-872058181/\">Ronan Lucas</a></p>\n<p style=\"text-align: center;\"><img loading=\"lazy\" decoding=\"async\" class=\"size-full wp-image-4115\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/Creation_organisme_de_certification.png\" alt=\"\" width=\"256\" height=\"256\" srcset=\"https://www.nolimitsecu.fr/wp-content/uploads/Creation_organisme_de_certification.png 256w, https://www.nolimitsecu.fr/wp-content/uploads/Creation_organisme_de_certification-150x150.png 150w\" sizes=\"auto, (max-width: 256px) 100vw, 256px\" /></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/de-la-creation-dun-organisme-de-certification/\">De la création d&rsquo;un organisme de certification</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-09-13T21:52:57.000Z",
     "duration": 2360,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-550-Centre-Evaluation.mp3",
@@ -156,7 +173,7 @@
     "id": "panorama-de-la-cybermenace-2025",
     "podcastId": "nolimitsecu",
     "title": "Panorama de la Cybermenace 2025",
-    "description": "<p style=\"text-align: center;\">Episode #544 consacré au <a href=\"https://www.cert.ssi.gouv.fr/uploads/CERTFR-2026-CTI-002.pdf\">Panorama de la Cybermenace 2025</a></p>\n<p style=\"text-align: center;\">Avec <a href=\"https://www.linkedin.com/in/vincent-strubel-7b7056200/\">Vincent Strubel</a>, Directeur Général de l&rsquo;<a href=\"https://cyber.gouv.fr/\">ANSSI</a></p>\n<p style=\"text-align: center;\"><a href=\"https://cyber.gouv.fr/nous-connaitre/publications/panoramas-de-la-cybermenace/\"><img loading=\"lazy\" decoding=\"async\" class=\"aligncenter size-full wp-image-2678\" src=\"https://www.nolimitsecu.fr/wp-content/uploads/logo_anssi.png\" alt=\"\" width=\"256\" height=\"256\" /></a></p>\n<p> </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/panorama-de-la-cybermenace-2025/\">Panorama de la Cybermenace 2025</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
+    "description": "<p>Episode #544 consacré au Panorama de la Cybermenace 2025 Avec Vincent Strubel, Directeur Général de l’ANSSI  </p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/panorama-de-la-cybermenace-2025/\">Panorama de la Cybermenace 2025</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
     "publishedAt": "2026-06-14T19:23:00.000Z",
     "duration": 2170,
     "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-544-Panorama-de-la-cybermenace-2025.mp3",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.nolimitsecu.fr/cybergend-et-la-dimension-cyber-de-la-crise-du-coronavirus/"
-  },
-  {
-    "id": "pacap",
-    "podcastId": "nolimitsecu",
-    "title": "PACAP",
-    "description": "<p>Episode Hors Série Consacré à la Qualification des Prestataires Autorisés de Contre-Attaque au Piratage Avec DrakPoney93</p>\n<p>The post <a href=\"https://www.nolimitsecu.fr/pacap/\">PACAP</a> appeared first on <a href=\"https://www.nolimitsecu.fr\">NoLimitSecu</a>.</p>",
-    "publishedAt": "2020-03-31T22:36:16.000Z",
-    "duration": 1369,
-    "audioUrl": "https://media.blubrry.com/3898091/www.nolimitsecu.fr/wp-content/uploads/NoLimitSecu-HS-PACAP.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": 5,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.nolimitsecu.fr/pacap/"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-october-12th-2026-tlp-overuse-agentcorruption-ssrf-in-amaz",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, October 12th, 2026: TLP Overuse; AgentCorruption SSRF in Amazon Bedrock Agents; Palo Alto GlobalProtect VPN Exploited by Ransomware (CVE-2026-0257)",
+    "description": "<br/>\nIn today's episode: why the Traffic Light Protocol (TLP) should not replace internal data classification, a server-side request forgery (SSRF) flaw in Amazon Bedrock AI agents that exposed credentials through the EC2 instance metadata service (IMDS), and ransomware groups exploiting a Palo Alto Networks GlobalProtect authentication bypass.<br/>\nWhy TLP Should Not Replace Your Internal Information Classification<br/>\nThe Traffic Light Protocol from FIRST defines who threat intelligence may be shared with, from TLP:CLEAR to TLP:RED, but not how to protect it in transit. Organizations still need their own classification and safeguards, such as encryption, instead of sending TLP:AMBER data in plain email.<br/>\n<a href=\"https://isc.sans.edu/forums/diary/Why%20TLP%20should%20not%20replace%20your%20internal%20information%20classification/33414/\">https://isc.sans.edu/forums/diary/Why%20TLP%20should%20not%20replace%20your%20internal%20information%20classification/33414/</a><br/>\nAgentCorruption: How A Single Prompt Collapsed The Entire Cloud Security Model<br/>\nZenity Labs found a now-fixed server-side request forgery vulnerability in Amazon Bedrock AI agents. A prompt could make an agent fetch and reveal credentials from the EC2 instance metadata service, made possible by IMDSv1 and overly broad permissions. Restrict the URLs your AI agents can reach and always use IMDSv2.<br/>\n<a href=\"https://labs.zenity.io/post/agentcorruption-how-a-single-prompt-collapsed-the-entire-cloud-security-model\">https://labs.zenity.io/post/agentcorruption-how-a-single-prompt-collapsed-the-entire-cloud-security-model</a><br/>\nPalo Alto GlobalProtect VPN Vulnerability Exploited by Ransomware (CVE-2026-0257)<br/>\nReliaQuest reports ransomware actors exploiting an authentication bypass in Palo Alto Networks PAN-OS GlobalProtect and Prisma Access to open unauthorized VPN sessions. Patch VPN gateways, and keep VPN clients updated too.<br/>\n<a href=\"https://x.com/ReliaQuestTR/status/2108647641240465707\">https://x.com/ReliaQuestTR/status/2108647641240465707</a><br/>\n<a href=\"https://security.paloaltonetworks.com/CVE-2026-0257\">https://security.paloaltonetworks.com/CVE-2026-0257</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-12T02:00:02.000Z",
+    "duration": 332,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10132.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10132,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10132"
+  },
+  {
     "id": "sans-stormcast-friday-october-9th-2026-ai-agent-forensics-ai-assisted-attack-on-",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, October 9th, 2026: AI Agent Forensics; AI-Assisted Attack on South Korean Banks; IDN Typosquatting; Cisco Finesse SSRF (CVE-2026-20362)",
