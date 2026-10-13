@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-the-fbi-and-shinyhunters-are-the-same",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: The FBI and ShinyHunters are the same",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq examine how ShinyHunters and the FBI both deceived themselves into believing they were immune to cyber threats.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/oKSnzUKPNAE\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/\">Krebs On Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/FBIDirectorKash/status/2105322564247503190\">FBI Director Kash Patel on ShinyHunters</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.youtube.com/watch?v=bxLNRd7WvzU\">Brett Leatherman, the FBI Assistant Director for Cyber on ShinyHunters</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://phrack.org/issues/7/hackers-manifesto\">Hacker's Manifesto, 1986</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://news.risky.biz/why-iran-is-a-scaredy-cat-cyber-chicken/#universal-surveillance-is-here-and-the-fbi-just-dont-care\">FBI and Ubiquitous Technical Surveillance</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.ms.now/news/fbi-insiders-kash-patel-is-padding-the-stats-to-boost-his-record-of-arrests\">FBI padding the top 10 list arrest numbers</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-10-12T19:06:44.000Z",
+    "duration": 2122,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN185.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN185/"
+  },
+  {
     "id": "risky-bulletin-shinyhunters-suspects-arrested-in-us-and-jordan",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: ShinyHunters suspects arrested in US and Jordan",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS571/"
-  },
-  {
-    "id": "sponsored-inside-cisas-disastrous-secrets-leak",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Inside CISA's disastrous secrets leak",
-    "description": "<p>In this sponsored interview Casey Ellis chats with Truffle Security’s founder and CEO Dylan Ayrey about the recent CISA secrets leak.</p>\n\n<p>Days after Brian Krebs ran the story, plenty of the exposed credentials were still live, including an admin-level GitHub app key with full rights over CISA’s org.</p>\n\n<p>Dylan walks through why deleting the repo doesn’t fix anything, why most cloud vendors won’t hard-revoke exposed keys (OpenAI and Slack will; AWS, Google and friends mostly won’t), why Hugging Face datasets now hold more secrets than GitHub itself, and what the next generation of multi-provider credential-harvesting supply chain worms is going to look like.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-05-31T23:01:14.000Z",
-    "duration": 1150,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI130.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI130/"
   }
 ]
