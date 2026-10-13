@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-october-13th-2026-gitlab-cicd-rce-cve-2026-97229-lets-enc",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, October 13th, 2026: GitLab CI/CD RCE (CVE-2026-97229); Let’s Encrypt 64-Day Certificates; Midnight Mimosa Pre-Installed Android Malware; Progress MarkLogic Patches",
+    "description": "<br/>\nIn today's episode: a critical GitLab integer overflow that allows unauthenticated code execution, Let s Encrypt moving to 64-day TLS certificates in February 2027, Midnight Mimosa malware pre-installed on cheap Android phones, and Progress MarkLogic security updates.<br/>\nCVE-2026-97229 - Integer Overflow Issue in CI/CD Regular Expression Compiler Impacts GitLab CE/EE<br/>\nAn integer overflow in GitLab's CI/CD regular expression compiler lets unauthenticated users execute arbitrary code on self-managed GitLab servers. It was reported responsibly through HackerOne, and no public exploit is known yet. Patch on-premises installations quickly.<br/>\n<a href=\"https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/#cve-2026-97229---integer-overflow-issue-in-cicd-regular-expression-compiler-impacts-gitlab-ceee\">https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-4-2-released/#cve-2026-97229---integer-overflow-issue-in-cicd-regular-expression-compiler-impacts-gitlab-ceee</a><br/>\nLet s Encrypt 64-Day Certificate Lifetimes Coming Feb 2027<br/>\nLet s Encrypt staging certificates drop to 64 days on October 14th, and all new production certificates follow on February 10th, 2027. Test your automation now, and adjust certificate expiration alerts for shorter-lived certificates.<br/>\n<a href=\"https://letsencrypt.org/2026/10/07/64-day-certs.html\">https://letsencrypt.org/2026/10/07/64-day-certs.html</a><br/>\nMidnight Mimosa: Malware Pre-Installed on Android Phones<br/>\nBitdefender found Midnight Mimosa malware pre-installed on cheap Android phones sold under flagship-like names such as S25 Ultra and i17 Pro. The malware disables the Google Play Store to evade detection and supports clickjacking, a proxy botnet, and ad fraud.<br/>\n<a href=\"https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware\">https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware</a><br/>\nProgress MarkLogic Critical Security Alert Bulletin   October 2026<br/>\nProgress released October 2026 updates for the MarkLogic data management platform and NoSQL database, with some vulnerabilities rated CVSS 9.9. The most severe let users with low-level query privileges execute arbitrary code, partly through a legacy API that is still enabled.<br/>\n<a href=\"https://community.progress.com/s/article/Marklogic-Critical-Security-Alert-Bulletin-October-2026\">https://community.progress.com/s/article/Marklogic-Critical-Security-Alert-Bulletin-October-2026</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-13T02:00:02.000Z",
+    "duration": 338,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10134.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10134,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10134"
+  },
+  {
     "id": "sans-stormcast-monday-october-12th-2026-tlp-overuse-agentcorruption-ssrf-in-amaz",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, October 12th, 2026: TLP Overuse; AgentCorruption SSRF in Amazon Bedrock Agents; Palo Alto GlobalProtect VPN Exploited by Ransomware (CVE-2026-0257)",

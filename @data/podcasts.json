@@ -1001,9 +1001,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-10-09T07:00:00.000Z",
+    "lastEpisodeDate": "2026-10-13T07:00:00.000Z",
     "firstEpisodeDate": "2022-01-21T14:59:00.000Z",
-    "episodeCount": 382,
+    "episodeCount": 383,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1305,9 +1305,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-10-12T07:00:00.000Z",
+    "lastEpisodeDate": "2026-10-13T07:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1863,
+    "episodeCount": 1864,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1869,7 +1869,16 @@
         "ratingCount": 3,
         "fetchedAt": "2026-10-12T15:07:47.439Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -2768,9 +2777,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-10-08T05:00:00.000Z",
+    "lastEpisodeDate": "2026-10-13T07:00:00.000Z",
     "firstEpisodeDate": "2018-05-30T05:00:00.000Z",
-    "episodeCount": 817,
+    "episodeCount": 818,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4255,9 +4264,9 @@
         "websiteUrl": "https://jbu.me/"
       }
     ],
-    "lastEpisodeDate": "2026-10-12T02:00:02.000Z",
+    "lastEpisodeDate": "2026-10-13T02:00:02.000Z",
     "firstEpisodeDate": "2016-04-01T01:40:02.000Z",
-    "episodeCount": 2537,
+    "episodeCount": 2538,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
