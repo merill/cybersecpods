@@ -613,7 +613,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-10-13T14:00:28.153Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must have podcast for Defenders",
+        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
+        "author": "Rljohnson5",
+        "updatedAt": "2023-05-23T14:47:20-07:00"
+      }
+    ]
   },
   {
     "id": "bluehat-podcast",
@@ -1617,9 +1626,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-10-12T05:00:00.000Z",
+    "lastEpisodeDate": "2026-10-13T20:30:00.000Z",
     "firstEpisodeDate": "2015-12-21T20:19:00.000Z",
-    "episodeCount": 3786,
+    "episodeCount": 3787,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1860,7 +1869,16 @@
         "ratingCount": 3,
         "fetchedAt": "2026-10-13T14:00:43.191Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Jack is awesome",
+        "content": "Congrats on launch of Spanish version.",
+        "author": "Gotchayeah",
+        "updatedAt": "2025-05-22T18:24:35-07:00"
+      }
+    ]
   },
   {
     "id": "decipher-security-podcast",
@@ -1914,7 +1932,16 @@
         "ratingCount": 9,
         "fetchedAt": "2026-10-13T14:00:44.783Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 3,
+        "title": "Like it but HORRIBLE audio issues",
+        "content": "Particularly in ep12 there are multiple examples where there are people talking over one another and then periods of silence. There’s some very annoying background noise like someone has a TV or Radio on while recording. \n\nDudes. Clean it up... 🙃",
+        "author": "btaroli",
+        "updatedAt": "2019-02-03T22:19:04-07:00"
+      }
+    ]
   },
   {
     "id": "decoding-security",
@@ -2855,7 +2882,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-10-13T14:00:55.561Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must-Listen for Identity Pros",
+        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
+        "author": "Ilse ☺️",
+        "updatedAt": "2026-02-27T06:06:05-07:00"
+      }
+    ]
   },
   {
     "id": "identity-at-the-center",
@@ -2992,7 +3028,16 @@
         "ratingCount": 4,
         "fetchedAt": "2026-10-13T14:00:57.459Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Cyber updates and more",
+        "content": "This is one of the podcasts that helps you catch up on uncovered cyber topics and other key updates of the week",
+        "author": "Wooyilac",
+        "updatedAt": "2025-04-11T00:00:45-07:00"
+      }
+    ]
   },
   {
     "id": "inside-darknet",
@@ -4158,7 +4203,23 @@
         "ratingCount": 16,
         "fetchedAt": "2026-10-13T14:01:10.321Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5471,6 +5532,43 @@
         "fetchedAt": "2026-10-13T14:01:24.943Z"
       }
     },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Great information and presentation",
+        "content": "Highly recommend if you are a network defender.",
+        "author": "Rygorr",
+        "updatedAt": "2026-07-17T14:09:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great cybersecurity podcast!",
+        "content": "Awesome and well produced podcast with useful cybersecurity and pentesting content.",
+        "author": "Dave McCollough",
+        "updatedAt": "2025-12-12T06:46:41-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Love it",
+        "content": "Lots of great helpful and actionable cybersecurity content. Easy to follow and well produced.",
+        "author": "dareyoutomove",
+        "updatedAt": "2024-10-12T09:27:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Pentesting 101",
+        "content": "My go to podcast for understanding the nuts/bolts of pentesting. Appreciate you guys!",
+        "author": "Rich-Barr",
+        "updatedAt": "2023-11-01T04:42:09-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Worth a listen",
+        "content": "Great insight and advice and actually very entertaining.",
+        "author": "Chris Y Doyle",
+        "updatedAt": "2022-09-14T12:09:26-07:00"
+      }
+    ],
     "submittedBy": "techspence"
   },
   {
@@ -5749,7 +5847,44 @@
         "ratingCount": 64,
         "fetchedAt": "2026-10-13T14:01:28.649Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 1,
+        "title": "So much potential",
+        "content": "Podcast host needs to do a better job of keeping the conversation on track. Constantly lets “JAGS” go off on 30+ min rants that have nothing to do with the conversation at hand. Every episode has a significant chunk taken up by JAGS spewing pseudo intellectual BS trying to sound super deep and thoughtful. Annoying as hell.",
+        "author": "Yeahyeahblahblah",
+        "updatedAt": "2026-06-06T04:49:02-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful",
+        "content": "Smart takes and more accurate understanding than most cybersec podcasts. Good personalities.",
+        "author": "Laughedoutloud",
+        "updatedAt": "2025-12-27T07:09:57-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Oo",
+        "content": "A bold new take on cybersecurity podcasts: unfiltered, authentic, and refreshingly real.",
+        "author": "\\x4A\\x4D",
+        "updatedAt": "2025-05-20T13:02:20-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "1X",
+        "content": "The only podcast I listen to at 1x. Thoughtful, insightful, occasionally profane, always erudite.",
+        "author": "mjg5772",
+        "updatedAt": "2025-05-17T20:32:42-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Security and more",
+        "content": "Excellent, well articulated, thought provoking conversations. It has quickly made it onto my “must listen” list.",
+        "author": "Chris Mc.38",
+        "updatedAt": "2024-12-15T10:04:10-07:00"
+      }
+    ]
   },
   {
     "id": "to-the-point-cybersecurity",
@@ -5891,7 +6026,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-10-13T14:01:31.586Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "When Podcasting Is Elevated In Thought and Execution",
+        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
+        "author": "When Podcasting Is Elevated",
+        "updatedAt": "2022-06-28T14:44:42-07:00"
+      }
+    ]
   },
   {
     "id": "unsupervised-learning",
