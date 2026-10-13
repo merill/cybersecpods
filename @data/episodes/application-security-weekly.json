@@ -1,5 +1,22 @@
 [
   {
+    "id": "whats-not-found-in-appsec-asw-404",
+    "podcastId": "application-security-weekly",
+    "title": "What's Not Found in AppSec? - ASW #404",
+    "description": "<p>To celebrate our 404th episode we discuss what's not found in modern appsec and what still exists that should become not found. The conversation starts with a classic problem of appsec -- looking for a reliable vuln prioritization methodology. But we expand from there to challenge whether a focus on vulns and patches is even the right choice for an appsec program. Then it's on to incentives, the role of agents in writing and securing software, and what we should be looking for to bring new appsec practitioners into the industry.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-404\">https://securityweekly.com/asw-404</a></p>",
+    "publishedAt": "2026-10-13T09:00:00.000Z",
+    "duration": 3216,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_404_1--381a5acc-468e-46dd-87fc-b0c59b6db2a5--audio-converted--c2626cac-030a-411d-a0a8-464a8fc6b8c0.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/6/b/3/a/6b3a3915fe23f62988c4a68c3ddbc4f2/ASW_404_Thumbnail_ASW_1920x1920_5d26d616-30b6-4ff0-91fe-9681bcb7ce7c.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/whats-not-found-in-appsec-asw-404"
+  },
+  {
     "id": "getting-granular-with-access-attributes-and-intent-alex-olivier-asw-403",
     "podcastId": "application-security-weekly",
     "title": "Getting Granular with Access, Attributes, and Intent - Alex Olivier - ASW #403",

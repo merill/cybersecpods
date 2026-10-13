@@ -1,5 +1,22 @@
 [
   {
+    "id": "dtsr-episode-727-when-ai-supports-pentesting",
+    "podcastId": "down-the-security-rabbithole",
+    "title": "DtSR Episode 727 - When AI Supports Pentesting",
+    "description": "<p><b>TL;DR: </b>Phile has been penetration testing for a long time. The difference now is that he's having a much easier time with it thanks to AI. It's an interesting world, and he's here to explain the offensive side of it.</p><p><b>Guest:</b> <a href='https://www.linkedin.com/in/p-brass/'>Phil Brass</a></p><p><b>Description</b></p><p>Zero-days are not a once-in-a-career event anymore. From B-Sides Atlanta, we sit down with veteran penetration tester Phil Brass to unpack what happens when large language models make vulnerability research dramatically faster and cheaper, not just for defenders, but for attackers too.<br/><br/>We get specific about where AI penetration testing actually moves the needle: LLM-assisted security research that can turn a normal two-week internal pen test into a hunt for brand-new bugs in the commercial software your environment depends on. Phil walks through the mindset shift from “scan the network and review configs” to “download the exact products the client runs and start looking for flaws,” including lessons learned from targeting VMware infrastructure and finding critical issues in vCenter, the control plane that can unlock everything downstream.<br/><br/>That power comes with consequences. We talk responsible disclosure, vendor response, and the uncomfortable reality that patches can be reverse-engineered quickly, leading to real-world exploitation soon after fixes land. On the defense side, the guidance is refreshingly direct: tighten patch cycles, take threat intelligence seriously, and implement real micro-segmentation so one foothold does not expose every dependency on your network. We also dig into third-party risk management and why asking suppliers about LLM-assisted testing may become a new baseline.<br/><br/>We close with the human side of AI in security: validating LLM output, dealing with hallucinations, avoiding intellectual laziness, and making judgment calls that protect production systems. If you found this useful, subscribe, share it with a teammate, and leave a review so more builders and defenders can find the show.</p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2153215/fan_mail/new\">Have something to say? Let's hear it.</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/2153215/support\">Support the show</a></p><p><em>>>> Please consider clicking the link above to support the show!</em><br/>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=<br/><b>YouTube home:</b> <a href='https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq'>https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq</a><br/><b>LinkedIn Page:</b> <a href='https://www.linkedin.com/company/down-the-security-rabbithole-podcast/'>https://www.linkedin.com/company/down-the-security-rabbithole-podcast/</a><br/><b>X/Twitter:</b> <a href='https://twitter.com/dtsr_podcast'>https://twitter.com/dtsr_podcast</a></p>",
+    "publishedAt": "2026-10-13T10:00:00.000Z",
+    "duration": 1761,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2153215/episodes/19953090-dtsr-episode-727-when-ai-supports-pentesting.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 16,
+    "seasonNumber": 727,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "dtsr-episode-726-three-dollars-to-hack-your-stack",
     "podcastId": "down-the-security-rabbithole",
     "title": "DtSR Episode 726 - Three Dollars To Hack Your Stack",
