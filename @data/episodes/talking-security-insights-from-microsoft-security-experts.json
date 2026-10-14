@@ -1,5 +1,22 @@
 [
   {
+    "id": "securing-ai-agents-blueprints-and-agent-365-with-derk-van-der-woude",
+    "podcastId": "talking-security-insights-from-microsoft-security-experts",
+    "title": "Securing AI Agents: Blueprints and Agent 365 with Derk van der Woude",
+    "description": "<p>How do you secure AI agents in Microsoft Entra? Security MVP Derk van der Woude explains agent identity blueprints, classic vs modern agents and Agent 365.</p><p>In the relaunch of MVP Security Insights, Frans and Pouyan talk with Derk about AI agent security from both the attacker and the defender side.</p><p></p><p>In this episode</p><p>• What a secure AI assessment and a secure AI landing zone look like in practice</p><p>• Workload identity risk: multi-tenant apps with high-privileged application permissions</p><p>• Classic vs modern agents, and why most security controls only work on modern agents</p><p>• Agent identity blueprints: the four-layer model and why attackers go after the blueprint</p><p>• What you won't see in the UI: inherited permissions that only show up in the token</p><p>• Agent 365 explained: control plane, license and security controls in Entra, Defender, Purview and Intune</p><p>• Conditional Access for agents and the new AgentsInfo hunting table</p><p>• Where to start if you have one week to secure the agents in your tenant</p><p></p><p>Chapters</p><p>00:00 Welcome to MVP Security Insights</p><p>02:27 From a 486 to Microsoft Certified Master</p><p>07:12 Building a secure AI landing zone</p><p>11:57 Workload identity posture management</p><p>15:04 Classic vs modern agents</p><p>19:53 Agent identity blueprints explained</p><p>26:46 What the UI and audit logs miss</p><p>31:12 Agent 365 and Conditional Access</p><p>37:53 Where to start in one week</p><p>41:59 Rapid fire, IT/OT and advice</p><p></p><p>Guest: Derk van der Woude – CTO Cybersecurity at BBTG, Microsoft Security MVP (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blue16.nl\">https://blue16.nl</a>)</p><p></p><p>Hosts: Frans Oudendorp & Pouyan Khabazi</p><p></p><p>Watch on YouTube: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://youtu.be/JgH00RYLbHg\">https://youtu.be/JgH00RYLbHg</a></p><p>More episodes: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://talkingsecurity.nl\">https://talkingsecurity.nl</a></p>",
+    "publishedAt": "2026-10-14T12:22:33.000Z",
+    "duration": 3097,
+    "audioUrl": "https://content.rss.com/episodes/159543/3234159/talking-security/2026_10_14_12_21_46_6a8ada58-b3f8-4d33-a088-96e50c0e279a.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/talking-security/ep_cover_20261014_122119_31a8f187924c6a8e55976e3e937ddda5.png",
+    "episodeNumber": 1,
+    "seasonNumber": 8,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/talking-security/3234159"
+  },
+  {
     "id": "inside-microsoft-sentinel-data-lake-graph-and-ai-with-javier-soriano-or-talking-",
     "podcastId": "talking-security-insights-from-microsoft-security-experts",
     "title": "Inside Microsoft Sentinel: Data Lake, Graph, and AI with Javier Soriano | Talking Security Podcast",
