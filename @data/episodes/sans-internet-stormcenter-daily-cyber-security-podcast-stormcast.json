@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-october-14th-2026-october-2026-patch-tuesday-microsoft-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, October 14th, 2026: October 2026 Patch Tuesday: Microsoft Fixes 1,417 Vulnerabilities; Ivanti Connect Secure Exploited; Adobe ColdFusion and Commerce Critical Patches",
+    "description": "<br/>\nIn today's episode: Microsoft's October 2026 Patch Tuesday fixes 1,417 vulnerabilities, including an exploited Mark of the Web bypass, plus Ivanti patches an exploited Connect Secure flaw and Adobe fixes critical ColdFusion and Adobe Commerce vulnerabilities.<br/>\nOctober 2026 Microsoft Patch Tuesday<br/>\nMicrosoft patched 1,417 vulnerabilities, 76 rated critical. CVE-2026-96951, an already exploited Windows Shell security feature bypass, skips the Mark of the Web warning. CVE-2026-108398, a publicly disclosed .NET Framework flaw, bypasses application control. Also patched: 10 remote code execution flaws in Windows DHCP Server (five critical), an Exchange Server RCE triggered by a crafted email (CVE-2026-70571), and many Microsoft Office RCE vulnerabilities.<br/>\n<a href=\"https://isc.sans.edu/diary/October%202026%20Microsoft%20Patch%20Tuesday/33422\">https://isc.sans.edu/diary/October%202026%20Microsoft%20Patch%20Tuesday/33422</a><br/>\nIvanti October 2026 Security Update<br/>\nIvanti fixed an Ivanti Connect Secure vulnerability already exploited in limited attacks, plus two Ivanti Neurons vulnerabilities that can leak the credentials used to connect to Microsoft Intune. Patch, then rotate those Intune credentials.<br/>\n<a href=\"https://www.ivanti.com/blog/october-2026-security-update\">https://www.ivanti.com/blog/october-2026-security-update</a><br/>\nAdobe Patch Tuesday: ColdFusion and Adobe Commerce<br/>\nAdobe fixed 110 vulnerabilities across 11 products. Adobe Commerce has critical arbitrary code execution flaws, and ColdFusion has CVSS 10.0 server-side request forgery (SSRF) and unrestricted file upload vulnerabilities. Prioritize these two products.<br/>\n<a href=\"https://www.adobe.com/trust/security/bulletins-and-advisories.html\">https://www.adobe.com/trust/security/bulletins-and-advisories.html</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-14T02:00:03.000Z",
+    "duration": 389,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10136.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10136,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10136"
+  },
+  {
     "id": "sans-stormcast-tuesday-october-13th-2026-gitlab-cicd-rce-cve-2026-97229-lets-enc",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, October 13th, 2026: GitLab CI/CD RCE (CVE-2026-97229); Let’s Encrypt 64-Day Certificates; Midnight Mimosa Pre-Installed Android Malware; Progress MarkLogic Patches",
