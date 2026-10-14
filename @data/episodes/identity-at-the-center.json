@@ -1,5 +1,22 @@
 [
   {
+    "id": "454-sponsor-spotlight-hypr",
+    "podcastId": "identity-at-the-center",
+    "title": "#454 - Sponsor Spotlight - HYPR",
+    "description": "<p>Bojan Simic, co-founder and CEO of HYPR, returns to Identity at the Center for a Sponsor Spotlight conversation with Jim McDonald. Bojan traces HYPR's path from passwordless authentication to a broader set of identity assurance controls and explains how assurance differs from verification across the full employee lifecycle. He describes what organizations find when they look for worker impersonators, from remote employees outsourcing their jobs to North Korean operatives, and why verification has to continue past day one. The conversation then turns to AI agents: why IAM teams are becoming the HR of AI, how agent identity differs from human identity, why humans can't manually govern agents at scale, and why securing MCP alone misses the full context of an agent's session. Bojan also covers what is slowing passwordless adoption, adaptive risk, alert fatigue, and how identity teams and the SOC can work together. This episode was made possible with support from HYPR.</p><p><br></p><p><br></p><p>Connect with Bojan: https://www.linkedin.com/in/bojansimic</p><p><br></p><p>Learn more about HYPR: https://www.hypr.com/idac</p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at idacpodcast.com</p><p><br></p><p><br></p><p>00:10 Sponsor Spotlight intro and welcome back Bojan Simic</p><p>02:36 HYPR's evolution from passwordless to identity assurance</p><p>04:44 How the pace of identity projects has changed</p><p>06:01 Agentic AI moves from theory to reality</p><p>08:19 Identity assurance vs. identity verification</p><p>10:02 Why workforce identity verification is on the rise</p><p>13:01 AI-powered social engineering crosses language barriers</p><p>14:30 Continuous verification beyond onboarding</p><p>17:06 Balancing verification with user experience</p><p>18:36 The business problem behind AI agent governance</p><p>22:42 How agent identity differs from human identity</p><p>24:50 Who owns agent identity? IAM as the HR of AI</p><p>27:00 Governing agents at scale and keeping humans in the loop</p><p>29:23 Why endpoint control matters for AI agents</p><p>31:48 What securing MCP alone can miss</p><p>33:20 Deterministic and probabilistic controls</p><p>35:00 What is holding passwordless back</p><p>37:26 Pilots and letting perfect be the enemy of good</p><p>39:25 Advice for leaders on adaptive risk</p><p>42:02 Signals that matter and avoiding alert fatigue</p><p>43:36 Identity teams and the SOC</p><p>45:53 Lighter note: early mornings in New York, family, and the Yankees</p><p>50:36 Wrap-up</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Bojan Simic, HYPR, Sponsor Spotlight, identity assurance, identity verification, workforce identity verification, continuous verification, worker impersonation, North Korean IT workers, deepfakes, social engineering, help desk security, AI agents, agentic AI, agent identity, AI agent governance, non-human identity, NHI, MCP, Model Context Protocol, endpoint security, blast radius, least privilege, access reviews, passwordless, MFA, FIDO, adaptive risk, adaptive authentication, alert fatigue, SOC, identity threat detection, IAM</p>",
+    "publishedAt": "2026-10-14T09:00:00.000Z",
+    "duration": 3109,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/127234188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2Fac79dce7-f2c5-df79-d6be-9881679e5e61.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 454,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/454---Sponsor-Spotlight---HYPR-e3q9cmc"
+  },
+  {
     "id": "453-treating-identity-like-a-product-with-eve-maler",
     "podcastId": "identity-at-the-center",
     "title": "#453 - Treating Identity Like a Product with Eve Maler",
