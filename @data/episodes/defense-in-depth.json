@@ -1,5 +1,22 @@
 [
   {
+    "id": "how-should-security-be-architected-for-human-error",
+    "podcastId": "defense-in-depth",
+    "title": "How Should Security Be Architected for Human Error?",
+    "description": "<p dir=\"ltr\">All links and images can be found on <a href= \"https://cisoseries.com/how-do-we-architect-security-for-human-error/\"> CISO Series</a></p> <p dir=\"ltr\">We've all internalized that humans are the weak link in cybersecurity. Why do we not account for that when we're building our cybersecurity programs?</p> <p dir=\"ltr\">Check out <a href= \"https://www.linkedin.com/feed/update/urn:li:activity:7488251460191862784/\"> this post</a> for the discussion that is the basis of our conversation on this week's episode, co-hosted by <a href= \"https://www.linkedin.com/in/davidspark/\">David Spark</a>, the producer of <a href=\"https://cisoseries.com/\">CISO Series</a>, and <a href=\"https://www.linkedin.com/in/geoffbelknap/\">Geoff Belknap</a>. Joining them is their sponsored guest, <a href= \"https://www.linkedin.com/in/kieran-human-5495ab170/\">Kieran Human</a>, lead cybersecurity engineer, <a href= \"https://www.threatlocker.com/ciso?utm_source=ciso-series&utm_medium=sponsor&utm_campaign=ai-cant-stop-ai_q3_26&utm_content=ai-cant-stop-ai-&utm_term=podcast\"> ThreatLocker</a>.</p> <p dir=\"ltr\">In this episode:</p> <ul dir=\"ltr\"> <li>Humans and automation checking each other</li> <li>Assume the click happens</li> <li>Catch it in the moment</li> <li>Take the manual step out entirely</li> </ul> <p dir=\"ltr\">A huge thanks to our sponsor, ThreatLocker</p> <p><a href= \"https://www.threatlocker.com/ciso?utm_source=ciso-series&utm_medium=sponsor&utm_campaign=ai-cant-stop-ai_q3_26&utm_content=ai-cant-stop-ai-&utm_term=podcast\"> </a></p> <p dir=\"ltr\">An AI-generated attack may be new, but it still needs to execute, access data, and move through your environment. ThreatLocker applies enforceable controls at each of those points, limiting what attackers can do regardless of how their code was created. Book a demo at <a href= \"http://threatlocker.com/ciso\">threatlocker.com/ciso</a>.</p>",
+    "publishedAt": "2026-10-15T10:00:00.000Z",
+    "duration": 1518,
+    "audioUrl": "https://traffic.libsyn.com/secure/defenseindepth/Defense_in_Depth_10-15-26.mp3?dest-id=1020683",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/b/7/1/0/b7101e80544d2dcd5f2e77a3093c12a1/Defense_in_Depth_10-15-26.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://defenseindepth.libsyn.com/how-should-security-be-architected-for-human-error"
+  },
+  {
     "id": "can-smbs-get-the-same-security-as-everyone-else",
     "podcastId": "defense-in-depth",
     "title": "Can SMBs Get the Same Security as Everyone Else?",
