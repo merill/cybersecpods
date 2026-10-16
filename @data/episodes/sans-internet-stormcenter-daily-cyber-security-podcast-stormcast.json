@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-october-16th-2026-panchan-crypto-mining-worm-exploited-0-d",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, October 16th, 2026: Panchan Crypto Mining Worm; Exploited 0-Days in Cisco Secure Email Gateway (CVE-2026-76519), Palo Alto PAN-OS (CVE-2026-0322) and Ivanti Connect Secure",
+    "description": "<br/>\nToday's episode covers the Panchan crypto mining worm spreading over SSH, plus three actively exploited zero-day vulnerabilities: a root-level remote code execution flaw in Cisco Secure Email Gateway, an authenticated root RCE in Palo Alto Networks' management interface, and a chained Ivanti Connect Secure exploit documented by Volexity.<br/>\nPanchan's Mining Island [Guest Diary]<br/>\nSANS.edu intern Zachary Norwood analyzes Panchan, a Golang crypto mining worm that spreads via SSH, steals SSH keys, installs a rootkit and uses Discord for command and control, using FakeNet-NG for dynamic analysis.<br/>\n<a href=\"https://isc.sans.edu/diary/Panchan%27s%20Mining%20Island%20%5BGuest%20Diary%5D/33426\">https://isc.sans.edu/diary/Panchan%27s%20Mining%20Island%20%5BGuest%20Diary%5D/33426</a><br/>\nCisco Secure Email Gateway 0-Day (CVE-2026-76519)<br/>\nWith the reputation feature enabled, the advanced malware protection feature lets attackers write arbitrary files and execute code as root. The flaw is already exploited and there is no workaround, so patch and review Cisco's indicators of compromise.<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-afw-zqYJkjxp</a><br/>\nPalo Alto Networks 0-Day (CVE-2026-0322)<br/>\nAn already exploited, authenticated remote code execution vulnerability that runs code as root. Exploitation requires an exposed management interface.<br/>\n<a href=\"https://security.paloaltonetworks.com/CVE-2026-0322\">https://security.paloaltonetworks.com/CVE-2026-0322</a><br/>\nIvanti Connect Secure 0-Day (CVE-2026-104935)<br/>\nVolexity found three chained vulnerabilities: an authentication bypass, an arbitrary file write leading to remote code execution, and a privilege escalation. Ivanti patched the first two under one CVE; the privilege escalation appears unpatched.<br/>\n<a href=\"https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/\">https://www.volexity.com/blog/2026/10/13/a-series-of-unauthenticated-events-chained-exploitation-of-ivanti-connect-secure-zero-days/</a><br/>\n<a href=\"https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-CVE-2026-104935?language=en_US\">https://hub.ivanti.com/s/article/Security-Advisory-Ivanti-Connect-Secure-CVE-2026-104935?language=en_US</a><br/>\nNo Podcast on Monday, Oct. 19th.<br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-16T02:00:02.000Z",
+    "duration": 359,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10140.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10140,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10140"
+  },
+  {
     "id": "sans-stormcast-thursday-october-15th-2026-orphaned-vba-macros-in-autocad-dwg-fil",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, October 15th, 2026: Orphaned VBA Macros in AutoCAD DWG Files; Ledger Wallet Hardware Implants; Docker Hub Token Bug (CVE-2026-105445); curl HTTP/2 RCE",
