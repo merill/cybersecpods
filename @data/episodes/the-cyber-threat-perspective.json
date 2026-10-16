@@ -1,5 +1,22 @@
 [
   {
+    "id": "owasp-top-10-part-5-injection-attacks-and-real-pen-test-war-stories-or-ep-199",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "OWASP Top 10 Part 5: Injection Attacks and Real Pen Test War Stories | Ep 199",
+    "description": "<p>We’re halfway through the OWASP Top 10, and this one is a favorite. Brad Causey is joined by Jordan Natter, SecurIT360’s resident web app pen tester, to cover A05: Injection. They explain how injection flaws work, why it slipped two spots on the list but is no less dangerous, and what developers can do to shut it down.</p><p>Along the way, they share real stories from the field. There’s a first-ever pen test that turned a blood drive gift card app into $25,000 in gift cards and a destroyed production database. There’s a harmless-looking hub status dropdown that became a reverse shell. And there’s a username field that handed over session cookies.</p><p>In this episode:</p><ul><li>What injection is and why it can happen anywhere from the browser to the data layer</li><li>Reflected, stored, and DOM-based cross-site scripting, and how they differ</li><li>SQL, NoSQL, LDAP, and why no data layer is immune to injection</li><li>Why injection moving to #5 doesn’t make it a lower priority</li><li>How CSP, HttpOnly cookies, CSRF tokens, and SameSite attributes break attack chains</li><li>Why client-side validation is a usability feature, not a security control</li><li>Whitelisting vs. blacklisting, parameterized queries, and output encoding</li><li>The case for never testing in production, and backing up your staging data too</li></ul><p>Resources mentioned: OWASP Input Validation Cheat Sheet and the OWASP Cheat Sheet Series</p><p>Need a web app pen test or have questions about application security? Reach out to the SecurIT360 team.</p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a><br/>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-10-16T17:00:00.000Z",
+    "duration": 2400,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/19972876-owasp-top-10-part-5-injection-attacks-and-real-pen-test-war-stories-ep-199.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 199,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "replay-painfully-persistent-problems-weak-passwords",
     "podcastId": "the-cyber-threat-perspective",
     "title": "[Replay] Painfully Persistent Problems: Weak Passwords",
