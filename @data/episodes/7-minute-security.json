@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-744-using-n8n-to-automate-the-security-dog-food",
+    "podcastId": "7-minute-security",
+    "title": "7MS #744: Using n8n to Automate the Security Dog Food",
+    "description": "<p>Hey friends! Today I'm mashing two of our mini-series — eating the security dog food and my new obsession with n8n — into one big automation sandwich. I'll walk you through how Claude and a bunch of JSON files helped me build a self-updating asset inventory in Notion, firewall rule reviews, patch-ticket automation, and a push-button external pentesting and OSINT sweep. Basically, imagine I've cornered you at a party and won't stop talking about n8n.</p>",
+    "publishedAt": "2026-10-17T00:07:00.000Z",
+    "duration": 1607,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-744-Using_n8n_to_Automate_the_Security_Dog_Food.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-744-using-n8n-to-automate-the-security-dog-food"
+  },
+  {
     "id": "7ms-743-eating-the-security-dog-food-part-9",
     "podcastId": "7-minute-security",
     "title": "7MS #743: Eating the Security Dog Food - Part 9",
