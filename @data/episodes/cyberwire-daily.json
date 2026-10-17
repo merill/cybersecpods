@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-wrong-kind-of-access-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "The wrong kind of access. [Research Saturday]",
+    "description": "<p><a href=\"https://www.linkedin.com/in/danlis97/\">Dan Lisichkin</a>, AI Security Researcher from <a href=\"https://www.pillar.security/\">Pillar Security</a>, discussing their work on \"A WIF Of Fresh Access, How a GitHub Issue on Gemini-CLI Led to GCP Project Compromise.\" Researchers at Pillar Security uncovered a vulnerability in Google’s Gemini CLI workflows that could allow an attacker to turn a malicious GitHub issue into remote code execution and gain elevated access to a Google Cloud Platform (GCP) project. </p>\n<p>The exploit chain combined a misconfigured tool allowlist that allowed unrestricted command execution with exposed Workload Identity Federation credentials and overly broad service account permissions, potentially enabling attackers to impersonate privileged accounts. Google promptly addressed the issues by tightening tool restrictions, blocking the agent’s access to credential files, and limiting service account impersonation permissions, highlighting the risks of connecting AI agents to untrusted input and sensitive infrastructure.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.crowdstrike.com/en-us/blog/phantomraven-llm-generated-information-stealer-for-bug-bounty-hunting/\">⁠</a><a href=\"https://www.pillar.security/blog/a-wif-of-fresh-access-how-a-github-issue-on-gemini-cli-led-to-gcp-project-compromise\">A WIF Of Fresh Access: How a GitHub Issue on Gemini-CLI Led to GCP Project Compromise</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-10-17T07:00:00.000Z",
+    "duration": 1682,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW8805015835.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/260ad49c-c974-11f1-bcd7-6327ceea1117/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 446,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/446/notes"
+  },
+  {
     "id": "reboot-rinse-repeat",
     "podcastId": "cyberwire-daily",
     "title": "Reboot, rinse, repeat.",
