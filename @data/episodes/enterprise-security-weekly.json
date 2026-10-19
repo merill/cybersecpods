@@ -1,5 +1,22 @@
 [
   {
+    "id": "securing-ai-on-the-endpoint-anthropic-dreams-of-ai-replicants-and-the-news-micha",
+    "podcastId": "enterprise-security-weekly",
+    "title": "Securing AI on the Endpoint, Anthropic Dreams of AI Replicants, and the News - Michael Jenkins - ESW #481",
+    "description": "Interview with Michael Jenkins from ThreatLocker <p>Securing AI on the Endpoint - Zero Trust or Bust</p> <p>Michael joins us for the first time to discuss strategies for securing the latest evolution of AI: local endpoint-based AI agents. Tools like Claude Code, OpenAI Codex, and Google AntiGravity give employees the power to build any software or workflow they can imagine, but what is the risk impact? These models aren't shy about adopting and downloading libraries, tools, and untrusted software to fulfill the goals they've been given.</p> <p>We explore how execution control and ringfencing can add some sanity and security to the process.</p> <p>This segment is sponsored by ThreatLocker. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/threatlocker\">https://securityweekly.com/threatlocker</a> to learn more about them!</p> Topic Segment: Anthropic Dreams of AI Replicants <p>Of all the things AI labs could be researching or cooking up, I wouldn't have guessed AI worms distributing inference across smart TVs would be on the list, but <a rel=\"noopener\" target=\"_blank\" href=\"https://www.anthropic.com/research/self-replicating-ai\">here we are</a>. Adrian, Tyler, and Ayman mull over this strange research.</p> <ul> <li>It is too loose to be an academic paper, but maybe should have been?</li> <li>Is really a pressing AI risk we should be worried about right now?</li> <li>Why did Anthropic choose to focus on smart TVs and not more powerful IoT devices?</li> </ul> Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>we discuss the vibes</li> <li>certified organic books</li> <li>don't mess with criminals</li> <li>the history of ShinyHunters</li> <li>building strategies on the wrong lessons</li> <li>crypto wallet supply chain drama</li> <li>Hot refrigerators</li> <li>Reddit is great for breach tracking</li> <li>Microsoft patch Tuesday is on track to hit 12,000 patches by next April</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-481\">https://securityweekly.com/esw-481</a></p>",
+    "publishedAt": "2026-10-19T09:00:00.000Z",
+    "duration": 5557,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_481_1--a8d1fea8-12f1-49ea-a4a5-fc382ce43044--audio-converted--9f99635e-4fee-444b-9218-4f105a8aa017.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/b/a/d/f/badf0dd8c165a59d5f2e77a3093c12a1/ESW_481_Thumbnail_ESW_1920x1920_251ee587-104f-40ac-8459-d7b9858beb5d.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/securing-ai-on-the-endpoint-anthropic-dreams-of-ai-replicants-and-the-news-michael-jenkins-esw-481"
+  },
+  {
     "id": "data-security-in-the-ai-era-dont-let-ai-ruin-your-presentation-and-the-weekly-ne",
     "podcastId": "enterprise-security-weekly",
     "title": "Data Security in the AI Era, Don't Let AI Ruin your Presentation, and the Weekly News - Hadar Krasner - ESW #480",

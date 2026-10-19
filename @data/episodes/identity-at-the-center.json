@@ -1,5 +1,22 @@
 [
   {
+    "id": "455-cnapp-and-the-cloud-identity-problem-with-mike-small",
+    "podcastId": "identity-at-the-center",
+    "title": "#455 - CNAPP and the Cloud Identity Problem with Mike Small",
+    "description": "<p>Most cloud security incidents trace back to the customer, and most of those trace back to identity. Jeff and Jim sit down with Mike Small, Senior Analyst at KuppingerCole, to unpack Cloud Native Application Protection Platforms (CNAPP) and why identity practitioners should care. Mike explains how identity controls in the cloud have become data defined in code, why ephemeral workloads break traditional scan-then-deploy security, and how CNAPP evolved from static configuration analysis into runtime monitoring and SOC integration. The conversation covers the shared responsibility model, SOC 2 attestations and complementary user entity controls, multi-cloud complexity, and why standards matter for portability and sovereignty. Mike also looks at CNAPP as a security plane for AI, agents as another layer of non-human identity, recent market consolidation, and the cloud as national critical infrastructure. Plus, a detour into amateur radio, Morse code exams, and low-power QRP contacts across the Atlantic.</p><p><br></p><p><br></p><p>Connect with Mike: https://www.linkedin.com/in/mikesmall01/</p><p><br></p><p>AI Identity and Agentic Trust: https://www.kuppingercole.com/blog/small/ai-identity-and-agentic-trust</p><p><br></p><p>Mike's other writing for KuppingerCole: https://www.kuppingercole.com/people/small</p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p>00:00 Welcome and fall conference season</p><p>02:52 Introducing Mike Small</p><p>03:19 From engineer to identity software to analyst</p><p>05:07 What is CNAPP and why should IAM care?</p><p>07:21 Most cloud incidents are the customer's fault</p><p>11:00 Identity controls in the cloud are data</p><p>15:17 Static configuration analysis vs. runtime monitoring</p><p>19:34 Is CNAPP a product or a platform?</p><p>21:07 CSPM, CWPP, CIEM, KSPM and CNAPP capabilities</p><p>23:12 The shared responsibility model</p><p>27:46 Who defines secure? SOC 2 and complementary user entity controls</p><p>31:40 Multi-cloud and the case for standards</p><p>35:18 CNAPP as the security plane for AI</p><p>40:48 Where the CNAPP market heads next</p><p>44:34 Acquisitions and consolidation in cloud security</p><p>46:50 The cloud as national critical infrastructure</p><p>50:08 How sovereign is a sovereign cloud?</p><p>53:12 MCP and the speed of AI standards</p><p>53:39 Mike's passion for amateur radio</p><p>1:05:20 The CNAPP elevator pitch</p><p>1:06:14 Wrap up</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Mike Small, KuppingerCole, CNAPP, Cloud Native Application Protection Platform, cloud security, CIEM, cloud infrastructure entitlement management, CSPM, CWPP, KSPM, shared responsibility model, least privilege, misconfiguration, runtime monitoring, SOC 2, complementary user entity controls, multi-cloud, non-human identity, NHI, AI agents, agentic AI, MCP, sovereign cloud, critical infrastructure, identity standards, MFA, amateur radio, IAM, identity and access management</p>",
+    "publishedAt": "2026-10-19T09:00:00.000Z",
+    "duration": 4076,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/126706538/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-2%2F5c996bdf-dbc5-64e7-c302-7c6f59eb80e3.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 455,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/455---CNAPP-and-the-Cloud-Identity-Problem-with-Mike-Small-e3pp9da"
+  },
+  {
     "id": "454-sponsor-spotlight-hypr",
     "podcastId": "identity-at-the-center",
     "title": "#454 - Sponsor Spotlight - HYPR",
