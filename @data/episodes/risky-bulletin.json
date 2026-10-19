@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-why-ai-will-mean-infinite-bugs",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: Why AI will mean infinite bugs",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq discuss whether the rise of AI coding will result in more or less bugs and whether it will ultimately make software more secure.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/5chpbGb-0TY\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-10-19T19:22:17.000Z",
+    "duration": 1436,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN186.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN186/"
+  },
+  {
     "id": "risky-bulletin-linux-patches-pwnescape-kvm-vulnerability",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Linux patches PwnEscape KVM vulnerability",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/BTN169/"
-  },
-  {
-    "id": "risky-bulletin-rubygems-adds-dependency-cooldowns-to-counter-supply-chain-attack",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: RubyGems adds dependency cooldowns to counter supply chain attacks",
-    "description": "<p>RubyGems adds dependency-cooldowns to counter supply chain attacks, AT&T and IBM are accused of hiding foreign hacks, Cisco warns of a new SD-WAN zero-day, and Google layoffs hit security teams.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-rubygems-adds-dependency-cooldowns-to-counter-supply-chain-attacks/\">Risky Bulletin: RubyGems adds dependency cooldowns to counter supply chain attacks</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-06-08T01:56:32.000Z",
-    "duration": 398,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS574.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS574/"
   }
 ]
