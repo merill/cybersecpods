@@ -601,9 +601,9 @@
     "cadence": "weekly",
     "format": "narrative",
     "authors": [],
-    "lastEpisodeDate": "2026-10-13T12:00:00.000Z",
+    "lastEpisodeDate": "2026-10-20T12:00:00.000Z",
     "firstEpisodeDate": "2020-09-21T00:58:14.000Z",
-    "episodeCount": 335,
+    "episodeCount": 336,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1170,9 +1170,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-10-17T16:00:00.000Z",
+    "lastEpisodeDate": "2026-10-20T16:00:00.000Z",
     "firstEpisodeDate": "2022-08-02T16:00:00.000Z",
-    "episodeCount": 328,
+    "episodeCount": 329,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1475,8 +1475,8 @@
     "cadence": "daily",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-10-19T14:06:32.000Z",
-    "firstEpisodeDate": "2026-02-24T14:25:25.000Z",
+    "lastEpisodeDate": "2026-10-20T15:56:58.000Z",
+    "firstEpisodeDate": "2026-02-25T14:44:37.000Z",
     "episodeCount": 500,
     "hasVideo": false,
     "isActive": true,
@@ -2266,7 +2266,7 @@
     "id": "down-the-security-rabbithole",
     "applePodcastId": "466659176",
     "title": "Down the Security Rabbithole Podcast (DtSR)",
-    "description": "<p>This is Cybersecurity's premier podcast. Running strong since 2011 Rafal Los, James Jardine, and Jim Tiller bring a no-nonsense, non-commercial approach to our profession. DtSR brings interviews and discussion with people you want to meet, and stories you have to hear. So whether you're just starting out, or are decades deep into your career, you'll always learn something on this show.<br><br>On Twitter/X: https://twitter.com/@DtSR_Podcast<br>On YouTube: https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq<br>On LinkedIn: https://www.linkedin.com/company/down-the-security-rabbithole-podcast/<br><br><br></p>",
+    "description": "<p>This is Cybersecurity's premier podcast. Running strong since 2011 Rafal Los, James Jardine, and Jim Tiller bring a no-nonsense, non-commercial approach to our profession. DtSR brings interviews and discussion with people you want to meet, and stories you have to hear. So whether you're just starting out, or are decades deep into your career, you'll always learn something on this show.<br><br>On Twitter/X: https://twitter.com/@DtSR_Podcast<br>On YouTube: https://www.youtube.com/@DTSR_Podcast<br>On LinkedIn: https://www.linkedin.com/company/down-the-security-rabbithole-podcast/<br><br><br></p>",
     "summary": "",
     "subtitle": "",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e9/42/69/e94269b8-44f7-e2fa-5c0f-ee009e640a64/mza_17796642390860446871.jpg/600x600bb.jpg",
@@ -2278,7 +2278,7 @@
       "Technology"
     ],
     "explicit": false,
-    "websiteUrl": "https://blogwh1t3rabbit.medium.com",
+    "websiteUrl": "https://www.youtube.com/@DTSR_Podcast",
     "rssUrl": "https://rss.buzzsprout.com/2153215.rss",
     "copyright": "© 2026 Down the Security Rabbithole Podcast (DtSR)",
     "spotifyUrl": null,
@@ -2653,9 +2653,18 @@
       "apple": {
         "averageRating": 4.5,
         "ratingCount": 10,
-        "fetchedAt": "2026-10-19T12:51:04.075Z"
+        "fetchedAt": "2026-10-20T11:20:56.754Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Hacker History is important",
+        "content": "Josh is a seasoned host that really excels that diving into the guest’s stories. Hacker History is extremely important to the community as we all stand on shoulders of giants.",
+        "author": "KingKamic",
+        "updatedAt": "2021-03-03T07:12:50-07:00"
+      }
+    ]
   },
   {
     "id": "hacker-valley-studio",
@@ -6026,16 +6035,7 @@
         "ratingCount": 15,
         "fetchedAt": "2026-10-20T11:21:31.320Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "When Podcasting Is Elevated In Thought and Execution",
-        "content": "I am no stranger to podcasts or podcasting. I've hosted and appeared on dozens and listened to thousands over the years. It's a difficult medium to master especially at a level that rivals professional programming that you might encounter through organizations like NPR (whether you are a fan or not, they do deliver professional programing). @NickSelby and the team at @TrailOfBits have done an excellent job in doing just that -- delivering a high quality, engaging form of informative story telling that leaves the listener better off than were when they began and wanting more. Give it a listen and find out for yourselves.\n\n#podcast #trailofbits #cybersecurity #openinguptheworldonedownloadatatime #nickselby #danguido",
-        "author": "When Podcasting Is Elevated",
-        "updatedAt": "2022-06-28T14:44:42-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "unsupervised-learning",
