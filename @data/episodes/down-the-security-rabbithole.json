@@ -1,5 +1,22 @@
 [
   {
+    "id": "dtsr-episode-728-unlocking-open-weight-models",
+    "podcastId": "down-the-security-rabbithole",
+    "title": "DtSR Episode 728 - Unlocking Open-Weight Models",
+    "description": "<p><b>TL;DR:</b> This week's pod is a conversation about AI and \"Open-Weight Models\", and if you aren't intimately familiar with what these are this is an episode for you. Wes has a lot of insight, and this is a discussion rather than an info dump.</p><p><b>Guest: </b></p><ul><li><a href='https://www.linkedin.com/in/weswidner/'>Wes Widner</a></li></ul><p><b>Description</b></p><p>The most disruptive AI feature might not be a new chatbot trick; it might be the ability to download the model and run it yourself. Recorded live at B-Sides Atlanta 2026, we sit down with Wes Widner, senior principal engineer at Cyber Haven and a veteran of McAfee threat intel and CrowdStrike, to unpack what open-weight models really are and why they’re changing the rules for security teams.<br/><br/>We break down the practical side of local LLMs: model weights, quantization, laptop-friendly variants, and why the open model ecosystem on Hugging Face has become a real “model store.” Then we go straight into the uncomfortable part: if a model runs on your hardware, the guardrails are optional. Wes explains how “locks” and refusals get removed, why safety and alignment consume huge effort for frontier labs (not labs), and why trying to regulate distribution can backfire by driving unlocked models into underground channels.<br/><br/>From there, the conversation turns into cybersecurity reality. AI doesn’t reliably understand context like “medical-critical” versus “normal” IoT, and reverse engineering firmware at home can look identical to reversing a sensitive system. Our takeaway is blunt: stop assuming the attacker is limited, and start designing detection, response, and secure engineering for a world where both sides have powerful AI copilots.<br/><br/></p><p><b>YouTube: </b><a href='https://youtu.be/xGIjifjdjnM'>https://youtu.be/xGIjifjdjnM</a></p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2153215/fan_mail/new\">Have something to say? Let's hear it.</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/2153215/support\">Support the show</a></p><p><em>>>> Please consider clicking the link above to support the show!</em><br/>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=<br/><b>YouTube home:</b> <a href='https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq'>https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq</a><br/><b>LinkedIn Page:</b> <a href='https://www.linkedin.com/company/down-the-security-rabbithole-podcast/'>https://www.linkedin.com/company/down-the-security-rabbithole-podcast/</a><br/><b>X/Twitter:</b> <a href='https://twitter.com/dtsr_podcast'>https://twitter.com/dtsr_podcast</a></p>",
+    "publishedAt": "2026-10-20T10:00:00.000Z",
+    "duration": 1969,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2153215/episodes/19987385-dtsr-episode-728-unlocking-open-weight-models.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 16,
+    "seasonNumber": 728,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "dtsr-episode-727-when-ai-supports-pentesting",
     "podcastId": "down-the-security-rabbithole",
     "title": "DtSR Episode 727 - When AI Supports Pentesting",

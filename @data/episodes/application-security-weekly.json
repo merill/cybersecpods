@@ -1,5 +1,22 @@
 [
   {
+    "id": "standardizing-mobile-defense-inside-the-owasp-mobile-app-security-project-v2-jan",
+    "podcastId": "application-security-weekly",
+    "title": "Standardizing Mobile Defense: Inside the OWASP Mobile App Security Project v2 - Jan Seredynski, Ryan Lloyd - ASW #405",
+    "description": "<p>The OWAS Mobile Application Security (MAS) project recently released an updated version of its guidance, with excellent advice organized into common weaknesses, a verification standard for devs (MASVS), and a testing guide (MASTG). Ryan Lloyd and Jan Seredynski from Guardsquare dive into the project to talk about how it's been updated, how orgs can use it, and the challenges orgs face in managing their mobile frameworks and environments. We also cover how agents and LLMs are impacting mobile security and what future iterations of the MAS project might include for securing mobile apps interacting with LLMs or being written by LLMs. Finally, we share practical ways for developers to get involved as OWASP contributors and advocates.</p> <p>Segment Resources:</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://mas.owasp.org\">https://mas.owasp.org</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://mas.owasp.org/MASWE/\">https://mas.owasp.org/MASWE/</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://hubs.ly/Q04ykvgm0\">https://hubs.ly/Q04ykvgm0</a></li> </ul> <p>This segment is sponsored by Guardsquare. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/guardsquare\">https://securityweekly.com/guardsquare</a> to learn more!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-405\">https://securityweekly.com/asw-405</a></p>",
+    "publishedAt": "2026-10-20T09:00:00.000Z",
+    "duration": 3174,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_405_1--223c6b52-0bb2-45e5-a01f-5ff2686ef10b--audio-converted--dba3f144-8155-4128-a761-e0313c7a595d.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/a/7/8/a/a78a15c8e9fe52305f2e77a3093c12a1/ASW_405_Thumbnail_ASW_1920x1920_0c7e5e80-a134-4623-8d8f-3cdecd77776b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/standardizing-mobile-defense-inside-the-owasp-mobile-app-security-project-v2-jan-seredynski-ryan-lloyd-asw-405"
+  },
+  {
     "id": "whats-not-found-in-appsec-asw-404",
     "podcastId": "application-security-weekly",
     "title": "What's Not Found in AppSec? - ASW #404",
