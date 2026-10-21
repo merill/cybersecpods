@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-october-21st-2026-emudhra-intermediate-ca-certificates-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, October 21st, 2026: eMudhra Intermediate CA Certificates Revoked; Critical PHP Security Release; Oracle CPU E-Business Suite SQLi (CVE-2026-101767); FortiSIEM gRPC RCE PoC",
+    "description": "<br/>\nToday's episode covers eight eMudhra intermediate CA certificates revoked after a key generation error, an accelerated critical PHP security release fixing two core vulnerabilities, Oracle's October 2026 Critical Patch Update with 1,295 fixes including an Oracle E-Business Suite SQL injection, and a proof-of-concept exploit for a FortiSIEM gRPC path traversal leading to remote code execution.<br/>\neMudhra Intermediate CA Compromise<br/>\nEight intermediate CA certificates from Indian certificate authority eMudhra were revoked after a scripting error during the HSM key ceremony left their private keys one byte long. Browsers now reject them, but software with its own CA bundle, like curl on macOS, may need updating. The post includes a browser test page.<br/>\n<a href=\"https://emudhra.we-have-a-problem.com/\">https://emudhra.we-have-a-problem.com/</a><br/>\nUpcoming Critical PHP Security Release<br/>\nPHP fixes two critical vulnerabilities in PHP core, rated CVSS 9.2, affecting versions back to PHP 5. The release was moved up to Wednesday, October 21st at 14:00 UTC (10 a.m. Eastern) after details leaked. Expect exploits soon after the patch.<br/>\n<a href=\"https://www.php.net/archive/2026.php#2026-10-20-1\">https://www.php.net/archive/2026.php#2026-10-20-1</a><br/>\nOracle Critical Patch Update Advisory - October 2026<br/>\nOracle's quarterly update fixes 1,295 new vulnerabilities. Horizon3 is teasing details of an Oracle E-Business Suite SQL injection, CVE-2026-101767.<br/>\n<a href=\"https://www.oracle.com/security-alerts/cpuoct2026.html\">https://www.oracle.com/security-alerts/cpuoct2026.html</a><br/>\n<a href=\"https://x.com/Horizon3Attack/status/2112651247362658611\">https://x.com/Horizon3Attack/status/2112651247362658611</a><br/>\nFortiSIEM gRPC Path Traversal File Write RCE (CVE-2026-106173)<br/>\nA proof of concept is out for the FortiSIEM flaw patched October 13th. It requires access to port 27918, so block it at the firewall until you patch.<br/>\n<a href=\"https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/\">https://horizon3.ai/attack-research/cve-2026-106173-deep-dive-fortisiem-grpc-path-traversal-file-write-rce/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-21T02:00:02.000Z",
+    "duration": 379,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10144.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10144,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10144"
+  },
+  {
     "id": "sans-stormcast-tuesday-october-20th-2026-plex2shell-rce-exploited-broadcom-ecos-",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, October 20th, 2026: Plex2Shell RCE Exploited; Broadcom eCos Wi-Fi RCE; OVHcloud CLI Compromised; Exchange Issues After October Updates; AI Agent Containment; VBA in DWG YARA",
