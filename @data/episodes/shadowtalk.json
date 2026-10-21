@@ -1,5 +1,22 @@
 [
   {
+    "id": "quartzline-a-pdf-viewer-deploying-a-backdoor-at-scale",
+    "podcastId": "shadowtalk",
+    "title": "QuartzLine: A PDF Viewer Deploying a Backdoor at Scale",
+    "description": "<p>In this episode of ShadowTalk, John Dilgen and Tehman Tariq examine QuartzLine, a malware campaign disguised as a legitimate, signed Windows PDF viewer. The application works as advertised while quietly maintaining persistence, stealing browser data, and waiting for instructions to deploy backdoors at scale. The discussion covers the campaign’s malvertising delivery chain, its evasion techniques, and why blocked C2 traffic should be treated as a confirmed compromise. Learn what defenders can do now to hunt for persistence, close software-access gaps, and automate containment before the campaign escalates.</p><p><b>Resources:</b> <a href='https://linktr.ee/ReliaQuestShadowTalk'>https://linktr.ee/ReliaQuestShadowTalk</a></p><p><b>John Dilgen:</b> Cyber Threat Intelligence Analyst at ReliaQuest, where he specializes in researching cyber threats impacting ReliaQuest customers. With a strong technical background, he previously served as an Incident Response Analyst and Trainer at ReliaQuest.</p><p><b>Tehman Tariq</b>: Sr. Manager of Cyber Operations at ReliaQuest. He has spent a majority of my career leading our Incident Response, Security Architecture, and Detection teams. As well has working hand in hand with CISOs to introduce automation allowing for the maturity of their security programs.</p>",
+    "publishedAt": "2026-10-21T15:00:00.000Z",
+    "duration": 1452,
+    "audioUrl": "https://www.buzzsprout.com/2154459/episodes/19997378-quartzline-a-pdf-viewer-deploying-a-backdoor-at-scale.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "ai-attacks-from-the-front-lines",
     "podcastId": "shadowtalk",
     "title": "AI Attacks From the Front Lines",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "php2shell-bugs-and-the-impact-for-defenders-or-ben-harris",
+    "podcastId": "decipher-security-podcast",
+    "title": "PHP2Shell Bugs and The Impact for Defenders | Ben Harris",
+    "description": "<p>The newly disclosed PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) are as serious as everyone feared, and Ben Harris of watchTowr joins Dennis Fisher to discuss their long-term impact.Timestamps00:00 - Introduction and why the PHP bugs are a big deal00:22 - The disclosure process starts to unravel01:04 - Why the two PHP vulnerabilities are so severe02:07 - Why the embargo mattered and why the leak was dangerous02:49 - PHP’s massive footprint across the internet04:08 - What mitigations can and cannot do05:35 - Comparing this to Log4Shell06:32 - Why sysadmins outside security are suddenly paying attention07:22 - Why old assumptions about disclosure may no longer hold08:48 - How LLMs accelerate reproduction from tiny clues09:13 - Why even partial screenshots and leaked video can be enough10:33 - A rough six to twelve months ahead for security teams<strong>Links</strong>PHP blog: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/Our story: https://decipher.sc/2026/10/20/critical-php-flaws-disclosed-patches-out-now/</p>",
+    "publishedAt": "2026-10-21T16:04:22.000Z",
+    "duration": 663,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/127843712/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-21%2F434669513-44100-2-5977db5980bbe.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/PHP2Shell-Bugs-and-The-Impact-for-Defenders--Ben-Harris-e3qrvu0"
+  },
+  {
     "id": "when-hackers-meet-policymakers-or-beau-woods",
     "podcastId": "decipher-security-podcast",
     "title": "When Hackers Meet Policymakers | Beau Woods",

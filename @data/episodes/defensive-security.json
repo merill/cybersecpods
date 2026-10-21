@@ -1,5 +1,22 @@
 [
   {
+    "id": "defensive-security-podcast-episode-361",
+    "podcastId": "defensive-security",
+    "title": "Defensive Security Podcast Episode 361",
+    "description": "<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"Defensive Security Podcast Episode 361\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/iAoTSdnXOzA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p>Please consider supporting the DefSec podcast <a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n<p>Links:</p>\n<p>1. ShinyHunters breaks into Clop’s leak site and starts extorting the extortionists<br />https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims</p>\n<p>2. CrowdSec kept a leaver’s GitHub access open and lost 170 private repositories<br />https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html</p>\n<p>3. Anthropic’s Glasswing found 225 CVEs, and attackers have exploited exactly one<br />https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018</p>\n<p>4. One infected laptop at a meter vendor held logins for 167 utility tenants<br />https://cyberscoop.com/spycloud-study-water-utilities-infostealer-exposure/</p>\n<p>5. A fake LastPass installer kills 145 security products with a Microsoft-signed driver<br />https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html</p>\n<p>6. Australia says an OpenAI agent hacked a Medicare portal whose own code let it in<br />https://therecord.media/openai-australia-breach-cyber</p>\n<p>7. CISA wants decoys back in your network to catch attackers who log in normally<br />https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals</p>",
+    "publishedAt": "2026-10-21T19:10:24.000Z",
+    "duration": 2024,
+    "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/Defensive_Security_Podcast_Episode_361.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://defensivesecurity.org/defensive-security-podcast-episode-361/"
+  },
+  {
     "id": "defensive-security-podcast-episode-360",
     "podcastId": "defensive-security",
     "title": "Defensive Security Podcast Episode 360",
@@ -37,7 +54,7 @@
     "id": "defensive-security-podcast-episode-358",
     "podcastId": "defensive-security",
     "title": "Defensive Security Podcast Episode 358",
-    "description": "<p class=\"wp-block-paragraph\">Please consider supporting the DefSec podcast&nbsp;<a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe title=\"Defensive Security Podcast Episode 358\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/CG_GqKthhWQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Stories:</p>\n\n\n\n<p>Weak IAM affects up to 98% of cloud environments<br><a href=\"https://www.helpnetsecurity.com/2026/08/14/intruder-cloud-misconfiguration-trends-report/\">https://www.helpnetsecurity.com/2026/08/14/intruder-cloud-misconfiguration-trends-report/</a><br>China-Linked Storm-1175 Debuts New StormEncryptor Ransomware via N-central Flaw<br><a href=\"https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html\">https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html</a><br>‘City-Forum’ Campaign Quietly Mines Salesforce/ServiceNow Guest Access Since March 2025<br><a href=\"https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow\">https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow</a><br>LiteLLM ‘Supply Chain Attack’ Was Mostly Fallout From Trivy Compromise Days Earlier<br><a href=\"https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/\">https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/</a><br>ChainDrop Worm Spreads Through npm, Slips Past Standard Security Tooling<br><a href=\"https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958\">https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958</a></p>",
+    "description": "<p class=\"wp-block-paragraph\">Please consider supporting the DefSec podcast&nbsp;<a href=\"http://patreon.com/defensivesec\">here</a>.</p>\n\n\n\n<figure class=\"wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<iframe loading=\"lazy\" title=\"Defensive Security Podcast Episode 358\" width=\"840\" height=\"473\" src=\"https://www.youtube.com/embed/CG_GqKthhWQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n</div></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Stories:</p>\n\n\n\n<p>Weak IAM affects up to 98% of cloud environments<br><a href=\"https://www.helpnetsecurity.com/2026/08/14/intruder-cloud-misconfiguration-trends-report/\">https://www.helpnetsecurity.com/2026/08/14/intruder-cloud-misconfiguration-trends-report/</a><br>China-Linked Storm-1175 Debuts New StormEncryptor Ransomware via N-central Flaw<br><a href=\"https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html\">https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html</a><br>‘City-Forum’ Campaign Quietly Mines Salesforce/ServiceNow Guest Access Since March 2025<br><a href=\"https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow\">https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow</a><br>LiteLLM ‘Supply Chain Attack’ Was Mostly Fallout From Trivy Compromise Days Earlier<br><a href=\"https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/\">https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/</a><br>ChainDrop Worm Spreads Through npm, Slips Past Standard Security Tooling<br><a href=\"https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958\">https://www.theregister.com/security/2026/08/15/chaindrop-worm-crawls-into-npm-supply-chain-evades-standard-defenses/5287958</a></p>",
     "publishedAt": "2026-09-29T19:24:25.000Z",
     "duration": 1866,
     "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/Defensive_Security_Podcast_Episode_358.mp3",
@@ -3381,22 +3398,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://defensivesecurity.org/defensive-security-podcast-episode-161/"
-  },
-  {
-    "id": "defensive-security-podcast-episode-160",
-    "podcastId": "defensive-security",
-    "title": "Defensive Security Podcast Episode 160",
-    "description": "http://www.bankinfosecurity.com/researcher-hacks-symantecs-av-via-email-a-9109\n\nhttp://www.v3.co.uk/v3-uk/news/2457773/hackers-exploiting-six-year-old-sap-software-flaw-warns-us-cert\n\nhttp://arstechnica.com/security/2016/05/1b-bangladesh-heist-officials-say-swift-technicians-left-bank-vulnerable/\n\nhttp://www.csoonline.com/article/3069502/data-breach/malware-attacks-on-two-banks-have-links-with-2014-sony-pictures-hack.html\n\nhttps://www.surveymonkey.com/r/secbloggerwards2016",
-    "publishedAt": "2016-05-18T23:53:33.000Z",
-    "duration": 3520,
-    "audioUrl": "https://media.blubrry.com/1463551/content.blubrry.com/1463551/defensive-security-podcast-episode-160.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://defensivesecurity.org/defensive-security-podcast-episode-160/"
   }
 ]
