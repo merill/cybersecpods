@@ -1,5 +1,22 @@
 [
   {
+    "id": "hardening-your-environment-from-segmentation-to-ai-kill-switches",
+    "podcastId": "talos-takes",
+    "title": "Hardening your environment: From segmentation to AI kill switches",
+    "description": "<p>Network segmentation is a fundamental security practice, yet many organizations struggle to move past the conceptual stage. Craig Jackson from Talos IR joins Amy to explain how to build a segmentation strategy that serves both as a preventative barrier and a functional tool for incident response.</p><p>We also cover the rising industry interest in AI kill switches, looking at how security teams can plan to stop erratic AI applications or AI-augmented malware before they cause widespread operational damage.</p><p>The Fine Art of Frustrating the Adversary: <a href='https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/'>https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/</a></p>",
+    "publishedAt": "2026-10-21T08:00:00.000Z",
+    "duration": 1244,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/19968188-hardening-your-environment-from-segmentation-to-ai-kill-switches.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "honey-i-trapped-the-adversary",
     "podcastId": "talos-takes",
     "title": "Honey, I Trapped the Adversary",
