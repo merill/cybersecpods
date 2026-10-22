@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-october-22nd-2026-critical-php-rce-vulnerabilities-explo",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, October 22nd, 2026: Critical PHP RCE Vulnerabilities Exploited (CVE-2026-109618, CVE-2026-109619); Fortinet AI-Driven Security Hardening Release for FortiOS and More",
+    "description": "<br/>\nThis episode covers the critical PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619, which are already being exploited and moved the Internet Storm Center to Infocon yellow, and a Fortinet security hardening release for multiple products based on an AI-assisted security review.<br/>\nCritical PHP Vulnerabilities (CVE-2026-109618, CVE-2026-109619) Exploited; Infocon Yellow<br/>\nTwo vulnerabilities in the PHP core, an out-of-memory issue triggered by multipart MIME uploads and a memory-clearing flaw exploited with a second request, can lead to remote code execution and can be chained; exploitation is already underway, and your application code, authentication, and configuration will not protect you. Updates are available for PHP 8 but not for PHP 7 or PHP 5, and vendors such as Cisco, Palo Alto Networks, OPNsense, and pfSense have published advisories or updates for their appliances. If you cannot patch, consider web application firewall (WAF) rules that block multipart MIME uploads or temporarily taking the site offline, and assume compromise for public sites without mitigations.<br/>\n<a href=\"https://www.dshield.org/diary.html/Critical+PHP+Vulnerability+%28CVE-2026-109618%2C+CVE-2026-109619%29+%5Binfocon+yellow%5D/33440/#comment\">https://www.dshield.org/diary.html/Critical+PHP+Vulnerability+%28CVE-2026-109618%2C+CVE-2026-109619%29+%5Binfocon+yellow%5D/33440/#comment</a><br/>\nFortinet Security Hardening Release for Multiple Products<br/>\nFortinet announced updates across several products after a security review using AI tools, crediting a number of AI vendors but naming no CVEs and providing few details. The release covers FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator, and Fortinet customers should review it and update.<br/>\n<a href=\"https://www.fortinet.com/blog/ciso-collective/fortinet-releases-security-hardening-release-for-multiple-products\">https://www.fortinet.com/blog/ciso-collective/fortinet-releases-security-hardening-release-for-multiple-products</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-22T02:00:02.000Z",
+    "duration": 799,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10146.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10146,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10146"
+  },
+  {
     "id": "sans-stormcast-wednesday-october-21st-2026-emudhra-intermediate-ca-certificates-",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, October 21st, 2026: eMudhra Intermediate CA Certificates Revoked; Critical PHP Security Release; Oracle CPU E-Business Suite SQLi (CVE-2026-101767); FortiSIEM gRPC RCE PoC",
