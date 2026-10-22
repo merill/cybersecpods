@@ -1,5 +1,22 @@
 [
   {
+    "id": "php-emergency-patches-compromised-tls-certificates-signal-hot-mic-bug",
+    "podcastId": "cyber-security-headlines",
+    "title": "PHP emergency patches, compromised TLS certificates, Signal hot mic bug",
+    "description": "<p>PHP rushes out emergency fixes for PHP2Shell <a href= \"https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/\"> https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/</a> <a href= \"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\"> https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</a></p> <p>Compromised certificates trigger internet cleanup <a href= \"https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/\"> https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/</a></p> <p>Signal calls could stay live after you hang up <a href= \"https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528\"> https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528</a></p> <p>OpenAI agents disable safeguards during coding tasks <a href= \"https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems\"> https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</a></p> <p>Plex2Shell attacks hit media servers <a href= \"https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/\"> https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</a></p> <p>Poisoned LiteLLM update steals secrets & adds a backdoor <a href= \"https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548\"> https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548</a></p> <p>Meta faces a big Cambridge Analytica penalty <a href= \"https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html\"> https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html</a></p> <p>Chrome adds ClickFix warnings and checks insecure connections <a href= \"https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/\"> https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/</a></p> <p>Get the show notes here: <a href= \"https://cisoseries.com/cybersecurity-news-october-22-2026/\">https://cisoseries.com/cybersecurity-news-october-22-2026/</a></p> <p>Huge thanks to our episode sponsor, ThreatLocker</p> <p><a href=\"https://threatlocker.com/ciso\"></a></p> <p><em>AI is compressing the timeline between initial access and impact. That leaves security teams less time to identify, investigate, and contain malicious activity. Faster response helps, but prevention can remove actions from the attack chain entirely. Give your responders a more controlled environment. Book a ThreatLocker demo at <a href= \"http://threatlocker.com/ciso\">threatlocker.com/ciso</a>.</em></p>",
+    "publishedAt": "2026-10-22T07:00:00.000Z",
+    "duration": 431,
+    "audioUrl": "https://traffic.libsyn.com/secure/cisoseries/CSH_2026-10-22.mp3?dest-id=2260670",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/e/7/6/2/e762a34d4fa6fd135f2e77a3093c12a1/CSH_2026-10-22.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://cisoseries.libsyn.com/php-emergency-patches-compromised-tls-certificates-signal-hot-mic-bug"
+  },
+  {
     "id": "naval-hack-muse-exposes-secrets-army-researching-offensive-ai-hacking",
     "podcastId": "cyber-security-headlines",
     "title": "Naval hack, Muse exposes secrets, Army researching offensive AI hacking",
