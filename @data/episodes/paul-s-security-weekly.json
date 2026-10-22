@@ -1,5 +1,22 @@
 [
   {
+    "id": "php2hell-joshua-wright-psw-949",
+    "podcastId": "paul-s-security-weekly",
+    "title": "PHP2Hell - Joshua Wright - PSW #949",
+    "description": "<p>Special guest Joshua Wright joins us for a timely incident-response discussion!</p> <p>Then, in the security news this week:</p> <ul> <li>Have you heard about PHP2Shell?</li> <li>Certificates with keys small enough to guess</li> <li>Tor exit nodes turn into SSH credential traps</li> <li>Do USB-C cables need firmware updates now?</li> <li>HaleHound packs a radio lab into a cheap display</li> <li>Claude solves part of the NIST curve mystery</li> <li>The Army and self-directed offensive cyber agents</li> <li>Retired nuclear reactors return to power AI</li> <li>PatchSlop</li> <li>NGINX, NODE.js patches critical flaws</li> <li>BeyondTrust exploited before the patch landed</li> <li>Plex vulnerabilities move from PoC to exploitation</li> <li>ICS patches, including a Siemens flaw exploited in the wild</li> <li>Can fake data trigger Japan's emergency alert?</li> <li>Agentic pentests?</li> <li>AI may add noise more than skill</li> <li>AI agents navigate OT and move equipment</li> <li>AI model helps build a Chrome exploit</li> <li>Utah's VPN law runs into technical reality</li> </ul> <p>Segment Resources:</p> <p><a rel=\"noopener\" target=\"_blank\" href= \"https://dynamicincidentresponse.com/\">https://dynamicincidentresponse.com/</a> - A New Era for Incident Response!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/psw\">https://www.securityweekly.com/psw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/psw-949\">https://securityweekly.com/psw-949</a></p>",
+    "publishedAt": "2026-10-22T21:00:00.000Z",
+    "duration": 7759,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/pswonly/PSW_949_1--fe10eef8-3dc3-4c2a-ade7-bc92db7f58fb--audio-converted--efe53f5d-a092-424a-bf3f-e9a3e62bcb05.mp3?dest-id=388575",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/5/b/a/8/5ba8968fe067e42ea04421dee9605cbd/PSW_949_Thumbnail_PSW_1920x1920_31af19d5-be74-45c9-9178-05f8e029a57e.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://pswonly.libsyn.com/php2hell-joshua-wright-psw-949"
+  },
+  {
     "id": "ai-takes-over-danny-akacki-psw-948",
     "podcastId": "paul-s-security-weekly",
     "title": "AI Takes Over? - Danny Akacki - PSW #948",
