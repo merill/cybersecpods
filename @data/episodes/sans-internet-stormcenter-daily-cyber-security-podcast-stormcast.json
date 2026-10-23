@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-october-23rd-2026-php2shell-exploitation-update-signal-cal",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, October 23rd, 2026: PHP2Shell Exploitation Update; Signal Call Hang-Up Flaw (CVE-2026-113380); Cisco Snort 3 Critical Vulnerabilities; Linux KSMBD RCE Reports Leaked",
+    "description": "<br/>\nToday's episode covers an update on the PHP2Shell vulnerabilities, a Signal flaw that kept calls alive after hang-up, critical Cisco Snort 3 vulnerabilities, and Linux kernel KSMBD vulnerability reports that were accidentally posted to a public mailing list.<br/>\nPHP Vulnerability Update<br/>\nPatches for the PHP remote code execution (RCE) vulnerabilities are now available from many vendors, with notable exceptions such as QNAP. Cloudflare reports a lot of exploit activity, and Amazon saw exploit attempts before public disclosure, but no simple, reliable exploit has surfaced yet. Beware of fake exploits that may attack the person running them.<br/>\n<a href=\"https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/\">https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/</a><br/>\nSignal: Flooded Call Event Queue Blocks Local Hang-Up (CVE-2026-113380)<br/>\nDuring a call, the other side could flood a Signal client with events and prevent it from hanging up, leaving the connection active so an attacker could keep listening through the microphone. The flaw has been patched; keep Signal updated automatically.<br/>\n<a href=\"https://github.com/Imahian/Notes/tree/main/docs/CVEs/CVE-2026-113380\">https://github.com/Imahian/Notes/tree/main/docs/CVEs/CVE-2026-113380</a><br/>\nCisco Snort 3 Critical Vulnerabilities<br/>\nCisco patched critical Snort 3 vulnerabilities with a base CVSS (Common Vulnerability Scoring System) score of 9.0. The four CVEs group multiple AI-discovered vulnerabilities by shared CWE (Common Weakness Enumeration), making the individual flaws less transparent. Snort is also included in several Cisco appliances.<br/>\n<a href=\"https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-snort3-ybgmhTQe\">https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-hardening-snort3-ybgmhTQe</a><br/>\nLinux Kernel KSMBD Vulnerability Reports Leaked<br/>\nTrend Micro's Zero Day Initiative accidentally posted unpatched Linux kernel vulnerability reports to a public kernel mailing list, including CVSS 9 remote code execution flaws in the kernel's built-in SMB file sharing server (KSMBD). No patches are available yet, and proof-of-concept exploit code was included in some reports.<br/>\n<a href=\"https://lore.kernel.org/lkml/BYAPR01MB383076AC412E19C48CFBEAE980662@BYAPR01MB3830.prod.exchangelabs.com/\">https://lore.kernel.org/lkml/BYAPR01MB383076AC412E19C48CFBEAE980662@BYAPR01MB3830.prod.exchangelabs.com/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-23T10:25:11.000Z",
+    "duration": 459,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10148.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10148,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10148"
+  },
+  {
     "id": "sans-stormcast-thursday-october-22nd-2026-critical-php-rce-vulnerabilities-explo",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, October 22nd, 2026: Critical PHP RCE Vulnerabilities Exploited (CVE-2026-109618, CVE-2026-109619); Fortinet AI-Driven Security Hardening Release for FortiOS and More",
