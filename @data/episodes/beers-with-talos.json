@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-guy-who-invented-pain",
+    "podcastId": "beers-with-talos",
+    "title": "The Guy Who Invented Pain",
+    "description": "<p>David Bianco built the Pyramid of Pain, so we offered him some more. David joins the crew for a conversation how AI changes about his famous model, how EvidenceForge creates simulated incidents for research and training, and why his red-team entrance exam didn’t go to plan. </p><p>First, we discuss the newly disclosed PHP vulnerabilities and the potential impact there (we recorded this on day 1 of the disclosure, hence expediting the release of this episode from its normal release schedule). Later, David’s decades of experience are put to work helping Hazel hack a fictional smart toilet company. </p><p>Here's the Talos advisory about the PHP vulnerabilities <a href='https://blog.talosintelligence.com/two-critical-rces-in-php-core/'>https://blog.talosintelligence.com/two-critical-rces-in-php-core/</a></p>",
+    "publishedAt": "2026-10-23T15:00:00.000Z",
+    "duration": 4016,
+    "audioUrl": "https://www.buzzsprout.com/2033817/episodes/20009436-the-guy-who-invented-pain.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "youve-got-to-lurk-before-you-smirk",
     "podcastId": "beers-with-talos",
     "title": "You've Got to Lurk Before you Smirk",

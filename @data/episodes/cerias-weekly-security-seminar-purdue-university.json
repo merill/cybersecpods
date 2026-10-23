@@ -1,5 +1,22 @@
 [
   {
+    "id": "johngabriel-nguyen-truong-the-way-we-travel-the-world-is-at-risk-gps-origins-rec",
+    "podcastId": "cerias-weekly-security-seminar-purdue-university",
+    "title": "JohnGabriel Nguyen-Truong, The Way We Travel the World Is at Risk: GPS Origins, Recent Disruptions, and Alternative Paths to Resilient Positioning",
+    "description": "<p>GPS was formally approved as a U.S. Department of Defense program in December 1973 and developed as a military system for precise three-dimensional positioning, navigation, and timing—driven in large part by requirements for accurate munitions and missile guidance. The first developmental satellite launched in 1978; the system reached full operational capability in 1995. Civilian access was authorized beginning in the 1980s and later expanded widely into aviation, maritime shipping, and consumer devices. Its radio-frequency signals in the L-band enable global positioning through time-of-flight ranging, yet the same open, relatively weak signals that made GPS ubiquitous have become a systemic vulnerability. Recent incidents illustrate the stakes: a man jamming the Denver International Airport in January 2022 disrupted GPS over a roughly 50-nautical-mile radius for about 33 hours, affecting aircraft and other critical infrastructure; GPS jamming contributed to the 2024 Azerbaijan Airlines crash (38 fatalities) after loss of navigational aids near Grozny; AIS anomalies linked to GPS interference preceded the 2025 Front Eagle–Adalynn tanker collision near the Strait of Hormuz; and widespread jamming in Ukraine has driven the rapid adoption of fiber-optic-controlled drones. Mitigation efforts range from stronger LEO signals (Xona Space Systems' Pulsar) to physical tethers that bypass radio entirely, multi-modal feature fusion architectures that incorporate optical flow and geo-registration (such as Northrop Grumman's ANAGDA), and inertial/photonic systems. This talk examines these approaches as partial mitigations of a radio-based paradigm and contrasts them with fundamentally different sensing modalities—such as visual and topological fingerprinting of environmental features developed by Xphera—that reframe the positioning problem itself. Ultimately, this illustrates a broader cybersecurity lesson: every technology has inherent weaknesses, and it is common to develop tunnel vision focused solely on mitigating the risks of the original solution. Sometimes the most effective path forward is to return to identify the problem at a foundational level and apply different technologies to achieve the same outcomes. About the speaker: JohnGabriel is a Saint Louis University alumnus with a bachelor's degree in Forensic Science. Growing up and helping his Vietnamese refugee parents navigate new cities and airports, he pivoted to his passion in spatial navigation and founded Xphera in 2021. At Xphera, he spearheaded partnerships with airports and local government and managed LiDAR surveys at international airports ranging from 20K to 1M+ square feet. Xphera's offline Visual GPS/AltPNT system xEarth restores positioning and navigation in GPS-denied environments at ±15 cm accuracy using computer vision, LiDAR, and terrain maps. The system is currently deployed at the Indianapolis International Airport (IND) to enable spatial positioning in GPS-denied, TSA-secure zones. xEarth offers a resilient, offline ground layer that closes the most critical gap in the United States' multi-source PNT strategy. JohnGabriel is a Forbes 30 Under 30 lister, and his work with GPS and navigation has been featured by the European Business Review.</p>",
+    "publishedAt": "2026-10-21T20:30:00.000Z",
+    "duration": 2908,
+    "audioUrl": null,
+    "videoUrl": "https://www.cerias.purdue.edu/assets/video/secsem/secsem_20261021.mp4",
+    "imageUrl": "https://www.cerias.purdue.edu/news_and_events/events/security_seminar/images/JohnGabriel_Nguyen-Truong_300x300.png",
+    "episodeNumber": 926,
+    "seasonNumber": 32,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "sandhya-aneja-from-data-to-decisions-ai-powered-optimization-in-modern-communica",
     "podcastId": "cerias-weekly-security-seminar-purdue-university",
     "title": "Sandhya Aneja, From Data to Decisions: AI-Powered Optimization in Modern Communication Networks",
