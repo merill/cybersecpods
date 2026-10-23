@@ -1,5 +1,22 @@
 [
   {
+    "id": "php2shell-and-a-big-ca-compromise",
+    "podcastId": "decipher-security-podcast",
+    "title": "PHP2Shell and a Big CA Compromise",
+    "description": "<p>This week was a tale of two stories: the PHP2Shell vulnerabilities and the compromise of several certificates issued by CA eMudhra in India. <br><strong>Timestamps</strong><a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0\">00:00</a> — A wild week in security news<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=170s\">02:50</a> — PHP vulnerabilities and the disclosure drama<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=487s&pp=0gcJCWMAwfN6Pr3D\">08:07</a> — Why coordinating an embargo is so difficult<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=602s\">10:02</a> — Preparing for the PHP patches<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=689s\">11:29</a> — The PHP bugs make national headlines<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=824s&pp=0gcJCWMAwfN6Pr3D\">13:44</a> — Inside the researchers’ PHP vulnerability analysis<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=956s\">15:56</a> — Exploit risk, patching, and the long tail<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=1086s\">18:06</a> — Cloudflare’s mitigation and the response so far<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=1304s\">21:44</a> — Compromised certificate authority keys<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=1417s\">23:37</a> — Revoking certificates and restoring trust<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=1507s\">25:07</a> — The hidden infrastructure behind internet security<a href=\"https://www.youtube.com/watch?v=SZVcFoxQqb0&t=1691s\">28:11</a> — “We have a problem here” — shout-out to Wayne29:22 — What’s coming next</p>",
+    "publishedAt": "2026-10-23T11:29:00.000Z",
+    "duration": 1759,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/127948242/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2F434811545-44100-2-64595b347c092.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/PHP2Shell-and-a-Big-CA-Compromise-e3qv60i"
+  },
+  {
     "id": "php2shell-bugs-and-the-impact-for-defenders-or-ben-harris",
     "podcastId": "decipher-security-podcast",
     "title": "PHP2Shell Bugs and The Impact for Defenders | Ben Harris",
