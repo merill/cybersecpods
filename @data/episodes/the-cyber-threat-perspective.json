@@ -1,5 +1,22 @@
 [
   {
+    "id": "owasp-top-10-part-6-insecure-design-and-business-logic-flaws-explained-or-ep-200",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "OWASP Top 10 Part 6: Insecure Design and Business Logic Flaws Explained | Ep 200",
+    "description": "<p>200 episodes! Thank you to everyone who has listened, watched, and shared The Cyber Threat Perspective along the way. To mark the milestone, Brad Causey and Jordan Natter are back with Part 6 of our OWASP Top 10 series, breaking down A06: Insecure Design. These flaws show up when an application does exactly what it was designed to do, but nobody stopped to ask how that functionality could be abused. Brad and Jordan walk through what insecure design looks like in practice, share real-world war stories from pen tests and beyond, and explain how to catch these flaws before they ever reach production.</p><p>In this episode:</p><ul><li>Why insecure design fell from #4 to #6 in the OWASP Top 10, and why that isn’t good news</li><li>Rate limiting, user enumeration, and why secret questions are a no go</li><li>How a teenager’s AOL trial CD experiment turned into a career</li><li>Abusing rewards programs, group bookings, and first-purchase coupons</li><li>Taking over insurance accounts using publicly available census data</li><li>Prevention through misuse cases, threat modeling, and DevSecOps</li><li>Why a flaw caught in the design phase costs a fraction of one found in a pen test</li></ul><p>Need web app pen testing? Visit <a href='https://securit360.com'>https://securit360.com</a></p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a><br/>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-10-23T19:00:00.000Z",
+    "duration": 2436,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/20010087-owasp-top-10-part-6-insecure-design-and-business-logic-flaws-explained-ep-200.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 200,
+    "seasonNumber": 1,
+    "explicit": true,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "owasp-top-10-part-5-injection-attacks-and-real-pen-test-war-stories-or-ep-199",
     "podcastId": "the-cyber-threat-perspective",
     "title": "OWASP Top 10 Part 5: Injection Attacks and Real Pen Test War Stories | Ep 199",
