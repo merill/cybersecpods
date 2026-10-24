@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-middlemen-of-cyber-espionage-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "The middlemen of cyber espionage. [Research Saturday]",
+    "description": "<p>Today we have <a href=\"https://www.linkedin.com/in/damonrouse/\">Damon Rouse</a>, Threat Intelligence from <a href=\"https://www.lumen.com/en-us/home.html\">Lumen</a>'s Black Lotus Labs, discussing their work on \"The infrastructure quartermaster: inside a China-nexus state enablement model.\" Black Lotus Labs identified a China-nexus cyber infrastructure provider, dubbed a “quartermaster,” that supplies reconnaissance, proxy routing, and obfuscation services to Chinese cyber espionage actors. </p>\n<p>Its interconnected systems, including QScan and Fast Labyrinth, help identify high-value targets, conceal malicious traffic, and support potential exploitation of government, military, research, and critical infrastructure networks. Researchers warn that this shared infrastructure makes traditional IP-based defenses less effective and recommend following CISA and NCSC guidance, reducing external attack surfaces, and keeping routers, firewalls, and IoT devices updated.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.lumen.com/blog/en-us/the-infrastructure-quartermaster-inside-a-china-nexus-state-enablement-model\">The infrastructure quartermaster: inside a China-nexus state enablement model</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-10-24T07:00:00.000Z",
+    "duration": 1720,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW7244913411.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/7490c850-cf06-11f1-a58e-8faae2db0338/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 447,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/447/notes"
+  },
+  {
     "id": "the-apps-are-only-the-beginning",
     "podcastId": "cyberwire-daily",
     "title": "The apps are only the beginning.",
