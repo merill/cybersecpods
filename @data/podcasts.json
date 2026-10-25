@@ -4212,23 +4212,7 @@
         "ratingCount": 16,
         "fetchedAt": "2026-10-25T11:10:01.110Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent",
-        "content": "Great analysis really, very thoughtful",
-        "author": "SecEnthused",
-        "updatedAt": "2026-08-04T16:30:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -4431,7 +4415,7 @@
     "firstEpisodeDate": "2021-07-26T23:00:00.000Z",
     "episodeCount": 67,
     "hasVideo": false,
-    "isActive": true,
+    "isActive": false,
     "featured": false,
     "ratings": {
       "apple": {
