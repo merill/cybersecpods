@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-should-your-threat-hunt-become-a-detection",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: Should your threat hunt become a detection?",
+    "description": "<p>In this Risky Business sponsored interview James Wilson chats to Nebulock’s Head of Detection Strategy Alex Hurtado about the company’s threat hunting evaluation framework, GATES.</p>\n\n<p>The pair talk through the five steps of Nebulock’s new acronym, and how they help remove gut feelings and guesswork when asking the question: “Should this threat hunt find be promoted to a detection rule”?</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://nebulock.io/blog/the-gates-method-when-a-hunt-becomes-a-detection\">The GATES Method: when a hunt becomes a detection</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-10-25T19:14:25.000Z",
+    "duration": 1134,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI148a.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI148a/"
+  },
+  {
     "id": "risky-bulletin-supply-chain-attack-lets-ransomware-group-inside-40-shipping-comp",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Supply chain attack lets ransomware group inside 40 shipping companies",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS576/"
-  },
-  {
-    "id": "sponsored-understanding-cicd-attack-paths",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Understanding CI/CD attack paths",
-    "description": "<p>In this sponsored episode, James Wilson chats with SpecterOps CTO Jared Atkinson about the central role that GitHub has played in recent supply chain compromises. GitHub is where code gets built, tested, and shipped to devices, cloud, and on-prem environments. Understanding the paths an attacker can use to get into GitHub, and where they can pivot to from there, is essential to securing your GitHub repos and CI/CD pipelines.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-06-12T04:28:07.000Z",
-    "duration": 948,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI131.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI131/"
   }
 ]
