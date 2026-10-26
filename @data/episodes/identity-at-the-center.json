@@ -1,5 +1,22 @@
 [
   {
+    "id": "456-ai-vs-reality-with-joseph-carson",
+    "podcastId": "identity-at-the-center",
+    "title": "#456 - AI vs Reality with Joseph Carson",
+    "description": "<p>Recorded live from the expo hall at InfoSec World 2026, Jeff and Jim welcome back Joseph Carson, host of the Security by Default podcast, for his third appearance on the show. Joseph explains how his thinking has moved from \"AI vs AI\" to \"AI vs reality\" after talking with CISOs at roughly 40 events this year, including stories of agents breaking into systems they were never meant to touch and a CFO vibe coding a family scheduler on a corporate laptop. He walks through his three-tier framework for agent risk (task, operational, and legally binding agents), makes the case that agents need identifiers and audit trails rather than human-style treatment, and describes Identity Under Attack, a Dungeons and Dragons style tabletop exercise he ran at NATO CyCon with identity coins, chaos cards, and dice. The conversation also covers why identity resiliency keeps landing last on the shopping list, what Locked Shields teaches about communication and identity strategy, a sobering prediction for 2027, and what identity practitioners can do today with ephemeral, auditable access. The episode closes with a podcaster gear chat and the difference between AI slop and AI enabled work.</p><p><br></p><p><br></p><p>Connect with Joe: https://www.linkedin.com/in/josephcarson/</p><p><br></p><p>Security by Default podcast: https://www.youtube.com/@SecuritybyDefaultPodcast</p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p><br></p><p>Visit the show on the web at http://idacpodcast.com00:00 Intro from InfoSec World 2026 and Jeff's broken finger</p><p>02:33 Welcome back Joseph Carson</p><p>03:18 From AI vs AI to AI vs reality</p><p>05:02 CISO stories: rogue agents and the vibe-coding CFO</p><p>06:46 The rise of consumer agents</p><p>07:50 A three-tier framework for agent risk</p><p>10:52 Onboarding digital workers with a code of conduct</p><p>12:39 Identities or identifiers? Estonia's agent identity debate</p><p>15:34 Identity Under Attack: a Dungeons and Dragons style tabletop exercise</p><p>22:32 Bringing the exercise to conferences</p><p>24:49 What surprised Joseph: collaboration across roles</p><p>26:52 Common choices and why MFA comes first</p><p>28:16 Designing a budget that forces hard choices</p><p>29:29 Identity resiliency as an afterthought</p><p>31:24 AI as the Mario Kart mushroom</p><p>32:53 Lessons from NATO Locked Shields</p><p>35:49 Supply chain and third-party risk</p><p>37:18 Predictions for 2027</p><p>38:59 What identity practitioners can do now</p><p>40:23 Vibe coding and governance at AI speed</p><p>42:04 Podcast gear and AI-assisted production</p><p>48:02 AI slop vs AI enabled</p><p>52:17 About the Security by Default podcast</p><p>53:45 Wrap-up</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Joseph Carson, Security by Default, InfoSec World 2026, Cyber Risk Alliance, agentic AI, AI agents, non-human identity, agent identity, digital workers, AI governance, vibe coding, tabletop exercise, Identity Under Attack, gamification, NATO CyCon, Locked Shields, MITRE ATT&CK, incident response, identity resiliency, MFA, privileged access, just-in-time access, ephemeral access, least privilege, supply chain risk, third-party risk, AI slop, podcasting</p><p><br></p>",
+    "publishedAt": "2026-10-26T09:00:00.000Z",
+    "duration": 3311,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/127477334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2Ff3c42692-92bc-a951-659f-f4292ad38de0.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 456,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/456---AI-vs-Reality-with-Joseph-Carson-e3qgq4m"
+  },
+  {
     "id": "455-cnapp-and-the-cloud-identity-problem-with-mike-small",
     "podcastId": "identity-at-the-center",
     "title": "#455 - CNAPP and the Cloud Identity Problem with Mike Small",
