@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-october-26th-2026-php2shell-exploit-reliability-nodejs-bro",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, October 26th, 2026: PHP2Shell Exploit Reliability; Node.js Brotli Decoder RCE (CVE-2026-111497); Tailscale \"Tailworm\" Vulnerabilities; HPE ArubaOS 8/10 Patches 72 Flaws",
+    "description": "<br/>\nIn this episode: why a reliable PHP2Shell exploit is still hard to build, a Node.js Brotli decoder remote code execution flaw, publicly disclosed Tailscale mesh VPN vulnerabilities, and an HPE update fixing 72 vulnerabilities in ArubaOS 8 and 10.<br/>\nReliable PHP2Shell Exploitability<br/>\nBojan Zdrnja found that building a reliable, universal exploit for the PHP2Shell vulnerabilities is difficult: address space layout randomization (ASLR) requires a second leak to find the base address, a larger PHP memory limit makes exploitation harder, and the offsets depend on the exact PHP version and Linux distribution. Targeted exploitation has been reported, so finish patching and keep session.upload_progress.enabled set to 0 even after applying the update.<br/>\n<a href=\"https://isc.sans.edu/diary/%28Reliable%29%3F%20php2shell%20exploitability/33452\">https://isc.sans.edu/diary/%28Reliable%29%3F%20php2shell%20exploitability/33452</a><br/>\nNode.js Brotli Decoder Out-of-Bounds Write (CVE-2026-111497)<br/>\nThe Node.js October 2026 security releases fix several vulnerabilities, including an out-of-bounds write in the bundled Brotli compression library's decoder that permits remote code execution when an application decompresses attacker-supplied data. OpenAI Codex Security is credited with the discovery; watch for Brotli decoder fixes in other products that use the library.<br/>\n<a href=\"https://nodejs.org/en/blog/vulnerability/october-2026-security-releases\">https://nodejs.org/en/blog/vulnerability/october-2026-security-releases</a><br/>\nTailscale \"Tailworm\" Vulnerabilities<br/>\nResearchers made a set of vulnerabilities in the Tailscale mesh VPN public without coordinated disclosure. Exploitation requires access to the tailnet, but critical issues bypass Tailscale's trust model, for example by letting an attacker join their own systems to your tailnet; watch for Tailscale updates.<br/>\n<a href=\"https://tailworm.com/\">https://tailworm.com/</a><br/>\nHPE Aruba Networking Update for ArubaOS 8 and 10 (AOS-8/AOS-10)<br/>\nHewlett Packard Enterprise (HPE) bulletin HPESBNW05162 fixes 72 vulnerabilities in the ArubaOS 8 and 10 wireless operating systems, eight of which allow unauthenticated remote code execution. Apply the update; expect more large updates like this as vendors use AI tools to find vulnerabilities.<br/>\n<a href=\"https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US\">https://support.hpe.com/hpesc/public/docDisplay?docId=hpesbnw05162en_us&docLocale=en_US</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-26T03:30:11.000Z",
+    "duration": 465,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10150.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10150,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10150"
+  },
+  {
     "id": "sans-stormcast-friday-october-23rd-2026-php2shell-exploitation-update-signal-cal",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, October 23rd, 2026: PHP2Shell Exploitation Update; Signal Call Hang-Up Flaw (CVE-2026-113380); Cisco Snort 3 Critical Vulnerabilities; Linux KSMBD RCE Reports Leaked",

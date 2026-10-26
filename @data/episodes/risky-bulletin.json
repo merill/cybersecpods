@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-brotli-rce-is-wrecking-whats-left-of-the-internet",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Brotli RCE is wrecking what's left of the internet",
+    "description": "<p>While everyone was distracted by PHP, another RCE has been wrecking the internet, Australia’s ABC wipes some staff devices, a third PHP RCE is incoming and researchers discover a new DDoS attack vector in HTTP/3.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-while-everyone-was-looking-at-php-another-rce-is-wrecking-whats-left-of-the-internet/\">Risky Bulletin: While everyone was looking at PHP, another RCE is wrecking what's left of the internet</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-10-26T01:20:43.000Z",
+    "duration": 470,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS625.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS625/"
+  },
+  {
     "id": "sponsored-should-your-threat-hunt-become-a-detection",
     "podcastId": "risky-bulletin",
     "title": "Sponsored: Should your threat hunt become a detection?",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWSSI132/"
-  },
-  {
-    "id": "risky-bulletin-cisa-tightens-patching-rules-amid-bug-deluge",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: CISA tightens patching rules amid bug deluge",
-    "description": "<p>CISA changes federal patching rules due to AI, a House Republican was hacked by Russia, ShinyHunters go on an Oracle hacking spree, and npm will block auto-run install scripts by default.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-in-the-age-of-ai-cisa-changes-federal-patching-rules/\">Risky Bulletin: In the age of AI, CISA changes federal patching rules</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-06-12T04:49:28.000Z",
-    "duration": 589,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS576.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS576/"
   }
 ]
