@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-why-frontier-lab-security-will-always-suck",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: Why frontier lab security will always suck",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about security culture. The PHP foundation seems to have had a change of heart about security, but what are the chances that OpenAI or other frontier AI labs will start to take it seriously?</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/Sz5NG2j5XEA\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today's PHP Security Release, and How We're Strengthening PHP Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.zdnet.com/article/flaw-trifecta-kicks-off-month-of-php-bugs/\">Stefan Esser's month of PHP bugs</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://en.wikipedia.org/wiki/Andon_(manufacturing)\">Andon cord</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-10-26T19:51:21.000Z",
+    "duration": 1621,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN187.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN187/"
+  },
+  {
     "id": "risky-bulletin-brotli-rce-is-wrecking-whats-left-of-the-internet",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Brotli RCE is wrecking what's left of the internet",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS577/"
-  },
-  {
-    "id": "sponsored-ent-on-using-ai-to-track-human-behavior-on-the-endpoint",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Ent on using AI to track human behavior on the endpoint",
-    "description": "<p>In this Risky Business sponsored interview, Catalin Cimpanu talks with Brandon Dixon, co-founder and CTO of Ent AI, about the company’s innovative use of local LLMs to track user behavior on the endpoint, and add context to suspicious events to detect or prevent malicious activity.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.linkedin.com/in/brandonsdixon\">Brandon Dixon on LinkedIn</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-06-14T19:45:00.000Z",
-    "duration": 1176,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI132.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI132/"
   }
 ]
