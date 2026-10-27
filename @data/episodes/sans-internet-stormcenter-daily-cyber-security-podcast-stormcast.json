@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-october-27th-2026-apple-patches-304-vulnerabilities-incl-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, October 27th, 2026: Apple Patches 304 Vulnerabilities Incl. Exploited CoreGraphics Flaw; Threat Hunting in DShield SIEM with ELK; .NET and PHP Brotli Fixes (CVE-2026-111497)",
+    "description": "<br/>\nIn this episode: Apple's October updates fix 304 vulnerabilities, including an already exploited CoreGraphics flaw now patched for iOS 18; a guest diary shows how to hunt for threat actors in a DShield SIEM honeypot using HTTP language preference headers in Elasticsearch; and Microsoft and PHP ship out-of-band updates for the Brotli decompression vulnerability CVE-2026-111497.<br/>\nApple Patches for October 2026: 304 Vulnerabilities Fixed<br/>\nApple released updates for all of its operating systems, fixing 304 vulnerabilities. An already exploited CoreGraphics vulnerability (CVE-2026-86950), patched in current iOS versions about a month ago, is now also fixed for iOS 18. Other notable fixes cover a malicious app accessing the camera without user permission (CVE-2026-86990) and a local attacker gaining access to Keychain items (CVE-2026-28864).<br/>\n<a href=\"https://isc.sans.edu/diary/Apple+Patches+for+October+2026/33458/\">https://isc.sans.edu/diary/Apple+Patches+for+October+2026/33458/</a><br/>\nLooking for a Language: Threat Hunting in a DShield SIEM Honeypot with ELK<br/>\nIn a guest diary, SANS.edu undergraduate intern Jeffray Spence shows how to use Elasticsearch and Kibana in the DShield SIEM (security information and event management) honeypot to hunt for threats. Filtering on HTTP language preference headers, such as Accept-Language and Accept-Charset values requesting Chinese, isolates related requests and helps identify automated scanning campaigns and the threat actors behind them.<br/>\n<a href=\"https://isc.sans.edu/diary/Looking%20for%20a%20Language%20%5BGuest%20Diary%5D/33442\">https://isc.sans.edu/diary/Looking%20for%20a%20Language%20%5BGuest%20Diary%5D/33442</a><br/>\nMore Brotli Updates: .NET Out-of-Band Patch and PHP Windows Builds (CVE-2026-111497)<br/>\nMicrosoft released out-of-band security updates for .NET 8, 9 and 10 and .NET 11 Release Candidate 3 to fix CVE-2026-111497, a buffer overflow in Brotli decompression. PHP rebuilt its Windows binaries with the updated Brotli library without changing the PHP version number, so compare hashes to confirm you run the fixed build. Expect more vendors to release Brotli fixes over the next few weeks.<br/>\n<a href=\"https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/\">https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/</a><br/>\n<a href=\"https://www.php.net/archive/2026.php#2026-10-26-1\">https://www.php.net/archive/2026.php#2026-10-26-1</a><br/>\n    My Upcoming Classes<br/>\n    <a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-27T02:55:12.000Z",
+    "duration": 401,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10152.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10152,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10152"
+  },
+  {
     "id": "sans-stormcast-monday-october-26th-2026-php2shell-exploit-reliability-nodejs-bro",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, October 26th, 2026: PHP2Shell Exploit Reliability; Node.js Brotli Decoder RCE (CVE-2026-111497); Tailscale \"Tailworm\" Vulnerabilities; HPE ArubaOS 8/10 Patches 72 Flaws",

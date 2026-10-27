@@ -1,5 +1,22 @@
 [
   {
+    "id": "everybody-is-losing-their-minds-about-ai-math-and-crypto",
+    "podcastId": "security-cryptography-whatever",
+    "title": "Everybody Is Losing Their Minds About AI Math And Crypto",
+    "description": "<p>The gang talks about what AI getting Good At Math might mean for cryptography, and why public-key cryptography probably isn’t ending. David is on a mission to civilize and claims a crisis of empiricism. He also wrote a blog post about this. Everyone agrees Nadia deserves tokens.</p><p>“I mean, you could claim that anything's real if the only basis for believing in it is that nobody's proved it doesn't exist!”</p><p><b>Transcript</b>: https://securitycryptographywhatever.com/2026/10/27/everybody-is-losing-their-minds-about-ai-math-and-crypto/</p><p><b>Chapters:</b></p><p>00:00 intro<br/>05:19 rumors swirl   <br/>12:37 math etiquette<br/>17:11 magical math machines<br/>21:42 diffie-hellman<br/>29:50 finite field<br/>34:45 david aware<br/>42:36 complexity theory<br/>48:40 full disclosure</p><p><b>Links:</b></p><p>- David’s Blog: https://dadrian.io/blog/posts/everybody-is-losing-their-minds/<br/>- Similar opinions from virgi: https://people.csail.mit.edu/virgi/thoughts.txt<br/>- The OpenAI Math Drop: https://github.com/openai/math<br/>- Scientific American on the OpenAI math drop: https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/<br/>- Derek Thompson on AI’s impact on math: https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep<br/>- Sophie Schmieg’s blog connecting elliptic curves and finite field DH: https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/<br/>- Friend of the show Steve Weiss factored RSA-896 with spare Anthropic capacity: https://saweis.net/posts/rsa-896.html<br/>- Alex Clemmer’s tweet about the shortcomings of complexity theory: https://x.com/hausdorff_space/status/2107916908616175701<br/>- Ben Recht (Berkeley ECE) on the FFT improvements showing how complexity theory can be disconnected from real computers:: https://www.argmin.net/p/faster-fourier-transforms<br/>- State of the art number field sieve implementation (CADO-NFS): https://cado-nfs.gitlabpages.inria.fr/<br/>- Why 128-bits of symmetric security is enough for quantum resistance: https://words.filippo.io/128-bits/<br/>- https://en.wikipedia.org/wiki/Nadia_Heninger<br/>- https://cseweb.ucsd.edu/~nadiah/<br/>- Matt Green’s Tokens to Humans estimator: https://bitsofwork.org/</p><p><br/>\"Security Cryptography Whatever\" is hosted by <a href='https://twitter.com/durumcrustulum'>Deirdre Connolly</a> (@durumcrustulum), <a href='https://twitter.com/tqbf'>Thomas Ptacek</a> (@tqbf), and <a href='https://twitter.com/dadrian'>David Adrian</a> (@dadrian)</p>",
+    "publishedAt": "2026-10-27T01:00:00.000Z",
+    "duration": 3075,
+    "audioUrl": "https://www.buzzsprout.com/1822302/episodes/20025057-everybody-is-losing-their-minds-about-ai-math-and-crypto.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 2,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "ai-lattice-proofs-with-chris-peikert",
     "podcastId": "security-cryptography-whatever",
     "title": "AI Lattice Proofs with Chris Peikert",
