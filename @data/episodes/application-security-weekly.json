@@ -1,5 +1,22 @@
 [
   {
+    "id": "securing-modern-financial-systems-in-the-age-of-ai-rashid-feroze-asw-406",
+    "podcastId": "application-security-weekly",
+    "title": "Securing Modern Financial Systems in the Age of AI - Rashid Feroze - ASW #406",
+    "description": "<p>Proactive security doesn't have to wait for a vuln to be disclosed. Even if a patch isn't available, it's possible to deploy controls and design systems to be resilient against how vulns are exploited. Rashid Feroze talks about runtime security and the benefits of deploying eBPF filters to improve observability and block unauthorized behavior. He walks through scenarios related to supply chain attacks, prompt injections against agents, and responding to major events like PHP2Shell. We touch on threat models to help distinguish between what eBPF filters can protect against and what still requires secure coding discipline from developers.</p> <p>Resources</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://ebpf.io\">https://ebpf.io</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://falco.org\">https://falco.org</a></li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-406\">https://securityweekly.com/asw-406</a></p>",
+    "publishedAt": "2026-10-27T09:00:00.000Z",
+    "duration": 3296,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_406_1--127ab5a6-55d3-4505-bbb6-4c5d1e241c73--audio-converted--fa32a9fa-8f7f-4865-a0fd-9d9fdcc20d33.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/1/8/9/3/1893a6153d517d9ba04421dee9605cbd/ASW_406_Thumbnail_ASW_1920x1920_14f0912d-0bcf-4c9e-bd29-09421e5b8e95.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/securing-modern-financial-systems-in-the-age-of-ai-rashid-feroze-asw-406"
+  },
+  {
     "id": "standardizing-mobile-defense-inside-the-owasp-mobile-app-security-project-v2-jan",
     "podcastId": "application-security-weekly",
     "title": "Standardizing Mobile Defense: Inside the OWASP Mobile App Security Project v2 - Jan Seredynski, Ryan Lloyd - ASW #405",

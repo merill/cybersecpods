@@ -1,5 +1,22 @@
 [
   {
+    "id": "http2shell-emergency-updates-php2shell-attacks-github-worm",
+    "podcastId": "cyber-security-headlines",
+    "title": "HTTP2Shell emergency updates, PHP2Shell attacks, GitHub worm",
+    "description": "<p>HTTP2Shell sparks emergency patches <a href= \"https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/\"> https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/</a></p> <p>PHP2Shell: patch, then investigate <a href= \"https://www.securitymagazine.com/articles/102693-php2shell-exploited-in-the-wild\"> https://www.securitymagazine.com/articles/102693-php2shell-exploited-in-the-wild</a></p> <p>GitHub worm hides in oversized files <a href= \"https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570\"> https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570</a></p> <p>Cathedral gets inside Anthropic <a href= \"https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyOTg3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0MzczMTk5LCJpYXQiOjE3OTI5ODcyMDAsImp0aSI6ImI1M2RjZmEzLThkNTItNGE3NC05ZjI4LWU1ZGJkZTIyZDFmOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMjYvcmVzZWFyY2hlcnMtY3liZXJzZWN1cml0eS1zdGFydC11cC1jYXRoZWRyYWwtZ290LWluc2lkZS1hbnRocm9waWMvIn0.k3b70wv6ePisrPvCYfDOPAjt5vHweVxm4rBnhcnDU-M\"> https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzkyOTg3MjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk0MzczMTk5LCJpYXQiOjE3OTI5ODcyMDAsImp0aSI6ImI1M2RjZmEzLThkNTItNGE3NC05ZjI4LWU1ZGJkZTIyZDFmOSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMTAvMjYvcmVzZWFyY2hlcnMtY3liZXJzZWN1cml0eS1zdGFydC11cC1jYXRoZWRyYWwtZ290LWluc2lkZS1hbnRocm9waWMvIn0.k3b70wv6ePisrPvCYfDOPAjt5vHweVxm4rBnhcnDU-M</a></p> <p>Ukraine's satellite service returns <a href= \"https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse\"> https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse</a></p> <p>Gheist raids GitHub secrets <a href= \"https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets\"> https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets</a></p> <p>Fake Teams support delivers ransomware <a href= \"https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html\"> https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html</a></p> <p>Scam laundering suspect extradited <a href= \"https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams\"> https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams</a></p> <p>Get the show notes here:</p> <p>https://cisoseries.com/cybersecurity-news-october-27-2026/</p> <p>Huge thanks to our sponsor, Guardsquare</p> <p><a href=\"https://hubs.la/Q04sv5qF0\"></a></p> <p><em>Your backend is only as secure as your frontend. Research shows that client-side compromise is now a primary driver of API risk. With sixty-three percent of leaders detecting mobile app tampering or cloning last year, don't leave your mobile app security to chance. Get multilayered protection for your entire mobile app ecosystem from the outside in. Learn more at <a href= \"http://guardsquare.com/\">Guardsquare.com</a>.</em></p>",
+    "publishedAt": "2026-10-27T07:00:00.000Z",
+    "duration": 451,
+    "audioUrl": "https://traffic.libsyn.com/secure/cisoseries/CSH_2026-10-27.mp3?dest-id=2260670",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/f/e/e/6/fee62799d5dd2f97a04421dee9605cbd/CSH_2026-10-27.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://cisoseries.libsyn.com/http2shell-emergency-updates-php2shell-attacks-github-worm"
+  },
+  {
     "id": "ai-powered-phishing-detection-third-php2shell-bug-quest-medical-breach",
     "podcastId": "cyber-security-headlines",
     "title": "AI-powered phishing detection, third PHP2Shell bug, Quest medical breach",
