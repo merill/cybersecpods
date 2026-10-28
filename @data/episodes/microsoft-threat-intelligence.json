@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-quantum-countdown-why-certificate-testing-starts-now",
+    "podcastId": "microsoft-threat-intelligence",
+    "title": "The Quantum Countdown: Why Certificate Testing Starts Now",
+    "description": "<p>In this episode, host Elliot Volkman is joined by Microsoft's Karina Sirota to explore the challenges of transitioning to post-quantum cryptography. They discuss Microsoft's post-quantum certificate pilot, the importance of industry collaboration, and why preparing for quantum threats involves much more than replacing encryption algorithms. Karina also shares practical steps organizations can take today to identify cryptographic dependencies, evaluate vendor readiness, and build a foundation for a quantum-resistant future.&nbsp;</p>\n<p><br></p>\n<p><strong>In this episode you’ll learn:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<ul>\n  <li><p>Why organizations need to prepare for post-quantum cryptography now&nbsp;&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>What Microsoft is testing through its post-quantum cryptography pilot&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>How to identify cryptographic dependencies and prepare your organization for quantum threats&nbsp;</p>\n</li>\n</ul>\n<p>&nbsp;<strong>Some questions we ask:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<ul>\n  <li><p>What are the biggest misconceptions about post-quantum cryptography?&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>Can one weak link compromise an entire cryptographic system?&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p>Why is collaboration across the industry essential?&nbsp;</p>\n</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>Resources:</strong>&nbsp;&nbsp;</p>\n<p><a href=\"https://www.linkedin.com/in/karinasirota/\"><u>View Karina Sirota on LinkedIn</u></a>&nbsp;&nbsp;&nbsp;</p>\n<p><a href=\"https://www.linkedin.com/in/elliotv/\"><u>View Elliot Volkman on LinkedIn</u></a>&nbsp;&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Related Microsoft Podcasts:</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n<ul>\n  <li><p><a href=\"https://afternooncybertea.com/\"><u>Afternoon Cyber Tea with Ann Johnson</u></a>&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p><a href=\"https://bluehatpodcast.com/\"><u>The BlueHat Podcast</u></a>&nbsp;</p>\n</li>\n</ul>\n<ul>\n  <li><p><a href=\"https://uncoveringhiddenrisks.com/\"><u>Uncovering Hidden Risks</u></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n</li>\n</ul>\n<p>&nbsp;</p>\n<p>Discover and follow other Microsoft podcasts at<a href=\"https://news.microsoft.com/podcasts/\"> </a><a href=\"https://news.microsoft.com/podcasts/\"><u>microsoft.com/podcasts</u></a>&nbsp;&nbsp;</p>\n<p>&nbsp;</p>\n<p>Get the latest threat intelligence insights and guidance at Microsoft <a href=\"https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fsecurity%2Fbusiness%2Fsecurity-insider%2F&data=05%7C02%7Cv-ropetrillo%40microsoft.com%7C81e205a6b727403624b808dc64a26e6b%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C638495896032091649%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=LTpBsEuiaY5YiYn2FYDydHrHkYWl%2FBTl2uAQlkBz1N0%3D&reserved=0\"><u>Security Insider</u></a>&nbsp;</p>\n<p>&nbsp;</p>\n<p><em>The Microsoft Threat Intelligence Podcast is produced by Microsoft, Hangar Studios and distributed as part of N2K media network.</em>&nbsp;</p>",
+    "publishedAt": "2026-10-28T07:05:00.000Z",
+    "duration": 1979,
+    "audioUrl": "https://traffic.megaphone.fm/CYBW8049646254.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 80,
+    "seasonNumber": 4,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/microsoft-threat-intelligence/80/notes"
+  },
+  {
     "id": "inside-this-years-microsoft-digital-defense-report",
     "podcastId": "microsoft-threat-intelligence",
     "title": "Inside this year’s Microsoft Digital Defense Report",

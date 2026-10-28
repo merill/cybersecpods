@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-business-857-ai-fud-intensifies",
+    "podcastId": "risky-business",
+    "title": "Risky Business #857 -- AI FUD intensifies",
+    "description": "<p>On this week’s show Patrick Gray and James Wilson are joined by special guest co-host Alex Stamos to talk through the week’s cybersecurity news, including:</p>\n\n<ul>\n  <li>Everyone’s still panicking about “misbehaving” AI models that are pretty much just doing what they’re being told to do</li>\n  <li>Americans are giving AI agents unfettered access to their bank accounts. What could go wrong?</li>\n  <li>Last week’s PHP meteor seems to have missed Earth</li>\n  <li>This week’s Brotli HTTP/2 critical flaw is this week’s meteor</li>\n  <li>The private key is always 4. This time it’s TLS bugs in GoAhead</li>\n  <li>Much, much more!</li>\n</ul>\n\n<p>This week’s show is brought to you by Truffle Security. Co-founder and CEO Dylan Ayrey joins James Wilson to chat about scanning GitHub repos and finding more than half a million unique credentials that were never revoked. As Dylan explains, the problem of exposed keys exists everywhere and is only getting worse.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/ei0pNus3aDc\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html\">OpenAI AI agents demonstrate VM escapes and secret cross-sandbox communication</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/\">OpenAi agents disabled safety monitoring, one lied about it</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/icesolst/status/2114772787780862362\">solst/ICE of Astarte (@IceSolst) on X</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/RBFEATURES42\">What I learned from cheating clankers</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access\">Unvetted AI agents are accessing US bank accounts</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html\">Hiding Capabilities in AI Models</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.washingtonpost.com/opinions/2026/10/25/ai-is-finding-bugs-faster-let-market-find-fixes\">AI is finding bugs faster. Let the market find the fixes</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers\">AI Guardrails Aren’t Stopping Criminal Hackers</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://andromeda.ai/security-updates/october-2026-security-incident\">Andromeda October 2026 Security Incident</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack\">Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist\">Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability\">Hackers got a four-day head start on the PHP2Shell vulnerabilities</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches\">Critical HTTP2Shell flaw in Brotli triggers emergency patches</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/targeted-ads-spyware-government-threat\">Senators say targeted ads are a security risk. Ad groups say the critics are off base</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.reuters.com/business/media-telecom/alleged-israeli-spy-company-heavily-targeted-starlink-users-sources-say-2026-10-27\">Alleged Israeli spy company heavily targeted Starlink users, sources say</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware\">LiteLLM release pipeline hacked to distribute info-stealer malware</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers\">CISA warns attackers are chaining Plex flaws in active Plex2Shell attacks</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks\">Abandoned Popcorn Time app exposed millions of devices to RCE attacks</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks\">Chrome adds Gemini-powered scam detection and ClickFix warnings</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection\">Microsoft Teams is getting context-aware phishing detection</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/china-nexus-actor-attack-connectwise-cloud-backup/833727/\">China-nexus actor linked to attack on ConnectWise cloud backup</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident\">University of New Mexico hospital diverts ambulances after cyberattack</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/IceSolst/status/2115172268909424707\">solst/ICE of Astarte (@IceSolst) on X </a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://trufflesecurity.com/blog/github-repos-exposed-543699-credentials-nobody-revoked-them\">GitHub Repos Exposed 543,699 Credentials. Nobody Revoked Them</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-10-28T04:53:56.000Z",
+    "duration": 3974,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB857.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RB857/"
+  },
+  {
     "id": "risky-business-856-8-bit-encryption-php-megabugs-and-more",
     "podcastId": "risky-business",
     "title": "Risky Business #856 -- 8-bit encryption, PHP megabugs and more",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB788/"
-  },
-  {
-    "id": "wide-world-of-cyber-how-the-trump-admin-is-changing-the-cybersecurity-landscape",
-    "podcastId": "risky-business",
-    "title": "Wide World of Cyber: How the Trump admin is changing the cybersecurity landscape",
-    "description": "<p>In this podcast, Patrick Gray chats with SentinelOne’s Chris Krebs and Alex Stamos about the huge changes afoot in the United States government and what they mean for the threat environment. From the director of NSA being fired to massive job cuts at CISA and huge foreign policy shifts, tomorrow’s threat environment is going to be very different to today’s. Tune in to hear analysis from two of the best in the business!</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/JPYtQseDoyQ\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2025-04-10T05:03:10.000Z",
-    "duration": 2609,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/WWC8a.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/WWC8/"
   }
 ]

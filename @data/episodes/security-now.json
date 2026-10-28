@@ -1,5 +1,22 @@
 [
   {
+    "id": "sn-1102-a-strategic-plug-pull-lessons-from-a-global-patch-and-panic-fire-drill",
+    "podcastId": "security-now",
+    "title": "SN 1102: A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill",
+    "description": "<p>A newly uncovered PHP vulnerability put nearly 70% of the internet at risk, sending governments and enterprises into a frenzy as AI-powered attackers raced to exploit a flaw that had lurked unnoticed for 14 years. Hear why this could be just the start of an unrelenting wave of security crises.</p><ul> \n<li>We take a detailed look at the many facets and aspects of last week's wild PHP ride:</li> \n<li>What happened.</li> \n<li>How it happened.</li> \n<li>Why it happened.</li> \n<li>How it could have been prevented.</li> \n<li>How it impacted many of our listeners.</li> \n<li>We consider the implications of what is said to be coming next and the idea of temporary \"strategic disconnection\" from the Internet</li></ul> \n<p>Show Notes - <a href=\"https://www.grc.com/sn/SN-1102-Notes.pdf\">https://www.grc.com/sn/SN-1102-Notes.pdf</a></p> \n<p><strong>Hosts:</strong> <a href=\"https://twit.tv/people/mikah-sargent\">Mikah Sargent</a> and <a href=\"https://twit.tv/people/steve-gibson\">Steve Gibson</a></p> \n<p>Download or subscribe to <em>Security Now</em> at <a href=\"https://twit.tv/shows/security-now\">https://twit.tv/shows/security-now</a>.</p> \n<p>You can submit a question to <em>Security Now</em> at the <a href=\"https://www.grc.com/feedback.htm\" target=\"_blank\">GRC Feedback Page</a>.</p> \n<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href=\"https://www.grc.com/securitynow.htm\" target=\"_blank\">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href=\"https://www.grc.com/sr/spinrite.htm\" target=\"_blank\">Spinrite 6</a>.</p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"http://threatlocker.com/twit\" target=\"_blank\" rel=\"sponsored\">threatlocker.com/twit</a></li>\n<li><a href=\"https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign\" target=\"_blank\" rel=\"sponsored\">doppel.com</a></li>\n<li><a href=\"http://hoxhunt.com/securitynow\" target=\"_blank\" rel=\"sponsored\">hoxhunt.com/securitynow</a></li>\n<li><a href=\"http://originhq.com/securitynow\" target=\"_blank\" rel=\"sponsored\">originhq.com/securitynow</a></li>\n<li><a href=\"https://material.security\" target=\"_blank\" rel=\"sponsored\">material.security</a></li>\n</ul></p>",
+    "publishedAt": "2026-10-28T01:06:03.000Z",
+    "duration": 10446,
+    "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1102/1fbdcfda-238a-4ac3-97ec-b4a1af0267b8.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/10/863526/hero/SN1102_thumbnail.jpg",
+    "episodeNumber": 1102,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://twit.tv/shows/security-now/episodes/1102"
+  },
+  {
     "id": "sn-1101-ecdsas-curves-origins-when-ai-becomes-the-attacker",
     "podcastId": "security-now",
     "title": "SN 1101: ECDSA's Curves Origins - When AI Becomes the Attacker",
@@ -321,22 +338,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://twit.tv/shows/security-now/episodes/1083"
-  },
-  {
-    "id": "sn-1082-the-malicious-use-of-ai-anthropics-red-team-report",
-    "podcastId": "security-now",
-    "title": "SN 1082: The Malicious Use of AI - Anthropic's Red Team Report",
-    "description": "<p>Discover how Anthropic's secretive red team and the MITRE ATT&CK framework are mapping the chilling rise of malicious AI use, revealing cyber threats that now move faster than defenders can respond.</p><ul> \n<li>Was a U.S. law firm right to pay a $20 million ransom.</li> \n<li>Could Cisco have yet another SD-WAN 0-day in the wild.</li> \n<li>Why is it so difficult to author secure PHP code.</li> \n<li>Teens use \"WeedHack\" to spy and attack each other.</li> \n<li>Researchers create the first AI-enabled Internet worm.</li> \n<li>Google Chrome pops-up \"Shop with confidence.\" What...</li> \n<li>The discovered and irresponsibly disclosed HTTP/2 Bomb.</li> \n<li>What Anthropic learns from their past year of Claude abuse: It's bad</li></ul> \n<p>Show Notes - <a href=\"https://www.grc.com/sn/SN-1082-Notes.pdf\">https://www.grc.com/sn/SN-1082-Notes.pdf</a></p> \n<p><strong>Hosts:</strong> <a href=\"https://twit.tv/people/steve-gibson\">Steve Gibson</a> and <a href=\"https://twit.tv/people/leo-laporte\">Leo Laporte</a></p> \n<p>Download or subscribe to <em>Security Now</em> at <a href=\"https://twit.tv/shows/security-now\">https://twit.tv/shows/security-now</a>.</p> \n<p>You can submit a question to <em>Security Now</em> at the <a href=\"https://www.grc.com/feedback.htm\" target=\"_blank\">GRC Feedback Page</a>.</p> \n<p>For 16kbps versions, transcripts, and notes (including fixes), visit Steve's site: <a href=\"https://www.grc.com/securitynow.htm\" target=\"_blank\">grc.com</a>, also the home of the best disk maintenance and recovery utility ever written <a href=\"https://www.grc.com/sr/spinrite.htm\" target=\"_blank\">Spinrite 6</a>.</p> \n<p><strong>Join Club TWiT for Ad-Free Podcasts!</strong><br /> \nSupport what you love and get ad-free audio <em>and</em> video feeds, a members-only Discord, and exclusive content. Join today: <a href=\"https://twit.tv/clubtwit\" rel=\"payment\">https://twit.tv/clubtwit</a></p>\n<p><strong>Sponsors:</strong><ul>\n<li><a href=\"https://www.threatlocker.com/pages/solutions?utm_medium=podcast&utm_source=twit&utm_campaign=securitynow\" target=\"_blank\" rel=\"sponsored\">threatlocker.com for Security Now</a></li>\n<li><a href=\"http://outsystems.com/twit\" target=\"_blank\" rel=\"sponsored\">outsystems.com/twit</a></li>\n<li><a href=\"http://guardsquare.com\" target=\"_blank\" rel=\"sponsored\">guardsquare.com</a></li>\n<li><a href=\"https://www.doppel.com/?utm_source=thisweekintech&utm_medium=audio&utm_campaign=fy27brandcampaign\" target=\"_blank\" rel=\"sponsored\">doppel.com</a></li>\n<li><a href=\"http://cyberhoot.com/securitynow\" target=\"_blank\" rel=\"sponsored\">cyberhoot.com/securitynow and use code SECURITYNOW</a></li>\n</ul></p>",
-    "publishedAt": "2026-06-10T01:17:35.000Z",
-    "duration": 9447,
-    "audioUrl": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/294/cdn.twit.tv/cap/sn_1082/ab6b6cea-8416-423e-9f2a-4770813822ad.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://elroy.twit.tv/sites/default/files/styles/twit_thumb_720x405/public/images/episodes/2026/06/861713/hero/SN1082_thumbnail.jpg",
-    "episodeNumber": 1082,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://twit.tv/shows/security-now/episodes/1082"
   }
 ]
