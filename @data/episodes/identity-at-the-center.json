@@ -1,5 +1,22 @@
 [
   {
+    "id": "457-sponsor-spotlight-iden",
+    "podcastId": "identity-at-the-center",
+    "title": "#457 - Sponsor Spotlight - Iden",
+    "description": "<p>In this Sponsor Spotlight, Jim McDonald talks with Pranay Yadav, co-founder and CEO of Iden, about why identity governance still runs on tickets and spreadsheets at so many organizations. Pranay came to identity from venture capital at Accel, where he kept hearing the same story from IT teams. SSO arrives early, and everything after it gets tracked by hand.</p><p><br></p><p>They dig into how deep governance has to go. Knowing someone has a GitHub account is one thing. Knowing they can approve their own pull requests is another. Pranay explains where SCIM stops short of fine-grained entitlements in SaaS, internal, and legacy apps, why a governance program is only as complete as the weakest app in the stack, how teams can sort apps into P0, P1, and P2 priorities, and when access requests should be automated versus kept in front of a human.</p><p><br></p><p>The conversation closes on AI. That covers using it to help practitioners and end users, the harder problem of governing AI agents that share a person's identity, credentials, and long-lived tokens, and why nobody has patience for multi-year identity programs anymore. Pranay also shares the advice he'd give his firstborn: don't typecast yourself.</p><p><br></p><p>Made possible with support from Iden. Learn more at idenhq.com/idac</p><p><br></p><p>Connect with Pranay: https://www.linkedin.com/in/ypranay/</p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at idacpodcast.com</p><p><br></p><p><br></p><p>00:10 Welcome and Sponsor Spotlight introduction</p><p>01:09 From venture capital to identity governance</p><p>02:41 Where the friction starts for small IT teams</p><p>04:37 Starting with the apps that lack built-in provisioning</p><p>05:21 The floor and the ceiling of who feels the pain</p><p>06:44 How deep governance has to go</p><p>11:35 When knowing \"has access\" is enough</p><p>13:37 Where SCIM fits and where it stops</p><p>15:18 Depth in practice: SaaS roles, GitHub, and internal apps</p><p>19:13 Breadth and the long tail of apps</p><p>21:30 Prioritizing apps into P0, P1, and P2</p><p>25:39 What governance means functionally</p><p>28:31 When to automate access requests and when to keep a human in the loop</p><p>32:18 The experience for the IGA administrator</p><p>36:25 AI for governance</p><p>43:06 Why governing AI agents is so hard</p><p>47:41 No appetite for multi-year identity projects</p><p>52:49 Lighter note: advice for a firstborn</p><p>56:05 Wrap-up</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Pranay Yadav, Iden, Sponsor Spotlight, identity governance, IGA, identity governance and administration, IAM, SCIM, fine-grained entitlements, RBAC, authorization, access reviews, joiner mover leaver, onboarding, offboarding, provisioning, deprovisioning, least privilege, segregation of duties, audit evidence, connectors, long tail of applications, SaaS governance, internal applications, legacy applications, automation, human in the loop, AI for governance, MCP, AI agents, agent governance, non-human identity, delegated identity, API tokens, Accel</p>",
+    "publishedAt": "2026-10-28T09:00:00.000Z",
+    "duration": 3434,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/128126540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2Fe6cf7b23-264d-8257-13f3-ab24b918f9f5.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 457,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/457---Sponsor-Spotlight---Iden-e3r4k4c"
+  },
+  {
     "id": "456-ai-vs-reality-with-joseph-carson",
     "podcastId": "identity-at-the-center",
     "title": "#456 - AI vs Reality with Joseph Carson",
