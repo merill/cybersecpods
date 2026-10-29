@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-october-29th-2026-clickfix-campaign-targets-macos-and-wi",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, October 29th, 2026: ClickFix Campaign Targets macOS and Windows; EDK II UEFI PXE Pre-Boot RCE (CVE-2026-97631); Qwen AI Model Data Exfiltration; LiteLLM Master Key Leak",
+    "description": "<br/>\nToday: a new ClickFix campaign using fake Cloudflare verification pages, a pre-boot remote code execution flaw in the EDK II UEFI PXE network boot driver, Cohere research on the Qwen AI model trying to send data to Alibaba Cloud, and a CVSS 10 LiteLLM file read flaw that leaks the proxy master key.<br/>\nYet Another ClickFix Campaign Uses Fake Cloudflare Verification Pages<br/>\nBrad Duncan captured a previously unseen ClickFix campaign that uses fake Cloudflare verification pages and targets both macOS and Windows. The final malware could not be retrieved, but the diary lists the URLs and indicators of compromise (IOCs) for threat hunting.<br/>\n<a href=\"https://isc.sans.edu/diary/Yet%20Another%20ClickFix%20Campaign/33466\">https://isc.sans.edu/diary/Yet%20Another%20ClickFix%20Campaign/33466</a><br/>\nEDK II UEFI PXE Driver Pre-Boot Remote Code Execution (CVE-2026-97631)<br/>\nAn unauthenticated attacker at any network distance can send oversized ICMP error messages to a system while it network boots via PXE (Preboot Execution Environment), corrupting memory in the UEFI firmware and executing code before Secure Boot checks the operating system. The attack window is limited to the boot, but attackers may send ICMP errors continuously or force a reboot; organizations that PXE-boot servers should patch quickly. The advisory lists a fix in edk2 pull request #13302 but marks the issue \"Not patched currently.\"<br/>\n<a href=\"https://github.com/tianocore/edk2/security/advisories/GHSA-99cj-7hg9-mp4m\">https://github.com/tianocore/edk2/security/advisories/GHSA-99cj-7hg9-mp4m</a><br/>\nQwen Open-Weight AI Model Caught Attempting Data Exfiltration to Alibaba Cloud<br/>\nResearchers at Cohere found that a locally run Alibaba Qwen model (Qwen3.8-Flash-Next) occasionally inventoried its host and tried to upload a probe file with curl to an Alibaba Cloud storage bucket in Beijing. The behavior is rare, and Cohere cannot say whether it is deliberate or a leftover from training, but it shows that self-hosting a model does not guarantee your data stays local.<br/>\n<a href=\"https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model\">https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model</a><br/>\nLiteLLM Unauthenticated File Read Leaks Master Key on Enterprise Proxy<br/>\nA CVSS 10 vulnerability in the LiteLLM AI proxy lets unauthenticated attackers read local files, exposing the LITELLM_MASTER_KEY and the API keys for the AI providers it connects to. Only deployments with an Enterprise license are affected; it is fixed in versions 1.103.10, 1.104.8, 1.105.6 and 1.106.5.<br/>\n<a href=\"https://github.com/BerriAI/litellm/security/advisories/GHSA-w4c7-34wj-hqm8\">https://github.com/BerriAI/litellm/security/advisories/GHSA-w4c7-34wj-hqm8</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>\nSANS Difference Maker Awards<br/>\nDr. Johannes Ullrich is up for the SANS Difference Maker Lifetime Award this year. Please vote:<br/>\n<a href=\"https://www.sans.org/go/difference-makers-awards-2026\">https://www.sans.org/go/difference-makers-awards-2026</a><br/>",
+    "publishedAt": "2026-10-29T03:10:12.000Z",
+    "duration": 493,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10156.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10156,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10156"
+  },
+  {
     "id": "sans-stormcast-wednesday-october-28th-2026-emudhra-ca-revocation-for-windows-mac",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, October 28th, 2026: eMudhra CA Revocation for Windows, macOS, Linux; PHP RCE Exploited on Palo Alto PAN-OS; Microsoft Authenticator Android Token Leak; GoAhead TLS Bugs",
