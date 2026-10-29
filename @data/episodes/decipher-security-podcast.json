@@ -1,5 +1,22 @@
 [
   {
+    "id": "threat-intel-that-delivers-or-tom-hegel",
+    "podcastId": "decipher-security-podcast",
+    "title": "Threat Intel That Delivers | Tom Hegel",
+    "description": "<p>Tom Hegel of SentinelLabs joins Dennis Fisher for a deep discussion of the value of a broad background, not just in tech but in life, how threat intelligence teams function, and the wide range of effects AI is having on how defenders and attackers function.<br>Timestamps<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U\">0:00</a> – Welcome and intro with Tom Hegel<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=40s\">0:40</a> – LabsCon recap and the standout opening talk<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=130s\">2:10</a> – How Tom got into security: taking apart VCRs and repairing hardware<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=215s\">3:35</a> – Fake antivirus, forensics and the early days of the industry<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=349s\">5:49</a> – From MSSPs and SIEM vendors to Sentinel One<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=422s\">7:02</a> – 90s self-sufficiency culture and Pringles-can cantennas<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=504s\">8:24</a> – Hacking retro hardware with AI, and Doom on everything<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=620s\">10:20</a> – Why a broad foundation beats early specialization<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=748s\">12:28</a> – Threat intel: detection noise and writing for your audience<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=917s&pp=0gcJCWMAwfN6Pr3D\">15:17</a> – Diverse teams and global perspectives<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=1031s\">17:11</a> – Echo chambers in the security community<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=1180s\">19:40</a> – Underreported regions: Africa, Latin America and Chinese soft power<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=1329s\">22:09</a> – Living with compromised devices and surveillance capitalism<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=1501s\">25:01</a> – Post-compromise detection, and the PHP vulnerability hype<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=1702s\">28:22</a> – N-days vs. zero days: what attackers actually use<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=1829s\">30:29</a> – AI's early days and the long-term impact on software quality<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=1892s&pp=0gcJCWMAwfN6Pr3D\">31:32</a> – Slop software and the rise of risky DIY apps<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2016s\">33:36</a> – How threat actors use AI, from advanced groups to low-skill crime<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2161s\">36:01</a> – Parallels to the 90s \"wild west\" of hacking<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2237s&pp=0gcJCWMAwfN6Pr3D\">37:17</a> – Defenders are empowered by AI too<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2280s\">38:00</a> – Will people still understand how software works?<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2360s\">39:20</a> – Cognitive decline and using AI without losing skill<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2439s\">40:39</a> – AI-generated threat intel reports and accuracy<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2602s\">43:22</a> – Hype-chasing vendors and AI slop<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2713s\">45:13</a> – Trusting proven experts<a href=\"https://www.youtube.com/watch?v=UGJX_JQry4U&t=2750s\">45:50</a> – Small, trusted conferences and private signal groups</p>",
+    "publishedAt": "2026-10-29T12:18:44.000Z",
+    "duration": 2893,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/128350469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-29%2F435327399-44100-2-0ab16bfd68b7f.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/Threat-Intel-That-Delivers--Tom-Hegel-e3rbeq5"
+  },
+  {
     "id": "php2shell-and-a-big-ca-compromise",
     "podcastId": "decipher-security-podcast",
     "title": "PHP2Shell and a Big CA Compromise",
