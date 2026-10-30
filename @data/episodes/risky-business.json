@@ -1,5 +1,22 @@
 [
   {
+    "id": "snake-oilers-minimaldev-request-rocket-and-trm-labs",
+    "podcastId": "risky-business",
+    "title": "Snake Oilers: Minimal.dev, Request Rocket and TRM Labs",
+    "description": "<p>In this edition of the Snake Oilers podcast, three vendors drop by to pitch their products.</p>\n\n<p><a href=\"https://minimal.dev/\">Minimal.dev</a>: A sandbox for AI agents! Co-Founder and CEO Jake King explains what the company is and how it works.</p>\n\n<p><a href=\"https://requestrocket.com/\">Request Rocket</a>: Runtime access control for AI agents and APIs. Founder and CTO Alex Ferguson drops by to talk about the problem the company is trying to solve.</p>\n\n<p><a href=\"https://www.trmlabs.com/\">TRM Labs</a>: All-source threat intelligence. Global Strategic Accounts Director Simon Warren talks about the company’s platform Ardence.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/yLM17qu0Ekk\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-10-30T00:34:05.000Z",
+    "duration": 2666,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SNAKEOILERS24PT2.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SNAKEOILERS24PT2/"
+  },
+  {
     "id": "risky-business-857-ai-fud-intensifies",
     "podcastId": "risky-business",
     "title": "Risky Business #857 -- AI FUD intensifies",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/snakeoilers21pt1/"
-  },
-  {
-    "id": "risky-business-788-trump-targets-chris-krebs-sentinelone",
-    "podcastId": "risky-business",
-    "title": "Risky Business #788 -- Trump targets Chris Krebs, SentinelOne",
-    "description": "<p>On this week’s show Patrick Gray talks to former NSA Cybersecurity Director Rob Joyce about Donald Trump’s unprecedented, unwarranted and completely bonkers political persecution of Chris Krebs and his employer SentinelOne.</p>\n\n<p>They also talk through the week’s cybersecurity news, covering:</p>\n\n<ul>\n  <li>Mitre’s stewardship of the CVE database gets its funding DOGE’d</li>\n  <li>The US signs on to the Pall Mall anti-spyware agreement</li>\n  <li>China tries to play the nationstate cyber-attribution game, but comedically badly</li>\n  <li>Hackers run their malware inside the Windows sandbox, for security against EDR</li>\n</ul>\n\n<p>This week’s episode is sponsored by open source identity provider Authentik. CEO Fletcher Heisler joins to talk through the increasing sprawl of the identity ecosystem.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/uXY_HouhZww\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.reuters.com/world/us/cybersecurity-industry-falls-silent-trump-turns-ire-sentinelone-2025-04-10/\">Cybersecurity industry falls silent as Trump turns ire on SentinelOne | Reuters</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.nbcnews.com/tech/security/us-cyber-defenders-shaken-trumps-attack-former-boss-rcna200597\">U.S. cyber defenders shaken by Trump's attack on their former boss</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://krebsonsecurity.com/2025/04/trump-revenge-tour-targets-cyber-leaders-elections/\">Trump Revenge Tour Targets Cyber Leaders, Elections – Krebs on Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/wyden-blocks-plankey-nomination-cisa\">Wyden to block Trump's CISA nominee until agency releases report on telecoms’ ‘negligent cybersecurity’ | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.dni.gov/index.php/newsroom/press-releases/press-releases-2025/4063-pr-05-25\">Gabbard sets up DOGE-style team to cut costs, uncover intel ‘weaponization’</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.securityweek.com/mitre-signals-potential-cve-program-deterioration-as-us-gov-funding-expires/\">MITRE Warns CVE Program Faces Disruption Amid US Funding Uncertainty</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/us-to-sign-pall-mall-process-code-of-practice-spyware\">US to sign Pall Mall pact aimed at countering spyware abuses | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://techcrunch.com/2025/04/09/court-document-reveals-locations-of-whatsapp-victims-targeted-by-nso-spyware/\">Court document reveals locations of WhatsApp victims targeted by NSO spyware | TechCrunch</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.wired.com/story/nso-group-the-vogel-group-lobbying-trump-administration/\">Spyware Maker NSO Group Is Paving a Path Back Into Trump’s America | WIRED</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/ncsc-shares-details-on-spyware-targeting-uyghur-tiben-taiwanese-groups\">NCSC shares technical details of spyware targeting Uyghur, Tibetan and Taiwanese groups | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-chinese-apt-abuses-windows-sandbox-to-go-invisible-on-infected-hosts/\">Risky Bulletin: Chinese APT abuses Windows Sandbox to go invisible on infected hosts</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.nbcnews.com/tech/security/china-escalates-cyber-fight-us-names-alleged-nsa-hackers-rcna201286\">China escalates cyber fight with U.S., names alleged NSA hackers</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/security/2025/04/researcher-uncovers-dozens-of-sketchy-chrome-extensions-with-4-million-installs/\">Researcher uncovers dozens of sketchy Chrome extensions with 4 million installs - Ars Technica</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/\">China-based SMS Phishing Triad Pivots to Banks – Krebs on Security</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-ca-b-forum-approves-47-day-tls-certs/\">Risky Bulletin: CA/B Forum approves 47-days TLS certs</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.digitaltrustcenter.nl/nieuws/ransomware-in-het-mkb-cybercriminelen-verhogen-losgeld-bij-cyberverzekering\">Ransomware in het mkb: Cybercriminelen verhogen losgeld bij cyberverzekering</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.404media.co/4chan-is-down-following-what-looks-to-be-a-major-hack-spurred-by-meme-war/\">4chan Is Down Following What Looks to Be a Major Hack Spurred By Meme War</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2025-04-16T04:34:04.000Z",
-    "duration": 3215,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB788.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RB788/"
   }
 ]
