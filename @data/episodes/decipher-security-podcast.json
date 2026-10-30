@@ -1,5 +1,22 @@
 [
   {
+    "id": "in-cybersecurity-every-month-is-black-october",
+    "podcastId": "decipher-security-podcast",
+    "title": "In Cybersecurity, Every Month is Black October",
+    "description": "<p>It may be spooky season, but we start by discussinf the fact that the frightening prospect of mass PHP2Shell exploitation has not materialized. Some good news! Then we dig into the Silent Train operational infrastructure report that Black Lotus Labs released detailing Volt Typhoon's activities. Finally, we have some spooky-themed malware names for you!</p><p><strong>Timestamps</strong></p><p><a href=\"https://www.youtube.com/watch?v=REgsMU30l9w\">0:00</a> Intro and Halloween small talk<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=156s\">2:36</a> Update on the PHP-to-shell vulnerabilities: almost no confirmed exploitation<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=278s\">4:38</a> Why the hype happened and how it compares to Log4Shell<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=379s\">6:19</a> Retracted exploitation claims and how defenders used the lead time<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=494s\">8:14</a> Why the exploits are hard to build (what Dennis heard from Caliph)<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=601s\">10:01</a> Hype vs. everyday weaknesses that businesses don't prioritize<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=699s\">11:39</a> \"Black October,\" Matt Johansson and cybersecurity going mainstream<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=994s\">16:34</a> Cybersecurity Awareness Month and the MFA takeaway<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=1020s\">17:00</a> Entry-level security jobs and advice for new grads<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=1202s\">20:02</a> Volt Typhoon and the Silent Train report (Lumen's Black Lotus Labs)<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=1381s\">23:01</a> The Littleton, MA utility intrusion<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=1441s\">24:01</a> Volt Typhoon's targets and its use of SOHO routers and IoT devices<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=1570s\">26:10</a> Operational discipline in how they rotate infrastructure<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=1706s&pp=0gcJCWMAwfN6Pr3D\">28:26</a> Threat actor naming conventions<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=1786s\">29:46</a> Favorite spooky malware names: Ghost RAT, BlackCat, Spectre, Satan, GhostNet<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=2084s\">34:44</a> Halloween costumes and the Halloween nor'easter story<a href=\"https://www.youtube.com/watch?v=REgsMU30l9w&t=2205s&pp=0gcJCWMAwfN6Pr3D\">36:45</a> Outro<br></p>",
+    "publishedAt": "2026-10-30T10:09:59.000Z",
+    "duration": 2226,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/128412857/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435409507-44100-2-161233bfdfeb6.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/In-Cybersecurity--Every-Month-is-Black-October-e3rdbnp"
+  },
+  {
     "id": "threat-intel-that-delivers-or-tom-hegel",
     "podcastId": "decipher-security-podcast",
     "title": "Threat Intel That Delivers | Tom Hegel",
