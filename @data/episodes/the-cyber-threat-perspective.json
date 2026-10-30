@@ -1,5 +1,22 @@
 [
   {
+    "id": "one-permission-away-from-domain-takeover-or-ep-201",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "One Permission Away from Domain Takeover | Ep 201",
+    "description": "<p>One dangerous permission in Active Directory can be all it takes for an attacker to turn a single compromised account into full control of your domain. On our internal pen tests, that one misconfiguration is often the first domino. Everything after it is blast radius.</p><p>In this episode, Spencer and Brad explain why dangerous permissions pile up in the first place, why they stay hidden for years, and what happens downstream when nobody finds them. They also cover where to start cleaning things up without buying a single new tool.</p><p>In this episode:</p><ul><li>Why permissions accumulate through decommissions, upgrades, vendor installs, and “temporary” fixes that never get undone</li><li>How a Citrix install wizard that needed domain admin left behind an over-permissioned mess</li><li>How employee turnover and lost tribal knowledge make old access riskier to touch</li><li>Why inherited permissions, nested groups, and object ownership keep risk out of sight</li><li>Why BloodHound can surface tens of thousands of attack paths in one environment</li><li>Active Directory vs. Entra, and why the size of your attack surface is the better question</li><li>The downstream risks: privilege escalation, unauthorized access, lateral movement, and service account abuse</li><li>How attackers cause serious damage without ever reaching domain admin</li><li>Where to start: audit what broad groups like Domain Users, Authenticated Users, and Everyone can reach, beginning with your Tier 0 assets</li><li>Free tools to get started, including ADeleginator, PingCastle, Purple Knight, and BloodHound</li></ul><p>Worried about what’s hiding in your Active Directory? SecurIT360’s internal penetration testing finds the dangerous permissions and attack paths before threat actors do. Reach out at securit360.com.</p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a><br/>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-10-30T15:00:00.000Z",
+    "duration": 2098,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/20047783-one-permission-away-from-domain-takeover-ep-201.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 201,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "owasp-top-10-part-6-insecure-design-and-business-logic-flaws-explained-or-ep-200",
     "podcastId": "the-cyber-threat-perspective",
     "title": "OWASP Top 10 Part 6: Insecure Design and Business Logic Flaws Explained | Ep 200",
