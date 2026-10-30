@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-october-30th-2026-local-ghidra-server-for-malware-analysis",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, October 30th, 2026: Local Ghidra Server for Malware Analysis Labs; Claude Finds Linux Kernel Multipath TCP RCE (CVE-2026-98432); Hugging Face Cryptomining Malware Campaign",
+    "description": "<br/>\nToday's episode covers deploying a local Ghidra Server so malware analysis work survives virtual machine snapshot reverts, a Claude-discovered zero-click Linux kernel remote code execution flaw in Multipath TCP, and a returning Hugging Face malware campaign that abuses trust_remote_code to mine cryptocurrency on GPU hosts.<br/>\nDeploying a Local Ghidra Server for Your Malware Analysis Lab<br/>\nXavier Mertens shows how to set up Ghidra Server, which ships free with Ghidra, so reverse engineering projects are stored and versioned outside the analysis virtual machine and survive a revert to a clean snapshot. A small Linux VM with about 4 GB of RAM is enough; keep it inside the malware lab network, since it holds every imported sample, and never expose it to the internet.<br/>\n<a href=\"https://isc.sans.edu/diary/Deploying%20a%20Local%20Ghidra%20Server%20for%20Your%20Malware%20Analysis%20Lab/33470\">https://isc.sans.edu/diary/Deploying%20a%20Local%20Ghidra%20Server%20for%20Your%20Malware%20Analysis%20Lab/33470</a><br/>\nClaude Discovers Zero-Click Linux Kernel Multipath TCP Remote Code Execution (CVE-2026-98432)<br/>\nAnthropic's Frontier Red Team used Claude to find and exploit a race-condition use-after-free in the Linux kernel networking stack that lets an unauthenticated remote attacker run commands as root on servers with a Multipath TCP (MPTCP) listener, defeating kernel address space layout randomization (KASLR) along the way. Exploitation is slow: the proof of concept needed about 48 minutes to leak a kernel pointer plus five minutes to reach code execution. The fix is upstream and backported to stable kernels, but not every distribution has shipped it yet, including Ubuntu at recording time.<br/>\n<a href=\"https://www.anthropic.com/research/discovering-vulnerabilities-with-claude\">https://www.anthropic.com/research/discovering-vulnerabilities-with-claude</a><br/>\nHugging Face Malware Campaign Returns to Hijack GPUs for Crypto Mining<br/>\nPluto Security tracked 31 malicious Hugging Face repositories across seven accounts posing as small Qwen2 models; loading one with trust_remote_code=True runs the repository's Python code, which installs a disguised fileless cryptocurrency miner, a watchdog and, in some builds, reverse shells. The campaign targets GPU hosts running self-hosted inference such as Xinference and GPUStack, returned within days of a takedown, and passed 32,000 downloads including linked models.<br/>\n<a href=\"https://pluto.security/blog/hugging-face-malware-campaign-load-mine/\">https://pluto.security/blog/hugging-face-malware-campaign-load-mine/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-10-30T03:30:17.000Z",
+    "duration": 463,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10158.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10158,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10158"
+  },
+  {
     "id": "sans-stormcast-thursday-october-29th-2026-clickfix-campaign-targets-macos-and-wi",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, October 29th, 2026: ClickFix Campaign Targets macOS and Windows; EDK II UEFI PXE Pre-Boot RCE (CVE-2026-97631); Qwen AI Model Data Exfiltration; LiteLLM Master Key Leak",
