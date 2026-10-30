@@ -1,5 +1,22 @@
 [
   {
+    "id": "brad-sollar-trust-without-a-connection-layered-security-for-disconnected-mission",
+    "podcastId": "cerias-weekly-security-seminar-purdue-university",
+    "title": "Brad Sollar, Trust Without a Connection: Layered Security for Disconnected Mission Compute",
+    "description": "<p>Military, intelligence and critical infrastructure systems increasingly run AI and mission workloads at the edge. That means contested, disconnected, and physically exposed environments where the usual cloud security assumptions fail. You can't count on a reachable identity provider. You can't trust the host operator. You can't patch on demand.This talk is a case study in building a defense-in-depth model for that environment. It follows the stack from the bottom up: Confidential computing. Intel TDX and AMD     SEV-SNP isolate workloads even from a compromised host, and remote     attestation verifies them. Software supply chain assurance. Immutable, signed OS     images ship with SBOMs, continuous vulnerability scanning using Trivy and     Grype, and STIG compliance reporting. Policy-as-code authorization. Cedar provides     fine-grained, analyzable access control across compute, storage,     networking and AI agents. Policies keep enforcing when the link to the     enterprise is gone. Identity lifecycle. SCIM federates with     enterprise directories without making them a runtime dependency.We'll examine the design tradeoffs, the threat models behind each layer, and where the gaps remain. Examples are drawn from Mainsail's work on Starlight. About the speaker: Brad Sollar is Co-Founder and CTO of Mainsail Industries, a veteran-owned defense technology company. Mainsail builds secure edge compute and AI infrastructure for the DoD, the intelligence community and critical infrastructure. Before Mainsail, Brad was a solutions architect at Red Hat, focused on OpenShift, automation and cloud platforms. He served as an enlisted soldier in the U.S. Army and holds a master's degree in information assurance.</p>",
+    "publishedAt": "2026-10-28T20:30:00.000Z",
+    "duration": 3555,
+    "audioUrl": null,
+    "videoUrl": "https://www.cerias.purdue.edu/assets/video/secsem/secsem_20261028.mp4",
+    "imageUrl": "https://www.cerias.purdue.edu/news_and_events/events/security_seminar/images/brad_sollar_300x300.png",
+    "episodeNumber": 927,
+    "seasonNumber": 32,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "johngabriel-nguyen-truong-the-way-we-travel-the-world-is-at-risk-gps-origins-rec",
     "podcastId": "cerias-weekly-security-seminar-purdue-university",
     "title": "JohnGabriel Nguyen-Truong, The Way We Travel the World Is at Risk: GPS Origins, Recent Disruptions, and Alternative Paths to Resilient Positioning",
