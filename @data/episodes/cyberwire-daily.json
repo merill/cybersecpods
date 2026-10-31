@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-long-road-to-root-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "The long road to root. [Research Saturday]",
+    "description": "<p>Today we are joined by <a href=\"https://www.linkedin.com/in/subhajeet-singha-b238951a9/\">⁠Subhajeet Singha⁠</a>, Senior Security Researcher at <a href=\"https://www.acronis.com/en/\">⁠Acronis⁠</a> Threat Research Unit, discussing their work on \"Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit.\" A Chinese-speaking threat actor tracked as Red Heron exploited a critical Gitea remote code execution vulnerability, CVE-2026-60004, within days of its public disclosure, compromising organizations across five countries and stealing source code, credentials, and sensitive infrastructure data. </p>\n<p>The campaign involved deploying persistent backdoors and a newly identified Linux implant called JITTERLY, which contains an undocumented rootkit, SIXZUT, capable of hiding files, processes, and network connections while protecting the malware from removal. Acronis assesses with moderate confidence that Red Heron operates within a PRC-linked context, highlighting how quickly attackers can weaponize newly disclosed vulnerabilities and turn exposed development platforms into gateways for broader network compromise.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.lumen.com/blog/en-us/the-infrastructure-quartermaster-inside-a-china-nexus-state-enablement-model\">⁠⁠⁠</a><a href=\"https://www.acronis.com/en/tru/posts/red-heron-exploits-gitea-n-day-flaw-in-multinational-campaign-exposing-new-linux-rootkit/\">⁠Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit⁠</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-10-31T07:00:00.000Z",
+    "duration": 1226,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW2234822136.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/9d141a9c-d470-11f1-b9df-43eb0d5ee89d/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 448,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/448/notes"
+  },
+  {
     "id": "cryptos-biggest-withdrawal",
     "podcastId": "cyberwire-daily",
     "title": "Crypto's biggest withdrawal.",
