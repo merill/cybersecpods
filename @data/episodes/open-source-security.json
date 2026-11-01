@@ -1,5 +1,22 @@
 [
   {
+    "id": "finding-missing-security-backports-with-roi-nisimi",
+    "podcastId": "open-source-security",
+    "title": "Finding missing security backports with Roi Nisimi",
+    "description": "<p dir=\"auto\">Josh chat with Roi Nisimi about some research he's done into missing backport security fixes. Roi calls these Backport Gaps. The idea is looking for security fixes on the main branch of a project but not in a released version. This is the sort of thing that was very hard in the past, but is very easy to do now. Roi has some marvelous insights into how things used to work, how they work now, and what the future could look like. It's one of those new and complicated security problems nobody really knows how to solve.</p> <p dir=\"auto\">The show notes and blog post for this episode can be found at <a href= \"https://opensourcesecurity.io/2026/2026-11-backport-gaps-roi\" rel= \"nofollow\">https://opensourcesecurity.io/2026/2026-11-backport-gaps-roi</a></p>",
+    "publishedAt": "2026-11-01T23:00:00.000Z",
+    "duration": 1774,
+    "audioUrl": "https://traffic.libsyn.com/secure/opensourcesecuritypodcast/2026-11-backport-gaps-roi.mp3?dest-id=542864",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/b/7/e/1/b7e1ada920431299a04421dee9605cbd/square-missing-roof.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://opensourcesecuritypodcast.libsyn.com/finding-missing-security-backports-with-roi-nisimi"
+  },
+  {
     "id": "dependency-attacks-in-2026-with-james-matchett",
     "podcastId": "open-source-security",
     "title": "Dependency attacks in 2026 with James Matchett",
