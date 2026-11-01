@@ -1,5 +1,22 @@
 [
   {
+    "id": "02x10-samesocnewsockszip",
+    "podcastId": "everyday-defender",
+    "title": "02x10-same_soc_new_socks.zip",
+    "description": "<p>Koos couldn’t help himself this month, so he’s brought two topics. First up is Microsoft’s ISOC announcement. It sounds like a brand-new product, but is it? He unpacks what it actually is, why everyone’s confused, and what it means for you. Then there’s a story from the field. A customer had to hand law enforcement “a copy” of their Sentinel workspace, and there’s no clone button in Azure. Koos walks through how he did it with Azure Monitor export jobs (currently in public preview), the gotchas he hit along the way, and the script he wrote to make it repeatable. Chris rounds things out with the EWS deprecation in Exchange Online: it didn’t just switch off on 1 October, and it’s worth paying attention to this one.</p><p>Full show notes available on our blog: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://df3ndr.io/episodes/2026/10/31/02x10-same_soc_new_socks.zip.html\">https://df3ndr.io/episodes/2026/10/31/02x10-same_soc_new_socks.zip.html</a>  </p><p>Follow us on your favorite podcast platform or check us out at <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://df3ndr.io\">https://df3ndr.io</a></p>",
+    "publishedAt": "2026-10-31T23:16:40.000Z",
+    "duration": 3129,
+    "audioUrl": "https://feeds.df3ndr.io/link/24063/17512232/2026_10_31_23_14_42_68dc8a7b-f24a-493f-a6da-1b110e990876.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/df3ndr/ep_cover_20261031_231347_2cbfed6ed716143451a879a867bb292d.jpg",
+    "episodeNumber": 10,
+    "seasonNumber": 2,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/df3ndr/3283605"
+  },
+  {
     "id": "02x09-logicappsleftthechatjson",
     "podcastId": "everyday-defender",
     "title": "02x09-logic_apps_left_the_chat.json",
