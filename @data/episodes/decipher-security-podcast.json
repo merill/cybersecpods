@@ -1,5 +1,22 @@
 [
   {
+    "id": "volt-typhoons-operational-framework-driving-strategic-access-or-michael-horka",
+    "podcastId": "decipher-security-podcast",
+    "title": "Volt Typhoon's Operational Framework Driving Strategic Access | Michael Horka",
+    "description": "<p>Michael Horka with Black Lotus Labs joins Lindsey O'Donnell-Welch with Decipher to talk about Silent Train, Volt Typhoon's operational framework that helps the group strategically avoid detection and attribution.<br><strong>Timestamps</strong><a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&pp=0gcJCWMAwfN6Pr3D\">0:00</a> – Intro: Michael Horka and Black Lotus Labs on Volt Typhoon<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=55s\">0:55</a> – Michael's background: Black Lotus Labs and the FBI<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=154s&pp=0gcJCWMAwfN6Pr3D\">2:34</a> – Why the research matters: the attack methods, not just the victims<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=206s\">3:26</a> – How the investigation began and the KV botnet takedown<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=254s\">4:14</a> – Silent Train is an operational framework<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=280s\">4:40</a> – One-time-use infrastructure: the means vs. strategic access<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=328s\">5:28</a> – How the takedown pushed more use of Silent Train<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=431s\">7:11</a> – How Silent Train works: the four-hop chain<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=485s\">8:05</a> – Session lengths and the teardown of all evidence<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=531s&pp=0gcJCWMAwfN6Pr3D\">8:51</a> – Why there's nothing to detect outside working hours<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=572s\">9:32</a> – Operational discipline: 27 device types, each with a fixed role<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=693s\">11:33</a> – When the pattern became clear to the researchers<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=750s\">12:30</a> – Why attackers go to such lengths to avoid detection<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=803s\">13:23</a> – How hard is it to copy? Sticking to it is the hard part<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=846s\">14:06</a> – Avoiding noise: no scanning, and device types other groups don't use<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=926s\">15:26</a> – Victim notifications and the zero-day campaigns<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=956s\">15:56</a> – Targeting control plane software<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=1033s&pp=0gcJCWMAwfN6Pr3D\">17:13</a> – Highways, not houses: the victim sectors<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=1081s\">18:01</a> – Defender recommendations<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=1130s\">18:50</a> – Reduce internet exposure<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=1149s\">19:09</a> – Centralized logging and log retention<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=1222s\">20:22</a> – Protect your control plane tools<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=1289s\">21:29</a> – Final takeaways: targeting Hawaii, California and Texas<a href=\"https://www.youtube.com/watch?v=-0eF1NIGoK4&t=1398s\">23:18</a> – Wrap-up and thanks</p>",
+    "publishedAt": "2026-11-03T16:15:34.000Z",
+    "duration": 1424,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/128694304/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435769363-44100-2-57584e3d92433.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/Volt-Typhoons-Operational-Framework-Driving-Strategic-Access--Michael-Horka-e3rluj0"
+  },
+  {
     "id": "in-cybersecurity-every-month-is-black-october",
     "podcastId": "decipher-security-podcast",
     "title": "In Cybersecurity, Every Month is Black October",
