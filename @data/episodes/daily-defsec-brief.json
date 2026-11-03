@@ -1,5 +1,22 @@
 [
   {
+    "id": "synology-nas-ransomware-stolen-keys-running-up-dollar100k-ai-bills-or-cyber-secu",
+    "podcastId": "daily-defsec-brief",
+    "title": "Synology NAS ransomware, stolen keys running up $100K AI bills | Cyber Security News Nov 3",
+    "description": "<p>Ransomware is encrypting outdated Synology NAS boxes, attackers are running up six-figure AI bills with stolen cloud keys, and Trigger.dev customers need to rotate their secrets. Plus a Langflow login bypass, coding agents installing abandoned MCP servers, and a second wave of supermarket freezer attacks across Europe. Every version number and every fix in this episode was checked against the vendor's advisory or the CVE record before it aired. Today's question: Who in your shop finds out first when a cloud bill jumps overnight? Reply in the comments or at <a href=\"mailto:feedback@defensivesecurity.org\" rel=\"noopener noreferrer nofollow\">feedback@defensivesecurity.org</a>.</p><p><br /></p><p>1. Ransomware hits outdated Synology NAS boxes - CVE-2024-10441, CVE-2026-13639, CVE-2026-13684 - Fixed: 7.4-90075, 7.3.2-86009-4, 7.2.2-72806-9, 7.2.1-69057-12 - Do: Update Synology DSM and close its admin page - <a href=\"https://www.synology.com/en-global/security/advisory/Synology_SA_24_20\" rel=\"noopener noreferrer nofollow\">https://www.synology.com/en-global/security/advisory/Synology_SA_24_20</a></p><p>2. Stolen cloud keys run up $100K-a-day AI bills - Do: Alert when someone switches on cloud AI services - <a href=\"https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/\" rel=\"noopener noreferrer nofollow\">https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/</a></p><p>3. Trigger.dev customers' secrets exposed - Do: Rotate every secret you keep in Trigger.dev - <a href=\"https://trigger.dev/blog/security-incident-nov-2026\" rel=\"noopener noreferrer nofollow\">https://trigger.dev/blog/security-incident-nov-2026</a></p><p>4. Langflow fixes critical login bypass and RCE - CVE-2026-93680, CVE-2026-110186 - Fixed: 1.13.0 - Do: Upgrade Langflow and turn off auto-login - <a href=\"https://www.ibm.com/support/pages/node/7294467\" rel=\"noopener noreferrer nofollow\">https://www.ibm.com/support/pages/node/7294467</a></p><p>5. Coding agents install unmaintained MCP servers - Do: Keep an approved list of MCP servers - <a href=\"https://www.glow.io/blogs/mcphantom-ai-coding-agents-are-installing-vulnerable-deprecated-mcp-servers-from-training-data\" rel=\"noopener noreferrer nofollow\">https://www.glow.io/blogs/mcphantom-ai-coding-agents-are-installing-vulnerable-deprecated-mcp-servers-from-training-data</a></p><p>6. Update: freezer attacks hit six more countries - Do: Take vendor-managed controllers off the internet - <a href=\"https://censys.com/blog/european-refrigerator-controller-redux-a-new-wave-of-refrigeration-attacks/\" rel=\"noopener noreferrer nofollow\">https://censys.com/blog/european-refrigerator-controller-redux-a-new-wave-of-refrigeration-attacks/</a></p><p><br /></p>",
+    "publishedAt": "2026-11-03T12:56:13.000Z",
+    "duration": 219,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/05754896eea9441c23c54c2424c1045180fd3b23d378cf4806fd786ee7ff532f/eyJlcGlzb2RlSWQiOiI3ZjJkZjMxYi1jZDdlLTQ0MTktYTViMy02NzlhY2EzOTNlMTIiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFlOWQ4MjFiNzQxNDk1ZDZlOWNmNGEyL2RhaWx5LWRlZnNlYy0yMDI2LTExLTNfXzEyLTQ4LTMzLm1wMyJ9.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "claude-code-extension-backdoor-on-cursor-drupal-commerce-exploited-or-cyber-secu",
     "podcastId": "daily-defsec-brief",
     "title": "Claude Code extension backdoor on Cursor, Drupal Commerce exploited | Cyber Security News Nov 2",

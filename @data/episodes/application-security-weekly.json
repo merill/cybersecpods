@@ -1,5 +1,22 @@
 [
   {
+    "id": "more-vulns-and-more-guesswork-from-less-data-jeremiah-grossman-asw-407",
+    "podcastId": "application-security-weekly",
+    "title": "More Vulns and More Guesswork from Less Data - Jeremiah Grossman - ASW #407",
+    "description": "<p>Following the catalog of CVEs is great for enumeration, but chasing those CVEs for patching is terrible for strategy. Jeremiah Grossman shows what breach data tells us about the differences between having over 400,000 CVEs, a few thousand KEVs, and a few hundred ways that attackers compromise orgs. We go into the importance of distinguishing vulns from exploits and where we see agents making a meaningful impact. Then we touch on some history of appsec and why the trajectory of vulns like SQL injection and XSS, along with well-known security controls, point to a more secure future -- or even possibly a pretty secure present.</p> <p>Resources</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.rootevidence.com/blog-posts/stop-chasing-cves/\">https://www.rootevidence.com/blog-posts/stop-chasing-cves/</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.rootevidence.com/blog-posts/the-defender-window-is-longer-than-you-think/\"> https://www.rootevidence.com/blog-posts/the-defender-window-is-longer-than-you-think/</a></li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-407\">https://securityweekly.com/asw-407</a></p>",
+    "publishedAt": "2026-11-03T10:00:00.000Z",
+    "duration": 3799,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_407_1--3801d46c-87aa-45fe-9307-60706078f93f--audio-converted--3b62702c-453a-4b14-9f21-fe49e648f031.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/7/0/f/c/70fc0fa0def671585f2e77a3093c12a1/ASW_407_Thumbnail_ASW_1920x1920_3698c12e-401f-4d90-9bd0-e686b2bf3493.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/more-vulns-and-more-guesswork-from-less-data-jeremiah-grossman-asw-407"
+  },
+  {
     "id": "securing-modern-financial-systems-in-the-age-of-ai-rashid-feroze-asw-406",
     "podcastId": "application-security-weekly",
     "title": "Securing Modern Financial Systems in the Age of AI - Rashid Feroze - ASW #406",
