@@ -1,5 +1,22 @@
 [
   {
+    "id": "linux-tcp-flaw",
+    "podcastId": "infosec-decoded",
+    "title": "Linux TCP Flaw",
+    "description": "<p>Infosec Decoded Season 6 #68: Linux TCP Flaw</p><p>With sambowne@infosec.exchange and Doug Spindler</p><p>Links: https://samsclass.info/news/news_110226.html</p><p>Recorded Mon, Nov 2, 2026</p>",
+    "publishedAt": "2026-11-03T01:18:41.000Z",
+    "duration": 2984,
+    "audioUrl": "https://anchor.fm/s/4c7cf758/podcast/play/128652267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F93444ada-ed96-c215-ec45-1a837363cd84.m4a",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/12732582/12732582-1734453654531-676614a44ba8c.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/sam-bowne/episodes/Linux-TCP-Flaw-e3rklhb"
+  },
+  {
     "id": "formal-software-verification",
     "podcastId": "infosec-decoded",
     "title": "Formal Software Verification",
