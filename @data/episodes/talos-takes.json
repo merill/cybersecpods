@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-volta-infostealer-outsourcing-cybercrime-grunt-work-to-ai",
+    "podcastId": "talos-takes",
+    "title": "The VOLTA infostealer: Outsourcing cybercrime grunt work to AI",
+    "description": "<p>Attackers have always had a bottleneck. Stealing massive amounts of data is easy, but identifying which victims are truly worth the effort can be slow, tedious work. That changed with the discovery of the VOLTA-AUTODOXER.</p><p>In this episode, Amy chats with Ryan Fetterman, creator of the CAIRN research framework, to break down a newly discovered infostealer. Unlike traditional stealers, VOLTA integrates LLMs to analyze stolen credentials in real-time, effectively turning raw data into a prioritized, high-value dossier for the attacker. </p><p>We discuss:</p><ul><li>How VOLTA uses session replay to go beyond simple password theft and into your personal Gmail inbox and DoorDash order histories</li><li>The unsettling way attackers are outsourcing analytical work to AI to rank victims by their potential monetization value</li><li>The multi-model resilience that allows this stealer to bypass AI safety refusals</li><li>Practical steps for defenders and individuals to harden their defenses</li></ul><p><b>Resources:</b></p><ul><li>Read the full research blog: <a href='https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer'>https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer</a></li><li>WIRED coverage: <a href='https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/'>https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/</a></li><li>Learn more about CAIRN: <a href='https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/'>https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/</a></li></ul>",
+    "publishedAt": "2026-11-04T10:00:00.000Z",
+    "duration": 1229,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/20046965-the-volta-infostealer-outsourcing-cybercrime-grunt-work-to-ai.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "hardening-your-environment-from-segmentation-to-ai-kill-switches",
     "podcastId": "talos-takes",
     "title": "Hardening your environment: From segmentation to AI kill switches",
