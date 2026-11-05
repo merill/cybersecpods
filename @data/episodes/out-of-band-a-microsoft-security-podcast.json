@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-17-solo-edition-with-anthony-anto-porter",
+    "podcastId": "out-of-band-a-microsoft-security-podcast",
+    "title": "Episode 17: Solo Edition with Anthony \"Anto\" Porter",
+    "description": "<p>🎙️ Solo Edition with Anthony \"Anto\" PorterA slightly different episode this week! Due to some unavoidable scheduling conflicts, Anto takes the reins solo for Episode 17. The show must go on, and there's certainly no shortage of Microsoft security news, community updates, and new Defender features to unpack.In this episode, Anto shares his recent experiences speaking at Global Security Community events across Perth and Adelaide, including a deep dive into his latest presentation, \"Is KQL Dead?\".Despite the deliberately clickbait title, the session explores a much bigger question facing modern security operations: as AI and Microsoft Security Copilot become increasingly capable of generating KQL on demand, are we measuring analysts by the wrong skillset? The discussion looks at how the future of security analysis may be less about who writes the best queries and more about who asks the best questions.Also covered in this episode:🔹 Global Security Community UpdatesSpeaking at GSC Perth and AdelaideCommunity engagement and recent eventsReflections on presenting \"Is KQL Dead?\"🔹 Microsoft Security Feature Deep DivesIdentity Security Dashboard (Preview) in Microsoft Defender for Identityhttps://learn.microsoft.com/en-us/defender-for-identity/dashboard A new consolidated view designed to help organisations understand identity-related risks, exposures, and security posture.AI Agent Posture Risk in Microsoft Defenderhttps://learn.microsoft.com/en-us/defender-xdr/security-for-ai/ai-agent-risk-assessment Exploring Microsoft's emerging capabilities to assess and manage risks associated with AI agents and agentic workflows.Identity Coverage & Maturity in Microsoft Defender XDRhttps://learn.microsoft.com/en-us/defender-xdr/identity-security/coverage-maturity Understanding how Microsoft is helping organisations assess identity security coverage and maturity across hybrid environments.Whether you're a SOC analyst, security architect, Microsoft Defender enthusiast, or just interested in where AI is taking security operations, this episode has plenty to unpack.📢 Connect with us:Follow the podcast for future episodesShare your thoughts on whether KQL is really \"dead\"Let us know what Defender and Security Copilot topics you'd like covered next</p>",
+    "publishedAt": "2026-11-04T23:00:00.000Z",
+    "duration": 1416,
+    "audioUrl": "https://anchor.fm/s/ffc85b18/podcast/play/128758151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-4%2F435849218-44100-2-8d4c3f7f0b66d.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42813206/42813206-1736469246945-da239cf8e7e34.jpg",
+    "episodeNumber": 17,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/anthony-anto-porter/episodes/Episode-17-Solo-Edition-with-Anthony-Anto-Porter-e3rnsu7"
+  },
+  {
     "id": "episode-16-special-guest-ray-reyes",
     "podcastId": "out-of-band-a-microsoft-security-podcast",
     "title": "Episode 16: Special Guest - Ray Reyes",

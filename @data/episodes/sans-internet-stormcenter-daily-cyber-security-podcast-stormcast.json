@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-thursday-november-5th-2026-email-test-scripts-runzero-oobscan-bmc",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Thursday, November 5th, 2026: Email Test Scripts; runZero oobscan BMC/IPMI; apt Signature Bypass (CVE-2026-109518); SonicWall GMS EOL Unpatched Flaws",
+    "description": "<br/>\nToday's Stormcast covers honeypot scans for leftover email test scripts, HD Moore's runZero oobscan for out-of-band management interfaces, a critical apt signature-bypass flaw (CVE-2026-109518), and unpatched SonicWall GMS end-of-life vulnerabilities.<br/>\nThe Classics Return: Vulnerable E-Mail Scripts<br/>\nInternet Storm Center honeypots are seeing probes for development email test scripts such as sendmail.php and test-mail.php. Like the classic FormMail script, these can leak environment variables and let attackers send spam through GET or POST parameters, so keep them out of production.<br/>\n<a href=\"https://isc.sans.edu/diary/The%20Classics%20Return%3A%20Vulnerable%20E-Mail%20Scripts/33488\">https://isc.sans.edu/diary/The%20Classics%20Return%3A%20Vulnerable%20E-Mail%20Scripts/33488</a><br/>\noobscan: Scan for Out-of-Band Management Interfaces<br/>\nHD Moore's runZero oobscan hunts exposed BMC, IPMI, SNMP, and IP KVM style out-of-band management interfaces and flags known vulnerabilities on those devices rather than only listing open ports.<br/>\n<a href=\"https://github.com/runZeroInc/oobscan#research-and-disclosures\">https://github.com/runZeroInc/oobscan#research-and-disclosures</a><br/>\napt Signature Bypass (CVE-2026-109518)<br/>\nA critical flaw in Debian's apt package manager can skip signature verification when a package web server returns crafted error responses, letting an on-path attacker inject malicious packages over HTTP. Prefer HTTPS where your distribution allows it; Ubuntu still often uses HTTP by default. Debian and Ubuntu have published updates for CVE-2026-109518.<br/>\n<a href=\"https://lists.debian.org/deity/2026/11/msg00005.html\">https://lists.debian.org/deity/2026/11/msg00005.html</a><br/>\n<a href=\"https://ubuntu.com/blog/apt-vulnerability-fixes-available\">https://ubuntu.com/blog/apt-vulnerability-fixes-available</a><br/>\n<a href=\"https://security-tracker.debian.org/tracker/CVE-2026-109518\">https://security-tracker.debian.org/tracker/CVE-2026-109518</a><br/>\nSonicWall GMS End of Life: Unpatched File Read and SQL Injection<br/>\nSonicWall Global Management System (GMS) 9.5.2 and earlier are end of life, and SonicWall will not fix an unauthenticated file read (CVE-2026-109593) or an authenticated SQL injection (CVE-2026-109594). Migration to Network Security Manager (NSM) is the vendor path forward.<br/>\n<a href=\"https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0019\">https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0019</a><br/>\n<a href=\"https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html\">https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html</a><br/>\n<a href=\"https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1456/\">https://www.cert.cyber.gouv.fr/avis/CERTFR-2026-AVI-1456/</a><br/>\nSANS Difference Makers Vote<br/>\n<a href=\"https://www.sans.org/go/difference-makers-awards-2026\">https://www.sans.org/go/difference-makers-awards-2026</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-11-05T11:25:11.000Z",
+    "duration": 347,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10166.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10166,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10166"
+  },
+  {
     "id": "sans-stormcast-wednesday-november-4th-2026-refrigerator-defrost-attacks-siemens-",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Wednesday, November 4th, 2026: Refrigerator Defrost Attacks; Siemens SIMATIC Node-RED Exploited (CVE-2026-58115); cPGuard Update Channel Compromise; iPhone Lockdown Mode AirDrop Exploit",
