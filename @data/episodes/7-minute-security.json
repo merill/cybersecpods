@@ -1,5 +1,22 @@
 [
   {
+    "id": "7ms-747-tales-of-pentest-pwnage-part-92",
+    "podcastId": "7-minute-security",
+    "title": "7MS #747: Tales of Pentest Pwnage – Part 92",
+    "description": "<p>Today's tale of pentest pwnage is about a GPO escalation path I'd seen before but could never get working, until a <a href= \"https://github.com/SpecterOps/bloodhound-cli\" target=\"_blank\" rel= \"noopener\">bloodhoundcli</a> update introduced me to <a href= \"https://github.com/synacktiv/GroupPolicyBackdoor\" target=\"_blank\" rel=\"noopener\">GroupPolicyBackdoor</a>. I'll cover how it let me target one specific server, how it cleans up after itself, and the little gotcha that confused me in the lab. Spoiler: all this hard work ended with a 2 a.m. domain admin victory dance and a well-earned mint hot cocoa. Added bonus: I've got a short video about GroupPolicyBackdoor over at <a href= \"https://www.7minsec.club/p/tuesday-toolsday-grouppolicybackdoor\" target=\"_blank\" rel=\"noopener\">7MinSec.club</a>.</p>",
+    "publishedAt": "2026-11-06T13:07:00.000Z",
+    "duration": 1735,
+    "audioUrl": "https://traffic.libsyn.com/secure/7minsec/7MS-747-Tales_of_Pentest_Pwnage-Part_92.mp3?dest-id=1921835",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://7minsec.libsyn.com/7ms-747-tales-of-pentest-pwnage-part-92"
+  },
+  {
     "id": "7ms-746-claude-is-really-good-at-powerpoint",
     "podcastId": "7-minute-security",
     "title": "7MS #746: Claude is Really Good at PowerPoint",
