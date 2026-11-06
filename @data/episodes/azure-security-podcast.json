@@ -1,5 +1,22 @@
 [
   {
+    "id": "episode-134-post-quantum-crypto-tls-13-in-azure-front-door",
+    "podcastId": "azure-security-podcast",
+    "title": "Episode 134: Post Quantum Crypto TLS 1.3 in Azure Front Door",
+    "description": "<p>In this episode Michael talks with Vlad Polyakov and Kunal Samant about Post Quantum Cryptography TLS 1.3 support in Azure Front Door.</p><p>We also discuss Azure Security news about Azure Application Gateway (WAF and IPv6 support), Azure Functions, Azure Payments HSM v2 and Azure Storage.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/azsecpod\">https://aka.ms/azsecpod</a></p>",
+    "publishedAt": "2026-11-06T14:55:26.000Z",
+    "duration": 1238,
+    "audioUrl": "https://content.rss.com/episodes/8411/3299478/azsecpodcast/2026_11_06_14_55_07_648a230f-7612-49a9-9a78-37a2813c9bc2.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 134,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/azsecpodcast/3299478"
+  },
+  {
     "id": "episode-133-news-about-the-azure-key-vault-family",
     "podcastId": "azure-security-podcast",
     "title": "Episode 133: News about the Azure Key Vault Family",

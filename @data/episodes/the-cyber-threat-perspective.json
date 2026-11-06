@@ -1,5 +1,22 @@
 [
   {
+    "id": "shinyhunters-the-token-theft-your-mfa-cant-stop-or-ep-202",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "ShinyHunters: The Token Theft Your MFA Can’t Stop | Ep 202",
+    "description": "<p>What happens when your entire security investment means nothing? In this episode, Brad and Spencer break down how ShinyHunters and related groups like Scattered Spider and Lapsus$ keep getting in through social engineering, no exploit required. They call your users posing as real IT staff, sometimes with AI voices tuned to sound local, and walk them into handing over session tokens and cookies. The attackers already have a session, so MFA and conditional access don’t stop them.</p><p>Spencer shares a lab test where a compliant device conditional access policy was bypassed by replaying cookies from an exported HAR file. Brad explains why the SSO handoff to third-party SaaS apps like Salesforce and document management systems leaves you relying on weaker session security. The hosts also cover why these intrusions are so hard to see in logs and what defenders can do about it.</p><p>In this episode:</p><ul><li>Who ShinyHunters are and why they focus on data extortion, not ransomware</li><li>How vishing and AI voice masking make these calls convincing</li><li>Why attackers are after session tokens, not credentials</li><li>How the SSO handoff to third-party SaaS apps sidesteps Microsoft protections</li><li>Why law firm DMS platforms are a top target for bulk data theft</li><li>Why stolen sessions rarely show up in Entra sign-in logs or SaaS login records</li><li>Using deception assets as high-fidelity, low-cost detection</li><li>Authentication brokers and named locations as a mitigation</li><li>Why tenant reviews and purple teaming beat assumptions</li></ul><p>Need help testing whether your environment can withstand session token theft? SecurIT360 offers penetration testing, purple teaming, and offensive security services. Visit securit360.com to learn more.</p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a><br/>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-11-06T16:00:00.000Z",
+    "duration": 1873,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/20084472-shinyhunters-the-token-theft-your-mfa-can-t-stop-ep-202.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 202,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "one-permission-away-from-domain-takeover-or-ep-201",
     "podcastId": "the-cyber-threat-perspective",
     "title": "One Permission Away from Domain Takeover | Ep 201",
