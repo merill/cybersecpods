@@ -1,5 +1,22 @@
 [
   {
+    "id": "openssh-auth-bypass-bug-hits-alpine-linux-operwrt",
+    "podcastId": "risky-bulletin",
+    "title": "OpenSSH auth bypass bug hits Alpine Linux, OperWRT",
+    "description": "<p>An OpenSSH authentication bypass bug hits Alpine Linux and OpenWRT, hackers attempt to raise fridge temperatures at French blood banks, a French bank gets hacked for $133 million, and the Thai opposition has been targeted with spyware.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-some-openssh-instances-take-any-password-longer-than-256-characters/\">Risky Bulletin: Some OpenSSH instances take any password longer than 256 characters</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-06T03:32:33.000Z",
+    "duration": 570,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS630.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS630/"
+  },
+  {
     "id": "srsly-risky-biz-the-ritual-bitcoin-sacrifices-will-continue-until-security-impro",
     "podcastId": "risky-bulletin",
     "title": "Srsly Risky Biz: The ritual bitcoin sacrifices will continue until security improves",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/SRB172/"
-  },
-  {
-    "id": "risky-bulletin-fortibleed-hacks-involved-a-lot-of-traffic-sniffing",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: FortiBleed hacks involved a lot of traffic sniffing",
-    "description": "<p>The FortiBleed hacks are worse than a credentials leak, a new White House executive order sets out a hard 2031 post quantum cryptography deadline, Meta leaks employee keystroke data, and a third of Samsung and LG TVs act as proxies.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-the-fortibleed-incident-is-so-much-worse-than-a-simple-credentials-leak/\">Risky Bulletin: The FortiBleed incident is so much worse than a simple credentials leak</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-06-24T06:20:28.000Z",
-    "duration": 523,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS581.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS581/"
   }
 ]
