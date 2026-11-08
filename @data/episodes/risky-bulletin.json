@@ -1,5 +1,22 @@
 [
   {
+    "id": "sponsored-the-evolution-of-asds-essential-eight",
+    "podcastId": "risky-bulletin",
+    "title": "Sponsored: The evolution of ASD's Essential Eight",
+    "description": "<p>In this Risky Business sponsored interview Tom Uren talks to Airlock Digital’s CTO and CSO Peter Baussmann about how the Essential Eight is evolving into ASD’s Essentials framework.</p>\n\n<p>The pair discuss why the change was needed and how Essentials is a broader framework that is less prescriptive and requires more judgement.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.airlockdigital.com/airlock-blog/from-the-essential-eight-to-asds-essentials\">From the Essential Eight to ASD's Essentials</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-08T19:10:22.000Z",
+    "duration": 951,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI150.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI150/"
+  },
+  {
     "id": "openssh-auth-bypass-bug-hits-alpine-linux-operwrt",
     "podcastId": "risky-bulletin",
     "title": "OpenSSH auth bypass bug hits Alpine Linux, OperWRT",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS582/"
-  },
-  {
-    "id": "srsly-risky-biz-open-weight-models-make-the-mythos-debate-moot",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: Open weight models make the Mythos debate moot",
-    "description": "<p>Tom Uren and James Wilson talk about the Five Eyes cyber security agencies warning about the arrival of AI-enabled cyber threats. The call-to-action is driven by the recognition that it is no longer possible to limit AI’s offensive cyber security capabilities to benign actors. The genie is out of the bottle, regardless of export controls on frontier models.</p>\n\n<p>They also discuss the progress of Operation Endgame, the multinational joint operation that has been disrupting the cybercriminal ecosystem. It’s been a great success, but criminal enterprises bounce back. Keeping a lid on cybercrime will require continuous disruption programs.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/ldEJq_JxYuM\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-06-25T08:38:45.000Z",
-    "duration": 1708,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB172.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB172/"
   }
 ]
