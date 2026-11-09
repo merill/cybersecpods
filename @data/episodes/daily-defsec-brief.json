@@ -1,5 +1,22 @@
 [
   {
+    "id": "sshole-attacks-on-alpine-sonicwall-mfa-bypass-ai-agent-breaches-workos-or-cyber-",
+    "podcastId": "daily-defsec-brief",
+    "title": "SSHole attacks on Alpine, SonicWall MFA bypass, AI agent breaches WorkOS | Cyber Security News Nov 9",
+    "description": "<p>  Attackers are trying the SSHole long-password bypass against OpenSSH on Alpine, and a SonicWall SSL VPN flaw skips SAML MFA. Also: an AI agent going from a GitHub secret to Azure Key Vault in five minutes, a hijacked release bot that published to npm, Claude Code's settings file leaking secrets, and an AI pentest agent that got into WorkOS. Every version number and every fix in this episode was checked against the vendor's own advisory before it aired. Today's question: How do you keep development credentials out of production at your shop? Reply in the comments or at <a href=\"mailto:feedback@defensivesecurity.org\" rel=\"noopener noreferrer nofollow\">feedback@defensivesecurity.org</a>.</p><p><br /></p><p>1. SSHole long-password attacks hit OpenSSH on Alpine - CVE-2026-123158 - Fixed: 10.6p2; Alpine 3.24 10.3_p1-r2, 3.23 10.2_p1-r1, 3.22 10.0_p1-r11 - Do: Update OpenSSH on Alpine and restart sshd - <a href=\"https://www.openssh.com/txt/release-10.6p2\" rel=\"noopener noreferrer nofollow\">https://www.openssh.com/txt/release-10.6p2</a></p><p>2. SonicWall SSL VPN flaw skips SAML MFA - CVE-2026-19868 - Fixed: Gen7 7.3.4-7013; Gen8 8.2.3-8015 - federal due 2026-11-20 - Do: Upgrade SonicOS on your SonicWall firewalls - <a href=\"https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0014\" rel=\"noopener noreferrer nofollow\">https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0014</a></p><p>3. Update: AI agent mined GitHub, hit Key Vault - Do: Rotate every secret ever in a public repository - <a href=\"https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/\" rel=\"noopener noreferrer nofollow\">https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/</a></p><p>4. Hijacked release bot backdoored bee-js on npm - Do: Treat GitHub release rights as publish rights - <a href=\"https://safedep.io/blog/ethersphere-bee-js-npm-compromise\" rel=\"noopener noreferrer nofollow\">https://safedep.io/blog/ethersphere-bee-js-npm-compromise</a></p><p>5. Claude Code settings file leaks secrets to GitHub - Do: Rotate secrets in Claude Code settings files - <a href=\"https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html\" rel=\"noopener noreferrer nofollow\">https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html</a></p><p>6. DNS typos let outsiders send mail as agencies - Do: Check DNS records for typos and expired domains - <a href=\"https://www.sh.consulting/blog/government-dangling-dns-records\" rel=\"noopener noreferrer nofollow\">https://www.sh.consulting/blog/government-dangling-dns-records</a></p><p>7. An AI pentest agent got into WorkOS - Do: Take internal tools off the open internet - <a href=\"https://workos.com/security/bulletins/update-for-october-30th-2026-data-security-incident\" rel=\"noopener noreferrer nofollow\">https://workos.com/security/bulletins/update-for-october-30th-2026-data-security-incident</a></p><p><br /></p>",
+    "publishedAt": "2026-11-09T14:05:50.000Z",
+    "duration": 236,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/2a8aeca8ec9bafddb02340da9b12eec70a612378e9af2055a820beeaf47bc3f3/eyJlcGlzb2RlSWQiOiJhYzU4YmZkZS02NDRjLTQyOGItYjgyZC0xOTNkOWM1MGE2MjkiLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmFmMWQzMDFkYTA3Mzk1NGRiMzE1YWZmL2RhaWx5LWRlZnNlYy0yMDI2LTExLTlfXzE0LTQtNDkubXAzIn0=.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "apt29-linked-phone-exploits-zyxel-patch-bypass-white-house-proxy-or-cyber-securi",
     "podcastId": "daily-defsec-brief",
     "title": "APT29-linked phone exploits, Zyxel patch bypass, White House proxy | Cyber Security News Nov 5",
