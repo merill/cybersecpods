@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-monday-november-9th-2026-sshole-scans-cve-2026-123158-sonicwall-s",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Monday, November 9th, 2026: sshole Scans (CVE-2026-123158); SonicWall SonicOS MFA Bypass (CVE-2026-19868); Entra Device Registration (CVE-2026-109469); Claude Code Secrets Leak",
+    "description": "<br/>\nISC honeypots seeing sshole (CVE-2026-123158) exploitation attempts; SonicWall patches seven SonicOS flaws including an already-exploited SSL VPN MFA bypass; Microsoft cloud-fixed an Entra Device Registration elevation-of-privilege bug; Apiiro found Claude Code saving secrets into .claude/settings.local.json on GitHub.<br/>\nScans for sshole Vulnerability (CVE-2026-123158)<br/>\nISC honeypots are seeing long letter-A passwords that look like sshole exploitation, with clear attempts starting November 5th after earlier long passwords that were mostly buggy brute-force scripts dumping shell commands into the password field. Honeypots only keep the first 255 characters of each password, which limits what can be measured.<br/>\n<a href=\"https://isc.sans.edu/diary/Scans+for+Sshole+Vulnerability+CVE2026123158/33498\">https://isc.sans.edu/diary/Scans+for+Sshole+Vulnerability+CVE2026123158/33498</a><br/>\nSonicWall SonicOS Multiple Vulnerabilities (SNWLID-2026-0014)<br/>\nOn Friday SonicWall released patches for seven SonicOS vulnerabilities; one already-exploited flaw lets attackers bypass multi-factor authentication for SSL VPN logins when an alternate authentication method without MFA is also defined. Patch promptly press and CISA associate the exploited issue with CVE-2026-19868.<br/>\n<a href=\"https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0014\">https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2026-0014</a><br/>\n<a href=\"https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/\">https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/</a><br/>\nEntra Device Registration Elevation of Privilege (CVE-2026-109469)<br/>\nMicrosoft patched an authorization bypass in Entra Device Registration over the weekend that could let an unauthorized attacker elevate privileges. No customer action is required: it is a Microsoft-hosted cloud service, and Microsoft says there was no exploitation at the time of the fix and rates future exploitation less likely.<br/>\n<a href=\"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109469\">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-109469</a><br/>\nClaude Code Leaking Secrets on GitHub<br/>\nApiiro reports that Anthropic's Claude Code can store credentials in .claude/settings.local.json when you tell it not to ask again about an API or command, and that on the order of a thousand-plus of those credential files have shown up on GitHub. ISC web honeypots also saw new requests for the .claude directory this weekend; rotate exposed secrets and watch for Anthropic updates.<br/>\n<a href=\"https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\">https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again</a><br/>\n<a href=\"https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html\">https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html</a><br/>\nSANS Difference Makers Vote<br/>\n<a href=\"https://www.sans.org/go/difference-makers-awards-2026\">https://www.sans.org/go/difference-makers-awards-2026</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-11-09T02:05:10.000Z",
+    "duration": 421,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10170.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10170,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10170"
+  },
+  {
     "id": "sans-stormcast-friday-november-6th-2026-rootevidence-cisco-ios-opt-out-scans-ope",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Friday, November 6th, 2026: RootEvidence Cisco IOS Opt-Out Scans; OpenSSH musl sshhole (CVE-2026-123158); Refrigeration OT Hardening; Zyxel GS1900 OOB Write (CVE-2026-107441)",

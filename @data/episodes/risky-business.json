@@ -1,5 +1,22 @@
 [
   {
+    "id": "soap-box-security-must-be-more-browser-centric",
+    "podcastId": "risky-business",
+    "title": "Soap Box: Security must be more browser-centric",
+    "description": "<p>In this Soap Box episode Patrick Gray chats to Push Security co-founder and CEO Adam Bateman about the benefits of taking a browser-centric approach to security.</p>\n\n<p>By now most Risky Business listeners know that Push sells a browser extension-based product that can reliably prevent phishing, ClickFix and ConsentFix. But what’s next? Where to from here once you’re already in the browser?</p>\n\n<p>Well, Push is expanding into the data loss prevention and secure web gateway product space. Why use a SWG based on 15-year-old technology when an extension can give you an even better security result? Especially when you can drop the drawbacks, like tromboning all your traffic into a random data centre…</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/-mXQS8QxLVs\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-11-09T02:58:50.000Z",
+    "duration": 2163,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX112.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SOAPBOX112/"
+  },
+  {
     "id": "risky-business-858-the-dollar63b-laptop",
     "podcastId": "risky-business",
     "title": "Risky Business #858 -- The $6.3b laptop",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB789/"
-  },
-  {
-    "id": "snake-oilers-limacharlie-honeywell-cyber-insights-cobaltstrike-and-outflank",
-    "podcastId": "risky-business",
-    "title": "Snake Oilers: LimaCharlie, Honeywell Cyber Insights, CobaltStrike and Outflank",
-    "description": "<p>In this edition of the Snake Oilers podcast, three sponsors come along to pitch their products:</p>\n<ul>\n  <li><a href=\"https://limacharlie.io/\">LimaCharlie</a>: A public cloud for SecOps</li>\n  <li><a href=\"https://process.honeywell.com/us/en/products/ot-cybersecurity/cyber-insights\">Honeywell Cyber Insights</a>: An OT security/discovery solution</li>\n  <li><a href=\"https://www.fortra.com/offensive-security-tools\">Fortra’s CobaltStrike</a> and <a href=\"https://www.outflank.nl/\">Outflank</a>: Security tooling for red teamers</li>\n</ul>\n\n<p>This episode is also available on <a href=\"https://youtu.be/UZN4e-iiVLo\">Youtube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2025-04-28T04:44:34.000Z",
-    "duration": 2330,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/snakeoilers21pt2.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/snakeoilers21pt2/"
   }
 ]
