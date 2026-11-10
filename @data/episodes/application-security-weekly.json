@@ -1,5 +1,22 @@
 [
   {
+    "id": "human-expertise-will-always-be-the-core-of-ai-cybersecurity-andrew-wesie-asw-408",
+    "podcastId": "application-security-weekly",
+    "title": "Human Expertise Will Always Be The Core Of AI Cybersecurity - Andrew Wesie - ASW #408",
+    "description": "<p>AI-enabled cyber attackers will check every third-party path into an application at scale and speed. The same process can help defenders just as much, but it's only as effective as the human expertise guiding it. Andrew Wesie, Xint co-founder and CTO. explains how human engineering in harness construction is the determining factor between real, autonomous exploit discovery and validation versus a machine that just generates more noise.</p> <p>Segment Resources:</p> <ul> <li>Business logic vulns, <a rel=\"noopener\" target=\"_blank\" href= \"https://xint.io/blog/compaction-smuggling-reasoning-traces\">https://xint.io/blog/compaction-smuggling-reasoning-traces</a> and <a rel=\"noopener\" target=\"_blank\" href= \"https://xint.io/blog/openai-compaction-inference\">https://xint.io/blog/openai-compaction-inference</a></li> <li>Securing apps and their third-party access, <a rel=\"noopener\" target=\"_blank\" href= \"https://xint.io/resources/the-side-door-problem-what-the-korean-bank-breaches-mean-for-us-banks\"> https://xint.io/resources/the-side-door-problem-what-the-korean-bank-breaches-mean-for-us-banks</a></li> <li>Working with DARPA to test the infrastructure surrounding messaging apps, <a rel=\"noopener\" target=\"_blank\" href= \"https://xint.io/blog/darpa-selects-xint-to-research-source-code-vulnerabilities-in-critical-messaging-applications-used-in-military-communications-330339\"> https://xint.io/blog/darpa-selects-xint-to-research-source-code-vulnerabilities-in-critical-messaging-applications-used-in-military-communications-330339</a></li> </ul> <p>This segment is sponsored by Xint. To learn more, visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/xint\">https://securityweekly.com/xint</a>!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-408\">https://securityweekly.com/asw-408</a></p>",
+    "publishedAt": "2026-11-10T10:00:00.000Z",
+    "duration": 3681,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_408_1--ee4292f3-0356-4629-9ec1-9d7a6b442e53--audio-converted--18d0ed41-d773-4d92-bc0f-159f690486b8.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/e/3/f/c/e3fc4a3883b644655f2e77a3093c12a1/ASW_408_Thumbnail_ASW_1920x1920_99415a70-ddbc-4ae7-aeab-9ba380630383.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/human-expertise-will-always-be-the-core-of-ai-cybersecurity-andrew-wesie-asw-408"
+  },
+  {
     "id": "more-vulns-and-more-guesswork-from-less-data-jeremiah-grossman-asw-407",
     "podcastId": "application-security-weekly",
     "title": "More Vulns and More Guesswork from Less Data - Jeremiah Grossman - ASW #407",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "dtsr-episode-731-anton-chuvakin-ai-laughs-at-your-firewall-policy",
+    "podcastId": "down-the-security-rabbithole",
+    "title": "DtSR Episode 731 - Anton Chuvakin AI Laughs At Your Firewall Policy",
+    "description": "<p><b>TL;DR: </b>AI doesn't care about your firewall policy. We dig into the uncomfortable question many security teams are quietly asking: Are firewalls still relevant in the age of AI, agent swarms, and automation?</p><p><b>Guest:</b></p><ul><li>Anton Chuvakin</li></ul><p><b>Video: </b><a href='https://youtu.be/SkeVmc6NVuc'>https://youtu.be/SkeVmc6NVuc</a></p><p><b>Description:</b> Your firewall policy looks solid right up until an AI agent decides it’s negotiable. We dig into the uncomfortable question many security teams are quietly asking: are firewalls still relevant in the age of AI, agent swarms, and automation that can probe systems faster than any human ever could? Our take is blunt and practical. If there’s no access, there’s no access, but almost nobody manages segmentation and firewall rules as cleanly as they think they do [or should].<br/><br/>We break down what people are starting to call an “AI firewall\" (I feel like I should apologize for that), and why that label can mean two totally different things: a firewall that controls AI traffic (prompts, tool calls, model access, data exfil paths) and a firewall that uses AI to manage policy (untangling years of exceptions, spotting risky openings, and making rulebases make sense again). From there, we spar over hardware versus virtual controls, the appeal of a real kill switch, and why “AI changes everything” and “AI changes nothing” are both lazy answers.<br/><br/>The second half gets grounded in day-to-day operations: local inference versus managed models, the real economics of tokens versus hardware, and where AI actually helps today. We’re bullish on using AI in the SOC to eliminate manual triage, ticket chasing, and context gathering, but we’re skeptical it can replace human judgment. <em>Models can be technically correct and operationally wrong, and only experienced analysts can supply the feedback and intuition that tighten the loop.</em><br/><br/>If you’re building an AI security strategy, hardening network controls, or wondering how agentic AI changes governance, this conversation is for you. Subscribe, share it with a teammate, and leave a review with your spiciest take: do you trust “virtual” guardrails, or do you want something you can power off?</p><p><a target=\"_blank\" href=\"https://www.buzzsprout.com/2153215/fan_mail/new\">Have something to say? Let's hear it.</a></p><p><a rel=\"payment\" href=\"https://www.buzzsprout.com/2153215/support\">Support the show</a></p><p><em>>>> Please consider clicking the link above to support the show!</em><br/>-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=<br/><b>YouTube home:</b> <a href='https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq'>https://youtube.com/playlist?list=PLyo0dkKRvfVtWXjRxNISrhme1MgBj3C2U&si=scHDiTuLXSEQ9qHq</a><br/><b>LinkedIn Page:</b> <a href='https://www.linkedin.com/company/down-the-security-rabbithole-podcast/'>https://www.linkedin.com/company/down-the-security-rabbithole-podcast/</a><br/><b>X/Twitter:</b> <a href='https://twitter.com/dtsr_podcast'>https://twitter.com/dtsr_podcast</a></p>",
+    "publishedAt": "2026-11-10T11:00:00.000Z",
+    "duration": 2063,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/2153215/episodes/20100903-dtsr-episode-731-anton-chuvakin-ai-laughs-at-your-firewall-policy.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 731,
+    "seasonNumber": 16,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://dtsrpodcast.com"
+  },
+  {
     "id": "dtsr-episode-730-matt-coons-agentic-detection-engineering",
     "podcastId": "down-the-security-rabbithole",
     "title": "DtSR Episode 730 - Matt Coons Agentic Detection Engineering",
