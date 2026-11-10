@@ -1,5 +1,22 @@
 [
   {
+    "id": "between-two-nerds-why-php2shell-fizzled",
+    "podcastId": "risky-bulletin",
+    "title": "Between Two Nerds: Why PHP2Shell fizzled",
+    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about why PHP2Shell failed to live up to its hype. A critical bug in a very widely used web scripting language amounted to… not much. The pair dissect the reasons why.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://x.com/ZackKorman/status/2115785811283370277\">Zack Korman on PHP</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/MalwareTechBlog/status/2115864790833004641/history\">Marcus Hutchins on hacking as a business</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/arekfurt/status/2114495028601225226\">Brian in Pittsburgh on memory corruption</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-09T18:36:54.000Z",
+    "duration": 1456,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN189.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/BTN189/"
+  },
+  {
     "id": "risky-bulletin-pro-kremlin-hacktivists-dox-eu-politicians-law-enforcement",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Pro-Kremlin hacktivists dox EU politicians, law enforcement",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS583/"
-  },
-  {
-    "id": "sponsored-corelights-blueprint-for-ai-era-defence",
-    "podcastId": "risky-bulletin",
-    "title": "Sponsored: Corelight’s blueprint for AI-era defence",
-    "description": "<p>In this sponsored interview James Wilson chats with Corelight’s VP of Product Vijit Nair about defence strategies for the AI era. When agents can find and exploit vulnerabilities at machine speed, you need to balance between proactive and reactive measures.</p>\n\n<p>On the proactive side, you need modelling of assets and threats. On the reactive side you’ll need telemetry so you can act quickly if a threat becomes a reality.</p>\n\n<p>Corelight makes NDR hardware that runs a heavily optimised version of the Zeek network monitoring tool. Combined with its Agentic Triage product, customers can detect threats in their networks, and monitor the effectiveness of their mitigation strategies.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-06-29T01:10:51.000Z",
-    "duration": 1167,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI134.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWSSI134/"
   }
 ]
