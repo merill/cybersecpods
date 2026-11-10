@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-november-10th-2026-sap-netweaver-webshells-cve-2025-31324",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, November 10th, 2026: SAP NetWeaver Webshells (CVE-2025-31324); N-able N-central Offline; Chrome XML 0-Day (CVE-2026-125350); Outlook DMARC Required",
+    "description": "<br/>\nToday's episode covers attackers hunting SAP NetWeaver webshells from CVE-2025-31324, N-able taking N-central offline after dozens of unpatched flaws, a Chrome XML use-after-free zero-day, and Outlook rejecting mail without DMARC.<br/>\nAttackers Searching for SAP NetWeaver Webshells<br/>\nISC honeypots are seeing probes for ant.jsp and related paths tied to SAP NetWeaver CVE-2025-31324, a CVSS 10 unauthenticated file-upload flaw attackers still use to plant webshells even after recent patches. Watch /irj/servlet_jsp/irj/root/ and other upload endpoints for leftover shells.<br/>\n<a href=\"https://isc.sans.edu/diary/Attackers%20Searching%20for%20SAP%20Netweaver%20Webshells/33502\">https://isc.sans.edu/diary/Attackers%20Searching%20for%20SAP%20Netweaver%20Webshells/33502</a><br/>\nN-able N-central Critical Security Incident<br/>\nN-able took Hosted N-central offline after public disclosure of roughly 30+ critical vulnerabilities with no patches yet, and advises on-premises customers to take servers offline if not isolated; no exploitation observed so far, with remediation said to be on track.<br/>\n<a href=\"https://uptime.n-able.com/\">https://uptime.n-able.com/</a><br/>\n<a href=\"https://labs.beazley.security/advisories/BSL-A1242\">https://labs.beazley.security/advisories/BSL-A1242</a><br/>\nGoogle Chrome Zero-Day Patch (CVE-2026-125350)<br/>\nChrome stable updates fix nine vulnerabilities, including CVE-2026-125350, a use-after-free in the XML parser that Google says is already exploited in the wild. Update promptly; the advisory does not confirm a sandbox escape.<br/>\n<a href=\"https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop_018223192.html\">https://chromereleases.googleblog.com/2026/11/stable-channel-update-for-desktop_018223192.html</a><br/>\nStrict Outlook DMARC Policies<br/>\nOutlook is rejecting mail with 550 errors when the sending domain lacks a DMARC record, even if SPF and DKIM pass. Publish at least a DMARC record (for example p=none) alongside SPF and DKIM.<br/>\n<a href=\"https://learn.microsoft.com/en-us/answers/questions/6063865/550-5-7-1-message-rejected-message-lacks-spf-dkim\">https://learn.microsoft.com/en-us/answers/questions/6063865/550-5-7-1-message-rejected-message-lacks-spf-dkim</a><br/>\nSANS Difference Makers Vote<br/>\n<a href=\"https://www.sans.org/go/difference-makers-awards-2026\">https://www.sans.org/go/difference-makers-awards-2026</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-11-10T02:00:02.000Z",
+    "duration": 333,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10172.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10172,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10172"
+  },
+  {
     "id": "sans-stormcast-monday-november-9th-2026-sshole-scans-cve-2026-123158-sonicwall-s",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, November 9th, 2026: sshole Scans (CVE-2026-123158); SonicWall SonicOS MFA Bypass (CVE-2026-19868); Entra Device Registration (CVE-2026-109469); Claude Code Secrets Leak",
