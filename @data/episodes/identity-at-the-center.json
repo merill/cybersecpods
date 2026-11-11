@@ -1,5 +1,22 @@
 [
   {
+    "id": "460-sponsor-spotlight-silverfort",
+    "podcastId": "identity-at-the-center",
+    "title": "#460 - Sponsor Spotlight - Silverfort",
+    "description": "<p>Jeff and Jim are joined by Rob Ainscough, Chief Identity Security Advisor at Silverfort and host of the Identity Decoded podcast, to look at what happens when an autonomous AI attacker goes after identity. Rob shares how a decade running a 400,000-person IAM program at a UK retailer, and one identity-driven incident, moved him from compliance-led to threat-led identity. He walks through the AI Attack Lab, where an AI red agent called Cypher went from a network foothold to domain dominance in under four minutes by chaining familiar identity weaknesses in parallel. The conversation covers why governance alone can't stop machine-speed attacks, identity as a drawbridge that rises with the threat level, why agents favor non-human identities, and giving every account a protection plan. Plus podcasting lessons, community building, and the return of the Identity Mullet.</p><p><br></p><p>This episode is made possible with support from Silverfort. Learn more at silverfort.com/idac</p><p><br></p><p>Connect with Rob: https://www.linkedin.com/in/rob-ainscough/</p><p><br></p><p>Identity Decoded podcast: https://www.silverfort.com/identity-decoded-podcast/</p><p><br></p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at idacpodcast.com</p><p><br></p><p><br></p><p>00:00 Intro, and an apology to Mark</p><p>01:33 Meet Rob Ainscough</p><p>01:53 Falling into identity at a UK retailer</p><p>03:43 The incident that changed everything</p><p>05:48 Orphaned account war stories</p><p>07:59 Account correlation in the age of agents</p><p>09:23 The Identity Decoded podcast</p><p>11:11 What Silverfort has been focused on</p><p>13:21 Black October: hype vs. reality</p><p>15:51 Familiar techniques, new speed and scale</p><p>18:52 What is the AI Attack Lab?</p><p>23:23 Watching Cypher compromise a domain</p><p>27:58 What identity programs left behind</p><p>29:25 Building the attacker and keeping it contained</p><p>32:16 Controls that stay transparent to the model</p><p>34:08 What surprised Rob most</p><p>35:27 Goal-oriented to a fault</p><p>37:23 Was the lab environment rigged?</p><p>39:16 How security teams react</p><p>43:16 Why good governance isn't enough</p><p>47:19 Where to start: every account has a plan</p><p>49:31 Why AI attackers target NHIs</p><p>51:19 Lessons from a first season of podcasting</p><p>56:38 Nerves before hitting record</p><p>58:27 The Identity Mullet</p><p>01:02:38 Wrap-up</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Rob Ainscough, Silverfort, Sponsor Spotlight, Identity Decoded, AI Attack Lab, Cypher, AI agents, agentic AI, autonomous attacker, Black October, threat-led identity, identity threat detection and response, ITDR, Active Directory, Kerberoasting, AS-REP roasting, golden ticket, lateral movement, credential harvesting, domain compromise, non-human identities, NHI, service accounts, PAM, IGA, identity debt, runtime enforcement, identity security, CISO, red team, Mythos</p>",
+    "publishedAt": "2026-11-11T10:00:00.000Z",
+    "duration": 3868,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/128851813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2Fb95113b9-c8dd-2f5c-3fe7-066e62798536.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 460,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/460---Sponsor-Spotlight---Silverfort-e3rqod5"
+  },
+  {
     "id": "459-the-three-lines-model-for-identity-practitioners-with-autumn-hurley",
     "podcastId": "identity-at-the-center",
     "title": "#459 - The Three Lines Model for Identity Practitioners with Autumn Hurley",
