@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-wednesday-november-11th-2026-microsoft-patch-tuesday-outlook-spoo",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Wednesday, November 11th, 2026: Microsoft Patch Tuesday Outlook Spoofing (CVE-2026-124194); Apple Bluetooth and iMessage Fixes; SAP NetWeaver CVSS 10s (CVE-2026-89103)",
+    "description": "<br/>\nMicrosoft's November Patch Tuesday, Apple's iOS and macOS updates, and SAP's Security Patch Day all arrived this week, including an already exploited Outlook spoofing bug and four SAP flaws with a perfect CVSS score of 10.<br/>\nMicrosoft Patch Tuesday<br/>\nMicrosoft is addressing 1,260 vulnerabilities this month, 68 of them critical, including 167 Chromium issues that affect Microsoft Edge. One already exploited Outlook spoofing vulnerability, CVE-2026-124194, may hide the risk of a file being opened, in a Mark of the Web style issue, though Microsoft does not rate it critical. Other notable critical issues include a Lightweight Directory Access Protocol (LDAP) remote code execution flaw in Active Directory environments (CVE-2026-119958), five critical Microsoft Queuing and Queue Manager bugs, and a Windows TCP/IP remote code execution vulnerability (CVE-2026-113859) that Microsoft rates critical despite a 7.5 Common Vulnerability Scoring System (CVSS) score.<br/>\n<a href=\"https://isc.sans.edu/diary/Microsoft+Patch+Tuesday+November+2027/33508\">https://isc.sans.edu/diary/Microsoft+Patch+Tuesday+November+2027/33508</a><br/>\nApple Patches<br/>\nApple released updates for iOS, iPadOS, macOS, watchOS, and visionOS that fix only nine vulnerabilities, with iPadOS and macOS patches going back to version 18, watchOS one version back, and visionOS only for the current release. Most of the issues weaken the Bluetooth handshake so an attacker can pair with a phone or Mac, and there are also AirPlay rate-limiting problems; one vulnerability only affects an older iOS release and lets an attacker with physical access pair a locked device with an AirPlay receiver. A more notable iMessage issue may let someone join a group and receive its messages without being invited. Apple states that none of these bugs are being exploited.<br/>\n<a href=\"https://isc.sans.edu/diary/Apple+Patches+Everyting+November+2026+Edition/33506/\">https://isc.sans.edu/diary/Apple+Patches+Everyting+November+2026+Edition/33506/</a><br/>\nSAP Patch Tuesday<br/>\nSAP's November Security Patch Day, issued in sync with Microsoft's, includes four vulnerabilities with a perfect CVSS score of 10, three more at 9.9, and two more in the nines, including issues in SAP NetWeaver. Onapsis reported a broken access control flaw in SAP Gateway (CVE-2026-89103) tied to the proxy access control list, and a WebSocket memory-corruption bug that Onapsis has shown as a denial of service but says can also allow remote code execution (CVE-2026-76964 and CVE-2026-89126).<br/>\n<a href=\"https://support.sap.com/en/my-support/knowledge-base/security-notes-news/november-2026.html\">https://support.sap.com/en/my-support/knowledge-base/security-notes-news/november-2026.html</a><br/>\n<a href=\"https://onapsis.com/blog/proxygate-cve-2026-89103-sap-netweaver-gateway-threat-advisory/\">https://onapsis.com/blog/proxygate-cve-2026-89103-sap-netweaver-gateway-threat-advisory/</a><br/>\n<a href=\"https://onapsis.com/blog/icm2shell-cve-2026-76964-cve-2026-89126-sap-netweaver-web-dispatcher-threat-advisory/\">https://onapsis.com/blog/icm2shell-cve-2026-76964-cve-2026-89126-sap-netweaver-web-dispatcher-threat-advisory/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-11-11T02:00:03.000Z",
+    "duration": 572,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10174.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10174,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10174"
+  },
+  {
     "id": "sans-stormcast-tuesday-november-10th-2026-sap-netweaver-webshells-cve-2025-31324",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, November 10th, 2026: SAP NetWeaver Webshells (CVE-2025-31324); N-able N-central Offline; Chrome XML 0-Day (CVE-2026-125350); Outlook DMARC Required",
