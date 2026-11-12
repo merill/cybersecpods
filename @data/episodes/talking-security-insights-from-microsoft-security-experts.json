@@ -1,5 +1,22 @@
 [
   {
+    "id": "building-an-agentic-soc-with-jaime-guimera-coll",
+    "podcastId": "talking-security-insights-from-microsoft-security-experts",
+    "title": "Building an Agentic SOC with Jaime Guimera Coll",
+    "description": "<p><a href=\"https://rss.com/podcasts/talking-security/voicemail\" target=\"_blank\">Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode!</a></p><p>How do AI agents catch an attack that stays below every alert threshold? Jaime Guimera Coll, Microsoft Security MVP and security and AI architect at BlueVoyant, shares how he builds agentic SOC workflows that triage, investigate and correlate alerts across customer tenants.</p><p>In this episode</p><ul><li>How an agent correlated a low-severity brute force across tenants and found the one customer that was actually compromised</li><li>Why the agent is \"just the brain\": tools live in an orchestrator with code-enforced guardrails, budgets and full transparency</li><li>Where the human still decides, and why agents do not take response actions in production today</li><li>Testing SOC agents against real analyst outcomes and comparing models on speed, cost and quality</li><li>Surprising agent behaviour, including an agent that used the KQL externaldata operator to fetch internet data through Sentinel</li><li>What data reaches the model, and why enterprise instances in Microsoft Foundry change the picture</li><li>Security Copilot versus Project Perception, and Jaime's own Security Copilot MCP server</li><li>What SOC managers should train their analysts on, and advice for analysts worried about their jobs</li></ul><p></p><p>Chapters</p><p>00:00 Welcome and introductions</p><p>01:24 From developer to security founder</p><p>07:46 Agentic workflows in the SOC</p><p>11:48 Catching a slow cross-tenant brute force</p><p>16:29 Transparency and human decisions</p><p>20:11 Will AI replace SOC analysts?</p><p>25:11 Testing SOC agents for production</p><p>32:59 Model choice and data privacy</p><p>35:57 Security Copilot vs Project Perception</p><p>42:25 Daily AI use, rapid fire and advice</p><p></p><p>Guest: Jaime Guimera Coll – Security and AI Architect at BlueVoyant, Microsoft Security MVP</p><p>Hosts: Frans Oudendorp & Pouyan Khabazi</p><p></p><p>Watch on YouTube: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://youtu.be/flnWzcKx0D8\">https://youtu.be/flnWzcKx0D8</a></p><p>More episodes: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://talkingsecurity.nl\">https://talkingsecurity.nl</a></p>",
+    "publishedAt": "2026-11-12T11:49:43.000Z",
+    "duration": 3512,
+    "audioUrl": "https://content.rss.com/episodes/159543/3314371/talking-security/2026_11_12_11_49_36_2a9e1cad-70c6-4706-bc76-392ad9efd376.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://media.rss.com/talking-security/ep_cover_20261112_114848_18e920c706d5de10e636d04de98bb52a.png",
+    "episodeNumber": 2,
+    "seasonNumber": 8,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://rss.com/podcasts/talking-security/3314371"
+  },
+  {
     "id": "securing-ai-agents-blueprints-and-agent-365-with-derk-van-der-woude",
     "podcastId": "talking-security-insights-from-microsoft-security-experts",
     "title": "Securing AI Agents: Blueprints and Agent 365 with Derk van der Woude",
