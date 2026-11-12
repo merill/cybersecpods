@@ -1,5 +1,22 @@
 [
   {
+    "id": "come-for-the-hacking-stay-for-the-cheese",
+    "podcastId": "beers-with-talos",
+    "title": "Come for the Hacking, Stay for the Cheese",
+    "description": "<p>Talos' Ashley Shen joins Hazel, Dave, Bill and Joe to talk about investigating emerging threats and building security communities. </p><p>Ashley shares her route into threat intelligence, as well as the stories behind co-founding HITCON GIRLS in Taiwan and Rhacklette in Switzerland and how she helps others find their way into security. We discuss her work investigating spyware and surveillance campaigns, investigating UAT-6275 with Recorded Future, how she builds an attribution case, and as a Black Hat board reviewer, what conference reviewers want from a CFP submission.</p><p>Plus, learn about how Ashley’s AI agents are working around the clock (but they’re all waiting for her). Dave investigates the team’s karaoke choices. And in 'Make Hazel a Hacker', a modest incident response budget meets some very old bidet-making equipment.</p><p>Link to Ashley's Talos research: <a href='https://blog.talosintelligence.com/author/ashley/'>https://blog.talosintelligence.com/author/ashley/</a></p><p>Rhacklette community: <a href='https://rhacklette41.github.io/'>https://rhacklette41.github.io/</a></p><p>HITCON Girls: <a href='https://girls.hitcon.org/main/en.html'>https://girls.hitcon.org/main/en.html</a></p><p><em>A production note: Technical difficulties during recording affected the audio quality in a few small places. We’ve cleaned it up as much as possible. Thanks for bearing with us.</em></p>",
+    "publishedAt": "2026-11-12T10:00:00.000Z",
+    "duration": 4464,
+    "audioUrl": "https://www.buzzsprout.com/2033817/episodes/20088709-come-for-the-hacking-stay-for-the-cheese.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "the-guy-who-invented-pain-plus-first-reactions-to-php2shell",
     "podcastId": "beers-with-talos",
     "title": "The Guy Who Invented Pain (plus first reactions to PHP2Shell)",
