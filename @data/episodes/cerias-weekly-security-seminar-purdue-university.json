@@ -1,5 +1,22 @@
 [
   {
+    "id": "gary-mcgraw-no-security-meter-for-ai",
+    "podcastId": "cerias-weekly-security-seminar-purdue-university",
+    "title": "Gary McGraw, No Security Meter for AI",
+    "description": "<p>Let's say you wanted to make sure that your AI is secure. Can you just maximize the security and privacy benchmark and call it a day? Nope, because benchmarks don't actually work for measuring AI capabilities (even when they are NOT emergent systemic properties like security). So let's take a step back: how do you measure security in the first place? Good question. Over the last 30 years, security engineering for software evolved from black box penetration testing, through whitebox code analysis and architectural risk analysis to de facto process-driven standards like the Building Security In Maturity Model (BSIMM). Software had a very deep impact on business operations, and it appears that AI is going to have an even deeper impact. Will a software security-like measurement move work for AI? Probably. In the meantime we can make real progress in AI security by cleaning up our WHAT piles and managing risk by identifying and applying good assurance processes. (Spoiler alert: no matter what we do, we still don't get a security meter for AI, so we need to be extra vigilant about security.)  About the speaker: Gary McGraw is co-founder of the Berryville Institute of Machine Learning where his work focuses on machine learning security. He is a globally recognized authority on software security and the author of eight best selling books on this topic. His titles include Software Security, Exploiting Software, Building Secure Software, Java Security, Exploiting Online Games, and 6 other books; and he is editor of the Addison-Wesley Software Security series.  Dr. McGraw has also written over 100 peer-reviewed scientific publications. Gary serves on the Advisory Boards of Maxmyinterest, Starseer, and Vaultree.  He has also served as a Board member of Cigital and Codiscope (acquired by Synopsys) and as Advisor to CodeDX (acquired by Synopsys), Black Duck (acquired by Synopsys), Dasient (acquired by Twitter), Fortify Software (acquired by HP), and Invotas (acquired by FireEye). Gary produces the monthly Silver Bullet Security Podcast with BIML. His dual PhD is in Cognitive Science and Computer Science from Indiana University where he serves on the Dean's Advisory Council for the Luddy School of Informatics, Computing, and Engineering.</p>",
+    "publishedAt": "2026-11-11T21:30:00.000Z",
+    "duration": 3398,
+    "audioUrl": null,
+    "videoUrl": "https://www.cerias.purdue.edu/assets/video/secsem/secsem_20261111.mp4",
+    "imageUrl": "https://www.cerias.purdue.edu/news_and_events/events/security_seminar/images/gary_mcgraw_300x300.png",
+    "episodeNumber": 929,
+    "seasonNumber": 32,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "melissa-dark-the-nature-of-cybersecurity-knowledge",
     "podcastId": "cerias-weekly-security-seminar-purdue-university",
     "title": "Melissa Dark, The Nature of Cybersecurity Knowledge",
