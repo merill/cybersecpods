@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-detection-blind-spot-when-your-dashboard-lies",
+    "podcastId": "hacker-valley-studio",
+    "title": "The Detection Blind Spot: When Your Dashboard Lies",
+    "description": "<p>Your dashboard says your detections are deployed. But are they still detecting? A quiet SOC can mean your defenses are working, or that the data feeding them has disappeared. In this episode, Ron Eddings sits down with Tom Findling, Co-Founder and CEO of Conifers AI, and Robert Pace, VP of Information Security and CISO at Invitation Homes, to confront the blind spots hiding behind green dashboards. <br>\n<br>\nTom unpacks findings from Conifers AI’s research, The Detection Blind Spot, which examined approximately 15,000 detections and found that 47% needed attention. He describes how telemetry gaps, shifting environments, and detection drift can leave teams believing they are protected when the underlying controls are no longer operational. One striking example: an attacker gradually reduced log-reporting servers from roughly 10,000 to just 10 without stopping logging altogether. <br>\n<br>\nRobert challenges security leaders to move past red-yellow-green reporting and the habit of focusing only on critical and high-severity findings. Together, they explore continuous detection validation, AI-assisted tuning and runbook maintenance, the value of understanding the business, and why humans must remain accountable as agentic SOC tools take on more work. They also look ahead to the rise of the “threat operator,” a security practitioner able to connect intelligence, detection, investigation, and response.<br>\n<br>\n</p>\n<p>Impactful Moments</p>\n<p>00:00 - Introduction<br>\n01:53 - The Detection Myth<br>\n03:02 - Silence Is Not a Signal<br>\n03:24 - Meet Tom & Robert<br>\n6:33 - The 47% Blind Spot<br>\n08:10 - A CISO Gets Vulnerable<br>\n10:13 - The 10,000-to-10 Attack<br>\n13:06 - AI for Continuous Checking<br>\n16:09 - Cutting 70% of SOC Alerts<br>\n17:28 - Learning the Business<br>\n21:36 - CISO-Vendor Relationships<br>\n23:21 - Four Criteria for New Tech<br>\n25:46 - The \"Sorry\" Moment<br>\n27:24 - The Future: Threat Operator<br>\n29:03 - Who Gets the Raise<br>\n30:47 - What's Watching the AI?<br>\n31:28 - Homework Assignment for Viewers</p>\n<p><br>\nLinks <br>\nConnect with our guest, Tom Findling, on LinkedIn: <a href='https://www.linkedin.com/in/tomfindling/'>https://www.linkedin.com/in/tomfindling/ </a><br>\nLearn more about Conifers AI: <a href='https://conifers.ai'>https://conifers.ai </a><br>\nConnect with our guest, Robert Pace, on LinkedIn: <a href='https://www.linkedin.com/in/robert-pace097/'>https://www.linkedin.com/in/robert-pace097/ </a><br>\n<br>\n----- <br>\nCheck out our upcoming events: <a href='https://www.hackervalley.com/livestreams'>https://www.hackervalley.com/livestreams </a><br>\nLove Hacker Valley Studio? Pick up some swag: <a href='https://store.hackervalley.com'>https://store.hackervalley.com </a><br>\nBecome a sponsor of the show: <a href='https://hackervalley.com/work-with-us/'>https://hackervalley.com/work-with-us/</a><br>\n<br>\n</p>",
+    "publishedAt": "2026-11-12T21:12:56.000Z",
+    "duration": 2040,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/7if4up596wtgw8u3/HVS26_EP450_Conifers.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 450,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://HackerValleyStudio.podbean.com/e/the-detection-blind-spot-when-your-dashboard-lies/"
+  },
+  {
     "id": "php2shell-governments-unplugged-their-own-websites-heres-what-scared-them",
     "podcastId": "hacker-valley-studio",
     "title": "PHP2Shell: Governments Unplugged Their Own Websites. Here's What Scared Them",
