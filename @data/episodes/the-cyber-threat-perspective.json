@@ -1,5 +1,22 @@
 [
   {
+    "id": "authentication-failures-owasp-top-10-part-7-or-ep-203",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "Authentication Failures: OWASP Top 10 Part 7 | Ep 203",
+    "description": "<p>In Part 7 of our OWASP Top 10 2025 series, Brad Causey and Jordan Natter dig into A07: Authentication Failures. They explain what makes MFA real, why session management is where attackers are focusing now, and share stories from real web app and mobile banking pen tests where authentication broke down.</p><p>In this episode:</p><ul><li>Authentication vs. authorization, and why the difference matters</li><li>The three MFA factors, and why a secret question is just “same factor auth”</li><li>Password reset links that never expire and can be reused</li><li>How a mobile banking API let testers reset MFA without finishing login</li><li>Changing the MFA delivery email without MFA</li><li>Sessions that survive logout and password changes</li><li>Session fixation and predictable session tokens</li><li>Why every change to an authentication component needs strong authentication first</li></ul><p>Need a web app pen test? Reach out to the SecurIT360 team at https://www.securit360.com/</p><p>Work with Us: <a href='https://securit360.com/'>https://securit360.com</a><br/>Blog: <a href='https://offsec.blog/'>https://offsec.blog/</a><br/>Youtube: <a href='https://www.youtube.com/@cyberthreatpov'>https://www.youtube.com/@cyberthreatpov</a><br/>Twitter: <a href='https://x.com/cyberthreatpov'>https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br/>Spencer's Links: <a href='https://spenceralessi.com'>https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-11-13T21:00:00.000Z",
+    "duration": 1745,
+    "audioUrl": "https://www.buzzsprout.com/1731753/episodes/20122219-authentication-failures-owasp-top-10-part-7-ep-203.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 203,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "shinyhunters-the-token-theft-your-mfa-cant-stop-or-ep-202",
     "podcastId": "the-cyber-threat-perspective",
     "title": "ShinyHunters: The Token Theft Your MFA Can’t Stop | Ep 202",
