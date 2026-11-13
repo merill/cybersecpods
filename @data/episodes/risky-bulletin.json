@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-chinese-apt-exploits-ss7-diameter-to-spy-on-targets",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Chinese APT exploits SS7, Diameter to spy on targets",
+    "description": "<p>A Chinese APT exploits the SS7 and Diameter protocols, a remote code execution bug hits Apache, Brazil’s largest port suffers a cyberattack, and Europol takes down three malware operations.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-chinese-apt-uses-ss7-diameter-attacks-to-spy-on-targets\">Risky Bulletin: Chinese APT uses SS7, Diameter attacks to spy on targets</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-13T03:03:12.000Z",
+    "duration": 704,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS633.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS633/"
+  },
+  {
     "id": "srsly-risky-biz-iranian-hacks-with-russian-characteristics",
     "podcastId": "risky-bulletin",
     "title": "Srsly Risky Biz: Iranian hacks with Russian characteristics",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/SRB173/"
-  },
-  {
-    "id": "risky-bulletin-researcher-drops-giant-cache-of-zero-days",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Researcher drops giant cache of zero-days",
-    "description": "<p>An anonymous researcher has dropped a giant cache of zero-day exploits, a sensitive DHS network got hacked, the US Supreme Court restricts geofence warrants, and security firm Huntress has denied accusations of a malicious insider.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-researcher-drops-giant-cache-of-zero-day-exploits/\">Risky Bulletin: Researcher drops giant cache of zero-days</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-07-01T06:55:07.000Z",
-    "duration": 585,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS584.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS584/"
   }
 ]

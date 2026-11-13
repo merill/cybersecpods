@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-friday-november-13th-2026-gpustack-auth-bypass-scans-cve-2026-102",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Friday, November 13th, 2026: GPUStack Auth Bypass Scans (CVE-2026-102895); ConnectWise ScreenConnect Advisory; N-able N-central Exploits; Microsoft 365 Outage",
+    "description": "<br/>\nThis episode covers scans for a GPUStack authentication bypass, a ConnectWise ScreenConnect security advisory, public exploits for N-able N-central, and a Microsoft 365 outage.<br/>\nGPUStack Authentication Bypass Scans (CVE-2026-102895)<br/>\nJohannes writes up scans against GPUStack, open-source software that manages clusters of GPUs for AI workloads. An attacker can spoof the X-GPUStack-Real-IP header with the loopback address to bypass authentication. A fixed version was released in July, the CVE was assigned about a week ago, and exploitation is trivial on an exposed system.<br/>\n<a href=\"https://isc.sans.edu/diary/Exploit%20Attempts%20for%20GPUStack%20Authentication%20Bypass%20%28CVE-2026-102895%29/33514\">https://isc.sans.edu/diary/Exploit%20Attempts%20for%20GPUStack%20Authentication%20Bypass%20%28CVE-2026-102895%29/33514</a><br/>\n<a href=\"https://github.com/gpustack/gpustack/security/advisories/GHSA-gj9m-f8ph-pmhr\">https://github.com/gpustack/gpustack/security/advisories/GHSA-gj9m-f8ph-pmhr</a><br/>\nConnectWise ScreenConnect Security Advisory<br/>\nConnectWise released another ScreenConnect advisory about an ongoing investigation into the compromise of some customer and partner sites. The company is looking at 400 compromised environments and has disabled a set of third-party plugins; users should update the ScreenConnect client to version 26.6.5, which also fixes a vulnerability still being used to spread malware after those compromises.<br/>\n<a href=\"https://www.connectwise.com/company/trust/advisories\">https://www.connectwise.com/company/trust/advisories</a><br/>\nN-able N-central Public Exploits<br/>\nPublic exploits are now available for at least three of the N-able N-central vulnerabilities that were disclosed last week without first notifying the vendor. The code is in a GitHub repository that Johannes has not yet verified, so treat it with caution; if you are running an exposed unpatched N-able system, upgrade immediately and assume compromise.<br/>\n<a href=\"https://github.com/MSPNightmare/CVEs/tree/main/0-Days/N-Central%20N-Able\">https://github.com/MSPNightmare/CVEs/tree/main/0-Days/N-Central%20N-Able</a><br/>\nMicrosoft 365 Downtime<br/>\nMicrosoft had a significant availability event in which large parts of Microsoft 365, including Exchange and Outlook, were unreachable, and the disruption also affected sites that rely on Microsoft 365 single sign-on, including Entra. Microsoft said it was bringing systems back online, but service was still unavailable for many Microsoft 365 Business and Enterprise users at the time of recording.<br/>\n<a href=\"https://status.cloud.microsoft/m365/\">https://status.cloud.microsoft/m365/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-11-13T02:00:03.000Z",
+    "duration": 403,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10178.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10178,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10178"
+  },
+  {
     "id": "sans-stormcast-thursday-november-12th-2026-apache-modhttp2-rce-cve-2026-119618-f",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Thursday, November 12th, 2026: Apache mod_http2 RCE (CVE-2026-119618); Fortinet FortiMail Criticals; Ivanti EPM SQLi (CVE-2026-121653); Windows SignDrop CLFS; N-able N-central HF2",
