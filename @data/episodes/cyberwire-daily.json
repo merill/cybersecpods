@@ -1,5 +1,22 @@
 [
   {
+    "id": "a-little-something-extra-comes-preinstalled-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "A little something extra comes preinstalled. [Research Saturday]",
+    "description": "<p>Today <a href=\"https://www.linkedin.com/in/silviu-stahie/\">Cristian Silviu Stahie</a>, Security Analyst from <a href=\"https://www.bitdefender.com/en-us/\">Bitdefender</a>, joins to discuss their work on The phone was compromised before the user turned it on: the rise of Midnight Mimosa. Bitdefender researchers have uncovered a malware campaign dubbed Midnight Mimosa that comes preinstalled on low-cost Android devices, compromising phones before users even turn them on. </p>\n<p>The malware operates with system-level privileges, allowing attackers to silently install and remove apps, commit ad and click fraud, collect device information, and turn infected phones into residential proxy nodes for botnets. Researchers also identified 13 apps on Google Play sharing the same malicious code and infrastructure, highlighting how the campaign reaches users through both compromised device firmware and seemingly legitimate apps.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.lumen.com/blog/en-us/the-infrastructure-quartermaster-inside-a-china-nexus-state-enablement-model\">⁠⁠⁠⁠⁠⁠⁠</a><a href=\"https://www.acronis.com/en/tru/posts/red-heron-exploits-gitea-n-day-flaw-in-multinational-campaign-exposing-new-linux-rootkit/\">⁠⁠⁠⁠</a><a href=\"https://www.huntress.com/blog/fake-gta6-download-malware-analysis\">⁠</a><a href=\"https://www.bitdefender.com/en-us/blog/labs/midnight-mimosa-malware\">The phone was compromised before the user turned it on: the rise of Midnight Mimosa</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-11-14T08:00:00.000Z",
+    "duration": 1158,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW3254920840.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone.imgix.net/podcasts/a7b311c8-df8e-11f1-8241-cb8a52e1cd07/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 450,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/450/notes"
+  },
+  {
     "id": "out-of-office-out-of-service",
     "podcastId": "cyberwire-daily",
     "title": "Out of office, out of service.",
