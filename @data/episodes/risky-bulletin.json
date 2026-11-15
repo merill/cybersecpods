@@ -1,5 +1,22 @@
 [
   {
+    "id": "thinkst-on-the-defensive-ai-cyber-space",
+    "podcastId": "risky-bulletin",
+    "title": "Thinkst on the defensive AI cyber space",
+    "description": "<p>In this Risky Business sponsored interview, Catalin Cimpanu talks with Thinkst CTO Marco Slaviero about the state of the defensive AI cyber space and the company’s current agentic canaries, as well as the need for more experimentation.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.linkedin.com/in/marco-slaviero-0986081/\">Marco Slaviero on LinkedIN</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.youtube.com/watch?v=mzsUTzzlowU\">Blue Hat Asia 2026 Keynote: An Age of Experimentation</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.runzero.com/blog/bmc-research/\">BMC vulnerabilities, runZero Research</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.youtube.com/watch?v=8rOY3aD1yxY\">[un]prompted.au 2026: Security Through Obscurity is Dead and LLMs Killed It, Brendan Dolan Gavitt</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://thinkst.com/ts/\">Thinkst Scapes: 2026, Q2</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-15T19:22:09.000Z",
+    "duration": 1050,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWSSI151.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWSSI151/"
+  },
+  {
     "id": "risky-bulletin-chinese-apt-exploits-ss7-diameter-to-spy-on-targets",
     "podcastId": "risky-bulletin",
     "title": "Risky Bulletin: Chinese APT exploits SS7, Diameter to spy on targets",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS585/"
-  },
-  {
-    "id": "srsly-risky-biz-america-wont-beat-the-distillation-ecosystem",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: America won't beat the distillation ecosystem",
-    "description": "<p>Tom Uren and James Wilson talk about Chinese AI labs stealing the special sauce of American AI models in ‘distillation attacks’. These attacks are fed by a grey market in which Chinese consumers buy access to American models, where one of the byproducts is logs of user requests and responses. These make wonderful inputs into distillation attacks and the whole market might be subsidised by Chinese AI Labs paying for these logs.</p>\n\n<p>They also discuss the possibility that last year’s hack of Jaguar Land Rover was caused by a group of Russian hackers. Was it Russians? Was it state-directed or endorsed? Who knows, but even the possibility that it was has some benefits for the Russian state.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/Y5cZHTT_vpE\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-07-02T05:03:03.000Z",
-    "duration": 1802,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB173.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB173/"
   }
 ]
