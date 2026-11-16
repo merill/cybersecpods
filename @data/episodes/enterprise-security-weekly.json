@@ -1,5 +1,22 @@
 [
   {
+    "id": "ai-is-not-killing-bug-bounty-can-an-ai-ever-have-an-identity-and-the-news-michie",
+    "podcastId": "enterprise-security-weekly",
+    "title": "AI is not killing bug bounty, can an AI ever have an \"Identity\", and the news - Michiel Prins, Douglas Day - ESW #485",
+    "description": "Interview with Douglas Day and Michiel Prins <p>AI Is Not Killing Bug Bounty: It Is Raising the Bar</p> <p>AI is making it easier for more people to attempt vulnerability research, but Douglas' experience shows that the biggest gains are going to researchers who already know how to find meaningful bugs. For elite security researchers, AI is not a replacement; it is a force multiplier. There is growing concern that AI will either replace security researchers or flood bug bounty programs with poor-quality reports. Douglas and Michiel can offer a more balanced view: AI can help experienced researchers scale their instincts, but it does not replace the judgment, context and impact assessment that make a report valuable.</p> Topic Segment: Can an AI agent ever truly have an identity? <p>(from Mike Privette's <a rel=\"noopener\" target=\"_blank\" href= \"https://www.returnonsecurity.com/t/newsletter\">Security, Funded</a> Newsletter)</p> <ul> <li>60% - Yes, and it can be separate from humans</li> <li>10% - Yes, but it only assumes the identity it runs under</li> <li>10% - Yes, by use of whatever credentials it finds</li> <li>10% - No, everything is permitted unless explicitly denied</li> <li>10% - Other (tell me)</li> </ul> <p>Mike's Thoughts:</p> <p>Most of you think an AI agent can have an identity of its own. A good chunk of the \"Other\" crowd showed up to argue about what \"identity\" even means in the first place, which honestly might be the better question. The market already seems to agree agent identity matters, just not as its own category. Over the past year, the biggest identity deals went to platforms outside traditional IAM, like Cyera buying Oasis, CrowdStrike buying SGNL, and Cisco buying Astrix. My bet is that agent identity ends up as a feature of whatever platform the agent already runs on, not something you buy on its own.</p> Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>a little bit of funding</li> <li>new supply chain attacks</li> <li>new AI attack tools, like ARTEX</li> <li>OpenAI builds a kill switch to save us from the AI apocalypse that they might be directly responsible for</li> <li>A cybersecurity vendor takes their cloud platform offline after an angry researcher goes full disclosure on them</li> <li>Glasswing seems to be wrapping up with a whimper rather than a roar</li> <li>Lessons from the incident response trenches</li> <li>Satellites run doom</li> <li>and a company named \"Who Gives a Crap\" gets breached</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-485\">https://securityweekly.com/esw-485</a></p>",
+    "publishedAt": "2026-11-16T10:00:00.000Z",
+    "duration": 5549,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_485_1--ebccd5e3-88b3-4797-a30a-5d908015527c--audio-converted--54c607a6-34c2-4f7b-8b39-3818d081a1e3.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/f/d/0/c/fd0c075d6dcbd2d5a04421dee9605cbd/ESW_485_Thumbnail_ESW_1920x1920_c5b98779-7c73-4810-afe1-4d49b64d26b2.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/ai-is-not-killing-bug-bounty-can-an-ai-ever-have-an-identity-and-the-news-michiel-prins-douglas-day-esw-485"
+  },
+  {
     "id": "assessing-risk-at-the-speed-of-change-coordinated-disclosure-and-the-news-daniel",
     "podcastId": "enterprise-security-weekly",
     "title": "Assessing risk at the speed of change, coordinated disclosure, and the news - Danielle Russell - ESW #484",

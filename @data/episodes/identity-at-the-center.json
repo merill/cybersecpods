@@ -1,5 +1,22 @@
 [
   {
+    "id": "461-passkeys-agents-and-verified-humans-at-authenticate-2026-with-andrew-shikiar",
+    "podcastId": "identity-at-the-center",
+    "title": "#461 - Passkeys, Agents, and Verified Humans at Authenticate 2026 with Andrew Shikiar",
+    "description": "<p>Jeff is out recovering from finger surgery, so Jim McDonald heads to Authenticate 2026 solo for a conversation with Andrew Shikiar, Executive Director and CEO of the FIDO Alliance, marking Andrew's eleventh appearance on the show. Andrew shares where passkeys stand today, with roughly seven billion in use, and why organizations that deploy them keep expanding their investment. He walks through a busy year for FIDO: new work on digital credentials alongside the OpenID Foundation, ISO, W3C, and EMVCo, a technical working group focused on agentic authentication, and an agentic payments work stream seeded by contributions from Google and Mastercard. Jim and Andrew talk through why verified human identity sits at the root of trust, how a person's approval should travel with an AI agent to a merchant, and why handing your username and password to an agent is a step backward. They also cover selective disclosure and privacy, practical steps for identity teams and individuals, and how the shipping container explains the value of standards.</p><p><br></p><p><br></p><p>Learn about the FIDO Alliance: https://fidoalliance.org/</p><p><br></p><p>Connect with Andrew: https://www.linkedin.com/in/andrewshikiar/</p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p>00:00 Intro and Andrew's eleventh appearance</p><p>00:47 Behind Authenticate 2026 and FIDO's focus on market adoption</p><p>02:19 Seven billion passkeys and the business case for sign-in</p><p>03:13 A busy year and the digital credentials announcement</p><p>07:05 Agentic authentication and agentic payments work</p><p>08:31 The walk and chew gum phase</p><p>09:14 FIDO membership and the member plenary</p><p>12:19 Who comes to Authenticate</p><p>12:56 Passkeys, FIDO protocols, and how working groups operate</p><p>15:13 Verified human identity as the foundation of trust</p><p>19:18 How a user approves an agent's actions</p><p>20:51 Why agents should not use your password</p><p>22:14 Agentic shopping, fraud, and liability</p><p>25:08 Commerce platforms and discoverability for agents</p><p>26:26 Privacy and selective disclosure</p><p>29:08 Advice for identity teams</p><p>30:55 What individuals can do when passkeys are not an option</p><p>32:50 Explaining FIDO to parents and the shipping container analogy</p><p>35:58 Wrap up</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Andrew Shikiar, FIDO Alliance, Authenticate 2026, passkeys, passwordless, FIDO2, WebAuthn, CTAP, digital credentials, digital identity wallets, verifiable credentials, selective disclosure, privacy, agentic AI, agentic authentication, agentic payments, AI agents, verified human identity, identity verification, phishing resistant authentication, workforce passkeys, account recovery, password managers, security keys, standards, identity and access management, IAM</p>",
+    "publishedAt": "2026-11-16T10:00:00.000Z",
+    "duration": 2202,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/128961988/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2Feecb4b13-4a51-bea0-51cd-0509be9c4dfb.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 461,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/461---Passkeys--Agents--and-Verified-Humans-at-Authenticate-2026-with-Andrew-Shikiar-e3ru404"
+  },
+  {
     "id": "460-sponsor-spotlight-silverfort",
     "podcastId": "identity-at-the-center",
     "title": "#460 - Sponsor Spotlight - Silverfort",
