@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-cyberattack-grounds-german-uavs",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Cyberattack grounds German UAVs",
+    "description": "<p>Germany grounds UAVs after a supply chain attack, a threat actor accessed Barracuda’s cloud for two days, the US AI task force asks for regulatory leniency and the FBI disrupts a North Korean face-swapping operation.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-hackers-accessed-barracudas-cloud/\">Risky Bulletin: Hackers accessed Barracuda's cloud</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-16T00:04:19.000Z",
+    "duration": 522,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS634.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS634/"
+  },
+  {
     "id": "thinkst-on-the-defensive-ai-cyber-space",
     "podcastId": "risky-bulletin",
     "title": "Thinkst on the defensive AI cyber space",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS586/"
-  },
-  {
-    "id": "risky-bulletin-fatfs-bugs-enable-physical-access-attacks-on-a-load-of-devices",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: FatFs bugs enable physical access attacks on a load of devices",
-    "description": "<p>FatFs bugs enable physical access attacks on industrial equipment, a clever password spraying attack bypasses M365 MFA, an AI agent is deploying ransomware in live attacks, and a webinar platform sues two security firms over bad IOCs.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-fatfs-bugs-enable-physical-access-attacks-on-a-load-of-devices/\">Risky Bulletin: FatFs bugs enable physical access attacks on a load of devices</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-07-03T04:04:18.000Z",
-    "duration": 560,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS585.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS585/"
   }
 ]
