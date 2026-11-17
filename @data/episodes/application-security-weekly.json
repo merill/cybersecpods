@@ -1,5 +1,22 @@
 [
   {
+    "id": "zero-trust-basics-for-complex-modern-systems-rob-allen-asw-409",
+    "podcastId": "application-security-weekly",
+    "title": "Zero Trust Basics for Complex Modern Systems - Rob Allen - ASW #409",
+    "description": "<p>Orgs don't have to wait for the next zero-day, the next batch of 1,000 CVEs, or the next exploit in the wild to harden their defenses. Rob Allen talks about turning an expectation of \"assume breach\" into proactive defenses based on zero trust. We also discuss why \"assume breach\" doesn't have to be a pessimistic stance or even one that presumes malicious intent. After all, with so many agents being adopted throughout an org, restricting access and adding observability reduces the side-effects of agents taking actions you didn't expect regardless of what they were prompted to do.</p> <p>This segment is sponsored by ThreatLocker. Visit <a rel= \"noopener\" target=\"_blank\" href= \"https://securityweekly.com/threatlocker\">https://securityweekly.com/threatlocker</a> to learn more about them!</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-409\">https://securityweekly.com/asw-409</a></p>",
+    "publishedAt": "2026-11-17T10:00:00.000Z",
+    "duration": 3919,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_409_1--a8413bc6-a581-4578-a6cd-152c120ae835--audio-converted--cd76a14c-b143-43c8-a410-62f9484b6736.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/7/6/a/d/76ad0efc5e4a8f35a04421dee9605cbd/ASW_409_Thumbnail_ASW_1920x1920_9ef366b3-20b2-4160-901f-4b2ed5318034.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/zero-trust-basics-for-complex-modern-systems-rob-allen-asw-409"
+  },
+  {
     "id": "human-expertise-will-always-be-the-core-of-ai-cybersecurity-andrew-wesie-asw-408",
     "podcastId": "application-security-weekly",
     "title": "Human Expertise Will Always Be The Core Of AI Cybersecurity - Andrew Wesie - ASW #408",
