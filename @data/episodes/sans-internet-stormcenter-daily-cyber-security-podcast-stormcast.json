@@ -1,5 +1,22 @@
 [
   {
+    "id": "sans-stormcast-tuesday-november-17th-2026-litellmstarlette-rce-scans-cve-2026-42",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "SANS Stormcast Tuesday, November 17th, 2026: LiteLLM/Starlette RCE Scans (CVE-2026-42271, CVE-2026-48710); Danfoss AK-SM800A RCEs; cyrus-sasl SRP Bypass (CVE-2026-129483); NoisyTCP (CVE-2026-99288)",
+    "description": "<br/>\nInternet Storm Center honeypots are seeing LiteLLM and Starlette exploit scans, Midnight Blue found unpatched remote code execution flaws in Danfoss AK-SM800A refrigeration controllers, a Cyrus SASL Secure Remote Password bypass can allow logins without a password, and NoisyTCP is a Linux kernel TCP denial-of-service bug.<br/>\nScans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710)<br/>\nInternet Storm Center honeypots are seeing scans that chain a LiteLLM remote code execution bug in a test URL, CVE-2026-42271, with CVE-2026-48710, a Starlette Host header validation flaw that bypasses access control. Patches are available, and Horizon3.ai has a write-up of the chain.<br/>\n<a href=\"https://isc.sans.edu/diary/Scans%20for%20LiteLLM%20Starlette%20%28CVE-2026-42271%2C%20CVE-2026-48710%29/33522\">https://isc.sans.edu/diary/Scans%20for%20LiteLLM%20Starlette%20%28CVE-2026-42271%2C%20CVE-2026-48710%29/33522</a><br/>\n<a href=\"https://horizon3.ai/attack-research/vulnerabilities/cve-2026-42271-chained-with-cve-2026-48710/\">https://horizon3.ai/attack-research/vulnerabilities/cve-2026-42271-chained-with-cve-2026-48710/</a><br/>\nDanfoss AK-SM800A Remote Code Execution Vulnerabilities<br/>\nMidnight Blue found six pre-authentication remote code execution flaws, including a Host header buffer overflow, in Danfoss AK-SM800A refrigeration controllers after about an hour of manual firmware review. The devices lack standard protections such as stack canaries and address space layout randomization (ASLR), no patches are available yet, and the controllers should be kept isolated from the internet.<br/>\n<a href=\"https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a\">https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a</a><br/>\ncyrus-sasl SRP Server Authentication Bypass (CVE-2026-129483)<br/>\nA Secure Remote Password (SRP) bug in the Cyrus SASL library, often used to authenticate Internet Message Access Protocol (IMAP) and other mail services, lets an attacker log in as an existing user with no password. SRP is usually not enabled, and mail servers that offer it typically advertise the algorithm in their banner, so a quick scan can show whether it is in use.<br/>\n<a href=\"https://github.com/cyrusimap/cyrus-sasl/issues/896\">https://github.com/cyrusimap/cyrus-sasl/issues/896</a><br/>\nNoisyTCP: Linux Kernel TCP Pre-auth Remote Corruption (CVE-2026-99288)<br/>\nNoisyTCP is a Linux kernel Transmission Control Protocol (TCP) denial-of-service vulnerability that can be triggered against any listening TCP socket, with no indication that code execution is possible. A patch is in the kernel.org tree, exploitability varies from about 14 hours on a quiet bare-metal server to much faster on a virtual machine, and disabling SYN cookies is a possible emergency workaround but is not recommended as a proactive fix.<br/>\n<a href=\"https://seclists.org/oss-sec/2026/q4/715\">https://seclists.org/oss-sec/2026/q4/715</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-11-17T02:05:15.000Z",
+    "duration": 495,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10182.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10182,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10182"
+  },
+  {
     "id": "sans-stormcast-monday-november-16th-2026-macfinger-clickfix-downthedrain-microso",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Monday, November 16th, 2026: Macfinger ClickFix DownTheDRAIN; Microsoft 365 Outage Phishing; Check Point PHP2Shell Exploits (CVE-2026-109618); Cursor Claude Code Extension",
