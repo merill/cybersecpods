@@ -1,5 +1,22 @@
 [
   {
+    "id": "phishing-collects-mx-records-java4shell-openjdk-rce-cve-2026-114938-optimizely-m",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "Phishing Collects MX Records; Java4Shell OpenJDK RCE (CVE-2026-114938); Optimizely Magecart Compromise (Nov 18 2026)",
+    "description": "<br/>\nJan Kopriva describes a phishing kit that collects MX records, Calif discloses Java4Shell remote code execution in OpenJDK's Base64 decoder, and an Optimizely compromise spread Magecart-style malware to major websites.<br/>\nA Phishing Page Interested in MX Records<br/>\nJan Kopriva of the SANS Internet Storm Center describes a phishing page that customizes itself based on the victim's email domain, then uses JavaScript to perform a DNS-over-HTTPS (DoH) lookup of the domain's Mail Exchange (MX) records via Google DNS. The MX records are stored with the stolen username and password rather than used to customize the page.<br/>\n<a href=\"https://isc.sans.edu/diary/A+phishing+page+interested+in+MX+records/33526/\">https://isc.sans.edu/diary/A+phishing+page+interested+in+MX+records/33526/</a><br/>\nJava4Shell: Write Once, RCE Everywhere<br/>\nCalif, the firm behind PHP2Shell, disclosed Java4Shell (CVE-2026-114938), a memory-corruption bug in OpenJDK's Base64 decoder on x86-64 CPUs that support the AVX-512 VBMI extension; ARM processors are not affected. The flaw can allow unauthenticated remote code execution in applications such as Keycloak, and can also leak memory in a manner similar to Heartbleed; Oracle released a patch in its November Critical Security Patch Update.<br/>\n<a href=\"https://calif.io/java4shell/\">https://calif.io/java4shell/</a><br/>\n<a href=\"https://www.oracle.com/security-alerts/cspunov2026.html\">https://www.oracle.com/security-alerts/cspunov2026.html</a><br/>\nOptimizely Compromise<br/>\nAttackers compromised Optimizely, a JavaScript experimentation platform used by many large websites, and swapped the distributed script for a Magecart-style payload that stole payment card and cryptocurrency wallet information. Report URI found the malware on sites belonging to 178 organizations, including HSBC and the BBC; Johannes suggests blocking optimizely.com and the .icu top-level domain.<br/>\n<a href=\"https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\">https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>",
+    "publishedAt": "2026-11-18T02:00:03.000Z",
+    "duration": 457,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10184.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10184,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10184"
+  },
+  {
     "id": "sans-stormcast-tuesday-november-17th-2026-litellmstarlette-rce-scans-cve-2026-42",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "SANS Stormcast Tuesday, November 17th, 2026: LiteLLM/Starlette RCE Scans (CVE-2026-42271, CVE-2026-48710); Danfoss AK-SM800A RCEs; cyrus-sasl SRP Bypass (CVE-2026-129483); NoisyTCP (CVE-2026-99288)",
