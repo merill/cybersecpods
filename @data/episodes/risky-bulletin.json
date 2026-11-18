@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-optimizely-hijacked-to-deliver-malware",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Optimizely hijacked to deliver malware",
+    "description": "<p>Hackers hijack Optimizely to deliver malware through 178 popular websites, hackers breach Japanese supercomputers, Microsoft Edge to get a Lockdown Mode, and the EU sanctions NoName057.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-hackers-hijack-optimizely-to-deliver-malware-on-178-popular-sites/\">Risky Bulletin: Hackers hijack Optimizely to deliver malware on 178 popular sites</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-18T04:22:08.000Z",
+    "duration": 649,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS635.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS635/"
+  },
+  {
     "id": "between-two-nerds-the-spyware-market-after-ai",
     "podcastId": "risky-bulletin",
     "title": "Between Two Nerds: The spyware market after AI",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWS587/"
-  },
-  {
-    "id": "between-two-nerds-why-ai-has-not-meant-more-hacks-yet",
-    "podcastId": "risky-bulletin",
-    "title": "Between Two Nerds: Why AI has not meant more hacks. Yet.",
-    "description": "<p>In this edition of Between Two Nerds Tom Uren and The Grugq talk about why we haven’t seen an explosion of devastating hacks even though AI has been used to discover lots and lots of bugs.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/Lj2B2Q_Vadk\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://x.com/JGamblin/status/2072354623357112609?s=20\">Jerry Gamblin | X</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://medium.com/@thegrugq/cyber-ignore-the-penetration-testers-900e76a49500\">Cyber: Ignore the Penetration Testers</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://gist.github.com/jaredsburrows/9e121d2e5f1147ab12a696cf548b90b0\">Phineas Fisher's hacking team write up</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://en.wikipedia.org/wiki/Phineas_Fisher\">Phineas Fisher</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-07-06T19:21:46.000Z",
-    "duration": 1934,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/BTN173.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/BTN173/"
   }
 ]

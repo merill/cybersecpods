@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-business-860-google-agentic-hacking-has-crossed-a-threshold",
+    "podcastId": "risky-business",
+    "title": "Risky Business #860 -- Google: Agentic hacking has “crossed a threshold”",
+    "description": "<p>On this week’s show Patrick Gray and James Wilson are joined by special guest co-host Jason Kikta, CISO at METR.org, to talk through the week’s cybersecurity news, including:</p>\n\n<ul>\n  <li>Website management platform Optimizely got popped… CNN and BBC readers got some malware with their daily news</li>\n  <li>There’s some hype around an RCE bug in Java, but it probably won’t reach internet burning status… we think… so far</li>\n  <li>United Airlines wants to block its customers from using AI. Lol, good luck!</li>\n  <li>Nightmare Eclipse has dropped so many Windows 0-days that it’s kinda boring</li>\n  <li>Much, much more!</li>\n</ul>\n\n<p>This week’s show is brought to you by Dropzone AI. Founder and CEO Edward Wu joins Patrick Gray to talk about the ARTEX pentesting framework. The vulnerabilities it can find and exploit aren’t anything new, but its speed and scope is what allows low-level attackers the ability to throw the proverbial spaghetti at the wall and see what sticks.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/Oz4H4y8TOro\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://therecord.media/optimizely-malicious-code-customer-sites\">Website management platform Optimizely confirms hackers put malicious code into customer sites</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/calif_io/status/2122724367654334810?a=9fe3ZKG4ECmZSaUcJbM&s=46\">Calif (@calif_io) on X</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/php2shell-exploited-chained-attacks-check-point/874751\">PHP2Shell flaw exploited in chained attacks targeting unpatched Check Point gateways</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/rohded/status/2122739068836757700\">David Rohde (@RohdeD) on X</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold\">GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks\">Hackers use AntiFox AI agents in AWS credential-theft attacks</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/google-fully-automated-ai-cyberattack\">Google says Russian-speaking hackers ran the first fully automated AI cyberattack</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/artex-ai-tool-fbi-flash-alert\">FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/china-hacker-ai-tool-campaign-us-defense-semiconductor/874619\">China-nexus actor uses AI tool in campaign targeting US defense, semiconductor industries</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/california-sues-openai-hugging-face\">OpenAI Hugging Face agent hack</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/ai-white-house-task-force-cybersecurity-regulation/874679\">White House task force says companies deserve liability relief for AI-fueled cyberattacks</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/united-airlines-to-block-customers-using-ai-agents\">United to block customers from using AI agents, citing cyber threats</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a\">Don't bother patching: multiple remote code execution vulnerabilities in Danfoss AK-SM800A </a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/copeland-dixell-refrigeration-vulnerabilities\">Researchers continue to find serious vulnerabilities in internet connected refrigerators</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights\">Windows 0-day dropped by disgruntled researcher hands hackers System rights</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines\">Updating our coordinated vulnerability disclosure policy timelines</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup\">Google DeepMind mathematically verifies key parts of Signal</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips\">US closes foreign-data-centre loophole for remote access to advanced AI chips</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack\">Cyberattack disrupts German military drone operations</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/section-702-reauthorization-ndaa-debate\">Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms\">Pall Mall Process industry guidelines</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin\">Who Runs the Ransomware Group Qilin?</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts\">Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-18T04:47:42.000Z",
+    "duration": 3818,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB860.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RB860/"
+  },
+  {
     "id": "risky-business-859-artex-damage-approaches-crisis-levels",
     "podcastId": "risky-business",
     "title": "Risky Business #859 -- ARTEX damage approaches crisis levels",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RB790/"
-  },
-  {
-    "id": "bonus-interview-senator-mark-warner-on-signalgate-volt-typhoon-and-tariffs",
-    "podcastId": "risky-business",
-    "title": "BONUS INTERVIEW: Senator Mark Warner on Signalgate, Volt Typhoon and tariffs",
-    "description": "<p>In this extended interview the Vice Chair of the Senate Select Committee on Intelligence, Senator Mark Warner, joins Risky Business host Patrick Gray to talk about:</p>\n\n<ul>\n  <li>The latest developments in the Signalgate scandal</li>\n  <li>Why America needs to be more aggressive in responding to Volt Typhoon</li>\n  <li>How tariffs are affecting American alliances</li>\n  <li>Why the Five Eyes alliance is sacrosanct</li>\n</ul>\n\n<p>This episode is available on <a href=\"https://youtu.be/ZezjjoaYrQA\">Youtube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2025-05-06T05:03:06.000Z",
-    "duration": 2984,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/markwarner.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/markwarner/"
   }
 ]

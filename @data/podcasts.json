@@ -613,7 +613,16 @@
         "ratingCount": 15,
         "fetchedAt": "2026-11-17T15:51:09.502Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Must have podcast for Defenders",
+        "content": "Good listen all around.  Best podcast I’ve found for Azure, Microsoft 365 security topics.  Show notes let you dig deep into topics.",
+        "author": "Rljohnson5",
+        "updatedAt": "2023-05-23T14:47:20-07:00"
+      }
+    ]
   },
   {
     "id": "bluehat-podcast",
@@ -732,9 +741,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-11-11T10:00:00.000Z",
+    "lastEpisodeDate": "2026-11-18T10:00:00.000Z",
     "firstEpisodeDate": "2016-07-28T17:20:12.000Z",
-    "episodeCount": 491,
+    "episodeCount": 492,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1296,9 +1305,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-11-17T08:00:00.000Z",
+    "lastEpisodeDate": "2026-11-18T08:00:00.000Z",
     "firstEpisodeDate": "2020-08-04T21:12:08.000Z",
-    "episodeCount": 1894,
+    "episodeCount": 1895,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1704,9 +1713,9 @@
     "cadence": "daily",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-11-17T13:55:57.000Z",
+    "lastEpisodeDate": "2026-11-18T13:17:27.000Z",
     "firstEpisodeDate": "2026-07-06T13:49:42.000Z",
-    "episodeCount": 94,
+    "episodeCount": 95,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -1716,7 +1725,16 @@
         "ratingCount": 2,
         "fetchedAt": "2026-11-17T15:51:18.712Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent summary of important infosec news",
+        "content": "Great job.  Thank you for doing this. I’m sure it takes a lot of time and I appreciate it.  I listen almost every day and read the show notes if I don’t listen.\n\nThe Defensive Security podcast is excellent as always also.",
+        "author": "Rygorr",
+        "updatedAt": "2026-10-13T04:33:43-07:00"
+      }
+    ]
   },
   {
     "id": "darknet-diaries",
@@ -2918,9 +2936,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-11-16T10:00:00.000Z",
+    "lastEpisodeDate": "2026-11-18T10:00:00.000Z",
     "firstEpisodeDate": "2019-07-02T19:56:42.000Z",
-    "episodeCount": 461,
+    "episodeCount": 462,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -3923,9 +3941,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-11-11T14:00:00.000Z",
+    "lastEpisodeDate": "2026-11-18T06:00:00.000Z",
     "firstEpisodeDate": "2020-12-01T18:28:13.000Z",
-    "episodeCount": 227,
+    "episodeCount": 228,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4022,8 +4040,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-11-16T21:57:39.000Z",
-    "firstEpisodeDate": "2026-07-06T19:21:46.000Z",
+    "lastEpisodeDate": "2026-11-18T04:22:08.000Z",
+    "firstEpisodeDate": "2026-07-08T05:27:06.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4095,8 +4113,8 @@
         "name": "Adam Boileau"
       }
     ],
-    "lastEpisodeDate": "2026-11-11T06:09:15.000Z",
-    "firstEpisodeDate": "2025-05-06T05:03:06.000Z",
+    "lastEpisodeDate": "2026-11-18T04:47:42.000Z",
+    "firstEpisodeDate": "2025-05-07T04:55:44.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4197,7 +4215,23 @@
         "ratingCount": 16,
         "fetchedAt": "2026-11-17T15:51:38.582Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Excellent",
+        "content": "Great analysis really, very thoughtful",
+        "author": "SecEnthused",
+        "updatedAt": "2026-08-04T16:30:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Top notch work",
+        "content": "Excellent addition to the Risky podcasts",
+        "author": "Laughedoutloud",
+        "updatedAt": "2026-03-25T03:38:15-07:00"
+      }
+    ]
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5226,9 +5260,9 @@
     "cadence": "weekly",
     "format": "news-brief",
     "authors": [],
-    "lastEpisodeDate": "2026-11-04T10:00:00.000Z",
+    "lastEpisodeDate": "2026-11-18T10:00:00.000Z",
     "firstEpisodeDate": "2022-08-12T16:00:00.000Z",
-    "episodeCount": 243,
+    "episodeCount": 244,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -5727,7 +5761,44 @@
         "ratingCount": 47,
         "fetchedAt": "2026-11-17T15:51:51.052Z"
       }
-    }
+    },
+    "recentReviews": [
+      {
+        "rating": 5,
+        "title": "Insightful and educational",
+        "content": "Awesome podcast discussing and educating on current cybersecurity trends or risks",
+        "author": "Maocol99",
+        "updatedAt": "2025-08-14T17:21:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Insightful, timely, and concise!",
+        "content": "This is a great podcast for both cybersecurity professionals and enthusiasts. The topics are always timely and relevant, and the experts joining David tend to make extraordinarily complicated subjects easy to understand. Give it a listen!",
+        "author": "LarsMarie",
+        "updatedAt": "2025-05-05T15:23:30-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "More OT cybersecurity and Holly rocks.",
+        "content": "It is great to see more episodes on OT security. It helps me as a Sr. Dir responsible for both IT and OT cybersecurity. Holly and others have the skill sets you need on the show.",
+        "author": "tryangalway",
+        "updatedAt": "2025-03-10T22:06:15-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Great Podcast for Cybersecurity Insights!",
+        "content": "Threat Vector, hosted by David Moulton from Unit 42, is a great listen for anyone into cybersecurity. The show explores the future of cybersecurity and the big challenges organizations face today, including the shift from old defense methods to a mindset that expects breaches. With discussions on topics like AI-generated malware, it offers practical tips for staying secure against new threats. Whether you're a pro or just getting started, this podcast keeps you up-to-date on digital security. Highly recommended!",
+        "author": "yshishka",
+        "updatedAt": "2024-08-26T10:36:16-07:00"
+      },
+      {
+        "rating": 5,
+        "title": "Accessible & Actionable Resource",
+        "content": "Threat Vector conversations touch on simple actions individuals can take to be more informed and cyber secure, while also providing a greater context for what is happening in the industry. \n\nSuper informative and valuable pod.",
+        "author": "run_amanda",
+        "updatedAt": "2024-08-19T08:29:33-07:00"
+      }
+    ]
   },
   {
     "id": "three-buddy-problem",

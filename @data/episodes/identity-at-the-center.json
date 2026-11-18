@@ -1,5 +1,22 @@
 [
   {
+    "id": "462-nist-at-authenticate-2026-with-ryan-galluzzo-and-bill-fisher",
+    "podcastId": "identity-at-the-center",
+    "title": "#462 - NIST at Authenticate 2026 with Ryan Galluzzo and Bill Fisher",
+    "description": "<p>Recorded live at FIDO Authenticate 2026, Jim McDonald sits down with Ryan Galluzzo and Bill Fisher of NIST. Bill explains why NIST's National Cybersecurity Center of Excellence is working on mobile driver's licenses, how cryptographically verifiable credentials can help financial institutions fight deepfake-driven fraud, and where the work goes next in healthcare with digital insurance cards and multi-credential presentation. Ryan covers the privacy side, including selective disclosure, avoiding \"phone home\" verification, and zero knowledge proofs. The conversation moves to the new SP 800-63-4 implementation resources, including conformance criteria in OSCAL format, and NIST's token security guidance on what can go wrong after a strong login. The back half focuses on AI agents: what NIST learned from 600+ public comments, why agent identities must be distinct from human ones, the hard problems of delegation and authorization across agent call chains, and how organizations can make risk-based decisions while standards catch up.</p><p><br></p><p>Connect with Ryan: https://www.linkedin.com/in/ryan-galluzzo-a100563b/</p><p><br></p><p>Connect with Bill: https://www.linkedin.com/in/billfshr/</p><p><br></p><p>Connect with us on LinkedIn:</p><p><br></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br></p><p><br></p><p>00:00 Live from FIDO Authenticate 2026</p><p>00:48 Bill Fisher's path into identity</p><p>02:18 Ryan Galluzzo's origin story</p><p>03:09 What NIST does (and its standard reference peanut butter)</p><p>04:49 Mobile driver's licenses and the NCCoE</p><p>08:36 Privacy, selective disclosure, and phone home risks</p><p>11:44 Healthcare and verifiable digital credentials</p><p>16:00 What about people without smartphones</p><p>18:24 SP 800-63-4 implementation resources and OSCAL</p><p>23:20 How NIST works with industry standards like passkeys</p><p>26:15 Token security after a strong login</p><p>28:53 First steps for protecting tokens and signing keys</p><p>31:29 What NIST heard on AI agent identity</p><p>37:25 Evolutionary vs. revolutionary standards for agents</p><p>41:26 Agent authorization, delegation, and call chains</p><p>47:13 Making agent identity practical for teams</p><p>51:15 Reflections on Authenticate 2026</p><p><br></p><p><br></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Ryan Galluzzo, Bill Fisher, NIST, National Institute of Standards and Technology, NCCoE, National Cybersecurity Center of Excellence, FIDO Alliance, Authenticate 2026, mobile driver's license, mDL, verifiable digital credentials, selective disclosure, zero knowledge proofs, identity proofing, identity verification, SP 800-63-4, digital identity guidelines, OSCAL, conformance criteria, assurance levels, passkeys, token security, access tokens, signing keys, shared signals framework, AI agents, agentic identity, delegation, authorization, verifiable intent, non-human identity, IAM</p>",
+    "publishedAt": "2026-11-18T10:00:00.000Z",
+    "duration": 3471,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/128962154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2Fee692b46-31a3-cfc3-79d1-b65585a65656.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 462,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/462---NIST-at-Authenticate-2026-with-Ryan-Galluzzo-and-Bill-Fisher-e3ru45a"
+  },
+  {
     "id": "461-passkeys-agents-and-verified-humans-at-authenticate-2026-with-andrew-shikiar",
     "podcastId": "identity-at-the-center",
     "title": "#461 - Passkeys, Agents, and Verified Humans at Authenticate 2026 with Andrew Shikiar",

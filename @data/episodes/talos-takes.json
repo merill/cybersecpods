@@ -1,5 +1,22 @@
 [
   {
+    "id": "using-public-blockchains-for-malware-command-and-control",
+    "podcastId": "talos-takes",
+    "title": "Using public blockchains for malware command and control",
+    "description": "<p>Grab a cup of coffee and get comfortable — this conversation gets into the technical mechanics of modern command-and-control (C2) infrastructure.</p><p>Attackers are constantly shifting their strategies to bypass traditional defensive playbooks, moving away from centralized infrastructure that is easy to seize or block. By leveraging public blockchains, threat actors are building highly resilient C2 channels that operate on top of legitimate, decentralized networks. </p><p>In this episode, Amy sits down with Cisco Talos researcher Chetan Raghuprasad to explore the evolution of C2 infrastructure. We track the development from early, centralized servers to the latest resilient implementations using Bitcoin, Ethereum (\"EtherHiding\"), and Solana.</p><p><b>Blogs:</b></p><ul><li><a href='https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/'>The challenge of defending against bulletproof dead drops on public blockchains</a></li><li><a href='https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing'>UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing</a></li></ul>",
+    "publishedAt": "2026-11-18T10:00:00.000Z",
+    "duration": 2021,
+    "audioUrl": "https://www.buzzsprout.com/2018149/episodes/20132459-using-public-blockchains-for-malware-command-and-control.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "the-volta-infostealer-outsourcing-cybercrime-grunt-work-to-ai",
     "podcastId": "talos-takes",
     "title": "The VOLTA infostealer: Outsourcing cybercrime grunt work to AI",
