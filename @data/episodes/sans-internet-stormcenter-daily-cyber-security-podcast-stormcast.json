@@ -1,5 +1,22 @@
 [
   {
+    "id": "nginx2root-http2-rces-cve-2026-123007-cve-2026-123633-microsoft-agent-framework-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "NGINX2ROOT HTTP/2 RCEs (CVE-2026-123007, CVE-2026-123633); Microsoft Agent Framework PyPI Compromise; Holiday Hack Challenge (Nov 19 2026)",
+    "description": "<br/>\nToday's episode covers F5's NGINX2ROOT HTTP/2 remote code execution patches, a malicious release of Microsoft's Agent Framework on the Python Package Index (PyPI), and the launch of the SANS Holiday Hack Challenge.<br/>\nNGINX2ROOT HTTP/2 Remote Code Execution (CVE-2026-123007, CVE-2026-123633)<br/>\nF5 patched five NGINX vulnerabilities, including critical HTTP/2 memory-corruption bugs that can allow unauthenticated remote code execution. The most widely exposed issue, CVE-2026-123007, does not require a special NGINX configuration beyond HTTP/2 being enabled, though exploitation needs a large volume of traffic and is not always reliable, even when Address Space Layout Randomization (ASLR) can be bypassed. Researchers showed these bugs can be chained with a kernel privilege-escalation vulnerability to obtain root access. Rapid7 released a proof-of-concept that works against NGINX running in containers; until you can patch, consider turning off HTTP/2 (Hypertext Transfer Protocol version 2).<br/>\n<a href=\"https://my.f5.com/manage/s/article/K000163926\">https://my.f5.com/manage/s/article/K000163926</a><br/>\n<a href=\"https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities\">https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities</a><br/>\n<a href=\"https://github.com/sfewer-r7/CVE-2026-123007\">https://github.com/sfewer-r7/CVE-2026-123007</a><br/>\nMicrosoft Agent Framework Compromised on PyPI<br/>\nWiz reported that malicious versions 1.26.1 and 1.26.2 of Microsoft's Agent Framework were published to the Python Package Index (PyPI) on November 17 after a compromised publishing credential was used from a Microsoft IP address. Both malicious versions have been removed; 1.26.0 is the latest safe release. The package normally sees about 41,000 downloads a week, and the malicious builds were only available for part of that day.<br/>\n<a href=\"https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi\">https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>\nSANS Holiday Hack Challenge<br/>\nThe SANS Holiday Hack Challenge is live again, with links in the show notes and across the SANS website. It may be a welcome distraction between patching and incident work.<br/>\n<a href=\"https://www.sans.org/cyber-ranges/holiday-hack-challenge\">https://www.sans.org/cyber-ranges/holiday-hack-challenge</a><br/>",
+    "publishedAt": "2026-11-19T02:00:02.000Z",
+    "duration": 349,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10186.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10186,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10186"
+  },
+  {
     "id": "phishing-collects-mx-records-java4shell-openjdk-rce-cve-2026-114938-optimizely-m",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "Phishing Collects MX Records; Java4Shell OpenJDK RCE (CVE-2026-114938); Optimizely Magecart Compromise (Nov 18 2026)",
