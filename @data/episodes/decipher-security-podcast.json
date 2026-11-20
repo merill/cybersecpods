@@ -1,5 +1,22 @@
 [
   {
+    "id": "outages-patches-and-2shell-hell",
+    "podcastId": "decipher-security-podcast",
+    "title": "Outages, Patches, and 2Shell Hell",
+    "description": "<p>Maybe you've heard, there have been a few bugs recently. And internet outages. And patching issues. We dig into the Java4Shell and nginx2root flaws, talk about why there are so many outages and service disruptions now, and how much, if any, of this is a result of cyber attacks or AI. <strong>Timestamps</strong><a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0\">0:00</a> Intro: roots, shells, outages and chaos<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=18s\">0:18</a> Vibe check: friends and family keep asking \"is it a cyber attack?\"<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=96s\">1:36</a> Thanksgiving dread and a week of named bugs (Java, Nginx, Ruby, PHP)<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=165s\">2:45</a> Nothing is being mass exploited, per the GreyNoise data<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=228s\">3:48</a> Why names like \"PHP to Shell\" cause panic<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=269s\">4:29</a> The Outlook outage parody at the Country Music Awards<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=336s\">5:36</a> Cyber attack or fragile infrastructure?<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=402s\">6:42</a> The AI doomsday narrative feeds the hysteria<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=439s\">7:19</a> The MIT professor on the news<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=545s\">9:05</a> A college student's take: \"None of this looks like cyber attacks\"<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=626s\">10:26</a> Why the named bugs distract from real priorities<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=752s\">12:32</a> GreyNoise and tracking real exploitation<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=819s\">13:39</a> PHP to Shell patching, six months on<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=908s\">15:08</a> Code Red, Slammer and the Trustworthy Computing memo<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=994s\">16:34</a> Burnout across the industry<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1047s\">17:27</a> AI accelerates bug discovery<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1102s\">18:22</a> Bug collisions in the frontier-model era<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1311s\">21:51</a> Patches written with AI, and more work for defenders<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1398s\">23:18</a> IR firms at capacity<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1517s\">25:17</a> Project Zero and Anthropic shorten disclosure timelines<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1702s\">28:22</a> Leaks, credit fights and disclosure drama<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1813s\">30:13</a> Pressure on vendors, and why shorter windows make sense<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1897s\">31:37</a> Ruby to Shell: publishing the POC after a week<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=1986s&pp=0gcJCWMAwfN6Pr3D\">33:06</a> Full circle, plus a plea for a quiet Thanksgiving week<a href=\"https://www.youtube.com/watch?v=FSOnRi9KoB0&t=2041s\">34:01</a> Wrap-up</p>",
+    "publishedAt": "2026-11-20T10:30:37.000Z",
+    "duration": 2055,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/129800708/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-20%2F437212177-44100-2-ead4c33b44b2f8.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/Outages--Patches--and-2Shell-Hell-e3snn24"
+  },
+  {
     "id": "hype-vs-reality-ai-in-offensive-cyber-ops-or-alissa-knight",
     "podcastId": "decipher-security-podcast",
     "title": "Hype vs Reality: AI in Offensive Cyber Ops | Alissa Knight",
