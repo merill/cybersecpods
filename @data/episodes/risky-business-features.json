@@ -1,5 +1,22 @@
 [
   {
+    "id": "solo-pod-james-plays-with-artex",
+    "podcastId": "risky-business-features",
+    "title": "Solo Pod: James plays with ARTEX",
+    "description": "<p>In this solo podcast James Wilson looks at where the ARTEX hacking agent came from, what it borrows from CAIRN and how the AntiFox fork builds on it. He then gets under ARTEX’s hood to explain how it splits up investigations, how its agents share what they learn and how they decide what to try next.</p>\n\n<p>James also shares what he learned when running it himself, then turns to what defenders can take from all this: how they can spot and interrupt these attacks, and how they can use it to test their own systems.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/\">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/\">Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://workos.com/security/bulletins/update-for-october-30th-2026-data-security-incident\">Update for October 30th, 2026 Data Security Incident</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://asec.ahnlab.com/en/95845/\">The Threat of AI-Driven Autonomous Penetration Testing, as Examined by ARTEX</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://github.com/failsafe-security/artex\">FailSafe's ARTEX Fork</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-20T02:09:39.000Z",
+    "duration": 4014,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBFEATURES45.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBFEATURES45/"
+  },
+  {
     "id": "why-cisos-need-to-read-the-room",
     "podcastId": "risky-business-features",
     "title": "Why CISOs need to read the room",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "mitm-emulated-android-apps-keep-calm-and-carry-on-psw-953",
+    "podcastId": "paul-s-security-weekly",
+    "title": "MiTM Emulated Android Apps, Keep Calm And Carry On - PSW #953",
+    "description": "<p>First up, we have a technical segment on how to setup Waydroid and Mitmproxy for good and evil, then in the security news:</p> <p>In the security news this week:</p> <ul> <li>ARTEX: pentesting goes AI</li> <li>If everything's urgent, nothing is</li> <li>Disclosure clocks just got shorter</li> <li>NGINX, Apache and Java, meet RCE</li> <li>Who's actually hacking with AI?</li> <li>Refrigeration with a root problem</li> <li>Old USB, new infections</li> <li>Router trouble grounds flights</li> <li>Fridge controllers need better defenses</li> <li>SANSAR uses your GPU and hides</li> <li>Vulnerability volume keeps climbing</li> <li>AI puts defenders to the test</li> <li>Taiwanese calls, intercepted</li> <li>Air traffic gets an AI copilot</li> <li>ESP32 wants a desktop</li> <li>Script tags, now serving skimmers</li> <li>Japan's supercomputer goes offline</li> <li>Surveillance, courtesy of ad tech</li> <li>Cloud hosts peek inside protected VMs</li> <li>LLMs can edit their own brains</li> <li>France puts DNS on trial</li> <li>Leaked keys vanish in seconds</li> <li>Flipper One levels up</li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/psw\">https://www.securityweekly.com/psw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/psw-953\">https://securityweekly.com/psw-953</a></p>",
+    "publishedAt": "2026-11-19T22:00:00.000Z",
+    "duration": 7019,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/pswonly/PSW_953_1--55b4bc20-e96e-4e20-8bbb-9a135f8dfbe1--audio-converted--0aceddb1-5efa-4408-bf98-3aea4a289551.mp3?dest-id=388575",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/5/7/c/8/57c85bed1d9d4abba04421dee9605cbd/PSW_953_Thumbnail_PSW_1920x1920_52f8b870-0e40-4a95-8bc3-50eade30781e.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://pswonly.libsyn.com/mitm-emulated-android-apps-keep-calm-and-carry-on-psw-953"
+  },
+  {
     "id": "holes-in-everything-even-ssh-psw-952",
     "podcastId": "paul-s-security-weekly",
     "title": "Holes In Everything, Even SSH - PSW #952",

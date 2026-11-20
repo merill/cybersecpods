@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-windows-baseline-protection-coming-to-apps-next-year",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: \"Windows Baseline Protection\" coming to apps next year",
+    "description": "<p>A new Windows security feature will allow apps to check system security before running, hackers hit the European Commission’s HR platform, Ubuntu will ship AI-generated patches in Edge releases, and a ton of branded vulnerabilities.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-new-windows-security-feature-will-allow-apps-to-refuse-to-run-on-insecure-systems/\">Risky Bulletin: New Windows security feature will allow apps to refuse to run on insecure systems</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-20T01:21:54.000Z",
+    "duration": 616,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS636.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS636/"
+  },
+  {
     "id": "srsly-risky-biz-regulatory-relief-for-ai-hacks-is-a-good-first-step",
     "podcastId": "risky-bulletin",
     "title": "Srsly Risky Biz: Regulatory relief for AI hacks is a good first step",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWSSI135/"
-  },
-  {
-    "id": "srsly-risky-biz-us-supreme-court-undermines-section-702-intel",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: US Supreme Court undermines Section 702 intel",
-    "description": "<p>Tom Uren and James Wilson talk about a new US Supreme Court decision that puts the current EU-US data sharing agreement at risk. American intelligence collection efforts have been at the centre of legal challenges of these on-again off-again data transfer agreements, and if the current agreement were struck down it would cripple Section 702 collection from Europe.</p>\n\n<p>They also discuss Canada’s effort to be more transparent about its active cyber operations, those that degrade and disrupt foreign adversaries.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/lc5kMZjTLk4\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-07-09T07:31:00.000Z",
-    "duration": 1675,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB174.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB174/"
   }
 ]
