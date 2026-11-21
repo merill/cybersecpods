@@ -1,5 +1,22 @@
 [
   {
+    "id": "owasp-top-10-part-8-software-or-data-integrity-failures-or-ep-204",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "OWASP Top 10 Part 8: Software or Data Integrity Failures | Ep 204",
+    "description": "<p>Part 8 of our OWASP Top 10 series covers Software or Data Integrity Failures, the category Brad thinks would jump to number one if OWASP released a list today. Brad and Jordan explain why it covers much more than vulnerable libraries: it applies to any third-party resource your application trusts without checking it, whether that’s code, firmware, a domain or user input.</p><p>They get into how AI-assisted “vibe coding” has quietly pushed this risk into almost every organization and its vendors. Brad tells the story of an AI assistant that pulled in a compromised GitHub fork and poisoned his whole project. He also walks through two recent client incidents: a legacy package that resurfaced on a production server, and card-skimming JavaScript buried in a vendor’s tracking library.</p><p>In this episode:</p><ul><li>Why “trust” is the common thread across this whole category</li><li>Cookie scoping and the risk of trusting parent domains and subdomains</li><li>How AI coding tools pick dependencies, and why your vendors’ vibe coding affects you too</li><li>Unsigned firmware updates in medical and industrial devices</li><li>Getting libraries from official sources, not lookalike repos</li><li>Insecure deserialization, explained as a letter in an envelope</li><li>Mass assignment and the “isAdmin=true” privilege escalation</li><li>Pinning libraries and images in CI/CD pipelines</li></ul>",
+    "publishedAt": "2026-11-20T21:56:11.000Z",
+    "duration": 1566,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/e567d886eeeb601c2f5e0ed672fb7f401fce6ad02874e4cec265d8434c9324ef/eyJlcGlzb2RlSWQiOiJjNjJmNDg1ZS0zOGE4LTQ5MmUtYjMyMi0zNzQ2MjhjMGNjMTIiLCJwb2RjYXN0SWQiOiIwMGJkN2RjZS02NWI0LTQ1MWYtYjkxNC01MzY2MmY3MWZiNmUiLCJhY2NvdW50SWQiOiI2YWVhMzg2MzQwYmFhOTNlOTZjZTNjY2EiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmIwMGI4YTIwMjlhMjA2NTBhOTg3NzM0L2N5YmVyLXRocmVhdC1wZXJzcGVjdGl2ZS0wZzYxNS0yMDI2LTExLTIwX18yMS01Ni0xMi5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/00bd7dce-65b4-451f-b914-53662f71fb6e/logos/67ec1de1-da98-4be9-8f18-98501539796e.jpeg",
+    "episodeNumber": 204,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "authentication-failures-owasp-top-10-part-7-or-ep-203",
     "podcastId": "the-cyber-threat-perspective",
     "title": "Authentication Failures: OWASP Top 10 Part 7 | Ep 203",
@@ -510,9 +527,9 @@
     "link": null
   },
   {
-    "id": "episode-177-claude-mythos-what-it-actually-does-what-it-doesnt-and-what-your-org",
+    "id": "episode-177-claude-mythos-what-it-actually-does-and-what-your-organization-shoul",
     "podcastId": "the-cyber-threat-perspective",
-    "title": "Episode 177: Claude Mythos — What It Actually Does, What It Doesn't, and What Your Organization Should Do Now",
+    "title": "Episode 177: Claude Mythos - What It Actually Does and What Your Organization Should Do Now",
     "description": "<p>In Episode 177 of the Cyber Threat Perspective podcast, host Brad Causey and virtual CISO Daniel Perkins take a clear-eyed look at Claude Mythos — Anthropic's AI model that's generating serious buzz in the cybersecurity world for its ability to analyze source code, identify vulnerabilities at scale, build working exploits, and surface flaws that have sat undetected for decades.</p><p>The cybersecurity community is reacting. Brad and Daniel think a more measured response is warranted.</p><p>This episode breaks down what Mythos actually is, what it actually did, and what it actually means for your security program — without the hype or the hand-waving.</p><p>Topics covered include:</p><ul><li><b>What Mythos really is</b> — a purpose-built code analysis model, not a hacker-in-a-box or AI overlord, and why that distinction matters</li><li><b>The BSD vulnerability reality check</b> — it cost $20,000 to find a 20-year-old DOS flaw in software almost nobody uses, and what that tells us about the real-world economics of AI-driven vulnerability discovery</li><li><b>Speed, not net-new</b> — why Mythos hasn't introduced anything fundamentally new to the threat landscape, just compressed the timeline dramatically</li><li><b>Vulnerability chaining</b> — how Mythos could change triage by identifying how low and medium severity CVEs combine into critical attack paths</li><li><b>The vibe coding problem</b> — why organizations that have never written code before are now writing a lot of it, and why that's where Mythos becomes genuinely important</li><li><b>What this means for pen testing</b> — why AI finding code flaws doesn't replace the human-driven validation of security programs, business logic testing, and misconfiguration discovery</li><li><b>The shift to continuous vulnerability management</b> — why monthly or quarterly scanning cycles won't be sufficient once Mythos capabilities proliferate, and how to make the move to continuous without going big bang</li><li><b>The Mythos-Ready framework</b> — a look at the CSA guidance document, what's useful, what needs to be scaled to your organization, and why inventory and attack surface should come before governance for most teams</li><li><b>Supply chain and third-party risk</b> — how Mythos changes the questions you should be asking your software vendors</li></ul><p>The bottom line from Brad and Daniel: be responsive, not reactive. Tighten your patching SLAs, understand your attack surface, document your decisions, and execute the fundamentals well. The organizations that do that won't be caught flat-footed when this becomes mainstream.</p><p>Work with Us: <a href=\"https://securit360.com/\" rel=\"noopener noreferrer nofollow\">https://securit360.com</a><br />Blog: <a href=\"https://offsec.blog/\" rel=\"noopener noreferrer nofollow\">https://offsec.blog/</a><br />Youtube: <a href=\"https://www.youtube.com/@cyberthreatpov\" rel=\"noopener noreferrer nofollow\">https://www.youtube.com/@cyberthreatpov</a><br />Twitter: <a href=\"https://x.com/cyberthreatpov\" rel=\"noopener noreferrer nofollow\">https://x.com/cyberthreatpov</a></p><p>Follow Spencer on social ⬇<br />Spencer's Links: <a href=\"https://spenceralessi.com\" rel=\"noopener noreferrer nofollow\">https://spenceralessi.com</a></p>",
     "publishedAt": "2026-04-14T19:00:00.000Z",
     "duration": 2493,
