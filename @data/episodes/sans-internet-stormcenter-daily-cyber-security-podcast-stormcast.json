@@ -1,5 +1,22 @@
 [
   {
+    "id": "syslog-timestamps-glinet-goodcloud-breach-ghostscript-upload2shell-rce-cve-2026-",
+    "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
+    "title": "Syslog Timestamps; GL.iNet GoodCloud Breach; Ghostscript Upload2Shell RCE (CVE-2026-125396) (Nov 23rd 2026)",
+    "description": "<br/>\nJim Clausing reviews how syslog timestamps have changed, attackers used a breach of GL.iNet's GoodCloud service to backdoor routers and KVM devices, and a silently patched use-after-free in Ghostscript's Type 1 font loader can lead to code execution in document-conversion pipelines.<br/>\nA Brief History of Syslog Timestamps<br/>\nJim Clausing compares the older BSD-style syslog timestamp (RFC 3164) with the more modern ISO 8601 format used in RFC 5424, including how time zones are written, which matters when you correlate logs during forensics. On newer Debian and Ubuntu systems, systemd's journald is now the default logger, and rsyslogd may no longer be installed by default.<br/>\n<a href=\"https://isc.sans.edu/diary/33530\">https://isc.sans.edu/diary/33530</a><br/>\nGL.iNet GoodCloud Breach<br/>\nAttackers exploited a vulnerability in GL.iNet's GoodCloud remote-access service and installed backdoors on some of the company's travel routers and IP KVM devices. The Friday notice tells customers to look for a process named crond -i /tmp/.log; GL.iNet has blocked the cloud attack path and scheduled stable security firmware for November 22, and it recommends a factory reset or the KVM security beta for devices that are already infected.<br/>\n<a href=\"https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</a><br/>\n<a href=\"https://forum.gl-inet.com/t/2026-11-20-gl-inet-security-notice-goodcloud-kvm-routers/73056\">https://forum.gl-inet.com/t/2026-11-20-gl-inet-security-notice-goodcloud-kvm-routers/73056</a><br/>\nGhostscript Upload2Shell (CVE-2026-125396)<br/>\nA use-after-free in Ghostscript's Type 1 font loader, found with AI-assisted research and tracked as CVE-2026-125396, can let a crafted document escape the -dSAFER sandbox and run code in the rendering process. The bug was fixed in Ghostscript 10.08.0 without a clear acknowledgment when the patch was released; the main risk is web applications and other tools that convert untrusted uploads, including image pipelines that quietly invoke Ghostscript, and printers can be affected as well.<br/>\n<a href=\"https://pwn.ai/upload2shell\">https://pwn.ai/upload2shell</a><br/>\nMy Upcoming Classes<br/>\n<a href=\"https://www.sans.org/profiles/dr-johannes-ullrich\">https://www.sans.org/profiles/dr-johannes-ullrich</a><br/>\nNo Podcast<br/>\nThere will be no Stormcast Thursday or Friday because of Thanksgiving.<br/>",
+    "publishedAt": "2026-11-23T02:00:02.000Z",
+    "duration": 426,
+    "audioUrl": "https://traffic.libsyn.com/securitypodcast/10190.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 10190,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://isc.sans.edu/podcastdetail/10190"
+  },
+  {
     "id": "honeypot-analysis-as-code-php-patches-and-session-rce-cve-2026-126714-dragos-ai-",
     "podcastId": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
     "title": "Honeypot Analysis as Code; PHP Patches and Session RCE (CVE-2026-126714); Dragos AI Canary Tokens; vCenter Exploit (CVE-2026-123890) (Nov 20th 2026)",

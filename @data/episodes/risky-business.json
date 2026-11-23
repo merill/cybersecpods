@@ -1,5 +1,22 @@
 [
   {
+    "id": "soap-box-do-ai-agents-need-their-own-identities",
+    "podcastId": "risky-business",
+    "title": "Soap Box: Do AI agents need their own identities?",
+    "description": "<p>In this sponsored Soap Box edition of the Risky Business podcast Patrick Gray chats with Fletcher Heisler, the CEO of open source IDP company Authentik.</p>\n\n<p>Do AI agents need their own identities? Or can we scope agent actions and authorisations in different ways?</p>\n\n<p>It’s a fast moving space and lots of new tech and standards are emerging. Fletcher joins Pat to demystify it all!</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/lE96bExIMyM\">YouTube</a>.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
+    "publishedAt": "2026-11-23T01:09:45.000Z",
+    "duration": 2172,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SOAPBOX113.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/SOAPBOX113/"
+  },
+  {
     "id": "risky-business-860-google-agentic-hacking-has-crossed-a-threshold",
     "podcastId": "risky-business",
     "title": "Risky Business #860 -- Google: Agentic hacking has “crossed a threshold”",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/WWC9/"
-  },
-  {
-    "id": "risky-business-790-bye-bye-signal-gate-hello-telemessage-gate",
-    "podcastId": "risky-business",
-    "title": "Risky Business #790 -- Bye bye Signal-gate, hello TeleMessage-gate",
-    "description": "<p>On this week’s show Patrick Gray and Adam Boileau discuss the week’s cybersecurity news:</p>\n\n<ul>\n  <li>White House’s off-brand Israeli Signal fork logs cleartext messages with hard coded creds while getting hacked (twice). Just … Wow.</li>\n  <li>Ransomware attacks on UK retailers are linked, and Marks & Spencer has it extra bad</li>\n  <li>After six years dormant, a Magento eCommerce platform backdoor comes to life</li>\n  <li>The North Korean IT worker scam is truly webscale</li>\n  <li>NSO group owes Meta $168m for hacking WhatsApp</li>\n</ul>\n\n<p>This week’s episode is sponsored by vulnerability management wranglers, Nucleus Security. Aaron Unterberger joins to talk through the complexities of tracking vulnerabilities in cloud components - left to the source, right to the deployments, and …sideways into the sidecars?</p>\n\n<p>This week’s show also features an excerpt from Pat’s interview with Senator Mark Warner - <a href=\"https://risky.biz/markwarner/\">Scoot back one in your podcast feed</a> to check out the full chat, or find it on <a href=\"https://youtu.be/ZezjjoaYrQA\">Youtube</a>.</p>\n\n<p>This episode is available on <a href=\"https://youtu.be/dM4TGUpMO-0\">Youtube</a> too.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://www.404media.co/mike-waltz-accidentally-reveals-obscure-app-the-government-is-using-to-archive-signal-messages/\">Mike Waltz Accidentally Reveals Obscure App the Government Is Using to Archive Signal Messages</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/\">Despite misleading marketing, Israeli company TeleMessage, used by Trump officials, can access plaintext chat logs</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/\">The Signal Clone the Trump Admin Uses Was Hacked</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.nbcnews.com/tech/security/telemessage-suspends-services-hackers-say-breached-app-rcna204925\">App used by Mike Waltz suspends services after hacking claims</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.404media.co/senator-demands-investigation-into-trump-admin-signal-clone-after-404-media-investigation/\">Senator Demands Investigation into Trump Admin Signal Clone After 404 Media Investigation</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://x.com/_MG_/status/1918148557670105354\">MG on X: \"Looks like TeleMessage was probably procured and rolled out under Biden. There are public records for it. https://t.co/XCuZpi8PL3\" / X</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/harrods-cyberattack-uk-retailer\">Harrods becomes latest retailer to announce attempted cyberattack | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bbc.com/news/articles/crkx3vy54nzo\">Co-op DragonForce cyber attack includes customer data, firm admits</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.bbc.com/news/articles/cg72k851dd8o\">Co-op cyber attack: Staff told to keep cameras on in meetings</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/security/2025/05/hundreds-of-e-commerce-sites-hacked-in-supply-chain-attack/\">Hundreds of e-commerce sites hacked in supply-chain attack - Ars Technica</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/security/2025/05/microsoft-pushes-unphishable-logins-forward-with-new-sign-in-options/\">Microsoft’s new “passwordless by default” is great but comes at a cost - Ars Technica</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/\">Windows RDP lets you log in using revoked passwords. Microsoft is OK with that. - Ars Technica</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/north-korea-workers-infiltrate-fortune-500/\">North Korean operatives have infiltrated hundreds of Fortune 500 companies | CyberScoop</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/us-fincen-cut-off-huione-group-southeast-asia-cyber-scam\">US wants to cut off key player in Southeast Asian cybercrime industry | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/myanmar-militia-leader-us-sanctions-cyber-scam-industry\">Myanmar militia leader sanctioned by US over cyber scam connections | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://www.cybersecuritydive.com/news/trump-cisa-budget-cuts-disinformation/747047/\">Trump proposes major cut to CISA’s budget, citing false ‘censorship’ claims | Cybersecurity Dive</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://therecord.media/nsa-to-cut-up-to-2000-roles-downsizing\">NSA to cut up to 2,000 civilian roles as part of intel community downsizing | The Record from Recorded Future News</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                    \t<li><a href=\"https://cyberscoop.com/nso-group-owes-whatsapp-over-spyware-infections-jury/\">NSO Group owes $168M in damages to WhatsApp over spyware infections, jury says | CyberScoop</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2025-05-07T04:55:44.000Z",
-    "duration": 3372,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RB790.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RB790/"
   }
 ]
