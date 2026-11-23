@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-no-good-very-bad-week-for-infrastructure-the-443-podcast-episode-397",
+    "podcastId": "the-443",
+    "title": "The No Good, Very Bad Week for Infrastructure - The 443 Podcast - Episode 397",
+    "description": "<p>This week on the podcast, we cover the chaotic two weeks this months that started with a day-long Microsoft outage,  moved through a national ground stop for flights in the US, and ended with disruptions in everything from banking systems to national spying agency networks. We end the podcast with a quick chat about Nginx2Shell and if it might be the vulnerability to kick off another two weeks of chaos.</p>",
+    "publishedAt": "2026-11-23T18:12:21.000Z",
+    "duration": 2287,
+    "audioUrl": "https://mcdn.podbean.com/mf/web/srnuhv4bfbeme3yz/The_443_397_112326.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 397,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://the443.podbean.com/e/the-no-good-very-bad-week-for-infrastructure-the-443-podcast-episode-397/"
+  },
+  {
     "id": "how-msps-are-using-ai-the-443-podcast-episode-396",
     "podcastId": "the-443",
     "title": "How MSPs Are Using AI - The 443 Podcast - Episode 396",
@@ -6781,22 +6798,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://the443.podbean.com/e/the-insecurity-of-iot/"
-  },
-  {
-    "id": "breaking-down-the-blockchain-and-cryptocurrency",
-    "podcastId": "the-443",
-    "title": "Breaking Down the Blockchain and Cryptocurrency",
-    "description": "Welcome to the first episode of \"The 443 - Security Simplified\". Each week on the podcast, white-hat hackers from the WatchGuard Threat Lab will analyze the methods and techniques behind the latest hacks, attacks, and breaches. We’ll tell you what happened, how the bad guys did it, and how to protect your business, employees and customers.\n\nOn today’s episode, we cover cryptocurrency and the blockchain, learn that hard forks are a big deal, hear tales of fake ICOs, and learn about the utility of private blockchains. Also, is your Google Home leaking?\n\nSubscribe to \"The 443 - Security Simplified\"\n\n Apple Podcasts\n Stitcher\n Overcast\n Google Play\n TuneIn\n RSS",
-    "publishedAt": "2018-06-26T18:21:00.000Z",
-    "duration": 3407,
-    "audioUrl": "https://mcdn.podbean.com/mf/web/7jv2586ul44br3f4/the_443_content_blubrry_com_the_443_The_443-001-Cryptocurrency.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": 1,
-    "seasonNumber": 2018,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://the443.podbean.com/e/breaking-down-the-blockchain-and-cryptocurrency/"
   }
 ]

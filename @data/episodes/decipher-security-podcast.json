@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-art-of-vulnerability-disclosure-windows-in-the-age-of-ai-or-natalie-silvanov",
+    "podcastId": "decipher-security-podcast",
+    "title": "The Art of Vulnerability Disclosure Windows in the Age of AI | Natalie Silvanovich",
+    "description": "<p>Natalie Silvanovich from Google Project Zero joins Lindsey O’Donnell-Welch to talk about AI-assisted vulnerability discovery, zero-day and N-day threats, faster patching and rollout, and how security teams can prioritize bugs.Timestamps<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=5s\">00:05</a> — Introducing Natalie Sylvanovich and Google Project Zero<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=60s\">01:00</a> — Natalie’s path into cybersecurity<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=211s\">03:31</a> — Why zero-click vulnerabilities matter<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=305s\">05:05</a> — Project Zero’s mission and its original 90-day policy<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=473s\">07:53</a> — End-day attacks and changes to disclosure policy<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=600s\">10:00</a> — Patch gaps and reporting transparency<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=731s\">12:11</a> — The upcoming 90-, 60-, and 30-day disclosure timelines<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=844s\">14:04</a> — Rethinking disclosure policy in the age of AI<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=930s\">15:30</a> — Why faster patching matters<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=971s\">16:11</a> — Patch rollout speed and the shrinking exploit window<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1027s\">17:07</a> — Making disclosure policies clearer to enforce<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1124s\">18:44</a> — The challenge of thorough patching<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1208s\">20:08</a> — The stages between finding a bug and delivering a patch<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1377s\">22:57</a> — Project Zero’s focus on consumer software<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1395s\">23:15</a> — Measuring success as AI changes the security landscape<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1527s\">25:27</a> — Re-establishing ground truth and tracking attackers<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1614s\">26:54</a> — Emerging attacker behavior and increased use of N-days<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1670s\">27:50</a> — Project Zero’s vulnerability-finding numbers<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1796s\">29:56</a> — How organizations can prioritize vulnerabilities<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1963s\">32:43</a> — AI, vulnerability volume, and prioritization<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=1992s\">33:12</a> — Bug collisions and duplicate reports<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=2058s\">34:18</a> — Why faster patching matters more than ever<a href=\"https://www.youtube.com/watch?v=-Y4uNqCKPV8&t=2106s\">35:06</a> — Closing remarks</p>",
+    "publishedAt": "2026-11-23T19:40:28.000Z",
+    "duration": 2124,
+    "audioUrl": "https://anchor.fm/s/10f4f36c4/podcast/play/129974664/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F437448909-44100-2-8b8aa43c756df.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45418169/ae5daf86dcb3b47b.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/ianastbury-cult/episodes/The-Art-of-Vulnerability-Disclosure-Windows-in-the-Age-of-AI--Natalie-Silvanovich-e3st0u8"
+  },
+  {
     "id": "outages-patches-and-2shell-hell",
     "podcastId": "decipher-security-podcast",
     "title": "Outages, Patches, and 2Shell Hell",
