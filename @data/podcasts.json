@@ -1641,20 +1641,6 @@
     },
     "recentReviews": [
       {
-        "rating": 3,
-        "title": "Great content, way too many ads",
-        "content": "The news summary is the best reason to listen to the show. It’s concise and information dense. Five stars for this section. But the rest of the show is basically just ads.",
-        "author": "__rizzo",
-        "updatedAt": "2026-11-13T03:55:45-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "One of my top favorite daily podcast.",
-        "content": "I always look forward to hearing Dave each morning with his CyberWire podcast.  Very informative.  Highly recommend adding the Cyberwire to you daily listening.",
-        "author": "TonyD999111111",
-        "updatedAt": "2026-11-11T07:26:32-07:00"
-      },
-      {
         "rating": 5,
         "title": "Great help!",
         "content": "Really enjoyed the top ten interviewer and seeing a little more of the personal side of Dave. How about adding quarterly and yearly top tens.\n\n\n4/18/26\nPlease do more of the CyberWire-X episodes. It is good to hear about an exploit, but it is great for us cyber professional to get all the details, so we can understand if we could prevent the exploit. Thanks,\nTom",
@@ -1669,11 +1655,25 @@
         "updatedAt": "2025-10-09T10:20:15-07:00"
       },
       {
-        "rating": 5,
+        "rating": 4,
         "title": "Great Content",
         "content": "I like the content (and the music mixing) but the host has one of the most AI-generated-sounding voices and enunciation that I have ever heard. It’s not unpleasant, though.",
         "author": "JD000000000000000",
         "updatedAt": "2025-09-25T08:13:04-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "Calm & informative",
+        "content": "Somehow soothing. I cannot get any information with my problematic software. They inform.",
+        "author": "Life with Pablo",
+        "updatedAt": "2025-03-10T20:18:20-07:00"
+      },
+      {
+        "rating": 2,
+        "title": "It’s, meh; just feels like 50% leftist propaganda.",
+        "content": "It’s, meh; just feels like 50% leftist propaganda. I wonder how much money N2K networks was getting from USAID.",
+        "author": "Pepe from Kekistan",
+        "updatedAt": "2025-02-09T14:22:55-07:00"
       }
     ]
   },
@@ -3086,9 +3086,9 @@
     "cadence": "weekly",
     "format": "interview",
     "authors": [],
-    "lastEpisodeDate": "2026-11-14T09:00:00.000Z",
+    "lastEpisodeDate": "2026-11-22T16:59:34.000Z",
     "firstEpisodeDate": "2023-11-01T09:48:00.000Z",
-    "episodeCount": 144,
+    "episodeCount": 145,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
@@ -4040,8 +4040,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-11-20T01:21:54.000Z",
-    "firstEpisodeDate": "2026-07-10T02:54:48.000Z",
+    "lastEpisodeDate": "2026-11-22T19:18:18.000Z",
+    "firstEpisodeDate": "2026-07-10T03:23:33.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
