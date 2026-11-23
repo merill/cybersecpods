@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-vulnerability-management-commons-dilemma-top-security-categories-in-q4-and-n",
+    "podcastId": "enterprise-security-weekly",
+    "title": "The vulnerability management commons dilemma, top security categories in Q4, & news - Jeremiah Grossman - ESW #486",
+    "description": "Interview with Jeremiah Grossman <p>Once again, we're discussing the state of vulnerability discovery and vulnerability management with Jeremiah Grossman, the CEO and co-founder of Root Evidence.</p> <p>For this interview, I'm calling our topic the \"commons dilemma\", which is related to the tragedy of the commons. To quote Wikipedia: the commons dilemma is a specific class of social dilemma in which people's short-term selfish interests are at odds with long-term group interests and the common good.</p> <p>We discuss the disconnect between vulnerability discovery, defenders, and attackers. Some find vulns for clout, some do it for marketing, while others are honestly trying to get dangerous bugs fixed to make the Internet more secure.</p> Topic Segment <p>Our topic segment comes from Mike Privette's <a rel=\"noopener\" target=\"_blank\" href= \"https://www.returnonsecurity.com/subscribe\">Security, Funded newsletter</a>.</p> <p>Which security category makes a resurgence in Q4 2026?</p> <ul> <li>AI SOC</li> <li>API security</li> <li>Email security</li> <li>Security awareness training</li> <li>Other (tell me)</li> </ul> <p>Mike's notes:</p> <p>Last week's results were interesting, and they're a bit of a tell of where people believe the focus needs to be in this AI world. While there are undoubtedly more software and vulnerabilities being created than ever before (hence the votes for technical domains), humans are still the main interface to AI and everything it accesses (hence the non-technical domains).</p> Weekly Enterprise News <p>Finally, in the enterprise security news,</p> <ol> <li>Funding, acquisitions, AND layoffs</li> <li>Germany can hack people now</li> <li>your cousin's theories about all the outages are wrong</li> <li>Mandiant's predictions make me nervous</li> <li>infostealers get worse</li> <li>all the vulnerabilities</li> <li>a man and his muse AI agent sue Meta</li> </ol> <p>All that and more, on this episode of Enterprise Security Weekly.</p> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/esw\">https://www.securityweekly.com/esw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/esw-486\">https://securityweekly.com/esw-486</a></p>",
+    "publishedAt": "2026-11-23T10:00:00.000Z",
+    "duration": 5858,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/eswaudio/ESW_486_1--7f213c88-313b-4048-ba9c-5828f6e8a84b--audio-converted--0adbae44-8bed-4ba7-afc8-7c6d3ae96fa6.mp3?dest-id=376653",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/6/8/5/5/6855ec2ed74138695f2e77a3093c12a1/ESW_486_Thumbnail_ESW_1920x1920_1798bc9a-7cfe-4f1e-9cad-c1c14022d0f5.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://eswaudio.libsyn.com/the-vulnerability-management-commons-dilemma-top-security-categories-in-q4-news-jeremiah-grossman-esw-486"
+  },
+  {
     "id": "ai-is-not-killing-bug-bounty-can-an-ai-ever-have-an-identity-and-the-news-michie",
     "podcastId": "enterprise-security-weekly",
     "title": "AI is not killing bug bounty, can an AI ever have an \"Identity\", and the news - Michiel Prins, Douglas Day - ESW #485",

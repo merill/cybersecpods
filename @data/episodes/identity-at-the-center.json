@@ -1,5 +1,22 @@
 [
   {
+    "id": "463-verify-once-with-kyle-kilcoyne-at-authenticate-2026",
+    "podcastId": "identity-at-the-center",
+    "title": "#463 - Verify Once with Kyle Kilcoyne at Authenticate 2026",
+    "description": "<p>Recorded live at Authenticate 2026 in San Diego, Jim McDonald flies solo and sits down with Kyle Kilcoyne of Badge. They talk about why account recovery keeps sending users back through identity verification again and again, and what it would take to verify someone once and keep them on the happy path. Kyle shares what he is hearing about the convergence of physical access and digital identity across healthcare, manufacturing, banking, and retail, and why healthcare has zero room for error. The conversation moves to privacy-preserving biometrics, cryptographically binding AI agents to the humans who delegate to them, and why mid-market organizations may take the brunt of rogue agent risk until standards trickle down. Kyle also explains how the OPM breach shaped Badge's founding and why stolen biometrics, unlike passwords, can't be reset.</p><p><br /></p><p><br /></p><p>Connect with Kyle: https://www.linkedin.com/in/kylekilcoyne/</p><p><br /></p><p><br /></p><p>Connect with us on LinkedIn:</p><p><br /></p><p>Jim McDonald: https://www.linkedin.com/in/jimmcdonaldpmp/</p><p><br /></p><p>Jeff Steadman: https://www.linkedin.com/in/jeffsteadman/</p><p><br /></p><p>Visit the show on the web at http://idacpodcast.com</p><p><br /></p><p><br /></p><p>00:00 Intro</p><p>00:10 Live from Authenticate 2026 with Kyle Kilcoyne</p><p>00:50 What sets Authenticate apart</p><p>02:05 The Ask IDAC bot and AI in podcasting</p><p>03:03 Agentic AI and the liability question</p><p>04:08 Passkeys and the unhappy path of recovery</p><p>05:43 Account recovery as a security incident and repeat IDV</p><p>07:19 Verified, portable identity as the next step</p><p>08:10 Physical and digital access convergence</p><p>09:31 Security, productivity, and existing investments</p><p>10:14 Healthcare and zero room for error</p><p>11:13 Privacy and sharing just the right data</p><p>13:12 Privacy-preserving biometrics and binding agents to humans</p><p>14:58 Agents don't have biometrics</p><p>15:54 Solving the new with the old</p><p>17:45 Where the mid-market should focus</p><p>18:42 Storing biometrics the right way and the OPM breach</p><p>20:48 Explaining the work to your parents</p><p>21:49 Keeping up with the rate of change</p><p>23:08 Wrap up</p><p><br /></p><p><br /></p><p>IDAC, Identity at the Center, Jeff Steadman, Jim McDonald, Kyle Kilcoyne, Badge, Authenticate 2026, FIDO Alliance, passkeys, account recovery, identity verification, IDV, privacy-preserving biometrics, physical and digital identity convergence, AI agents, agentic AI, agent identity, delegation, human in the loop, healthcare identity, EPCS, NIST 800-63, OPM breach, account takeover, deepfakes, mid-market security, identity and access management, IAM</p>",
+    "publishedAt": "2026-11-23T10:00:00.000Z",
+    "duration": 1450,
+    "audioUrl": "https://anchor.fm/s/c5fefcc/podcast/play/128962701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-7%2F7c3ac5d2-df71-5fc3-3203-d6e585b896f4.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/1976139/1976139-1687984222617-91fa1466c536c.jpg",
+    "episodeNumber": 463,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://podcasters.spotify.com/pod/show/identity-at-the-center/episodes/463---Verify-Once-with-Kyle-Kilcoyne-at-Authenticate-2026-e3ru4md"
+  },
+  {
     "id": "462-nist-at-authenticate-2026-with-ryan-galluzzo-and-bill-fisher",
     "podcastId": "identity-at-the-center",
     "title": "#462 - NIST at Authenticate 2026 with Ryan Galluzzo and Bill Fisher",
