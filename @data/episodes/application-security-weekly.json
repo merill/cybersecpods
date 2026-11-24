@@ -1,5 +1,22 @@
 [
   {
+    "id": "memory-safety-is-more-than-a-technical-problem-bob-lord-asw-410",
+    "podcastId": "application-security-weekly",
+    "title": "Memory Safety Is More Than a Technical Problem - Bob Lord - ASW #410",
+    "description": "<p>We return to \"Smashing the Stack for Fun and Profit\" to discuss ways to finally eradicate this pernicious flaw. Bob Lord shares his experience influencing engineering teams, searching for incentives, and talking with Aleph One himself about this problem. The conversation also talks about how cybersecurity can do better than just raise awareness of an issue like this and make a meaningful impact on software quality.</p> <p>Resources</p> <ul> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://hacklore.org\">https://hacklore.org</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://softwaresafety.org/\">https://softwaresafety.org/</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://podcast.softwaresafety.org\">https://podcast.softwaresafety.org</a></li> <li><a rel=\"noopener\" target=\"_blank\" href= \"https://www.darpa.mil/research/programs/translating-all-c-to-rust\"> https://www.darpa.mil/research/programs/translating-all-c-to-rust</a></li> </ul> <p>Visit <a rel=\"noopener\" target=\"_blank\" href= \"https://www.securityweekly.com/asw\">https://www.securityweekly.com/asw</a> for all the latest episodes!</p> <p>Show Notes: <a rel=\"noopener\" target=\"_blank\" href= \"https://securityweekly.com/asw-410\">https://securityweekly.com/asw-410</a></p>",
+    "publishedAt": "2026-11-24T10:00:00.000Z",
+    "duration": 3802,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/aswaudio/ASW_410_1--b1d456eb-db3b-4a7b-9df7-5073fb6d054f--audio-converted--4554b335-a996-4d18-95ef-4fc8f8a6b83d.mp3?dest-id=626765",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/9/1/d/9/91d9cff321c1e04ca04421dee9605cbd/ASW_410_Thumbnail_ASW_1920x1920_05b1342a-137b-4c4d-89e2-17b8b954cf01.jpg",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://aswaudio.libsyn.com/memory-safety-is-more-than-a-technical-problem-bob-lord-asw-410"
+  },
+  {
     "id": "zero-trust-basics-for-complex-modern-systems-rob-allen-asw-409",
     "podcastId": "application-security-weekly",
     "title": "Zero Trust Basics for Complex Modern Systems - Rob Allen - ASW #409",

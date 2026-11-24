@@ -1,5 +1,22 @@
 [
   {
+    "id": "quantum-breaks-more-than-encryption-with-eddy-zervigon",
+    "podcastId": "to-the-point-cybersecurity",
+    "title": "Quantum Breaks More Than Encryption with Eddy Zervigon",
+    "description": "<p>For decades the quantum conversation has centered on one fear, that a powerful enough computer will break encryption and expose the world's secrets. Eddy Zervigon, CEO of Quantum XChange, argues that framing misses half the threat. Encryption keeps secrets hidden, but signatures prove authenticity, confirming that a certificate, a software update, or the party on the other end of a connection is genuine. A cryptographically relevant quantum computer threatens both, and the collapse of trust may prove more dangerous than the loss of secrecy.</p> <p>Zervigon makes the case that post-quantum security is an architecture problem, not simply a matter of swapping one encryption algorithm for another. Because cryptography is embedded into nearly every device with no way to manage or change it at scale, migration is far harder than it looks, a reality the accelerating federal deadlines under Executive Order 14412 and OMB M-26-15 are now forcing into view. He explains why AI and quantum compound each other, each making the other more dangerous, and why the most honest question is not when Q-Day arrives but how long your data needs to stay secret. For security leaders, the message is clear: the next fifty years of cryptography will not resemble the last.</p> <p>For the episode transcript and details, please visit <a href= \"https://www.forcepoint.com/resources/podcast/quantum-breaks-more-than-encryption\"> https://www.forcepoint.com/resources/podcast/quantum-breaks-more-than-encryption</a></p>",
+    "publishedAt": "2026-11-24T13:30:00.000Z",
+    "duration": 2282,
+    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E391_-_Eddy_Zervigon_mixdown.mp3?dest-id=770037",
+    "videoUrl": null,
+    "imageUrl": "https://static.libsyn.com/p/assets/6/b/7/9/6b7906eb7b93ded0a04421dee9605cbd/E391_-_Eddy_Zervigon_mixdown.jpg",
+    "episodeNumber": 391,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": "https://www.forcepoint.com/resources/podcast/quantum-breaks-more-than-encryption"
+  },
+  {
     "id": "governance-isnt-security-when-ai-agents-cant-use-judgment-with-jake-williams",
     "podcastId": "to-the-point-cybersecurity",
     "title": "Governance Isn't Security When AI Agents Can't Use Judgment with Jake Williams",
@@ -5081,22 +5098,5 @@
     "episodeType": "full",
     "appleEpisodeId": null,
     "link": "https://www.forcepoint.com/govpodcast/e71"
-  },
-  {
-    "id": "congressman-jim-langevin-what-congress-is-doing-to-ensure-cybersecurity",
-    "podcastId": "to-the-point-cybersecurity",
-    "title": "Congressman Jim Langevin: What Congress Is Doing To Ensure Cybersecurity",
-    "description": "<p>Congressman Jim Langevin, a recognized party leader on cybersecurity discusses what Congress is doing to ensure cybersecurity starting with, the soon to be released, Cyber Security Solarium Commission report. For links and resources discussed in this episode, please visit our show notes at <a href= \"https://www.forcepoint.com/govpodcast/e70\">https://www.forcepoint.com/govpodcast/e70</a></p>",
-    "publishedAt": "2020-03-17T12:00:00.000Z",
-    "duration": 1574,
-    "audioUrl": "https://traffic.libsyn.com/secure/cybersecuritytothepointpodcast/E070_Lim_Langevin_mixdown.mp3?dest-id=770037",
-    "videoUrl": null,
-    "imageUrl": "https://static.libsyn.com/p/assets/e/7/c/7/e7c785aca99ef47a/E070_Lim_Langevin_mixdown.jpg",
-    "episodeNumber": 70,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://www.forcepoint.com/govpodcast/e70"
   }
 ]
