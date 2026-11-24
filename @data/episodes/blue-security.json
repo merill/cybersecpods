@@ -1,22 +1,5 @@
 [
   {
-    "id": "ep-323-seven-outages-100000-cves-which-risk-do-you-accept",
-    "podcastId": "blue-security",
-    "title": "Ep 323 - Seven Outages, 100,000 CVEs: Which Risk Do You Accept?",
-    "description": "<p><strong>Summary</strong></p><p>In this episode of the Blue Security Podcast, hosts Andy Jaw and Adam Brewer discuss a series of significant outages affecting major companies and the implications for cybersecurity. They explore the causes behind these outages, the increasing number of CVEs, and the challenges organizations face in patching vulnerabilities. The conversation highlights the importance of having robust security measures in place, especially in light of the rapid pace of cyber threats and the need for effective incident response strategies. In this conversation, Andy Jaw and the Blue Security Podcast team discuss the exponential rise in Common Vulnerabilities and Exposures (CVEs) and the challenges it presents for cybersecurity teams. They emphasize the importance of risk-based vulnerability management, effective patching strategies, and the need for robust change management processes. The discussion also touches on the role of AI in enhancing vulnerability management and the necessity of having tested rollback plans. The conversation concludes with reflections on the evolving landscape of cybersecurity operations and the importance of maintaining system availability while managing vulnerabilities.----------------------------------------------------</p><p>YouTube Video Link: <a href=\"https://youtu.be/M_5pnEqUC14\">⁠https://youtu.be/oQEO_muNsLc</a></p><p>----------------------------------------------------</p><p>Documentation: </p><p>https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882</p><p>https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/amp/</p><p>https://www.ajc.com/news/2026/11/customers-at-major-us-banks-report-difficulty-with-some-online-services/</p><p>----------------------------------------------------</p><p>Contact Us:</p><p>Website: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bluesecuritypod.com</p><p>Bluesky: https://bsky.app/profile/bluesecuritypod.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/company/bluesecpod</p><p>YouTube: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.youtube.com/c/BlueSecurityPodcast</p><p>-----------------------------------------------------------</p><p>Andy Jaw</p><p>Bluesky: https://bsky.app/profile/ajawzero.com</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/andyjaw/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠andy@bluesecuritypod.com⁠</p><p>----------------------------------------------------</p><p>Adam Brewer</p><p>Twitter: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://twitter.com/ajbrewer</p><p>LinkedIn: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://www.linkedin.com/in/adamjbrewer/</p><p>Email: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠adam@bluesecuritypod.com</p>",
-    "publishedAt": "2026-11-24T13:00:00.000Z",
-    "duration": 2716,
-    "audioUrl": "https://anchor.fm/s/37babf1c/podcast/play/130005014/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-24%2F5ba3a580-2672-241e-463d-224fe68371f7.mp3",
-    "videoUrl": null,
-    "imageUrl": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/9249855/9249855-1600984785589-140b457fbd8fe.jpg",
-    "episodeNumber": 10,
-    "seasonNumber": 7,
-    "explicit": false,
-    "episodeType": "full",
-    "appleEpisodeId": null,
-    "link": "https://podcasters.spotify.com/pod/show/blue-security-podcast/episodes/Ep-323---Seven-Outages--100-000-CVEs-Which-Risk-Do-You-Accept-e3stuim"
-  },
-  {
     "id": "two-outages-zero-attackers",
     "podcastId": "blue-security",
     "title": "Two Outages, Zero Attackers",
