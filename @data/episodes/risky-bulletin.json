@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-hackers-breach-cia-osint-system",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Hackers breach CIA OSINT system",
+    "description": "<p>Hackers breach the CIA’s OSINT platform, cybersecurity firm Radware gets hacked, the US investigates Iran over 50 ship hacks and threat actors exploit an Azure API bug to access cloud environments.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-card-stealer-found-on-80-major-us-news-sites/\">Risky Bulletin: Card stealer found on 80 major US news sites</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-25T01:31:07.000Z",
+    "duration": 603,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS638.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS638/"
+  },
+  {
     "id": "between-two-nerds-time-for-five-eyes-yolo-hacking",
     "podcastId": "risky-bulletin",
     "title": "Between Two Nerds: Time for Five Eyes YOLO hacking",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/RBNEWSSI136/"
-  },
-  {
-    "id": "srsly-risky-biz-ransomware-uses-ai-to-amp-up-negotiations",
-    "podcastId": "risky-bulletin",
-    "title": "Srsly Risky Biz: Ransomware uses AI to amp up negotiations",
-    "description": "<p>Tom Uren and James Wilson talk about different ways ransomware groups are taking advantage of AI. The relatively new FulcrumSec group uses simple techniques to breach companies and then uses AI to get more leverage over victims in its extortion negotiations.</p>\n\n<p>They also discuss the ever so many bugs being patched. This is good for organisations that patch, but it will leave a very long tail of unpatched vulnerabilities.</p>\n\n<p>This episode is also available on <a href=\"https://youtu.be/xyC8ttcsKBI\">YouTube</a></p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                 \t</ul>",
-    "publishedAt": "2026-07-16T07:26:17.000Z",
-    "duration": 1223,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/SRB175.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/SRB175/"
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "java4shell-with-thai-duong-and-bruce-dang",
+    "podcastId": "security-cryptography-whatever",
+    "title": "Java4Shell With Thai Duong And Bruce Dang",
+    "description": "<p>We finally finally finally were able to get Thai Duong and Bruce Dang from Calif on, this time to discuss Java4Shell, reverse engineering, vulnerability research, and pouring one out for the dying art of lovingly handcrafting bespoke decoders for undocumented components 🫗.</p><p><b>Transcript</b>: https://securitycryptographywhatever.com/2026/11/24/java4shell-with-thai-duong-and-bruce-dang/</p><p><b>Links:</b></p><p>- <a href='https://calif.io/java4shell#technical-writeup'>https://calif.io/java4shell#technical-writeup</a></p><p>- <a href='https://www.aikido.dev/blog/ruby2shell'>https://www.aikido.dev/blog/ruby2shell</a></p><p>- <a href='https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html'>https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html</a></p><p>-<a href='https://calif.io/php2shell/'>https://calif.io/php2shell/</a></p><p>-<a href='https://www.crowdstrike.com/en-us/cybersecurity-101/exposure-management/log4j-vulnerability/'>https://www.crowdstrike.com/en-us/cybersecurity-101/exposure-management/log4j-vulnerability/</a></p><p>-<a href='https://www.keycloak.org/2026/11/java4shell-vulnerability-cve-2026-114938'>https://www.keycloak.org/2026/11/java4shell-vulnerability-cve-2026-114938</a></p><p>-<a href='https://phrack.org/issues/73/painting-out-of-the-box-escaping-the-chromium-renderer-sandbox-via-skia_md#article'>https://phrack.org/issues/73/painting-out-of-the-box-escaping-the-chromium-renderer-sandbox-via-skia_md#article</a></p><p>-<a href='https://securitycryptographywhatever.com/2026/06/14/facing-the-vulnpocalypse-with-lcamtuf/'>https://securitycryptographywhatever.com/2026/06/14/facing-the-vulnpocalypse-with-lcamtuf/</a></p><p>-<a href='https://calif.io/research/rust-in-peace'>https://calif.io/research/rust-in-peace</a></p><p>-<a href='https://en.wikipedia.org/wiki/Dave_Aitel'>https://en.wikipedia.org/wiki/Dave_Aitel</a></p><p>-<a href='https://x.com/i0n1c'>https://x.com/i0n1c</a></p><p><b>Chapters:</b></p><p>00:00 intro<br/>00:43 calif<br/>05:34 thai's path into cryptography<br/>08:10 java4shell in the new york times<br/>09:47 fermat and the number 26<br/>14:46 base64 padding and avx-512 bug<br/>21:25 base64 asm in java<br/>23:35 ruby2shell german sharp s overflow<br/>25:07 exploiting java4shell<br/>27:18 keycloak rce chain<br/>29:59 remote heap grooming with codex<br/>35:59 tavis ormandy is chief ethics officer<br/>40:13 no masters, publish everything<br/>42:51 clients and pen testing<br/>44:55 ai-driven reverse engineering<br/>49:19 is reversing dead<br/>57:13 ai building vr labs and harnesses<br/>58:47 ranking runtimes and crubit bugs<br/>1:02:25 a bug class for go?<br/>1:03:58 patch diffing to iphone chains<br/>1:06:04 human times ai beats tokens alone<br/>1:13:01 future of vr and rewriting everything<br/>1:19:20 wrap-up</p><p><br/>\"Security Cryptography Whatever\" is hosted by <a href='https://twitter.com/durumcrustulum'>Deirdre Connolly</a> (@durumcrustulum), <a href='https://twitter.com/tqbf'>Thomas Ptacek</a> (@tqbf), and <a href='https://twitter.com/dadrian'>David Adrian</a> (@dadrian)</p>",
+    "publishedAt": "2026-11-24T19:00:00.000Z",
+    "duration": 4955,
+    "audioUrl": "https://www.buzzsprout.com/1822302/episodes/20174038-java4shell-with-thai-duong-and-bruce-dang.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": 3,
+    "seasonNumber": 6,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "everybody-is-losing-their-minds-about-ai-math-and-crypto",
     "podcastId": "security-cryptography-whatever",
     "title": "Everybody Is Losing Their Minds About AI Math And Crypto",

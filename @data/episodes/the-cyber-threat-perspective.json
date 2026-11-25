@@ -1,5 +1,22 @@
 [
   {
+    "id": "replay-every-it-team-has-a-joe-or-ep-195",
+    "podcastId": "the-cyber-threat-perspective",
+    "title": "[Replay] Every IT Team Has a Joe | Ep 195",
+    "description": "<p>What happens when the one person who knows your whole environment is out of office? In this replay, Spencer and Tyler break down key person risk in IT and why it's a security problem, not just an ops headache.<br /><br />Interested in a pen test? Visit <a href=\"https://securit360.com\" rel=\"noopener noreferrer nofollow\">https://securit360.com</a><br /><br />Originally released September 4, 2026. We're bringing it back for the holidays, when teams run lean and \"ask Joe\" isn't an option.<br /><br />Every organization has a Joe: the long-tenured admin who built half the environment, holds the keys to most of it, and keeps the rest in his head. Drawing on internal penetration tests across many industries, Spencer and Tyler explain how a single point of failure in IT turns into real security risk, and how to fix it without burning Joe out.<br /><br />In this episode:<br />- Why tribal knowledge and missing IT documentation are security risks<br />- How undocumented dependencies can add 30 days to remediation<br />- Shadow IT, misconfigured servers, and unreviewed Entra changes from inside the IT team<br />- Privilege creep and single accounts that control the environment<br />- When a senior admin's pushback on change is right<br />- Cross-training and clear ownership without adding to Joe's workload<br />- Using the five whys to make decisions on facts, not seniority<br /><br />Chapters:<br />0:00 - Meet Joe<br />2:24 - What pen testers see<br />3:39 - Knowledge in one person's head<br />5:30 - Why word-of-mouth documentation fails<br />7:37 - Remediations running 30 days long<br />8:18 - Shadow IT from inside IT<br />9:58 - Why Joe resists change<br />11:12 - When Joe's pushback is right<br />13:31 - Documentation as a decision tool<br />15:18 - Privilege creep<br />15:41 - Cross-training without burdening Joe<br />17:09 - Resentment and burnout<br />17:41 - Incentivizing collaboration<br />21:23 - Seniority shouldn't outrank facts<br />23:18 - Five whys<br />25:06 - Final thoughts<br /><br />Subscribe to The Cyber Threat Perspective for weekly offensive security insights from the SecurIT360 team.<br /><br />Resources:<br />- Work with us: <a href=\"https://securit360.com\" rel=\"noopener noreferrer nofollow\">https://securit360.com</a><br />- Blog: <a href=\"https://offsec.blog/\" rel=\"noopener noreferrer nofollow\">https://offsec.blog/</a><br />- YouTube: <a href=\"https://www.youtube.com/@cyberthreatpov\" rel=\"noopener noreferrer nofollow\">https://www.youtube.com/@cyberthreatpov</a><br />- X: <a href=\"https://x.com/cyberthreatpov\" rel=\"noopener noreferrer nofollow\">https://x.com/cyberthreatpov</a><br />- Spencer's site: <a href=\"https://spenceralessi.com\" rel=\"noopener noreferrer nofollow\">https://spenceralessi.com</a></p>",
+    "publishedAt": "2026-11-24T18:13:45.000Z",
+    "duration": 1651,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/09b916bca96099afbe11a009f6ea5746377a44547920ea4c22b1221078b58852/eyJlcGlzb2RlSWQiOiI5NmZkN2JiOS1hNjk2LTRmMDEtYTE0ZC02YTU1Njg3OGQyMWEiLCJwb2RjYXN0SWQiOiIwMGJkN2RjZS02NWI0LTQ1MWYtYjkxNC01MzY2MmY3MWZiNmUiLCJhY2NvdW50SWQiOiI2YWVhMzg2MzQwYmFhOTNlOTZjZTNjY2EiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmIwNWQzZGE4ZWEyMmE4NmMxYmMzNzU1L2N5YmVyLXRocmVhdC1wZXJzcGVjdGl2ZS0wZzYxNS0yMDI2LTExLTI0X18xOC0xMy00Ny5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/00bd7dce-65b4-451f-b914-53662f71fb6e/logos/67ec1de1-da98-4be9-8f18-98501539796e.jpeg",
+    "episodeNumber": null,
+    "seasonNumber": 1,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "owasp-top-10-part-8-software-or-data-integrity-failures-or-ep-204",
     "podcastId": "the-cyber-threat-perspective",
     "title": "OWASP Top 10 Part 8: Software or Data Integrity Failures | Ep 204",
