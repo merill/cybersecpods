@@ -1,5 +1,22 @@
 [
   {
+    "id": "risky-bulletin-hackers-breach-erlang-and-elixir-package-manager",
+    "podcastId": "risky-bulletin",
+    "title": "Risky Bulletin: Hackers breach Erlang and Elixir package manager",
+    "description": "<p>Erlang and Elixir’s package manager gets hacked, FinCEN investigates a security breach, 1Password got owned through an employee’s GitHub account, and Russia will try to build a GitHub clone. Again.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-hackers-breach-erlang-and-elixir-package-manager/\">Risky Bulletin: Hackers breach Erlang and Elixir package manager</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
+    "publishedAt": "2026-11-26T23:45:35.000Z",
+    "duration": 355,
+    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS639.mp3",
+    "videoUrl": null,
+    "imageUrl": null,
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": null,
+    "appleEpisodeId": null,
+    "link": "https://risky.biz/RBNEWS639/"
+  },
+  {
     "id": "srsly-risky-biz-america-needs-homegrown-open-weight-models",
     "podcastId": "risky-bulletin",
     "title": "Srsly Risky Biz: America needs homegrown open-weight models",
@@ -1681,22 +1698,5 @@
     "episodeType": null,
     "appleEpisodeId": null,
     "link": "https://risky.biz/BTN175/"
-  },
-  {
-    "id": "risky-bulletin-hacker-wipes-romanias-entire-land-registry-database",
-    "podcastId": "risky-bulletin",
-    "title": "Risky Bulletin: Hacker wipes Romania's entire land registry database",
-    "description": "<p>A hacker wipes Romania’s entire land registry database, Magnet Forensics sues a former employee for leaking an iPhone exploit, an autonomous AI agent hacked Hugging Face, and an unauthenticated remote code execution bug was finally found in WordPress.</p>\n\n                \n                \n                <h3 class=\"panel-title\">Show notes</h3>\n                \t<ul>\n                  \t\n                    \t<li><a href=\"https://risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/\">Risky Bulletin: Hacker wipes Romania's entire land registry database</a></li>\n\t\t\t\t\t\t\t\t\t\t\n                 \t</ul>",
-    "publishedAt": "2026-07-20T05:22:45.000Z",
-    "duration": 543,
-    "audioUrl": "https://dts.podtrac.com/redirect.mp3/media3.risky.biz/RBNEWS589.mp3",
-    "videoUrl": null,
-    "imageUrl": null,
-    "episodeNumber": null,
-    "seasonNumber": null,
-    "explicit": false,
-    "episodeType": null,
-    "appleEpisodeId": null,
-    "link": "https://risky.biz/RBNEWS589/"
   }
 ]
