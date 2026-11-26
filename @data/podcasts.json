@@ -2894,16 +2894,7 @@
         "ratingCount": 4,
         "fetchedAt": "2026-11-25T17:03:52.860Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Must-Listen for Identity Pros",
-        "content": "For anyone working in identity security, IAM, or cybersecurity leadership, this podcast offers valuable insights into modern threats, resilience strategies, and the importance of protecting hybrid environments.",
-        "author": "Ilse ☺️",
-        "updatedAt": "2026-02-27T06:06:05-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "identity-at-the-center",
@@ -4040,8 +4031,8 @@
         "name": "Claire Aird"
       }
     ],
-    "lastEpisodeDate": "2026-11-25T01:31:07.000Z",
-    "firstEpisodeDate": "2026-07-20T00:35:14.000Z",
+    "lastEpisodeDate": "2026-11-26T01:56:51.000Z",
+    "firstEpisodeDate": "2026-07-20T05:22:45.000Z",
     "episodeCount": 100,
     "hasVideo": false,
     "isActive": true,
@@ -4215,23 +4206,7 @@
         "ratingCount": 17,
         "fetchedAt": "2026-11-25T17:04:26.368Z"
       }
-    },
-    "recentReviews": [
-      {
-        "rating": 5,
-        "title": "Excellent",
-        "content": "Great analysis really, very thoughtful",
-        "author": "SecEnthused",
-        "updatedAt": "2026-08-04T16:30:30-07:00"
-      },
-      {
-        "rating": 5,
-        "title": "Top notch work",
-        "content": "Excellent addition to the Risky podcasts",
-        "author": "Laughedoutloud",
-        "updatedAt": "2026-03-25T03:38:15-07:00"
-      }
-    ]
+    }
   },
   {
     "id": "sans-internet-stormcenter-daily-cyber-security-podcast-stormcast",
@@ -5119,9 +5094,9 @@
     "cadence": "weekly",
     "format": "panel",
     "authors": [],
-    "lastEpisodeDate": "2026-11-19T00:00:29.000Z",
+    "lastEpisodeDate": "2026-11-26T00:00:33.000Z",
     "firstEpisodeDate": "2016-12-20T06:00:00.000Z",
-    "episodeCount": 495,
+    "episodeCount": 496,
     "hasVideo": false,
     "isActive": true,
     "featured": false,
