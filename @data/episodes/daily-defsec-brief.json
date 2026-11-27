@@ -1,5 +1,22 @@
 [
   {
+    "id": "the-1password-breach-the-questions-their-announcement-doesnt-answer",
+    "podcastId": "daily-defsec-brief",
+    "title": "The 1Password breach: the questions their announcement doesn't answer",
+    "description": "<p>1Password says an attacker used one employee's GitHub account to copy private source code and push malicious code to its backend, which copied account records for some of its users. Its announcement says vaults weren't touched. This video is about the rest: what that reassurance depends on, the difference between \"never accessed\" and \"no evidence\", seven questions 1Password hasn't answered (how the account was taken, how it reached production, how the builds were verified, and more), five things I'd do this week if I used it, and what to ask about your own build pipeline. As of November 27, 2026. Sources below. I cover stories like this every weekday in about four minutes on the Daily DefSec Brief.</p>",
+    "publishedAt": "2026-11-27T17:48:02.000Z",
+    "duration": 456,
+    "audioUrl": "https://api.riverside.com/hosting-analytics/media/c5a9e7ef421cdda0bac86ac1c945aa1bbb28c172444022b60e5baf87fa632c94/eyJlcGlzb2RlSWQiOiJlNzM3NDZkZC03YTQ4LTQ2MWEtYTY4OS1kNmY5MDQxOGE0YTciLCJwb2RjYXN0SWQiOiJkMjFhMzBkMS1iNTAyLTQ3MGUtYjM0YS02MzgxNDU1NzVjNzIiLCJhY2NvdW50SWQiOiI2NzMwZWE2ODJhNzMyZWRiZWNmMWVlMzMiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmIwOWMxNWExMjc4NDRiNjM1M2RlNWJkL2RhaWx5LWRlZnNlYy0yMDI2LTExLTI3X18xNy00My01NC5tcDMifQ==.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://hosting-media.riverside.com/media/podcasts/d21a30d1-b502-470e-b34a-638145575c72/logos/d8a2469c-4d27-4790-ac31-ecd6b8f6f449.png",
+    "episodeNumber": null,
+    "seasonNumber": null,
+    "explicit": false,
+    "episodeType": "full",
+    "appleEpisodeId": null,
+    "link": null
+  },
+  {
     "id": "mitel-micollab-zero-days-1password-breach-juniper-root-flaw-exploited-or-cyber-s",
     "podcastId": "daily-defsec-brief",
     "title": "Mitel MiCollab zero-days, 1Password breach, Juniper root flaw exploited | Cyber Security News Nov 27",
