@@ -1,5 +1,22 @@
 [
   {
+    "id": "rmm-ber-this-ransomware-research-saturday",
+    "podcastId": "cyberwire-daily",
+    "title": "RMM-ber this ransomware. [Research Saturday]",
+    "description": "<p>While we are away for the holiday, please enjoy this encore of Research Saturday. </p>\n<p><a href=\"https://www.linkedin.com/in/ivalenzuela/\">Ismael Valenzuela⁠</a>, Vice President of Labs, Threat Research and Intelligence at <a href=\"https://arcticwolf.com/\">⁠Arctic Wolf⁠</a>, sits down with Dave to discuss their work tracking Anubis. Arctic Wolf Labs details a series of 2026 Anubis ransomware intrusions, revealing affiliates using stolen VPN credentials and exploiting CitrixBleed 2 to gain initial access. </p>\n<p>Attackers then blended into legitimate IT activity by deploying RMM tools, using RDP and PsExec for lateral movement, stealing credentials, and establishing tunnels and proxies for persistence and exfiltration. The research highlights a repeatable attack chain defenders can disrupt before encryption, from suspicious remote access and unauthorized RMM deployment to credential theft, security-tool tampering, and ransomware execution.</p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.sysdig.com/blog/llmjacking-evolved-attackers-are-using-stolen-ai-compute-to-build-offensive-agentic-tools\">⁠⁠⁠</a><a href=\"https://arcticwolf.com/resources/blog/citrixbleed-2-to-cloudflared-the-tools-and-techniques-behind-anubis-ransomware-attacks/\">⁠From CitrixBleed 2 to Cloudflared: The Tools and Techniques Behind Anubis Ransomware Attacks</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
+    "publishedAt": "2026-11-28T08:00:00.000Z",
+    "duration": 1131,
+    "audioUrl": "https://pdst.fm/e/pdrl.fm/85df76/traffic.megaphone.fm/CYBW4383611556.mp3",
+    "videoUrl": null,
+    "imageUrl": "https://megaphone-images.spotifycdn.com/podcasts/4d7ccae8-e847-11f1-aa8a-13b7f0ded3e2/image/95b72a93c2ffaf8ff900d662a9bd3735.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+    "episodeNumber": 440,
+    "seasonNumber": 10,
+    "explicit": false,
+    "episodeType": "bonus",
+    "appleEpisodeId": null,
+    "link": "https://thecyberwire.com/podcasts/research-saturday/440/notes"
+  },
+  {
     "id": "taking-the-bait-out-of-phishing",
     "podcastId": "cyberwire-daily",
     "title": "Taking the bait out of phishing.",
@@ -1479,7 +1496,7 @@
     "link": "https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/723/notes"
   },
   {
-    "id": "rmm-ber-this-ransomware-research-saturday",
+    "id": "rmm-ber-this-ransomware-research-saturday-2",
     "podcastId": "cyberwire-daily",
     "title": "RMM-ber this ransomware. [Research Saturday]",
     "description": "<p><a href=\"https://www.linkedin.com/in/ivalenzuela/\">Ismael Valenzuela</a>, Vice President of Labs, Threat Research and Intelligence at <a href=\"https://arcticwolf.com/\">Arctic Wolf</a>, sits down with Dave to discuss their work tracking Anubis. Arctic Wolf Labs details a series of 2026 Anubis ransomware intrusions, revealing affiliates using stolen VPN credentials and exploiting CitrixBleed 2 to gain initial access. </p>\n<p>Attackers then blended into legitimate IT activity by deploying RMM tools, using RDP and PsExec for lateral movement, stealing credentials, and establishing tunnels and proxies for persistence and exfiltration. The research highlights a repeatable attack chain defenders can disrupt before encryption, from suspicious remote access and unauthorized RMM deployment to credential theft, security-tool tampering, and ransomware execution.</p>\n<p><br></p>\n<p><strong>The research and executive brief can be found here:</strong></p>\n<ul>\n  <li><a href=\"https://www.sysdig.com/blog/llmjacking-evolved-attackers-are-using-stolen-ai-compute-to-build-offensive-agentic-tools\">⁠</a><a href=\"https://arcticwolf.com/resources/blog/citrixbleed-2-to-cloudflared-the-tools-and-techniques-behind-anubis-ransomware-attacks/\">From CitrixBleed 2 to Cloudflared: The Tools and Techniques Behind Anubis Ransomware Attacks</a></li>\n</ul><p> </p><p>Learn more about your ad choices. Visit <a href=\"https://megaphone.fm/adchoices\">megaphone.fm/adchoices</a></p>",
